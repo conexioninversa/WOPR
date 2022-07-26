@@ -18,7 +18,7 @@ Files:
   * attackersmap.png - Graph that obtains the origin of the attacks (coming soon)
   
 Notes:
- * All files are updated every hour except Brute rate, Covenant, Mythic, CobaltStrike and Metasploit files that are updated daily at 7:25 a.m.
+ * All files are updated every hour except Brute rate, Covenant, Mythic, CobaltStrike and Metasploit files that are updated daily at 7:25 a.m.(CET)
  * The honeypot network is distributed in most countries of the world. Especially in those countries at war or with a situation of diplomatic crisis between power zones.
  * Most of the honeypots are highly interactive and many of them pretend to be from departmental governments, technology industry, aerospace and military.
 
