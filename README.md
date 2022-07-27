@@ -26,3 +26,6 @@ Notes:
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/attackersmap.png"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/attackerconnection.png"/>
+</p>
