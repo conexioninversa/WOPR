@@ -7,7 +7,7 @@
 List of aggregated and summarized files from a network of global honeypots that belong to a personal investigation.
 
 Files:
-  * date_MalwareHashes.txt - List of hashes belonging to malware executed on the system
+  * `&#8212;` date_MalwareHashes.txt - List of hashes belonging to malware executed on the system
   * MaliciousIP.txt - List of malicious IPs that have been successful in a honeypot attack
   * C2_BruteRatel.csv - List of malicious Command & Control from Brute Ratel framework
   * C2_CobaltStrikeBeacon.csv - List of malicious Command & Control from Cobalt Strike Beacons
