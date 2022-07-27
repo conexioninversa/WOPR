@@ -24,8 +24,10 @@ Notes:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/attackersmap.png"/>
+Map of the origins of the attacks since January 2022
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/attackerconnection.png"/>
+Representative map of attacks received on Ukraine since January 2022
 </p>
