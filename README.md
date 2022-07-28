@@ -16,7 +16,8 @@ Files:
   * `C2_Mythic.csv` - List of adversary Command & Control from Mythic Framework  
   * `attackerconnection.png` - Graph of interest of the attacks received towards the honey located in Ukraine (coming soon)
   * `attackersmap.png` - Graph that obtains the origin of the attacks (coming soon)
-
+---
+Files raw:
   * `C2_BruteRatel.json` - List of raw format
   * `C2_CobaltStrikeBeacon.json` - List of raw format 
   * `C2_Metasploit.json` - List of raw format
