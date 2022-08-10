@@ -1,6 +1,6 @@
+178.33.38.76,8443,localhost,,OVH GmbH
 44.204.63.95,443,localhost,,Amazon Data Services NoVa
 35.74.220.117,80,,AWS ELB,Amazon Data Services Japan
-178.33.38.76,8443,localhost,,OVH GmbH
 164.90.181.205,443,R3,,DigitalOcean, LLC
 152.67.78.82,443,TrustAsia RSA DV TLS CA G2,,Oracle Public Cloud
 3.25.139.251,443,R3,,Amazon Corporate Services Pty Ltd
@@ -32,7 +32,6 @@
 146.190.225.79,443,,,DigitalOcean, LLC
 34.250.32.179,443,sec-consult.com,,Amazon Data Services Ireland Limited
 13.79.28.122,443,localhost,,Microsoft Corporation
-46.51.230.187,80,,AWS ELB,Amazon Web Services, Elastic Compute Cloud, EC2
 54.194.184.233,443,R3,,Amazon.com, Inc.
 54.229.102.30,443,R3,,Amazon.com, Inc.
 162.216.240.61,8443,localhost,,Dynu Systems Incorporated
