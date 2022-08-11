@@ -16,6 +16,7 @@ Files:
   * `C2_Mythic.csv` - List of adversary Command & Control from Mythic Framework  
   * `attackerconnection.png` - Graph of interest of the attacks received towards the honey located in Ukraine (coming soon)
   * `attackersmap.png` - Graph that obtains the origin of the attacks (coming soon)
+  * `C2_All.csv` - Contains all the CSV files grouped in a single file
 ---
 Files raw:
   * `C2_BruteRatel.json` - List of raw format
@@ -26,7 +27,7 @@ Files raw:
 
   
 Notes:
- * All files are updated every hour except Brute rate, Covenant, Mythic, CobaltStrike and Metasploit files that are updated daily at 7:25 a.m.(CET)
+ * All files are updated every hour except Brute rate, Covenant, Mythic, CobaltStrike, Metasploit and C2_All.csv files that are updated daily at 7:25 a.m.(CET)
  * The honeypot network is distributed in most countries of the world. Especially in those countries at war or with a situation of diplomatic crisis between power zones.
  * Most of the honeypots are highly interactive and many of them pretend to be from departmental governments, technology industry, aerospace and military.
 
