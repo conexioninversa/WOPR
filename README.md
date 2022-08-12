@@ -42,7 +42,7 @@ Representative map of attacks received on Ukraine since January 2022
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/BrutelRatelsource.png"/>
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/BruteRatelsource.png"/>
 Representative map of BrutelRatel attack origins
 </p>
 
