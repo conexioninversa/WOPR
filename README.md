@@ -40,3 +40,28 @@ Map of the origins of the attacks since January 2022
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/attackerconnection.png"/>
 Representative map of attacks received on Ukraine since January 2022
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/BrutelRatelsource.png"/>
+Representative map of BrutelRatel attack origins
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/Cobaltsource.png"/>
+Representative map of CobaltStrike attack origins
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/Covenantsource.png"/>
+Representative map of Covenant attack origins
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/Mythicsource.png"/>
+Representative map of Mythic attack origins
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/Metasploitsource.png"/>
+Representative map of Metasploit attack origins
+</p>
