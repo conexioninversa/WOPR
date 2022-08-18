@@ -7,18 +7,23 @@
 List of aggregated and summarized files from a network of global honeypots that belong to a personal investigation.
 
 Files:
-  * `date_MalwareHashes.txt` - List of hashes belonging to malware executed on the system
   * `MaliciousIP.txt` - List of malicious IPs that have been successful in a honeypot attack
   * `C2_BruteRatel.csv` - List of adversary Command & Control from Brute Ratel framework
   * `C2_CobaltStrikeBeacon.csv` - List of adversary Command & Control from Cobalt Strike Beacons
   * `C2_Metasploit.csv` - List of adversary Command & Control from Metasploit Framework
   * `C2_Covenant.csv` - List of adversary Command & Control from Covenant
   * `C2_Mythic.csv` - List of adversary Command & Control from Mythic Framework  
+  * `C2_All.csv` - Contains all the CSV files grouped in a single file
+  * `last24hours_Malwarehashes.csv` - Malicious hashes obtained in the last 24 hours
+
+---
+Files directory maps:
   * `attackerconnection.png` - Graph of interest of the attacks received towards the honey located in Ukraine (coming soon)
   * `attackersmap.png` - Graph that obtains the origin of the attacks (coming soon)
-  * `C2_All.csv` - Contains all the CSV files grouped in a single file
+
+
 ---
-Files raw:
+Files directory raw:
   * `C2_BruteRatel.json` - List of raw format
   * `C2_CobaltStrikeBeacon.json` - List of raw format 
   * `C2_Metasploit.json` - List of raw format
