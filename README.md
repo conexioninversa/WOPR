@@ -15,6 +15,7 @@ Files:
   * `C2_Mythic.csv` - List of adversary Command & Control from Mythic Framework  
   * `C2_All.csv` - Contains all the CSV files grouped in a single file
   * `C2_statistics_All.csv` - Contains the statistics of the malicious IPs of the entire C2_All.csv file in the last 24 hours
+  * `C2_GeoLocation.csv` - Geolocations of the malicious IPs of the entire C2_All.csv file in the last 24 hours
   * `Malicious_IP_C2_All.csv` - Contains the malicious IPs of the adversaries of all the C2_ files in  the last 24 hours
   * `last24hours_Malwarehashes.csv` - Malicious hashes obtained in the last 24 hours
 
