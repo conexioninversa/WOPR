@@ -40,6 +40,11 @@ Notes:
  * Most of the honeypots are highly interactive and many of them pretend to be from departmental governments, technology industry, aerospace and military.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/maps/adversaries.mov"/>
+Map of the origins of the command & control
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/maps/attackersmap.png"/>
 Map of the origins of the attacks since January 2022
 </p>
