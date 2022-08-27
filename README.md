@@ -39,10 +39,9 @@ Notes:
  * The honeypot network is distributed in most countries of the world. Especially in those countries at war or with a situation of diplomatic crisis between power zones.
  * Most of the honeypots are highly interactive and many of them pretend to be from departmental governments, technology industry, aerospace and military.
 
-<p align="center">
-  https://user-images.githubusercontent.com/29124284/187031943-067ca53d-922b-4191-b5f6-99484bebcd68.mov
+https://user-images.githubusercontent.com/29124284/187031943-067ca53d-922b-4191-b5f6-99484bebcd68.mov
 Map of the origins of the command & control
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/maps/attackersmap.png"/>
