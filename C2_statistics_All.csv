@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     14
+- VPN     15
 - Proxy   0
-- Hosting 261
+- Hosting 272
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS20473 The Constant Company, LLC                         12 (3.4%)
 
 Top Usage Types
-- Hosting   261 (75.0%)
-- ISP       47 (13.5%)
-- Business  36 (10.3%)
+- Hosting   272 (78.2%)
+- Business  42 (12.1%)
+- ISP       30 (8.6%)
 - Education 3 (0.9%)
 
 Top Routes
@@ -52,11 +52,11 @@ Top Regions
 - New Jersey, US    17 (4.9%)
 
 Top Privacy Services
-- TunnelBear    2 (0.6%)
+- TunnelBear    3 (0.9%)
+- Mullvad       1 (0.3%)
 - World VPN     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - PureVPN       1 (0.3%)
-- Mullvad       1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (3.4%)
