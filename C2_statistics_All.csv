@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     12
 - Proxy   0
-- Hosting 190
+- Hosting 184
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             9 (3.5%)
 
 Top Usage Types
-- Hosting   190 (73.6%)
-- Business  37 (14.3%)
+- Hosting   184 (71.3%)
+- Business  43 (16.7%)
 - ISP       27 (10.5%)
 - Education 2 (0.8%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 5.196.0.0/16 (AS16276)     4 (1.6%)
 - 31.44.184.0/24 (AS34665)   4 (1.6%)
 - 23.224.70.0/24 (AS40065)   3 (1.2%)
-- 43.142.128.0/18 (AS45090)  2 (0.8%)
 - 118.190.128.0/17 (AS37963) 2 (0.8%)
+- 43.142.128.0/18 (AS45090)  2 (0.8%)
 
 Top Countries
 - United States 77 (29.8%)
@@ -52,14 +52,14 @@ Top Regions
 - Central and Western, HK 11 (4.3%)
 
 Top Privacy Services
-- TunnelBear 2 (0.8%)
-- NordVPN    1 (0.4%)
+- TunnelBear 3 (1.2%)
 - SaferVPN   1 (0.4%)
-- VPN Gate   1 (0.4%)
 - Mullvad    1 (0.4%)
+- OctaneVPN  1 (0.4%)
+- VPN Gate   1 (0.4%)
 
 Top Domains
-- vultrusercontent.com  8 (3.1%)
 - null                  8 (3.1%)
+- vultrusercontent.com  8 (3.1%)
 - googleusercontent.com 6 (2.3%)
 - contaboserver.net     5 (1.9%)
