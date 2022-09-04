@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     11
+- VPN     10
 - Proxy   0
-- Hosting 231
+- Hosting 229
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           14 (5.1%)
 
 Top Usage Types
-- Hosting   231 (84.0%)
-- ISP       25 (9.1%)
-- Business  16 (5.8%)
+- Hosting   229 (83.3%)
+- ISP       24 (8.7%)
+- Business  19 (6.9%)
 - Education 2 (0.7%)
 
 Top Routes
+- 139.60.161.0/24 (AS395839) 3 (1.1%)
+- 5.196.0.0/16 (AS16276)     3 (1.1%)
 - 42.192.0.0/18 (AS45090)    3 (1.1%)
 - 23.224.0.0/15 (AS40065)    3 (1.1%)
 - 39.96.0.0/14 (AS37963)     3 (1.1%)
-- 139.60.161.0/24 (AS395839) 3 (1.1%)
-- 5.196.0.0/16 (AS16276)     3 (1.1%)
 
 Top Countries
 - United States 74 (26.9%)
@@ -56,10 +56,10 @@ Top Carriers
 
 Top Privacy Services
 - VPN Gate      2 (0.7%)
+- AnonymousVPN  1 (0.4%)
+- VPN Unlimited 1 (0.4%)
 - personalVPN   1 (0.4%)
 - Mullvad       1 (0.4%)
-- VPN Unlimited 1 (0.4%)
-- SaferVPN      1 (0.4%)
 
 Top Domains
 - vultrusercontent.com 12 (4.4%)
