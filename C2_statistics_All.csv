@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 43.142.128.0/18 (AS45090)  4 (1.6%)
-- 42.192.0.0/18 (AS45090)    3 (1.2%)
-- 101.42.128.0/18 (AS45090)  3 (1.2%)
 - 81.71.128.0/18 (AS45090)   3 (1.2%)
 - 116.204.211.0/24 (AS24373) 3 (1.2%)
+- 42.192.0.0/18 (AS45090)    3 (1.2%)
+- 101.42.128.0/18 (AS45090)  3 (1.2%)
 
 Top Countries
 - China         75 (30.2%)
@@ -40,9 +40,9 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN               32 (12.9%)
 - Shanghai, Shanghai, CN             25 (10.1%)
+- Hong Kong, Central and Western, HK 12 (4.8%)
 - Frankfurt am Main, Hesse, DE       12 (4.8%)
 - Amsterdam, North Holland, NL       12 (4.8%)
-- Hong Kong, Central and Western, HK 12 (4.8%)
 
 Top Regions
 - Beijing, CN             33 (13.3%)
@@ -55,7 +55,7 @@ Top Privacy Services
 - AnonymousVPN 1 (0.4%)
 
 Top Domains
-- contaboserver.net 4 (1.6%)
 - null              4 (1.6%)
 - hwclouds-dns.com  4 (1.6%)
+- contaboserver.net 4 (1.6%)
 - sec-r1z.com       2 (0.8%)
