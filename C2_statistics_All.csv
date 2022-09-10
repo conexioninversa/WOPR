@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 104.131.0.0/18 (AS14061)   4 (1.5%)
-- 139.60.161.0/24 (AS395839) 3 (1.2%)
 - 47.98.0.0/15 (AS37963)     3 (1.2%)
+- 139.60.161.0/24 (AS395839) 3 (1.2%)
 - 101.43.0.0/18 (AS45090)    2 (0.8%)
 - 23.227.184.0/24 (AS29802)  2 (0.8%)
 
@@ -57,6 +57,6 @@ Top Privacy Services
 
 Top Domains
 - null                 6 (2.3%)
-- contaboserver.net    4 (1.5%)
 - vultrusercontent.com 4 (1.5%)
 - your-server.de       4 (1.5%)
+- contaboserver.net    4 (1.5%)
