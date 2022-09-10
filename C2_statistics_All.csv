@@ -27,8 +27,8 @@ Top Routes
 - 104.131.0.0/18 (AS14061)   4 (1.5%)
 - 47.98.0.0/15 (AS37963)     3 (1.2%)
 - 139.60.161.0/24 (AS395839) 3 (1.2%)
-- 101.43.0.0/18 (AS45090)    2 (0.8%)
 - 23.227.184.0/24 (AS29802)  2 (0.8%)
+- 101.43.0.0/18 (AS45090)    2 (0.8%)
 
 Top Countries
 - China         78 (30.1%)
@@ -52,11 +52,11 @@ Top Regions
 - Guangdong, CN  13 (5.0%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.4%)
 - AnonymousVPN  1 (0.4%)
+- VPN Unlimited 1 (0.4%)
 
 Top Domains
 - null                 6 (2.3%)
+- contaboserver.net    4 (1.5%)
 - vultrusercontent.com 4 (1.5%)
 - your-server.de       4 (1.5%)
-- contaboserver.net    4 (1.5%)
