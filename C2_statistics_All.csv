@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     2
 - Proxy   0
-- Hosting 185
+- Hosting 197
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS8075 Microsoft Corporation                              10 (4.0%)
 
 Top Usage Types
-- Hosting   185 (73.1%)
-- Business  38 (15.0%)
+- Hosting   197 (77.9%)
+- Business  26 (10.3%)
 - ISP       19 (7.5%)
 - Education 5 (2.0%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     6 (2.4%)
 - 31.44.184.0/24 (AS34665)   4 (1.6%)
-- 116.204.211.0/24 (AS24373) 3 (1.2%)
 - 139.5.200.0/24 (AS45753)   3 (1.2%)
 - 20.64.0.0/10 (AS8075)      3 (1.2%)
+- 116.204.211.0/24 (AS24373) 3 (1.2%)
 
 Top Countries
 - China         70 (27.7%)
