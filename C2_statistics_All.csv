@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    7 (2.5%)
-- 43.142.64.0/18 (AS45090)  3 (1.1%)
 - 20.64.0.0/10 (AS8075)     3 (1.1%)
+- 43.142.64.0/18 (AS45090)  3 (1.1%)
 - 82.157.128.0/18 (AS45090) 2 (0.7%)
 - 171.22.30.0/24 (AS211252) 2 (0.7%)
 
@@ -48,8 +48,8 @@ Top Regions
 - Beijing, CN       38 (13.5%)
 - Hesse, DE         19 (6.7%)
 - California, US    15 (5.3%)
-- New Jersey, US    14 (5.0%)
 - North Holland, NL 14 (5.0%)
+- New Jersey, US    14 (5.0%)
 
 Top Privacy Services
 - TunnelBear 1 (0.4%)
