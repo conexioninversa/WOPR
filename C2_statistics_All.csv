@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     6 (2.1%)
-- 124.222.128.0/18 (AS45090) 3 (1.1%)
-- 42.192.0.0/18 (AS45090)    3 (1.1%)
 - 172.96.166.0/24 (AS63018)  3 (1.1%)
 - 20.64.0.0/10 (AS8075)      3 (1.1%)
+- 124.222.128.0/18 (AS45090) 3 (1.1%)
+- 42.192.0.0/18 (AS45090)    3 (1.1%)
 
 Top Countries
 - United States 72 (25.4%)
@@ -57,5 +57,5 @@ Top Privacy Services
 Top Domains
 - null                 7 (2.5%)
 - vultrusercontent.com 7 (2.5%)
-- hvvc.us              5 (1.8%)
 - contaboserver.net    5 (1.8%)
+- hvvc.us              5 (1.8%)
