@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     3
 - Proxy   0
-- Hosting 234
+- Hosting 215
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           16 (5.6%)
 
 Top Usage Types
-- Hosting   234 (82.4%)
-- Business  30 (10.6%)
-- ISP       17 (6.0%)
+- Hosting   215 (75.7%)
+- Business  48 (16.9%)
+- ISP       18 (6.3%)
 - Education 3 (1.1%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     6 (2.1%)
-- 172.96.166.0/24 (AS63018)  3 (1.1%)
-- 20.64.0.0/10 (AS8075)      3 (1.1%)
 - 124.222.128.0/18 (AS45090) 3 (1.1%)
 - 42.192.0.0/18 (AS45090)    3 (1.1%)
+- 172.96.166.0/24 (AS63018)  3 (1.1%)
+- 20.64.0.0/10 (AS8075)      3 (1.1%)
 
 Top Countries
 - United States 72 (25.4%)
@@ -38,15 +38,15 @@ Top Countries
 - France        15 (5.3%)
 
 Top Cities
-- Beijing, Beijing, CN               24 (8.5%)
 - Shanghai, Shanghai, CN             23 (8.1%)
+- Beijing, Beijing, CN               21 (7.4%)
 - Frankfurt am Main, Hesse, DE       17 (6.0%)
 - Amsterdam, North Holland, NL       14 (4.9%)
 - Hong Kong, Central and Western, HK 12 (4.2%)
 
 Top Regions
-- Beijing, CN       24 (8.5%)
 - Shanghai, CN      23 (8.1%)
+- Beijing, CN       21 (7.4%)
 - Hesse, DE         17 (6.0%)
 - California, US    17 (6.0%)
 - North Holland, NL 16 (5.6%)
@@ -55,7 +55,7 @@ Top Privacy Services
 - VPN Gate 1 (0.4%)
 
 Top Domains
-- null                 7 (2.5%)
 - vultrusercontent.com 7 (2.5%)
+- null                 7 (2.5%)
 - contaboserver.net    5 (1.8%)
 - hvvc.us              5 (1.8%)
