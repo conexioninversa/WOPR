@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 44 (14.2%)
 - AS14061 DigitalOcean, LLC                                 41 (13.2%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             21 (6.8%)
 - AS16509 Amazon.com, Inc.                                  21 (6.8%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             21 (6.8%)
 - AS16276 OVH SAS                                           11 (3.5%)
 
 Top Usage Types
@@ -31,32 +31,32 @@ Top Routes
 - 120.53.192.0/18 (AS45090)  3 (1.0%)
 
 Top Countries
-- United States  78 (25.2%)
+- United States  77 (24.8%)
 - China          72 (23.2%)
 - Germany        30 (9.7%)
-- Netherlands    15 (4.8%)
+- Netherlands    16 (5.2%)
 - United Kingdom 13 (4.2%)
 
 Top Cities
-- Beijing, Beijing, CN               33 (10.6%)
-- Frankfurt am Main, Hesse, DE       20 (6.5%)
-- Shanghai, Shanghai, CN             20 (6.5%)
-- London, England, GB                12 (3.9%)
-- Hong Kong, Central and Western, HK 11 (3.5%)
+- Beijing, Beijing, CN         34 (11.0%)
+- Frankfurt am Main, Hesse, DE 20 (6.5%)
+- Shanghai, Shanghai, CN       19 (6.1%)
+- London, England, GB          12 (3.9%)
+- Amsterdam, North Holland, NL 12 (3.9%)
 
 Top Regions
-- Beijing, CN    33 (10.6%)
+- Beijing, CN    34 (11.0%)
 - Hesse, DE      20 (6.5%)
-- Shanghai, CN   20 (6.5%)
+- Shanghai, CN   19 (6.1%)
 - California, US 16 (5.2%)
 - New Jersey, US 15 (4.8%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- GHOSTPATH     1 (0.3%)
+- OctaneVPN     1 (0.3%)
 
 Top Domains
 - null                 7 (2.3%)
 - colocrossing.com     7 (2.3%)
-- contaboserver.net    6 (1.9%)
 - vultrusercontent.com 6 (1.9%)
+- contaboserver.net    6 (1.9%)
