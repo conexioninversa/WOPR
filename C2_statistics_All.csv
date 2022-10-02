@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 3.108.0.0/14 (AS16509)    7 (2.2%)
+- 20.64.0.0/10 (AS8075)     4 (1.2%)
 - 120.53.192.0/18 (AS45090) 4 (1.2%)
 - 178.62.0.0/18 (AS14061)   4 (1.2%)
 - 44.192.0.0/11 (AS14618)   4 (1.2%)
-- 20.64.0.0/10 (AS8075)     4 (1.2%)
 
 Top Countries
 - China         84 (25.9%)
@@ -57,5 +57,5 @@ Top Privacy Services
 Top Domains
 - null                 13 (4.0%)
 - vultrusercontent.com 7 (2.2%)
-- ovh.net              4 (1.2%)
 - contaboserver.net    4 (1.2%)
+- ovh.net              4 (1.2%)
