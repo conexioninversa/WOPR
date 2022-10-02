@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     8
+- VPN     10
 - Proxy   0
 - Hosting 279
 - Tor     0
@@ -38,21 +38,22 @@ Top Countries
 - India         18 (5.6%)
 
 Top Cities
-- Beijing, Beijing, CN               45 (13.9%)
+- Beijing, Beijing, CN               46 (14.2%)
 - Frankfurt am Main, Hesse, DE       22 (6.8%)
+- Shanghai, Shanghai, CN             17 (5.2%)
 - Hong Kong, Central and Western, HK 17 (5.2%)
-- Shanghai, Shanghai, CN             16 (4.9%)
 - Ashburn, Virginia, US              14 (4.3%)
 
 Top Regions
-- Beijing, CN             45 (13.9%)
+- Beijing, CN             46 (14.2%)
 - Hesse, DE               23 (7.1%)
 - California, US          18 (5.6%)
 - Central and Western, HK 17 (5.2%)
-- Shanghai, CN            16 (4.9%)
+- Shanghai, CN            17 (5.2%)
 
 Top Privacy Services
-- VPN Unlimited 4 (1.2%)
+- VPN Unlimited 5 (1.5%)
+- TunnelBear    1 (0.3%)
 
 Top Domains
 - null                 13 (4.0%)
