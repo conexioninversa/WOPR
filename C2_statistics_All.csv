@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 47 (14.4%)
 - AS14061 DigitalOcean, LLC                                 46 (14.1%)
 - AS16509 Amazon.com, Inc.                                  45 (13.8%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             11 (3.4%)
 - AS16276 OVH SAS                                           11 (3.4%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             11 (3.4%)
 
 Top Usage Types
 - Hosting   279 (85.6%)
@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 3.108.0.0/14 (AS16509)    9 (2.8%)
 - 65.0.0.0/14 (AS16509)     7 (2.1%)
-- 44.192.0.0/11 (AS14618)   4 (1.2%)
 - 43.142.128.0/18 (AS45090) 4 (1.2%)
+- 44.192.0.0/11 (AS14618)   4 (1.2%)
 - 13.232.0.0/14 (AS16509)   3 (0.9%)
 
 Top Countries
