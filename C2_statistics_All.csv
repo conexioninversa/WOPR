@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 3.108.0.0/14 (AS16509)    5 (1.6%)
+- 5.196.0.0/16 (AS16276)    3 (1.0%)
 - 20.64.0.0/10 (AS8075)     3 (1.0%)
 - 101.43.128.0/18 (AS45090) 3 (1.0%)
 - 47.243.0.0/16 (AS45102)   3 (1.0%)
-- 5.196.0.0/16 (AS16276)    3 (1.0%)
 
 Top Countries
 - United States 81 (25.9%)
@@ -57,5 +57,5 @@ Top Privacy Services
 Top Domains
 - vultrusercontent.com 9 (2.9%)
 - contaboserver.net    7 (2.2%)
-- null                 6 (1.9%)
 - colocrossing.com     6 (1.9%)
+- null                 6 (1.9%)
