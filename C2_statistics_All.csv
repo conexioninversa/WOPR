@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     6
 - Proxy   0
-- Hosting 236
+- Hosting 261
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS8075 Microsoft Corporation                              9 (2.9%)
 
 Top Usage Types
-- Hosting   236 (76.9%)
-- Business  49 (16.0%)
-- ISP       18 (5.9%)
+- Hosting   261 (85.0%)
+- Business  25 (8.1%)
+- ISP       17 (5.5%)
 - Education 4 (1.3%)
 
 Top Routes
@@ -56,7 +56,7 @@ Top Privacy Services
 - VPN Gate      1 (0.3%)
 
 Top Domains
-- vultrusercontent.com 5 (1.6%)
 - null                 5 (1.6%)
+- vultrusercontent.com 5 (1.6%)
 - colocrossing.com     4 (1.3%)
 - hwclouds-dns.com     4 (1.3%)
