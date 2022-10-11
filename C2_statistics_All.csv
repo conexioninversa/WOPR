@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     4
 - Proxy   0
 - Hosting 282
 - Tor     0
@@ -19,16 +19,17 @@ Top ASNs
 
 Top Usage Types
 - Hosting   282 (83.9%)
-- Business  30 (8.9%)
-- ISP       18 (5.4%)
+- Business  27 (8.0%)
+- ISP       20 (6.0%)
 - Education 6 (1.8%)
+- Unknown   1 (0.3%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)    12 (3.6%)
 - 20.64.0.0/10 (AS8075)     4 (1.2%)
-- 47.98.0.0/15 (AS37963)    3 (0.9%)
 - 58.87.84.0/22 (AS45090)   3 (0.9%)
 - 43.142.128.0/18 (AS45090) 3 (0.9%)
+- 47.98.0.0/15 (AS37963)    3 (0.9%)
 
 Top Countries
 - China         81 (24.1%)
@@ -48,12 +49,11 @@ Top Regions
 - Beijing, CN    35 (10.4%)
 - Hesse, DE      27 (8.0%)
 - New Jersey, US 19 (5.7%)
-- California, US 18 (5.4%)
 - Shanghai, CN   18 (5.4%)
+- California, US 18 (5.4%)
 
 Top Privacy Services
 - VPN Unlimited 3 (0.9%)
-- TunnelBear    1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 7 (2.1%)
