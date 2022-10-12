@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     2
+- VPN     1
 - Proxy   0
-- Hosting 276
+- Hosting 272
 - Tor     0
 - Relay   0
 
@@ -18,11 +18,10 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (4.0%)
 
 Top Usage Types
-- Hosting   276 (84.9%)
+- Hosting   272 (83.7%)
+- Business  26 (8.0%)
 - ISP       22 (6.8%)
-- Business  21 (6.5%)
 - Education 5 (1.5%)
-- Unknown   1 (0.3%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)    7 (2.2%)
@@ -42,7 +41,7 @@ Top Cities
 - Beijing, Beijing, CN               31 (9.5%)
 - Frankfurt am Main, Hesse, DE       23 (7.1%)
 - Shanghai, Shanghai, CN             19 (5.8%)
-- Amsterdam, North Holland, NL       13 (4.0%)
+- Amsterdam, North Holland, NL       14 (4.3%)
 - Hong Kong, Central and Western, HK 12 (3.7%)
 
 Top Regions
@@ -58,5 +57,5 @@ Top Privacy Services
 Top Domains
 - null                 10 (3.1%)
 - vultrusercontent.com 7 (2.2%)
-- contaboserver.net    4 (1.2%)
 - colocrossing.com     4 (1.2%)
+- contaboserver.net    4 (1.2%)
