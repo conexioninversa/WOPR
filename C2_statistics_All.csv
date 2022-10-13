@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 3.108.0.0/14 (AS16509)    8 (2.5%)
 - 65.0.0.0/14 (AS16509)     4 (1.2%)
+- 44.192.0.0/11 (AS14618)   3 (0.9%)
 - 101.43.128.0/18 (AS45090) 3 (0.9%)
 - 20.192.0.0/10 (AS8075)    3 (0.9%)
-- 44.192.0.0/11 (AS14618)   3 (0.9%)
 
 Top Countries
 - United States 78 (24.1%)
@@ -48,8 +48,8 @@ Top Regions
 - Beijing, CN       37 (11.4%)
 - Hesse, DE         24 (7.4%)
 - California, US    19 (5.9%)
-- New Jersey, US    17 (5.2%)
 - North Holland, NL 17 (5.2%)
+- New Jersey, US    17 (5.2%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
