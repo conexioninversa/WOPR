@@ -6,7 +6,7 @@ Summary
 - Mobile  1
 - VPN     7
 - Proxy   0
-- Hosting 269
+- Hosting 268
 - Tor     0
 - Relay   0
 
@@ -18,14 +18,14 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (4.2%)
 
 Top Usage Types
-- Hosting   269 (85.9%)
-- Business  25 (8.0%)
-- ISP       18 (5.8%)
+- Hosting   268 (85.6%)
+- Business  28 (8.9%)
+- ISP       16 (5.1%)
 - Education 1 (0.3%)
 
 Top Routes
-- 65.0.0.0/14 (AS16509)     5 (1.6%)
 - 39.100.0.0/14 (AS37963)   5 (1.6%)
+- 65.0.0.0/14 (AS16509)     5 (1.6%)
 - 42.192.0.0/18 (AS45090)   4 (1.3%)
 - 44.192.0.0/11 (AS14618)   4 (1.3%)
 - 43.142.128.0/18 (AS45090) 3 (1.0%)
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN         37 (11.8%)
 - Shanghai, Shanghai, CN       27 (8.6%)
 - Frankfurt am Main, Hesse, DE 16 (5.1%)
-- Amsterdam, North Holland, NL 12 (3.8%)
 - Mumbai, Maharashtra, IN      12 (3.8%)
+- Amsterdam, North Holland, NL 12 (3.8%)
 
 Top Regions
 - Beijing, CN    37 (11.8%)
