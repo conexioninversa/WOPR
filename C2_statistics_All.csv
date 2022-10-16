@@ -1,1 +1,65 @@
-no input ips
+Summary
+- Total   313
+- Unique  297
+- Anycast 0
+- Bogon   0
+- Mobile  1
+- VPN     7
+- Proxy   0
+- Hosting 269
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 55 (17.6%)
+- AS14061 DigitalOcean, LLC                                 41 (13.1%)
+- AS16509 Amazon.com, Inc.                                  34 (10.9%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             14 (4.5%)
+- AS16276 OVH SAS                                           13 (4.2%)
+
+Top Usage Types
+- Hosting   269 (85.9%)
+- Business  25 (8.0%)
+- ISP       18 (5.8%)
+- Education 1 (0.3%)
+
+Top Routes
+- 65.0.0.0/14 (AS16509)     5 (1.6%)
+- 39.100.0.0/14 (AS37963)   5 (1.6%)
+- 44.192.0.0/11 (AS14618)   4 (1.3%)
+- 42.192.0.0/18 (AS45090)   4 (1.3%)
+- 43.142.128.0/18 (AS45090) 3 (1.0%)
+
+Top Countries
+- China         79 (25.2%)
+- United States 77 (24.6%)
+- Germany       23 (7.3%)
+- Netherlands   18 (5.8%)
+- India         15 (4.8%)
+
+Top Cities
+- Beijing, Beijing, CN         37 (11.8%)
+- Shanghai, Shanghai, CN       27 (8.6%)
+- Frankfurt am Main, Hesse, DE 16 (5.1%)
+- Mumbai, Maharashtra, IN      12 (3.8%)
+- Amsterdam, North Holland, NL 12 (3.8%)
+
+Top Regions
+- Beijing, CN    37 (11.8%)
+- Shanghai, CN   27 (8.6%)
+- New Jersey, US 17 (5.4%)
+- Hesse, DE      16 (5.1%)
+- California, US 14 (4.5%)
+
+Top Carriers
+- China Unicom 1 (0.3%)
+
+Top Privacy Services
+- VPN Unlimited 2 (0.6%)
+- FrootVPN      1 (0.3%)
+
+Top Domains
+- null                 10 (3.2%)
+- vultrusercontent.com 8 (2.6%)
+- contaboserver.net    5 (1.6%)
+- ovh.net              4 (1.3%)
