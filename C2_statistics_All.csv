@@ -1,1 +1,64 @@
-no input ips
+Summary
+- Total   334
+- Unique  331
+- Anycast 0
+- Bogon   0
+- Mobile  0
+- VPN     8
+- Proxy   0
+- Hosting 271
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS14061 DigitalOcean, LLC                                 54 (16.2%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 44 (13.2%)
+- AS16509 Amazon.com, Inc.                                  36 (10.8%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             20 (6.0%)
+- AS16276 OVH SAS                                           17 (5.1%)
+
+Top Usage Types
+- Hosting   271 (81.1%)
+- Business  46 (13.8%)
+- ISP       15 (4.5%)
+- Education 1 (0.3%)
+
+Top Routes
+- 65.0.0.0/14 (AS16509)      5 (1.5%)
+- 139.60.161.0/24 (AS395839) 4 (1.2%)
+- 8.131.0.0/16 (AS37963)     3 (0.9%)
+- 1.117.192.0/18 (AS45090)   3 (0.9%)
+- 173.82.0.0/16 (AS35916)    3 (0.9%)
+
+Top Countries
+- United States 85 (25.4%)
+- China         70 (21.0%)
+- Germany       31 (9.3%)
+- India         19 (5.7%)
+- Netherlands   19 (5.7%)
+
+Top Cities
+- Beijing, Beijing, CN         31 (9.3%)
+- Frankfurt am Main, Hesse, DE 24 (7.2%)
+- Shanghai, Shanghai, CN       16 (4.8%)
+- Mumbai, Maharashtra, IN      15 (4.5%)
+- Los Angeles, California, US  15 (4.5%)
+
+Top Regions
+- Beijing, CN       31 (9.3%)
+- California, US    25 (7.5%)
+- Hesse, DE         24 (7.2%)
+- Shanghai, CN      16 (4.8%)
+- North Holland, NL 15 (4.5%)
+
+Top Privacy Services
+- VPN Unlimited 2 (0.6%)
+- TunnelBear    2 (0.6%)
+- VPN Gate      1 (0.3%)
+- Windscribe    1 (0.3%)
+
+Top Domains
+- vultrusercontent.com 10 (3.0%)
+- null                 9 (2.7%)
+- contaboserver.net    4 (1.2%)
+- hvvc.us              3 (0.9%)
