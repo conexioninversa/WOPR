@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     8
+- VPN     6
 - Proxy   0
-- Hosting 271
+- Hosting 291
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           17 (5.1%)
 
 Top Usage Types
-- Hosting   271 (81.1%)
-- Business  46 (13.8%)
+- Hosting   291 (87.1%)
+- Business  26 (7.8%)
 - ISP       15 (4.5%)
 - Education 1 (0.3%)
 
@@ -34,15 +34,15 @@ Top Countries
 - United States 85 (25.4%)
 - China         70 (21.0%)
 - Germany       31 (9.3%)
-- India         19 (5.7%)
 - Netherlands   19 (5.7%)
+- India         19 (5.7%)
 
 Top Cities
 - Beijing, Beijing, CN         31 (9.3%)
 - Frankfurt am Main, Hesse, DE 24 (7.2%)
 - Shanghai, Shanghai, CN       16 (4.8%)
-- Mumbai, Maharashtra, IN      15 (4.5%)
 - Los Angeles, California, US  15 (4.5%)
+- Mumbai, Maharashtra, IN      15 (4.5%)
 
 Top Regions
 - Beijing, CN       31 (9.3%)
@@ -53,8 +53,7 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- TunnelBear    2 (0.6%)
-- Windscribe    1 (0.3%)
+- Surfshark     1 (0.3%)
 - VPN Gate      1 (0.3%)
 
 Top Domains
