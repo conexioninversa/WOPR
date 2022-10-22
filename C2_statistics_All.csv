@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     6
 - Proxy   0
 - Hosting 275
 - Tor     0
@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   275 (82.3%)
-- Business  31 (9.3%)
-- ISP       24 (7.2%)
+- Business  30 (9.0%)
+- ISP       25 (7.5%)
 - Education 4 (1.2%)
 
 Top Routes
@@ -53,6 +53,7 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
+- TunnelBear    1 (0.3%)
 
 Top Domains
 - null                 9 (2.7%)
