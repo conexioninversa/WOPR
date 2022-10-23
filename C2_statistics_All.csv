@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     4
 - Proxy   0
-- Hosting 269
+- Hosting 271
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS8075 Microsoft Corporation                              11 (3.4%)
 
 Top Usage Types
-- Hosting   269 (83.8%)
-- Business  28 (8.7%)
-- ISP       19 (5.9%)
+- Hosting   271 (84.4%)
+- Business  29 (9.0%)
+- ISP       16 (5.0%)
 - Education 5 (1.6%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)     5 (1.6%)
-- 110.42.128.0/18 (AS45090)  3 (0.9%)
-- 124.221.192.0/18 (AS45090) 3 (0.9%)
 - 44.192.0.0/11 (AS14618)    3 (0.9%)
 - 118.195.128.0/18 (AS45090) 3 (0.9%)
+- 110.42.128.0/18 (AS45090)  3 (0.9%)
+- 124.221.192.0/18 (AS45090) 3 (0.9%)
 
 Top Countries
 - China         84 (26.2%)
@@ -53,7 +53,6 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- TunnelBear    1 (0.3%)
 - OctaneVPN     1 (0.3%)
 
 Top Domains
