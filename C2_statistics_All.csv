@@ -6,20 +6,20 @@ Summary
 - Mobile  0
 - VPN     4
 - Proxy   0
-- Hosting 235
+- Hosting 221
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS16509 Amazon.com, Inc.                                  34 (13.0%)
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 31 (11.8%)
 - AS14061 DigitalOcean, LLC                                 31 (11.8%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 31 (11.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             13 (5.0%)
 - AS16276 OVH SAS                                           13 (5.0%)
 
 Top Usage Types
-- Hosting   235 (89.7%)
-- Business  16 (6.1%)
+- Hosting   221 (84.4%)
+- Business  30 (11.5%)
 - ISP       8 (3.1%)
 - Education 2 (0.8%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 3.108.0.0/14 (AS16509)    6 (2.3%)
 - 65.0.0.0/14 (AS16509)     4 (1.5%)
 - 209.141.32.0/19 (AS53667) 4 (1.5%)
-- 43.204.0.0/15 (AS16509)   3 (1.1%)
 - 5.196.0.0/16 (AS16276)    3 (1.1%)
+- 43.204.0.0/15 (AS16509)   3 (1.1%)
 
 Top Countries
 - United States 73 (27.9%)
@@ -46,8 +46,8 @@ Top Cities
 
 Top Regions
 - Beijing, CN       27 (10.3%)
-- California, US    19 (7.3%)
 - Hesse, DE         19 (7.3%)
+- California, US    19 (7.3%)
 - Maharashtra, IN   18 (6.9%)
 - North Holland, NL 12 (4.6%)
 
