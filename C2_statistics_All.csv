@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 3.108.0.0/14 (AS16509)     4 (1.2%)
-- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 124.221.192.0/18 (AS45090) 3 (0.9%)
 - 43.138.128.0/18 (AS45090)  3 (0.9%)
+- 47.92.0.0/15 (AS37963)     3 (0.9%)
 
 Top Countries
 - United States 92 (27.1%)
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- TorGuard      1 (0.3%)
 - VPN Gate      1 (0.3%)
+- TorGuard      1 (0.3%)
 
 Top Domains
 - null                 11 (3.2%)
