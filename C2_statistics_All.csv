@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     4
 - Proxy   0
-- Hosting 275
+- Hosting 278
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           16 (4.7%)
 
 Top Usage Types
-- Hosting   275 (81.4%)
-- Business  33 (9.8%)
+- Hosting   278 (82.2%)
+- Business  30 (8.9%)
 - ISP       26 (7.7%)
 - Education 3 (0.9%)
 
@@ -52,7 +52,6 @@ Top Regions
 - North Holland, NL 18 (5.3%)
 
 Top Privacy Services
-- TunnelBear    3 (0.9%)
 - VPN Unlimited 2 (0.6%)
 
 Top Domains
