@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  2
-- VPN     6
+- VPN     5
 - Proxy   0
-- Hosting 274
+- Hosting 294
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16276 OVH SAS                                           16 (4.7%)
 
 Top Usage Types
-- Hosting   274 (80.4%)
-- Business  48 (14.1%)
-- ISP       15 (4.4%)
+- Hosting   294 (86.2%)
+- Business  27 (7.9%)
+- ISP       16 (4.7%)
 - Education 4 (1.2%)
 
 Top Routes
@@ -56,8 +56,7 @@ Top Carriers
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- Windscribe    1 (0.3%)
-- TunnelBear    1 (0.3%)
+- TorGuard      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 10 (2.9%)
