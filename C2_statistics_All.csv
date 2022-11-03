@@ -1,1 +1,66 @@
-no input ips
+Summary
+- Total   341
+- Unique  330
+- Anycast 0
+- Bogon   0
+- Mobile  2
+- VPN     6
+- Proxy   0
+- Hosting 274
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS14061 DigitalOcean, LLC                                 55 (16.1%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 50 (14.7%)
+- AS16509 Amazon.com, Inc.                                  25 (7.3%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.3%)
+- AS16276 OVH SAS                                           16 (4.7%)
+
+Top Usage Types
+- Hosting   274 (80.4%)
+- Business  48 (14.1%)
+- ISP       15 (4.4%)
+- Education 4 (1.2%)
+
+Top Routes
+- 5.196.0.0/16 (AS16276)    5 (1.5%)
+- 3.108.0.0/14 (AS16509)    4 (1.2%)
+- 101.43.192.0/18 (AS45090) 3 (0.9%)
+- 44.192.0.0/11 (AS14618)   3 (0.9%)
+- 47.100.0.0/15 (AS37963)   3 (0.9%)
+
+Top Countries
+- United States 80 (23.5%)
+- China         76 (22.3%)
+- Germany       31 (9.1%)
+- Netherlands   24 (7.0%)
+- France        16 (4.7%)
+
+Top Cities
+- Beijing, Beijing, CN         35 (10.3%)
+- Frankfurt am Main, Hesse, DE 22 (6.5%)
+- Amsterdam, North Holland, NL 20 (5.9%)
+- Shanghai, Shanghai, CN       20 (5.9%)
+- London, England, GB          14 (4.1%)
+
+Top Regions
+- Beijing, CN       35 (10.3%)
+- Hesse, DE         23 (6.7%)
+- North Holland, NL 21 (6.2%)
+- Shanghai, CN      20 (5.9%)
+- California, US    17 (5.0%)
+
+Top Carriers
+- Verizon 2 (0.6%)
+
+Top Privacy Services
+- VPN Unlimited 2 (0.6%)
+- TunnelBear    1 (0.3%)
+- Windscribe    1 (0.3%)
+
+Top Domains
+- vultrusercontent.com 10 (2.9%)
+- null                 9 (2.6%)
+- contaboserver.net    8 (2.3%)
+- colocrossing.com     6 (1.8%)
