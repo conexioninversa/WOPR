@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 3.108.0.0/14 (AS16509)    6 (1.8%)
 - 5.196.0.0/16 (AS16276)    5 (1.5%)
-- 39.96.0.0/14 (AS37963)    3 (0.9%)
 - 101.43.192.0/18 (AS45090) 3 (0.9%)
 - 44.192.0.0/11 (AS14618)   3 (0.9%)
+- 39.96.0.0/14 (AS37963)    3 (0.9%)
 
 Top Countries
 - China          80 (23.4%)
@@ -40,16 +40,16 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         43 (12.6%)
 - Frankfurt am Main, Hesse, DE 23 (6.7%)
-- Shanghai, Shanghai, CN       17 (5.0%)
 - Amsterdam, North Holland, NL 17 (5.0%)
+- Shanghai, Shanghai, CN       17 (5.0%)
 - London, England, GB          14 (4.1%)
 
 Top Regions
 - Beijing, CN       43 (12.6%)
 - Hesse, DE         24 (7.0%)
-- California, US    18 (5.3%)
 - North Holland, NL 18 (5.3%)
 - New Jersey, US    18 (5.3%)
+- California, US    18 (5.3%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
