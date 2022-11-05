@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     4
 - Proxy   0
 - Hosting 295
 - Tor     0
@@ -19,16 +19,16 @@ Top ASNs
 
 Top Usage Types
 - Hosting   295 (86.0%)
-- Business  26 (7.6%)
-- ISP       20 (5.8%)
+- Business  25 (7.3%)
+- ISP       21 (6.1%)
 - Education 2 (0.6%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)     7 (2.0%)
-- 172.96.166.0/24 (AS63018)  3 (0.9%)
-- 182.161.68.0/22 (AS132839) 3 (0.9%)
 - 13.112.0.0/14 (AS16509)    3 (0.9%)
 - 31.44.184.0/24 (AS34665)   3 (0.9%)
+- 172.96.166.0/24 (AS63018)  3 (0.9%)
+- 182.161.68.0/22 (AS132839) 3 (0.9%)
 
 Top Countries
 - United States 87 (25.4%)
@@ -53,7 +53,6 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.6%)
-- TunnelBear    1 (0.3%)
 
 Top Domains
 - null                 11 (3.2%)
