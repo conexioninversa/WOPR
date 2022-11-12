@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     4
+- VPN     5
 - Proxy   0
 - Hosting 246
 - Tor     0
@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   246 (79.6%)
-- Business  41 (13.3%)
-- ISP       15 (4.9%)
+- Business  39 (12.6%)
+- ISP       17 (5.5%)
 - Education 6 (1.9%)
 
 Top Routes
@@ -53,6 +53,7 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 3 (1.0%)
+- TunnelBear    1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.2%)
