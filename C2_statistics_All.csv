@@ -1,1 +1,62 @@
-no input ips
+Summary
+- Total   296
+- Unique  280
+- Anycast 0
+- Bogon   0
+- Mobile  0
+- VPN     5
+- Proxy   0
+- Hosting 247
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 51 (17.2%)
+- AS14061 DigitalOcean, LLC                                 36 (12.2%)
+- AS16509 Amazon.com, Inc.                                  27 (9.1%)
+- AS16276 OVH SAS                                           17 (5.7%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (5.1%)
+
+Top Usage Types
+- Hosting   247 (83.4%)
+- Business  27 (9.1%)
+- ISP       16 (5.4%)
+- Education 3 (1.0%)
+
+Top Routes
+- 3.108.0.0/14 (AS16509)     5 (1.7%)
+- 101.43.128.0/18 (AS45090)  4 (1.4%)
+- 43.143.128.0/18 (AS45090)  3 (1.0%)
+- 118.195.128.0/18 (AS45090) 3 (1.0%)
+- 3.64.0.0/12 (AS16509)      3 (1.0%)
+
+Top Countries
+- China         77 (26.0%)
+- United States 70 (23.6%)
+- Germany       24 (8.1%)
+- Netherlands   14 (4.7%)
+- France        12 (4.1%)
+
+Top Cities
+- Beijing, Beijing, CN         43 (14.5%)
+- Frankfurt am Main, Hesse, DE 18 (6.1%)
+- Shanghai, Shanghai, CN       16 (5.4%)
+- London, England, GB          11 (3.7%)
+- North Bergen, New Jersey, US 10 (3.4%)
+
+Top Regions
+- Beijing, CN    43 (14.5%)
+- Hesse, DE      20 (6.8%)
+- Shanghai, CN   16 (5.4%)
+- New Jersey, US 15 (5.1%)
+- California, US 14 (4.7%)
+
+Top Privacy Services
+- VPN Unlimited 2 (0.7%)
+- HideMyAss     1 (0.3%)
+
+Top Domains
+- null                  9 (3.0%)
+- vultrusercontent.com  8 (2.7%)
+- googleusercontent.com 4 (1.4%)
+- hwclouds-dns.com      4 (1.4%)
