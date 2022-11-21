@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 3.108.0.0/14 (AS16509)    5 (1.7%)
 - 5.196.0.0/16 (AS16276)    4 (1.4%)
+- 20.64.0.0/10 (AS8075)     3 (1.0%)
 - 3.64.0.0/12 (AS16509)     3 (1.0%)
 - 194.165.16.0/24 (AS48721) 3 (1.0%)
-- 20.64.0.0/10 (AS8075)     3 (1.0%)
 
 Top Countries
 - United States 68 (23.1%)
@@ -56,7 +56,7 @@ Top Privacy Services
 - AirVPN        1 (0.3%)
 
 Top Domains
-- contaboserver.net    7 (2.4%)
 - null                 7 (2.4%)
+- contaboserver.net    7 (2.4%)
 - vultrusercontent.com 5 (1.7%)
 - hwclouds-dns.com     4 (1.4%)
