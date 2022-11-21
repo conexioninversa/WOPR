@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS14061 DigitalOcean, LLC                                 37 (12.8%)
-- AS16509 Amazon.com, Inc.                                  28 (9.7%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 28 (9.7%)
+- AS16509 Amazon.com, Inc.                                  28 (9.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             16 (5.5%)
 - AS16276 OVH SAS                                           15 (5.2%)
 
@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 3.108.0.0/14 (AS16509)    7 (2.4%)
 - 5.196.0.0/16 (AS16276)    6 (2.1%)
+- 8.134.0.0/17 (AS37963)    2 (0.7%)
 - 23.227.198.0/24 (AS29802) 2 (0.7%)
 - 124.71.128.0/19 (AS55990) 2 (0.7%)
-- 8.134.0.0/17 (AS37963)    2 (0.7%)
 
 Top Countries
 - United States 75 (26.0%)
