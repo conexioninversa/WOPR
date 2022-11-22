@@ -6,27 +6,27 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   1
-- Hosting 249
+- Hosting 250
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS16509 Amazon.com, Inc.                                  36 (12.5%)
-- AS14061 DigitalOcean, LLC                                 33 (11.5%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (11.5%)
+- AS14061 DigitalOcean, LLC                                 33 (11.5%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             14 (4.9%)
 - AS53667 FranTech Solutions                                13 (4.5%)
 
 Top Usage Types
-- Hosting   249 (86.8%)
-- Business  22 (7.7%)
+- Hosting   250 (87.1%)
+- Business  21 (7.3%)
 - ISP       14 (4.9%)
 - Education 2 (0.7%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)     10 (3.5%)
-- 205.185.112.0/20 (AS53667) 5 (1.7%)
 - 209.141.32.0/19 (AS53667)  5 (1.7%)
+- 205.185.112.0/20 (AS53667) 5 (1.7%)
 - 3.64.0.0/12 (AS16509)      3 (1.0%)
 - 124.221.192.0/18 (AS45090) 3 (1.0%)
 
@@ -40,20 +40,20 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN               30 (10.5%)
 - Mumbai, Maharashtra, IN            18 (6.3%)
-- Frankfurt am Main, Hesse, DE       14 (4.9%)
-- Hong Kong, Central and Western, HK 11 (3.8%)
+- Frankfurt am Main, Hesse, DE       13 (4.5%)
+- Hong Kong, Central and Western, HK 12 (4.2%)
 - Las Vegas, Nevada, US              10 (3.5%)
 
 Top Regions
 - Beijing, CN     30 (10.5%)
 - California, US  21 (7.3%)
 - Maharashtra, IN 18 (6.3%)
-- Hesse, DE       14 (4.9%)
+- Hesse, DE       13 (4.5%)
 - England, GB     12 (4.2%)
 
 Top Privacy Services
 - VPN Unlimited 1 (0.3%)
-- GHOSTPATH     1 (0.3%)
+- OctaneVPN     1 (0.3%)
 
 Top Domains
 - contaboserver.net    7 (2.4%)
