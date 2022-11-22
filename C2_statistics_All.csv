@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS16509 Amazon.com, Inc.                                  36 (12.5%)
-- AS14061 DigitalOcean, LLC                                 33 (11.5%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (11.5%)
+- AS14061 DigitalOcean, LLC                                 33 (11.5%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             14 (4.9%)
 - AS53667 FranTech Solutions                                13 (4.5%)
 
@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 3.108.0.0/14 (AS16509)     10 (3.5%)
-- 209.141.32.0/19 (AS53667)  5 (1.7%)
 - 205.185.112.0/20 (AS53667) 5 (1.7%)
+- 209.141.32.0/19 (AS53667)  5 (1.7%)
 - 3.64.0.0/12 (AS16509)      3 (1.0%)
 - 124.221.192.0/18 (AS45090) 3 (1.0%)
 
