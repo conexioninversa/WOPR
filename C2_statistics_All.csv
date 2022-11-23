@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     4
 - Proxy   1
-- Hosting 244
+- Hosting 221
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           11 (3.7%)
 
 Top Usage Types
-- Hosting   244 (83.0%)
-- Business  32 (10.9%)
-- ISP       17 (5.8%)
+- Hosting   221 (75.2%)
+- Business  53 (18.0%)
+- ISP       19 (6.5%)
 - Education 1 (0.3%)
 
 Top Routes
 - 3.108.0.0/14 (AS16509)    7 (2.4%)
 - 5.196.0.0/16 (AS16276)    3 (1.0%)
 - 194.165.16.0/24 (AS48721) 3 (1.0%)
-- 39.104.0.0/15 (AS37963)   2 (0.7%)
 - 47.104.0.0/16 (AS37963)   2 (0.7%)
+- 39.104.0.0/15 (AS37963)   2 (0.7%)
 
 Top Countries
 - United States 83 (28.2%)
