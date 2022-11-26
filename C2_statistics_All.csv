@@ -25,17 +25,17 @@ Top Usage Types
 
 Top Routes
 - 124.223.64.0/18 (AS45090) 5 (1.7%)
+- 44.192.0.0/11 (AS14618)   3 (1.0%)
 - 65.0.0.0/14 (AS16509)     3 (1.0%)
 - 3.108.0.0/14 (AS16509)    3 (1.0%)
 - 20.64.0.0/10 (AS8075)     3 (1.0%)
-- 44.192.0.0/11 (AS14618)   3 (1.0%)
 
 Top Countries
 - United States  76 (25.3%)
 - China          60 (20.0%)
 - Germany        32 (10.7%)
-- Russia         14 (4.7%)
 - United Kingdom 14 (4.7%)
+- Russia         14 (4.7%)
 
 Top Cities
 - Beijing, Beijing, CN               31 (10.3%)
@@ -52,9 +52,9 @@ Top Regions
 - Central and Western, HK 13 (4.3%)
 
 Top Privacy Services
+- Perfect Privacy 1 (0.3%)
 - VPN Unlimited   1 (0.3%)
 - VPN Gate        1 (0.3%)
-- Perfect Privacy 1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (3.0%)
