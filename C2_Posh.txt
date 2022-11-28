@@ -1,0 +1,9 @@
+132.145.106.12,8443,PoshC2,Oracle Public Cloud,
+95.213.145.101,443,PoshC2,Selectel SPb,
+192.18.141.199,443,PoshC2,Oracle Corporation,
+165.22.119.30,443,PoshC2,DigitalOcean, LLC,
+184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
+20.218.128.59,443,PoshC2,Microsoft Corporation,
+109.248.6.221,443,PoshC2,Delta Ltd,free.datacheap.ru
+116.203.51.117,443,PoshC2,Hetzner Online GmbH,static.117.51.203.116.clients.your-server.de
+45.137.117.200,8443,PoshC2,IPXO LIMITED,vps-zap1000623-1.zap-srv.com
