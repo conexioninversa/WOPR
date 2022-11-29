@@ -19,21 +19,21 @@ Top ASNs
 
 Top Usage Types
 - Hosting   260 (85.0%)
-- Business  27 (8.8%)
-- ISP       11 (3.6%)
+- Business  25 (8.2%)
+- ISP       13 (4.2%)
 - Education 7 (2.3%)
 
 Top Routes
 - 20.64.0.0/10 (AS8075)      4 (1.3%)
 - 1.13.128.0/18 (AS45090)    4 (1.3%)
-- 47.243.0.0/16 (AS45102)    3 (1.0%)
 - 101.43.128.0/18 (AS45090)  3 (1.0%)
 - 107.172.206.0/24 (AS36352) 3 (1.0%)
+- 47.243.0.0/16 (AS45102)    3 (1.0%)
 
 Top Countries
 - China          81 (26.5%)
 - United States  80 (26.1%)
-- Germany        32 (10.5%)
+- Germany        33 (10.8%)
 - Russia         21 (6.9%)
 - United Kingdom 12 (3.9%)
 
@@ -52,9 +52,9 @@ Top Regions
 - Guangdong, CN  17 (5.6%)
 
 Top Privacy Services
-- VPN Unlimited   1 (0.3%)
 - NordVPN         1 (0.3%)
 - Perfect Privacy 1 (0.3%)
+- VPN Unlimited   1 (0.3%)
 
 Top Domains
 - null                 14 (4.6%)
