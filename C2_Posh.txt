@@ -1,7 +1,7 @@
+192.18.141.199,443,PoshC2,Oracle Corporation,
 34.235.5.141,443,PoshC2,Amazon Technologies Inc.,ec2-34-235-5-141.compute-1.amazonaws.com
 62.182.159.147,443,PoshC2,Selectel Network,
 132.145.106.12,8443,PoshC2,Oracle Public Cloud,
-192.18.141.199,443,PoshC2,Oracle Corporation,
 95.213.145.101,443,PoshC2,Selectel SPb,
 165.22.119.30,443,PoshC2,DigitalOcean, LLC,
 184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
