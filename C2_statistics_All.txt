@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 107.172.206.0/24 (AS36352) 4 (1.4%)
-- 1.13.128.0/18 (AS45090)    3 (1.0%)
-- 173.82.0.0/16 (AS35916)    3 (1.0%)
 - 106.55.128.0/18 (AS45090)  3 (1.0%)
 - 18.208.0.0/13 (AS14618)    3 (1.0%)
+- 1.13.128.0/18 (AS45090)    3 (1.0%)
+- 173.82.0.0/16 (AS35916)    3 (1.0%)
 
 Top Countries
 - United States 85 (29.6%)
@@ -39,8 +39,8 @@ Top Countries
 
 Top Cities
 - Beijing, Beijing, CN         43 (15.0%)
-- Ashburn, Virginia, US        13 (4.5%)
 - Frankfurt am Main, Hesse, DE 13 (4.5%)
+- Ashburn, Virginia, US        13 (4.5%)
 - Dallas, Texas, US            11 (3.8%)
 - Los Angeles, California, US  11 (3.8%)
 
