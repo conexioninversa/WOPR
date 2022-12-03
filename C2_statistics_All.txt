@@ -6,29 +6,29 @@ Summary
 - Mobile  0
 - VPN     9
 - Proxy   0
-- Hosting 255
+- Hosting 258
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS14061 DigitalOcean, LLC                                 51 (16.0%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 44 (13.8%)
-- AS16276 OVH SAS                                           18 (5.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.7%)
+- AS16276 OVH SAS                                           18 (5.7%)
 - AS16509 Amazon.com, Inc.                                  17 (5.3%)
 
 Top Usage Types
-- Hosting   255 (80.2%)
-- Business  43 (13.5%)
+- Hosting   258 (81.1%)
+- Business  40 (12.6%)
 - ISP       17 (5.3%)
 - Education 3 (0.9%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     7 (2.2%)
-- 47.96.0.0/16 (AS37963)     3 (0.9%)
 - 20.64.0.0/10 (AS8075)      3 (0.9%)
 - 182.161.68.0/22 (AS132839) 3 (0.9%)
 - 39.104.0.0/15 (AS37963)    3 (0.9%)
+- 47.96.0.0/16 (AS37963)     3 (0.9%)
 
 Top Countries
 - United States  87 (27.4%)
@@ -52,10 +52,10 @@ Top Regions
 - Virginia, US   16 (5.0%)
 
 Top Privacy Services
+- NordVPN         1 (0.3%)
+- Mullvad         1 (0.3%)
 - VPN Gate        1 (0.3%)
 - Perfect Privacy 1 (0.3%)
-- NordVPN         1 (0.3%)
-- PureVPN         1 (0.3%)
 
 Top Domains
 - null                       13 (4.1%)
