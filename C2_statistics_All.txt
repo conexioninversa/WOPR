@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS14061 DigitalOcean, LLC                                 51 (16.0%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 44 (13.8%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.7%)
 - AS16276 OVH SAS                                           18 (5.7%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.7%)
 - AS16509 Amazon.com, Inc.                                  17 (5.3%)
 
 Top Usage Types
@@ -52,10 +52,10 @@ Top Regions
 - Virginia, US   16 (5.0%)
 
 Top Privacy Services
-- Perfect Privacy 1 (0.3%)
 - NordVPN         1 (0.3%)
 - PureVPN         1 (0.3%)
 - VPN Gate        1 (0.3%)
+- Perfect Privacy 1 (0.3%)
 
 Top Domains
 - null                       13 (4.1%)
