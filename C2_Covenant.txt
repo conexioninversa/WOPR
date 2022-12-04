@@ -1,25 +1,26 @@
-159.65.92.62,7443,Covenant,DigitalOcean, LLC,
-94.232.43.227,7443,Covenant,XHOST INTERNET SOLUTIONS LP,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-130.61.124.23,7443,Covenant,Oracle Public Cloud,
-5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
-143.244.164.160,7443,Covenant,DigitalOcean, LLC,
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-46.161.40.123,7443,Covenant,Petersburg Internet Network ltd.,hosting-by.ankas-group.net
-174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
-51.159.195.132,7443,Covenant,Scaleway,46b8e7dc-2822-44ab-8994-8091a594e3b5.fr-par-2.baremetal.scw.cloud
-143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-3.131.163.207,7443,Covenant,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
-13.69.157.241,7443,Covenant,Microsoft Corporation,
-3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
-172.104.157.19,7443,Covenant,Linode,172-104-157-19.ip.linodeusercontent.com
-13.56.40.136,7443,Covenant,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
-20.118.206.80,7443,Covenant,Microsoft Corporation,
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+51.159.195.132,7443,Covenant,Scaleway,46b8e7dc-2822-44ab-8994-8091a594e3b5.fr-par-2.baremetal.scw.cloud
 178.62.200.196,7443,Covenant,DigitalOcean Amsterdam,
 138.68.168.158,7443,Covenant,DigitalOcean, LLC,
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
+159.65.92.62,7443,Covenant,DigitalOcean, LLC,
+94.232.43.227,7443,Covenant,XHOST INTERNET SOLUTIONS LP,
+143.244.164.160,7443,Covenant,DigitalOcean, LLC,
+89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
+46.161.40.123,7443,Covenant,Petersburg Internet Network ltd.,hosting-by.ankas-group.net
+13.56.40.136,7443,Covenant,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
+130.61.124.23,7443,Covenant,Oracle Public Cloud,
+3.131.163.207,7443,Covenant,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
+13.69.157.241,7443,Covenant,Microsoft Corporation,
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
+174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
+172.104.157.19,7443,Covenant,Linode,172-104-157-19.ip.linodeusercontent.com
 216.93.199.231,7443,Covenant,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
+20.118.206.80,7443,Covenant,Microsoft Corporation,
 65.108.227.57,7443,Covenant,Hetzner Online GmbH,static.57.227.108.65.clients.your-server.de
 13.246.93.11,7443,Covenant,Amazon Data Services South Africa,ec2-13-246-93-11.af-south-1.compute.amazonaws.com
 85.214.251.189,7443,Covenant,Strato Rechenzentrum, Berlin,h2965675.stratoserver.net
