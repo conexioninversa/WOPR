@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)       4 (1.2%)
-- 44.192.0.0/11 (AS14618)     3 (0.9%)
-- 1.116.0.0/18 (AS45090)      3 (0.9%)
 - 103.150.173.0/24 (AS147001) 3 (0.9%)
 - 13.64.0.0/11 (AS8075)       3 (0.9%)
+- 44.192.0.0/11 (AS14618)     3 (0.9%)
+- 1.116.0.0/18 (AS45090)      3 (0.9%)
 
 Top Countries
 - United States 92 (28.7%)
@@ -52,9 +52,9 @@ Top Regions
 - Shanghai, CN   16 (5.0%)
 
 Top Privacy Services
+- Mullvad   1 (0.3%)
 - GHOSTPATH 1 (0.3%)
 - NordVPN   1 (0.3%)
-- Mullvad   1 (0.3%)
 
 Top Domains
 - null                  17 (5.3%)
