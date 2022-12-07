@@ -53,6 +53,11 @@ Map of the origins of the command & control
 <p>
 </p>
 
+<p align="center">
+<img src="https://www.virustotal.com/graph/embed/g1a3022fa6a2941bd856108080ebe6e1f735f8c7e0ea44bb68a9274e542bbe0b0"/>
+Relations from virustotal
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/conexioninversa/MalwareIntel/main/maps/attackersmap.png"/>
