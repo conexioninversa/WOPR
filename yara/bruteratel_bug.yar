@@ -1,4 +1,4 @@
-rule brc4_badger_strings
+rule brc4_badger_strings_data
 {
 meta:
     author = "@domchell"
