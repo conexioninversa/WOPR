@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     3
+- VPN     5
 - Proxy   0
 - Hosting 265
 - Tor     0
@@ -52,6 +52,7 @@ Top Regions
 - Shanghai, CN   16 (5.2%)
 
 Top Privacy Services
+- TunnelBear      2 (0.7%)
 - Perfect Privacy 1 (0.3%)
 
 Top Domains
