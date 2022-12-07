@@ -14,10 +14,10 @@ Files:
   * `C2_Covenant.txt` - List of adversary Command & Control from Covenant
   * `C2_Mythic.txt` - List of adversary Command & Control from Mythic Framework  
   * `C2_All.txt` - Contains all the CSV files grouped in a single file
-  * `C2_statistics_All.csv` - Contains the statistics of the malicious IPs of the entire C2_All.csv file in the last 24 hours
-  * `C2_GeoLocation.csv` - Geolocations of the malicious IPs of the entire C2_All.csv file in the last 24 hours
-  * `Malicious_IP_C2_All.csv` - Contains the malicious IPs of the adversaries of all the C2_ files in  the last 24 hours
-  * `last24hours_Malwarehashes.csv` - Malicious hashes obtained in the last 24 hours
+  * `C2_statistics_All.txt` - Contains the statistics of the malicious IPs of the entire C2_All.csv file in the last 24 hours
+  * `C2_GeoLocation.txt` - Geolocations of the malicious IPs of the entire C2_All.csv file in the last 24 hours
+  * `Malicious_IP_C2_All.txt` - Contains the malicious IPs of the adversaries of all the C2_ files in  the last 24 hours
+  * `last24hours_Malwarehashes.txt` - Malicious hashes obtained in the last 24 hours
   * `C2_Deimos` - List of adversary Command & Control from Deimos Fraework
   * `C2_Panda` - List of adversary Command & Control 
   * `C2_PoweSploit` - List of adversary Command & Control
@@ -29,7 +29,7 @@ Files directory maps:
 
 
 ---
-Files directory raw:
+Files directory raw_config_C2:
   * `C2_BruteRatel.json` - List of raw format
   * `C2_CobaltStrikeBeacon.json` - List of raw format 
   * `C2_Metasploit.json` - List of raw format
