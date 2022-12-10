@@ -1,6 +1,11 @@
+107.148.27.54,443,localhost,Brute Ratel C4,PEG TECH INC,
+18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
+45.137.117.219,443,localhost,Brute Ratel C4,IPXO LIMITED,vps-zap928041-1.zap-srv.com
+45.137.117.219,80,,Brute Ratel C4,IPXO LIMITED,vps-zap928041-1.zap-srv.com
 54.238.217.34,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-54-238-217-34.ap-northeast-1.compute.amazonaws.com
 13.82.141.216,443,R3,Brute Ratel C4,Microsoft Corporation,spectrumofinnovation.org
+54.235.16.137,443,R3,Brute Ratel C4,Amazon.com, Inc.,systemresync.com;ec2-54-235-16-137.compute-1.amazonaws.com
 44.204.63.95,443,localhost,Brute Ratel C4,Amazon Data Services NoVa,ec2-44-204-63-95.compute-1.amazonaws.com
-18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
+107.148.27.54,8443,localhost,Brute Ratel C4,PEG TECH INC,
 2.37.28.171,9002,R3,Brute Ratel C4,Vodafone Italia S.p.A.,net-2-37-28-171.cust.vodafonedsl.it;francodp.dyndns.tv
 79.3.12.7,9002,R3,Brute Ratel C4,Telecom Italia S.p.A. TIN EASY LITE,host-79-3-12-7.business.telecomitalia.it;francodp.dyndns.tv

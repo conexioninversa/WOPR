@@ -1,3 +1,5 @@
+174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
+194.36.189.196,7443,Covenant,Host Sailor Ltd.,
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
 18.192.103.237,443,Covenant,A100 ROW GmbH,ec2-18-192-103-237.eu-central-1.compute.amazonaws.com
 5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
@@ -17,7 +19,6 @@
 138.68.168.158,7443,Covenant,DigitalOcean, LLC,
 143.244.164.160,7443,Covenant,DigitalOcean, LLC,
 13.69.157.241,7443,Covenant,Microsoft Corporation,
-174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
 94.232.43.227,7443,Covenant,XHOST INTERNET SOLUTIONS LP,
 3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
 51.159.195.132,7443,Covenant,Scaleway,46b8e7dc-2822-44ab-8994-8091a594e3b5.fr-par-2.baremetal.scw.cloud
