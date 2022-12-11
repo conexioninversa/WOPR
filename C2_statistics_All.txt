@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     5 (1.6%)
-- 77.73.131.0/24 (AS210644)  3 (1.0%)
-- 107.172.206.0/24 (AS36352) 3 (1.0%)
 - 20.64.0.0/10 (AS8075)      3 (1.0%)
 - 173.82.0.0/16 (AS35916)    3 (1.0%)
+- 77.73.131.0/24 (AS210644)  3 (1.0%)
+- 107.172.206.0/24 (AS36352) 3 (1.0%)
 
 Top Countries
 - United States  72 (22.9%)
@@ -52,13 +52,13 @@ Top Regions
 - Central and Western, HK 15 (4.8%)
 
 Top Privacy Services
-- NordVPN         1 (0.3%)
-- GHOSTPATH       1 (0.3%)
 - SaferVPN        1 (0.3%)
 - Perfect Privacy 1 (0.3%)
+- NordVPN         1 (0.3%)
+- GHOSTPATH       1 (0.3%)
 
 Top Domains
 - null                 14 (4.5%)
 - contaboserver.net    6 (1.9%)
-- vultrusercontent.com 5 (1.6%)
 - your-server.de       5 (1.6%)
+- vultrusercontent.com 5 (1.6%)
