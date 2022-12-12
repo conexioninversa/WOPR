@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     8
 - Proxy   0
-- Hosting 275
+- Hosting 278
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  13 (4.1%)
 
 Top Usage Types
-- Hosting   275 (87.3%)
-- Business  22 (7.0%)
+- Hosting   278 (88.3%)
+- Business  19 (6.0%)
 - ISP       12 (3.8%)
 - Education 6 (1.9%)
 
@@ -52,7 +52,8 @@ Top Regions
 - Virginia, US   15 (4.8%)
 
 Top Privacy Services
-- Mullvad 1 (0.3%)
+- TunnelBear 2 (0.6%)
+- PureVPN    1 (0.3%)
 
 Top Domains
 - null                 14 (4.4%)
