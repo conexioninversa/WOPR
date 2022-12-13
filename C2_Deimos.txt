@@ -1,5 +1,5 @@
-5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
-165.227.45.251,8443,Deimos C2,DigitalOcean, LLC,
 5.101.5.196,8443,Deimos C2,s80.spb-dc's objects,
+5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
 217.73.62.166,8443,Deimos C2,Closed Joint Stock Company CROC incorporated,c2-217-73-62-166.elastic.cloud.croc.ru
+165.227.45.251,8443,Deimos C2,DigitalOcean, LLC,
 83.220.173.29,8443,Deimos C2,JSC Server,corp.tass.ru
