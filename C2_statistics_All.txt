@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     4
 - Proxy   0
 - Hosting 276
 - Tor     0
@@ -40,19 +40,16 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         32 (10.2%)
 - Frankfurt am Main, Hesse, DE 19 (6.0%)
-- Shanghai, Shanghai, CN       17 (5.4%)
 - Ashburn, Virginia, US        16 (5.1%)
+- Shanghai, Shanghai, CN       16 (5.1%)
 - Amsterdam, North Holland, NL 11 (3.5%)
 
 Top Regions
 - Beijing, CN    32 (10.2%)
 - Hesse, DE      20 (6.3%)
 - Virginia, US   17 (5.4%)
-- California, US 17 (5.4%)
-- Shanghai, CN   17 (5.4%)
-
-Top Privacy Services
-- TunnelBear 2 (0.6%)
+- California, US 16 (5.1%)
+- Shanghai, CN   16 (5.1%)
 
 Top Domains
 - null             16 (5.1%)
