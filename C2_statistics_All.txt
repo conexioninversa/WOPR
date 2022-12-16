@@ -24,8 +24,8 @@ Top Usage Types
 - Education 3 (1.0%)
 
 Top Routes
-- 5.196.0.0/16 (AS16276)     5 (1.6%)
 - 20.64.0.0/10 (AS8075)      5 (1.6%)
+- 5.196.0.0/16 (AS16276)     5 (1.6%)
 - 13.64.0.0/11 (AS8075)      3 (1.0%)
 - 205.185.112.0/20 (AS53667) 2 (0.6%)
 - 54.221.0.0/16 (AS14618)    2 (0.6%)
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN         36 (11.6%)
 - Frankfurt am Main, Hesse, DE 19 (6.1%)
 - Amsterdam, North Holland, NL 16 (5.1%)
-- London, England, GB          13 (4.2%)
 - Ashburn, Virginia, US        13 (4.2%)
+- London, England, GB          13 (4.2%)
 
 Top Regions
 - Beijing, CN    36 (11.6%)
