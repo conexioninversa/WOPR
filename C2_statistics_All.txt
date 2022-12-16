@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 271
+- Hosting 254
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.5%)
 
 Top Usage Types
-- Hosting   271 (87.1%)
-- Business  23 (7.4%)
+- Hosting   254 (81.7%)
+- Business  40 (12.9%)
 - ISP       14 (4.5%)
 - Education 3 (1.0%)
 
@@ -56,6 +56,6 @@ Top Privacy Services
 
 Top Domains
 - null                 12 (3.9%)
-- contaboserver.net    6 (1.9%)
 - vultrusercontent.com 6 (1.9%)
+- contaboserver.net    6 (1.9%)
 - your-server.de       5 (1.6%)
