@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     6
 - Proxy   0
-- Hosting 241
+- Hosting 262
 - Tor     0
 - Relay   0
 
@@ -18,16 +18,16 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.5%)
 
 Top Usage Types
-- Hosting   241 (77.7%)
-- Business  44 (14.2%)
+- Hosting   262 (84.5%)
+- Business  23 (7.4%)
 - ISP       19 (6.1%)
 - Education 5 (1.6%)
 
 Top Routes
-- 182.161.68.0/22 (AS132839) 3 (1.0%)
 - 77.73.134.0/24 (AS204603)  3 (1.0%)
 - 13.64.0.0/11 (AS8075)      3 (1.0%)
 - 20.64.0.0/10 (AS8075)      3 (1.0%)
+- 182.161.68.0/22 (AS132839) 3 (1.0%)
 - 39.96.0.0/14 (AS37963)     2 (0.6%)
 
 Top Countries
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN         31 (10.0%)
 - Frankfurt am Main, Hesse, DE 22 (7.1%)
 - Amsterdam, North Holland, NL 16 (5.2%)
-- London, England, GB          12 (3.9%)
 - Ashburn, Virginia, US        12 (3.9%)
+- London, England, GB          12 (3.9%)
 
 Top Regions
 - Beijing, CN       31 (10.0%)
