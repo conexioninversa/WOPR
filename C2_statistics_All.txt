@@ -24,11 +24,11 @@ Top Usage Types
 - Education 5 (1.6%)
 
 Top Routes
-- 5.196.0.0/16 (AS16276)    4 (1.3%)
 - 77.73.134.0/24 (AS204603) 4 (1.3%)
-- 39.100.0.0/14 (AS37963)   3 (1.0%)
+- 5.196.0.0/16 (AS16276)    4 (1.3%)
 - 20.64.0.0/10 (AS8075)     3 (1.0%)
 - 43.142.128.0/18 (AS45090) 3 (1.0%)
+- 39.100.0.0/14 (AS37963)   3 (1.0%)
 
 Top Countries
 - United States 83 (26.9%)
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         34 (11.0%)
 - Frankfurt am Main, Hesse, DE 18 (5.8%)
-- Ashburn, Virginia, US        12 (3.9%)
 - Amsterdam, North Holland, NL 12 (3.9%)
+- Ashburn, Virginia, US        12 (3.9%)
 - Hangzhou, Zhejiang, CN       10 (3.2%)
 
 Top Regions
@@ -52,8 +52,8 @@ Top Regions
 - Zhejiang, CN   13 (4.2%)
 
 Top Privacy Services
-- PureVPN 1 (0.3%)
 - Mullvad 1 (0.3%)
+- PureVPN 1 (0.3%)
 
 Top Domains
 - contaboserver.net 13 (4.2%)
