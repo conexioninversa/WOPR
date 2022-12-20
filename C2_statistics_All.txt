@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     9
+- VPN     7
 - Proxy   0
-- Hosting 252
+- Hosting 235
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.6%)
 
 Top Usage Types
-- Hosting   252 (82.9%)
-- Business  25 (8.2%)
-- ISP       20 (6.6%)
+- Hosting   235 (77.3%)
+- Business  45 (14.8%)
+- ISP       17 (5.6%)
 - Education 6 (2.0%)
 
 Top Routes
@@ -48,12 +48,8 @@ Top Regions
 - Beijing, CN       38 (12.5%)
 - Hesse, DE         22 (7.2%)
 - England, GB       18 (5.9%)
-- California, US    18 (5.9%)
+- California, US    17 (5.6%)
 - North Holland, NL 14 (4.6%)
-
-Top Privacy Services
-- SaferVPN   1 (0.3%)
-- TunnelBear 1 (0.3%)
 
 Top Domains
 - null                 12 (3.9%)
