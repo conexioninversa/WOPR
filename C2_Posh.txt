@@ -1,7 +1,7 @@
-95.213.145.101,443,PoshC2,Selectel SPb,
+62.182.159.147,443,PoshC2,Selectel Network,
 132.145.106.12,8443,PoshC2,Oracle Public Cloud,
 109.234.36.5,443,PoshC2,VDSINA VDS Hosting,v1000853.hosted-by-vdsina.ru
-62.182.159.147,443,PoshC2,Selectel Network,
+95.213.145.101,443,PoshC2,Selectel SPb,
 159.223.20.20,443,PoshC2,DigitalOcean, LLC,
 192.18.141.199,443,PoshC2,Oracle Corporation,
 34.235.5.141,443,PoshC2,Amazon Technologies Inc.,ec2-34-235-5-141.compute-1.amazonaws.com
