@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN         41 (13.5%)
 - Frankfurt am Main, Hesse, DE 16 (5.3%)
 - Ashburn, Virginia, US        13 (4.3%)
-- Hangzhou, Zhejiang, CN       10 (3.3%)
 - Moscow, Moscow, RU           10 (3.3%)
+- Hangzhou, Zhejiang, CN       10 (3.3%)
 
 Top Regions
 - Beijing, CN    41 (13.5%)
@@ -52,9 +52,9 @@ Top Regions
 - Virginia, US   15 (4.9%)
 
 Top Privacy Services
-- Mullvad  1 (0.3%)
 - NordVPN  1 (0.3%)
 - VPN Gate 1 (0.3%)
+- Mullvad  1 (0.3%)
 
 Top Domains
 - null                       13 (4.3%)
