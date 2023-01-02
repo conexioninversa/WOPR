@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 41 (13.1%)
 - AS14061 DigitalOcean, LLC                                 40 (12.8%)
 - AS16509 Amazon.com, Inc.                                  20 (6.4%)
-- AS14618 Amazon.com, Inc.                                  12 (3.8%)
 - AS8075 Microsoft Corporation                              12 (3.8%)
+- AS14618 Amazon.com, Inc.                                  12 (3.8%)
 
 Top Usage Types
 - Hosting   268 (85.6%)
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Beijing, CN    30 (9.6%)
 - Hesse, DE      20 (6.4%)
-- England, GB    16 (5.1%)
 - Shanghai, CN   16 (5.1%)
+- England, GB    16 (5.1%)
 - California, US 15 (4.8%)
 
 Top Privacy Services
