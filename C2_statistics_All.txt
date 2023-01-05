@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 241
+- Hosting 240
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  12 (4.2%)
 
 Top Usage Types
-- Hosting   241 (85.2%)
-- Business  24 (8.5%)
+- Hosting   240 (84.8%)
+- Business  25 (8.8%)
 - ISP       15 (5.3%)
 - Education 3 (1.1%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 5.196.0.0/16 (AS16276)    7 (2.5%)
 - 20.64.0.0/10 (AS8075)     5 (1.8%)
 - 77.73.134.0/24 (AS204603) 4 (1.4%)
-- 47.92.0.0/15 (AS37963)    3 (1.1%)
 - 121.199.0.0/16 (AS37963)  3 (1.1%)
+- 47.92.0.0/15 (AS37963)    3 (1.1%)
 
 Top Countries
 - United States 68 (24.0%)
@@ -52,7 +52,7 @@ Top Regions
 - Virginia, US   12 (4.2%)
 
 Top Privacy Services
-- OctaneVPN 1 (0.4%)
+- GHOSTPATH 1 (0.4%)
 - Mullvad   1 (0.4%)
 
 Top Domains
