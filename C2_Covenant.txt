@@ -1,29 +1,33 @@
-167.99.224.203,7443,,DigitalOcean, LLC,
-178.62.200.196,7443,,DigitalOcean Amsterdam,
-167.99.206.136,7443,,DigitalOcean, LLC,
-20.118.206.80,7443,,Microsoft Corporation,
-5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
+44.198.64.113,7443,,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 13.56.40.136,7443,,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
-130.61.124.23,7443,,Oracle Public Cloud,
-216.93.199.231,7443,,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
 172.104.157.19,7443,,Linode,172-104-157-19.ip.linodeusercontent.com
-159.65.92.62,7443,,DigitalOcean, LLC,
-20.112.75.17,7443,,Microsoft Corporation,
-89.163.153.7,7443,,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
-150.136.90.238,7443,,Oracle Public Cloud,
-143.47.228.54,7443,,Oracle Corporation Ireland,
-89.251.177.85,7443,,Logos Technologies Hosting and Housing Services,
+216.93.199.231,7443,,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
+138.68.168.158,7443,,DigitalOcean, LLC,
+143.244.164.160,7443,,DigitalOcean, LLC,
+94.232.43.227,7443,,XHOST INTERNET SOLUTIONS LP,
+130.61.124.23,7443,,Oracle Public Cloud,
+178.62.200.196,7443,,DigitalOcean Amsterdam,
 3.131.163.207,7443,,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
+150.136.90.238,7443,,Oracle Public Cloud,
 174.138.10.170,7443,,DigitalOcean, LLC,linkedllin.ml
 3.67.204.148,7443,,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-94.232.43.227,7443,,XHOST INTERNET SOLUTIONS LP,
-85.214.251.189,7443,,Strato Rechenzentrum, Berlin,h2965675.stratoserver.net
-138.68.168.158,7443,,DigitalOcean, LLC,
+3.72.11.135,7443,,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
+20.112.75.17,7443,,Microsoft Corporation,
+143.47.228.54,7443,,Oracle Corporation Ireland,
+89.163.153.7,7443,,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
+159.65.92.62,7443,,DigitalOcean, LLC,
+89.251.177.85,7443,,Logos Technologies Hosting and Housing Services,
 13.69.157.241,7443,,Microsoft Corporation,
-44.198.64.113,7443,,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+167.99.206.136,7443,,DigitalOcean, LLC,
+5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
+20.118.206.80,7443,,Microsoft Corporation,
 202.169.39.5,7443,,PT SWADHARMA PRIMAUTAMA,
+167.99.224.203,7443,,DigitalOcean, LLC,
+45.79.155.64,7443,,Linode,45-79-155-64.ip.linodeusercontent.com
+85.214.251.189,7443,,Strato Rechenzentrum, Berlin,h2965675.stratoserver.net
 54.178.124.65,7443,,Amazon Technologies Inc.,ec2-54-178-124-65.ap-northeast-1.compute.amazonaws.com
 159.89.229.33,7443,,DigitalOcean, LLC,
 198.27.76.162,7443,Covenant,OVH Hosting, Inc.,
+194.36.189.196,7443,Covenant,Host Sailor Ltd.,
 46.161.40.123,7443,Covenant,Petersburg Internet Network ltd.,hosting-by.ankas-group.net
 18.192.103.237,443,Covenant,A100 ROW GmbH,ec2-18-192-103-237.eu-central-1.compute.amazonaws.com
