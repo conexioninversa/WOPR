@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     7
 - Proxy   0
-- Hosting 266
+- Hosting 267
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           15 (4.8%)
 
 Top Usage Types
-- Hosting   266 (85.5%)
-- Business  27 (8.7%)
+- Hosting   267 (85.9%)
+- Business  26 (8.4%)
 - ISP       15 (4.8%)
 - Education 3 (1.0%)
 
@@ -52,7 +52,8 @@ Top Regions
 - Guangdong, CN  12 (3.9%)
 
 Top Privacy Services
-- HideMyAss 1 (0.3%)
+- TunnelBear 2 (0.6%)
+- HideMyAss  1 (0.3%)
 
 Top Domains
 - null              12 (3.9%)
