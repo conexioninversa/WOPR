@@ -1,8 +1,8 @@
 132.145.106.12,8443,,Oracle Public Cloud,
+44.192.81.16,443,,Amazon Data Services NoVa,ec2-44-192-81-16.compute-1.amazonaws.com
 62.182.159.147,443,,Selectel Network,
 52.62.27.203,4443,,Amazon Technologies Inc.,ec2-52-62-27-203.ap-southeast-2.compute.amazonaws.com
 109.234.36.5,443,,VDSINA VDS Hosting,v1000853.hosted-by-vdsina.ru
 95.213.145.101,443,,Selectel SPb,
 159.223.20.20,443,PoshC2,DigitalOcean, LLC,
 192.18.141.199,443,PoshC2,Oracle Corporation,
-34.235.5.141,443,PoshC2,Amazon Technologies Inc.,ec2-34-235-5-141.compute-1.amazonaws.com
