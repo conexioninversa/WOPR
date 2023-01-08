@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     3
 - Proxy   0
-- Hosting 273
+- Hosting 268
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             14 (4.5%)
 
 Top Usage Types
-- Hosting   273 (87.8%)
-- Business  20 (6.4%)
-- ISP       16 (5.1%)
+- Hosting   268 (86.2%)
+- Business  24 (7.7%)
+- ISP       17 (5.5%)
 - Education 2 (0.6%)
 
 Top Routes
@@ -40,9 +40,9 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN               33 (10.6%)
 - Frankfurt am Main, Hesse, DE       18 (5.8%)
-- Ashburn, Virginia, US              12 (3.9%)
 - Hong Kong, Central and Western, HK 12 (3.9%)
 - Amsterdam, North Holland, NL       12 (3.9%)
+- Ashburn, Virginia, US              12 (3.9%)
 
 Top Regions
 - Beijing, CN       33 (10.6%)
