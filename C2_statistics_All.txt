@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)     5 (1.6%)
+- 77.73.134.0/24 (AS204603) 4 (1.3%)
 - 44.192.0.0/11 (AS14618)   4 (1.3%)
 - 173.82.0.0/16 (AS35916)   4 (1.3%)
 - 16.170.0.0/15 (AS16509)   4 (1.3%)
-- 77.73.134.0/24 (AS204603) 4 (1.3%)
 
 Top Countries
 - United States 85 (27.8%)
@@ -52,8 +52,8 @@ Top Regions
 - Virginia, US      13 (4.2%)
 
 Top Privacy Services
-- Hide.ME       1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- Hide.ME       1 (0.3%)
 
 Top Domains
 - null                 12 (3.9%)
