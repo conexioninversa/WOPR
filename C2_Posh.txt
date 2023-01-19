@@ -1,6 +1,7 @@
 109.234.36.5,443,,VDSINA VDS Hosting,v1000853.hosted-by-vdsina.ru
-95.213.145.101,443,,Selectel SPb,
 132.145.106.12,8443,,Oracle Public Cloud,
+185.193.126.28,443,,Njalla,b9c17e1c.host.njalla.net
 94.130.106.165,443,,Hetzner Online GmbH,static.165.106.130.94.clients.your-server.de
 62.182.159.147,443,,Selectel Network,
+95.213.145.101,443,,Selectel SPb,
 44.192.81.16,443,,Amazon Data Services NoVa,ec2-44-192-81-16.compute-1.amazonaws.com
