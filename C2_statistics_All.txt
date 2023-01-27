@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     4
 - Proxy   0
-- Hosting 245
+- Hosting 244
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             13 (4.3%)
 
 Top Usage Types
-- Hosting   245 (80.6%)
-- Business  36 (11.8%)
+- Hosting   244 (80.3%)
+- Business  37 (12.2%)
 - ISP       14 (4.6%)
 - Education 6 (2.0%)
 
@@ -56,7 +56,7 @@ Top Privacy Services
 - HideMyAss  1 (0.3%)
 
 Top Domains
-- null                 15 (4.9%)
-- vultrusercontent.com 7 (2.3%)
-- contaboserver.net    6 (2.0%)
-- hwclouds-dns.com     5 (1.6%)
+- null                  15 (4.9%)
+- vultrusercontent.com  7 (2.3%)
+- contaboserver.net     6 (2.0%)
+- googleusercontent.com 5 (1.6%)
