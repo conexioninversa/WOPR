@@ -4,22 +4,22 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     9
+- VPN     8
 - Proxy   0
-- Hosting 242
+- Hosting 246
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (12.3%)
-- AS14061 DigitalOcean, LLC                                 25 (8.1%)
 - AS16509 Amazon.com, Inc.                                  25 (8.1%)
+- AS14061 DigitalOcean, LLC                                 25 (8.1%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (4.9%)
 - AS16276 OVH SAS                                           12 (3.9%)
 
 Top Usage Types
-- Hosting   242 (78.6%)
-- Business  40 (13.0%)
+- Hosting   246 (79.9%)
+- Business  36 (11.7%)
 - ISP       21 (6.8%)
 - Education 3 (1.0%)
 
@@ -52,8 +52,7 @@ Top Regions
 - Virginia, US      14 (4.5%)
 
 Top Privacy Services
-- TunnelBear 1 (0.3%)
-- SlickVPN   1 (0.3%)
+- OctaneVPN 1 (0.3%)
 
 Top Domains
 - null                 13 (4.2%)
