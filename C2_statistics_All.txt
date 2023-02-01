@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 251
+- Hosting 260
 - Tor     0
 - Relay   0
 
@@ -18,41 +18,42 @@ Top ASNs
 - AS53667 FranTech Solutions                                11 (3.6%)
 
 Top Usage Types
-- Hosting   251 (83.1%)
-- Business  29 (9.6%)
+- Hosting   260 (86.1%)
+- Business  20 (6.6%)
 - ISP       15 (5.0%)
 - Education 4 (1.3%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     6 (2.0%)
-- 209.141.32.0/19 (AS53667)  4 (1.3%)
-- 107.189.0.0/21 (AS53667)   4 (1.3%)
 - 124.222.128.0/18 (AS45090) 4 (1.3%)
 - 3.64.0.0/12 (AS16509)      4 (1.3%)
+- 209.141.32.0/19 (AS53667)  4 (1.3%)
+- 107.189.0.0/21 (AS53667)   4 (1.3%)
 
 Top Countries
 - United States 92 (30.5%)
 - China         53 (17.5%)
-- Germany       32 (10.6%)
+- Germany       31 (10.3%)
 - Netherlands   16 (5.3%)
-- Russia        11 (3.6%)
+- France        11 (3.6%)
 
 Top Cities
 - Beijing, Beijing, CN         23 (7.6%)
 - Frankfurt am Main, Hesse, DE 20 (6.6%)
 - Shanghai, Shanghai, CN       14 (4.6%)
+- Amsterdam, North Holland, NL 11 (3.6%)
 - Ashburn, Virginia, US        11 (3.6%)
-- Amsterdam, North Holland, NL 10 (3.3%)
 
 Top Regions
-- Beijing, CN    23 (7.6%)
 - Hesse, DE      23 (7.6%)
+- Beijing, CN    23 (7.6%)
 - New Jersey, US 15 (5.0%)
 - California, US 15 (5.0%)
 - Shanghai, CN   14 (4.6%)
 
 Top Privacy Services
-- TunnelBear 2 (0.7%)
+- TunnelBear 1 (0.3%)
+- SlickVPN   1 (0.3%)
 - SaferVPN   1 (0.3%)
 
 Top Domains
