@@ -24,25 +24,25 @@ Top Usage Types
 - Education 4 (1.4%)
 
 Top Routes
-- 205.185.112.0/20 (AS53667) 4 (1.4%)
 - 70.34.192.0/19 (AS20473)   4 (1.4%)
 - 3.64.0.0/12 (AS16509)      4 (1.4%)
 - 107.189.0.0/21 (AS53667)   4 (1.4%)
+- 205.185.112.0/20 (AS53667) 4 (1.4%)
 - 179.43.128.0/18 (AS51852)  3 (1.0%)
 
 Top Countries
 - United States 78 (27.2%)
 - China         53 (18.5%)
 - Germany       31 (10.8%)
-- Hong Kong     13 (4.5%)
 - Netherlands   13 (4.5%)
+- Hong Kong     13 (4.5%)
 
 Top Cities
 - Beijing, Beijing, CN         25 (8.7%)
 - Frankfurt am Main, Hesse, DE 15 (5.2%)
 - Shanghai, Shanghai, CN       12 (4.2%)
-- Amsterdam, North Holland, NL 11 (3.8%)
 - Ashburn, Virginia, US        11 (3.8%)
+- Amsterdam, North Holland, NL 11 (3.8%)
 
 Top Regions
 - Beijing, CN    25 (8.7%)
