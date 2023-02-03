@@ -1,22 +1,22 @@
-172.104.157.19,7443,Covenant,Akamai Technologies, Inc.,172-104-157-19.ip.linodeusercontent.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-85.214.251.189,7443,Covenant,Strato Rechenzentrum, Berlin,h2965675.stratoserver.net
-13.56.40.136,7443,Covenant,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
-3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
-174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
-216.93.199.231,7443,Covenant,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
-167.99.224.203,7443,Covenant,DigitalOcean, LLC,
-159.65.92.62,7443,Covenant,DigitalOcean, LLC,
-89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
-159.75.240.4,7443,Covenant,Tencent Cloud Computing (Beijing) Co., Ltd,
-5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
 143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
-20.118.206.80,7443,Covenant,Microsoft Corporation,
-143.244.164.160,7443,Covenant,DigitalOcean, LLC,
+167.99.224.203,7443,Covenant,DigitalOcean, LLC,
+172.104.157.19,7443,Covenant,Akamai Technologies, Inc.,172-104-157-19.ip.linodeusercontent.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
 178.62.200.196,7443,Covenant,DigitalOcean Amsterdam,
+143.244.164.160,7443,Covenant,DigitalOcean, LLC,
 3.131.163.207,7443,Covenant,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+216.93.199.231,7443,Covenant,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
+174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+13.56.40.136,7443,Covenant,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
+20.118.206.80,7443,Covenant,Microsoft Corporation,
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
+3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
+159.75.240.4,7443,Covenant,Tencent Cloud Computing (Beijing) Co., Ltd,
+159.65.92.62,7443,Covenant,DigitalOcean, LLC,
+85.214.251.189,7443,Covenant,Strato Rechenzentrum, Berlin,h2965675.stratoserver.net
 45.79.155.64,7443,,Linode,45-79-155-64.ip.linodeusercontent.com
 98.217.254.26,7443,,Comcast Cable Communications, Inc.,c-98-217-254-26.hsd1.ma.comcast.net
 40.69.93.0,7443,,Microsoft Corporation,
@@ -27,4 +27,3 @@
 94.232.43.227,7443,,XHOST INTERNET SOLUTIONS LP,
 89.251.177.85,7443,,Logos Technologies Hosting and Housing Services,
 202.169.39.5,7443,,PT SWADHARMA PRIMAUTAMA,
-54.178.124.65,7443,,Amazon Technologies Inc.,ec2-54-178-124-65.ap-northeast-1.compute.amazonaws.com
