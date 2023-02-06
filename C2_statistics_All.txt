@@ -14,8 +14,8 @@ Top ASNs
 - AS14061 DigitalOcean, LLC                                 37 (12.2%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 29 (9.5%)
 - AS16509 Amazon.com, Inc.                                  19 (6.2%)
-- AS53667 FranTech Solutions                                11 (3.6%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             11 (3.6%)
+- AS53667 FranTech Solutions                                11 (3.6%)
 
 Top Usage Types
 - Hosting   260 (85.5%)
@@ -52,9 +52,9 @@ Top Regions
 - Guangdong, CN     13 (4.3%)
 
 Top Privacy Services
+- TunnelBear 1 (0.3%)
 - Mullvad    1 (0.3%)
 - EARTHVPN   1 (0.3%)
-- TunnelBear 1 (0.3%)
 
 Top Domains
 - null                 10 (3.3%)
