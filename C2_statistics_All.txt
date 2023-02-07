@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     6
 - Proxy   0
-- Hosting 241
+- Hosting 228
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS8075 Microsoft Corporation                              10 (3.6%)
 
 Top Usage Types
-- Hosting   241 (86.4%)
-- Business  20 (7.2%)
-- ISP       14 (5.0%)
+- Hosting   228 (81.7%)
+- Business  36 (12.9%)
+- ISP       11 (3.9%)
 - Education 2 (0.7%)
 
 Top Routes
@@ -47,14 +47,14 @@ Top Cities
 Top Regions
 - Beijing, CN       23 (8.2%)
 - North Holland, NL 17 (6.1%)
-- California, US    15 (5.4%)
 - Hesse, DE         15 (5.4%)
-- New Jersey, US    11 (3.9%)
+- California, US    15 (5.4%)
+- New Jersey, US    12 (4.3%)
 
 Top Privacy Services
+- EARTHVPN   1 (0.4%)
 - TunnelBear 1 (0.4%)
 - World VPN  1 (0.4%)
-- EARTHVPN   1 (0.4%)
 
 Top Domains
 - null                 8 (2.9%)
