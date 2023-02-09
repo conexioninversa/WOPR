@@ -6,42 +6,42 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 217
+- Hosting 219
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS14061 DigitalOcean, LLC                                 31 (11.4%)
-- AS16509 Amazon.com, Inc.                                  19 (7.0%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 19 (7.0%)
+- AS16509 Amazon.com, Inc.                                  19 (7.0%)
 - AS8075 Microsoft Corporation                              13 (4.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             11 (4.0%)
 
 Top Usage Types
-- Hosting   217 (79.8%)
-- Business  39 (14.3%)
+- Hosting   219 (80.5%)
+- Business  37 (13.6%)
 - ISP       12 (4.4%)
 - Education 2 (0.7%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)   5 (1.8%)
 - 3.64.0.0/12 (AS16509)    5 (1.8%)
+- 70.34.192.0/19 (AS20473) 4 (1.5%)
 - 20.64.0.0/10 (AS8075)    4 (1.5%)
 - 20.192.0.0/10 (AS8075)   4 (1.5%)
-- 70.34.192.0/19 (AS20473) 4 (1.5%)
 
 Top Countries
 - United States 81 (29.8%)
 - China         35 (12.9%)
 - Germany       28 (10.3%)
-- Netherlands   19 (7.0%)
+- Netherlands   20 (7.4%)
 - Hong Kong     18 (6.6%)
 
 Top Cities
 - Frankfurt am Main, Hesse, DE       22 (8.1%)
 - Beijing, Beijing, CN               19 (7.0%)
 - Hong Kong, Central and Western, HK 16 (5.9%)
-- Amsterdam, North Holland, NL       12 (4.4%)
+- Amsterdam, North Holland, NL       11 (4.0%)
 - North Bergen, New Jersey, US       9 (3.3%)
 
 Top Regions
@@ -49,7 +49,7 @@ Top Regions
 - Beijing, CN             19 (7.0%)
 - Central and Western, HK 16 (5.9%)
 - California, US          13 (4.8%)
-- North Holland, NL       13 (4.8%)
+- North Holland, NL       12 (4.4%)
 
 Top Privacy Services
 - TunnelBear 1 (0.4%)
@@ -57,7 +57,7 @@ Top Privacy Services
 - World VPN  1 (0.4%)
 
 Top Domains
+- null                 10 (3.7%)
 - vultrusercontent.com 8 (2.9%)
-- null                 8 (2.9%)
+- aeza.network         5 (1.8%)
 - contaboserver.net    5 (1.8%)
-- aeza.network         4 (1.5%)
