@@ -24,8 +24,8 @@ Top Usage Types
 - Education 2 (0.7%)
 
 Top Routes
-- 3.64.0.0/12 (AS16509)    5 (1.8%)
 - 5.196.0.0/16 (AS16276)   5 (1.8%)
+- 3.64.0.0/12 (AS16509)    5 (1.8%)
 - 70.34.192.0/19 (AS20473) 4 (1.5%)
 - 20.64.0.0/10 (AS8075)    4 (1.5%)
 - 20.192.0.0/10 (AS8075)   4 (1.5%)
@@ -52,9 +52,9 @@ Top Regions
 - North Holland, NL       12 (4.4%)
 
 Top Privacy Services
-- World VPN  1 (0.4%)
 - TunnelBear 1 (0.4%)
 - SlickVPN   1 (0.4%)
+- World VPN  1 (0.4%)
 
 Top Domains
 - null                 10 (3.7%)
