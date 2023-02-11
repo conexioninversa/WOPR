@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     9
 - Proxy   0
-- Hosting 241
+- Hosting 261
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS8075 Microsoft Corporation                              13 (4.3%)
 
 Top Usage Types
-- Hosting   241 (79.3%)
-- Business  47 (15.5%)
+- Hosting   261 (85.9%)
+- Business  27 (8.9%)
 - ISP       13 (4.3%)
 - Education 1 (0.3%)
 
@@ -40,7 +40,7 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         32 (10.5%)
 - Frankfurt am Main, Hesse, DE 26 (8.6%)
-- Amsterdam, North Holland, NL 12 (3.9%)
+- Amsterdam, North Holland, NL 11 (3.6%)
 - Singapore, Singapore, SG     10 (3.3%)
 - Los Angeles, California, US  9 (3.0%)
 
@@ -49,11 +49,11 @@ Top Regions
 - Hesse, DE         27 (8.9%)
 - California, US    14 (4.6%)
 - Virginia, US      12 (3.9%)
-- North Holland, NL 12 (3.9%)
+- North Holland, NL 11 (3.6%)
 
 Top Privacy Services
-- TunnelBear 1 (0.3%)
-- NordVPN    1 (0.3%)
+- TunnelBear 3 (1.0%)
+- HideMyAss  1 (0.3%)
 - SaferVPN   1 (0.3%)
 
 Top Domains
