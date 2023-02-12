@@ -40,9 +40,9 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         24 (8.0%)
 - Frankfurt am Main, Hesse, DE 23 (7.6%)
-- North Bergen, New Jersey, US 11 (3.7%)
 - Los Angeles, California, US  11 (3.7%)
 - Shanghai, Shanghai, CN       11 (3.7%)
+- North Bergen, New Jersey, US 11 (3.7%)
 
 Top Regions
 - Hesse, DE      26 (8.6%)
@@ -53,12 +53,12 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear 2 (0.7%)
-- Mullvad    1 (0.3%)
 - World VPN  1 (0.3%)
 - FrostVPN   1 (0.3%)
+- Mullvad    1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.7%)
-- contaboserver.net    10 (3.3%)
 - null                 10 (3.3%)
+- contaboserver.net    10 (3.3%)
 - your-server.de       6 (2.0%)
