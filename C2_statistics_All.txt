@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS14061 DigitalOcean, LLC                                 33 (11.0%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (11.0%)
+- AS14061 DigitalOcean, LLC                                 33 (11.0%)
 - AS16509 Amazon.com, Inc.                                  22 (7.3%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             13 (4.3%)
 - AS8075 Microsoft Corporation                              11 (3.7%)
@@ -40,9 +40,9 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         24 (8.0%)
 - Frankfurt am Main, Hesse, DE 23 (7.6%)
+- North Bergen, New Jersey, US 11 (3.7%)
 - Los Angeles, California, US  11 (3.7%)
 - Shanghai, Shanghai, CN       11 (3.7%)
-- North Bergen, New Jersey, US 11 (3.7%)
 
 Top Regions
 - Hesse, DE      26 (8.6%)
@@ -59,6 +59,6 @@ Top Privacy Services
 
 Top Domains
 - vultrusercontent.com 11 (3.7%)
-- null                 10 (3.3%)
 - contaboserver.net    10 (3.3%)
+- null                 10 (3.3%)
 - your-server.de       6 (2.0%)
