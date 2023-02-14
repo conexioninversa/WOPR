@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     4
+- VPN     3
 - Proxy   0
 - Hosting 250
 - Tor     0
@@ -52,7 +52,7 @@ Top Regions
 - New Jersey, US 13 (4.5%)
 
 Top Privacy Services
-- TunnelBear 3 (1.0%)
+- TunnelBear 2 (0.7%)
 
 Top Domains
 - vultrusercontent.com 13 (4.5%)
