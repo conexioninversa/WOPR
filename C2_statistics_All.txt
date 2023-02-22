@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 32 (10.4%)
 - AS14061 DigitalOcean, LLC                                 32 (10.4%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 32 (10.4%)
 - AS16509 Amazon.com, Inc.                                  22 (7.1%)
 - AS16276 OVH SAS                                           19 (6.2%)
 - AS8075 Microsoft Corporation                              10 (3.2%)
@@ -45,8 +45,8 @@ Top Cities
 - Los Angeles, California, US  11 (3.6%)
 
 Top Regions
-- Hesse, DE         24 (7.8%)
 - Beijing, CN       24 (7.8%)
+- Hesse, DE         24 (7.8%)
 - California, US    17 (5.5%)
 - North Holland, NL 14 (4.5%)
 - Virginia, US      14 (4.5%)
