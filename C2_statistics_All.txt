@@ -13,9 +13,9 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (10.7%)
 - AS14061 DigitalOcean, LLC                                 31 (10.1%)
+- AS16276 OVH SAS                                           16 (5.2%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             16 (5.2%)
 - AS16509 Amazon.com, Inc.                                  16 (5.2%)
-- AS16276 OVH SAS                                           16 (5.2%)
 
 Top Usage Types
 - Hosting   262 (85.1%)
@@ -52,8 +52,8 @@ Top Regions
 - Shanghai, CN   15 (4.9%)
 
 Top Privacy Services
-- World VPN 1 (0.3%)
 - SaferVPN  1 (0.3%)
+- World VPN 1 (0.3%)
 
 Top Domains
 - null                 10 (3.2%)
