@@ -5,7 +5,7 @@ Summary
 - Bogon   0
 - Mobile  0
 - VPN     7
-- Proxy   0
+- Proxy   1
 - Hosting 266
 - Tor     0
 - Relay   0
@@ -52,7 +52,7 @@ Top Regions
 - Virginia, US   13 (4.2%)
 
 Top Privacy Services
-- SaferVPN 1 (0.3%)
+- GHOSTPATH 1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (2.9%)
