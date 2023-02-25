@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 263
+- Hosting 266
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (3.9%)
 
 Top Usage Types
-- Hosting   263 (85.1%)
-- Business  24 (7.8%)
+- Hosting   266 (86.1%)
+- Business  21 (6.8%)
 - ISP       19 (6.1%)
 - Education 1 (0.3%)
 
