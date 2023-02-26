@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     7
 - Proxy   0
-- Hosting 273
+- Hosting 271
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS51167 Contabo GmbH                                      13 (4.2%)
 
 Top Usage Types
-- Hosting  273 (87.5%)
-- ISP      23 (7.4%)
-- Business 14 (4.5%)
+- Hosting  271 (86.9%)
+- ISP      24 (7.7%)
+- Business 15 (4.8%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)  5 (1.6%)
@@ -51,7 +51,8 @@ Top Regions
 - Shanghai, CN   14 (4.5%)
 
 Top Privacy Services
-- NordVPN 1 (0.3%)
+- TunnelBear 1 (0.3%)
+- NordVPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.8%)
