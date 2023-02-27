@@ -24,10 +24,10 @@ Top Usage Types
 - Education 4 (1.3%)
 
 Top Routes
-- 3.64.0.0/12 (AS16509)    4 (1.3%)
 - 164.92.96.0/19 (AS14061) 4 (1.3%)
 - 20.64.0.0/10 (AS8075)    4 (1.3%)
 - 107.189.0.0/21 (AS53667) 4 (1.3%)
+- 3.64.0.0/12 (AS16509)    4 (1.3%)
 - 150.158.0.0/18 (AS45090) 3 (1.0%)
 
 Top Countries
@@ -52,9 +52,9 @@ Top Regions
 - Shanghai, CN   16 (5.2%)
 
 Top Privacy Services
-- TunnelBear 1 (0.3%)
 - NordVPN    1 (0.3%)
 - World VPN  1 (0.3%)
+- TunnelBear 1 (0.3%)
 
 Top Domains
 - null                  11 (3.5%)
