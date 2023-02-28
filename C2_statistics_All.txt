@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 258
+- Hosting 266
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS63949 Akamai Connected Cloud                            12 (3.8%)
 
 Top Usage Types
-- Hosting   258 (82.7%)
-- Business  31 (9.9%)
-- ISP       15 (4.8%)
+- Hosting   266 (85.3%)
+- Business  22 (7.1%)
+- ISP       16 (5.1%)
 - Education 6 (1.9%)
 
 Top Routes
@@ -52,9 +52,9 @@ Top Regions
 - New Jersey, US 15 (4.8%)
 
 Top Privacy Services
-- TunnelBear    1 (0.3%)
 - Mullvad       1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- TunnelBear    1 (0.3%)
 
 Top Domains
 - contaboserver.net 16 (5.1%)
