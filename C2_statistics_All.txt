@@ -23,8 +23,8 @@ Top Usage Types
 - Business 20 (6.3%)
 
 Top Routes
-- 3.64.0.0/12 (AS16509)    4 (1.3%)
 - 70.34.192.0/19 (AS20473) 4 (1.3%)
+- 3.64.0.0/12 (AS16509)    4 (1.3%)
 - 34.208.0.0/12 (AS16509)  3 (0.9%)
 - 1.13.128.0/18 (AS45090)  3 (0.9%)
 - 20.64.0.0/10 (AS8075)    3 (0.9%)
@@ -33,8 +33,8 @@ Top Countries
 - United States 100 (31.5%)
 - China         47 (14.8%)
 - Germany       37 (11.7%)
-- Netherlands   15 (4.7%)
 - Russia        15 (4.7%)
+- Netherlands   15 (4.7%)
 
 Top Cities
 - Beijing, Beijing, CN         21 (6.6%)
