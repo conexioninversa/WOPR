@@ -5,4 +5,3 @@
 164.92.110.36,443,PoshC2,DigitalOcean, LLC,
 109.234.36.5,443,PoshC2,VDSINA VDS Hosting,v1000853.hosted-by-vdsina.ru
 3.65.198.167,443,PoshC2,A100 ROW GmbH,ec2-3-65-198-167.eu-central-1.compute.amazonaws.com
-132.145.106.12,8443,PoshC2,Oracle Public Cloud,
