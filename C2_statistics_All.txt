@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     8
 - Proxy   0
 - Hosting 273
 - Tor     0
@@ -52,7 +52,7 @@ Top Regions
 - Shanghai, CN      15 (4.8%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.3%)
+- VeePN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  13 (4.1%)
