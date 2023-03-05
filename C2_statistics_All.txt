@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 3.64.0.0/12 (AS16509)     4 (1.3%)
 - 70.34.192.0/19 (AS20473)  4 (1.3%)
-- 147.78.47.0/24 (AS209588) 3 (0.9%)
 - 20.64.0.0/10 (AS8075)     3 (0.9%)
+- 147.78.47.0/24 (AS209588) 3 (0.9%)
 - 23.227.198.0/24 (AS29802) 2 (0.6%)
 
 Top Countries
@@ -56,7 +56,7 @@ Top Privacy Services
 - SlickVPN 1 (0.3%)
 
 Top Domains
-- vultrusercontent.com 11 (3.5%)
 - null                 11 (3.5%)
+- vultrusercontent.com 11 (3.5%)
 - contaboserver.net    9 (2.8%)
 - colocrossing.com     8 (2.5%)
