@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     12
+- VPN     9
 - Proxy   0
 - Hosting 281
 - Tor     0
@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 70.34.192.0/19 (AS20473)  4 (1.2%)
+- 20.64.0.0/10 (AS8075)     3 (0.9%)
 - 45.88.170.0/24 (AS35913)  3 (0.9%)
 - 147.78.47.0/24 (AS209588) 3 (0.9%)
 - 107.189.0.0/21 (AS53667)  3 (0.9%)
-- 20.64.0.0/10 (AS8075)     3 (0.9%)
 
 Top Countries
 - United States 90 (28.0%)
@@ -38,24 +38,23 @@ Top Countries
 - Russia        15 (4.7%)
 
 Top Cities
-- Beijing, Beijing, CN         31 (9.7%)
+- Beijing, Beijing, CN         32 (10.0%)
 - Frankfurt am Main, Hesse, DE 20 (6.2%)
 - Amsterdam, North Holland, NL 17 (5.3%)
 - Los Angeles, California, US  12 (3.7%)
 - Moscow, Moscow, RU           10 (3.1%)
 
 Top Regions
-- Beijing, CN       32 (10.0%)
+- Beijing, CN       33 (10.3%)
 - California, US    24 (7.5%)
 - Hesse, DE         20 (6.2%)
 - North Holland, NL 18 (5.6%)
 - New Jersey, US    13 (4.0%)
 
 Top Privacy Services
-- TunnelBear 3 (0.9%)
-- VeePN      1 (0.3%)
-- NordVPN    1 (0.3%)
-- World VPN  1 (0.3%)
+- VeePN     1 (0.3%)
+- NordVPN   1 (0.3%)
+- World VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (3.7%)
