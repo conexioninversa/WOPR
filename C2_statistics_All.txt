@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     13
 - Proxy   0
-- Hosting 282
+- Hosting 281
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16276 OVH SAS                                           15 (4.7%)
 
 Top Usage Types
-- Hosting   282 (87.9%)
+- Hosting   281 (87.5%)
 - Business  20 (6.2%)
-- ISP       17 (5.3%)
+- ISP       18 (5.6%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -52,7 +52,8 @@ Top Regions
 - Shanghai, CN      15 (4.7%)
 
 Top Privacy Services
-- VeePN 1 (0.3%)
+- TunnelBear 3 (0.9%)
+- VeePN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  14 (4.4%)
