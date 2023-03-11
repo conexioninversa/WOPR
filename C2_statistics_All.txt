@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     17
+- VPN     14
 - Proxy   0
 - Hosting 260
 - Tor     0
@@ -55,7 +55,6 @@ Top Carriers
 - zain JO 1 (0.3%)
 
 Top Privacy Services
-- TunnelBear 3 (0.9%)
 - VeePN      1 (0.3%)
 - FrostVPN   1 (0.3%)
 - NordVPN    1 (0.3%)
