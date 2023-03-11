@@ -24,11 +24,11 @@ Top Usage Types
 - Education 4 (1.2%)
 
 Top Routes
-- 147.78.47.0/24 (AS209588)  4 (1.2%)
 - 70.34.192.0/19 (AS20473)   4 (1.2%)
-- 182.161.68.0/22 (AS132839) 3 (0.9%)
+- 147.78.47.0/24 (AS209588)  4 (1.2%)
 - 20.64.0.0/10 (AS8075)      3 (0.9%)
 - 116.204.211.0/24 (AS24373) 3 (0.9%)
+- 182.161.68.0/22 (AS132839) 3 (0.9%)
 
 Top Countries
 - United States 88 (27.3%)
@@ -56,13 +56,13 @@ Top Carriers
 
 Top Privacy Services
 - TunnelBear 3 (0.9%)
+- VeePN      1 (0.3%)
 - FrostVPN   1 (0.3%)
 - NordVPN    1 (0.3%)
 - ironsocket 1 (0.3%)
-- VeePN      1 (0.3%)
 
 Top Domains
-- null                 11 (3.4%)
 - vultrusercontent.com 11 (3.4%)
+- null                 11 (3.4%)
 - colocrossing.com     8 (2.5%)
 - contaboserver.net    7 (2.2%)
