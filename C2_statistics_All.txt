@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     9
 - Proxy   0
-- Hosting 281
+- Hosting 282
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           16 (5.0%)
 
 Top Usage Types
-- Hosting  281 (87.5%)
-- Business 22 (6.9%)
+- Hosting  282 (87.9%)
+- Business 21 (6.5%)
 - ISP      16 (5.0%)
 
 Top Routes
@@ -51,10 +51,10 @@ Top Regions
 - Shanghai, CN      15 (4.7%)
 
 Top Privacy Services
-- Invisible browsing VPN 1 (0.3%)
 - VeePN                  1 (0.3%)
 - VPNUK                  1 (0.3%)
 - FrostVPN               1 (0.3%)
+- Invisible browsing VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  15 (4.7%)
