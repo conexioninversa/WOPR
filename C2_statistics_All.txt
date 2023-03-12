@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 70.34.192.0/19 (AS20473)   4 (1.2%)
 - 147.78.47.0/24 (AS209588)  4 (1.2%)
-- 116.204.211.0/24 (AS24373) 3 (0.9%)
 - 182.161.68.0/22 (AS132839) 3 (0.9%)
 - 20.64.0.0/10 (AS8075)      3 (0.9%)
+- 116.204.211.0/24 (AS24373) 3 (0.9%)
 
 Top Countries
 - United States 88 (27.3%)
@@ -55,10 +55,10 @@ Top Carriers
 - zain JO 1 (0.3%)
 
 Top Privacy Services
+- ironsocket 1 (0.3%)
 - VeePN      1 (0.3%)
 - FrostVPN   1 (0.3%)
 - NordVPN    1 (0.3%)
-- ironsocket 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.4%)
