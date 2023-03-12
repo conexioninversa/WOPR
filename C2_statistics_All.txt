@@ -25,8 +25,8 @@ Top Usage Types
 Top Routes
 - 5.196.0.0/16 (AS16276)   8 (2.5%)
 - 70.34.192.0/19 (AS20473) 4 (1.2%)
-- 20.64.0.0/10 (AS8075)    3 (0.9%)
 - 3.64.0.0/12 (AS16509)    3 (0.9%)
+- 20.64.0.0/10 (AS8075)    3 (0.9%)
 - 107.189.8.0/22 (AS53667) 2 (0.6%)
 
 Top Countries
@@ -51,10 +51,10 @@ Top Regions
 - Shanghai, CN      15 (4.7%)
 
 Top Privacy Services
-- VPNUK                  1 (0.3%)
-- FrostVPN               1 (0.3%)
 - Invisible browsing VPN 1 (0.3%)
 - VeePN                  1 (0.3%)
+- VPNUK                  1 (0.3%)
+- FrostVPN               1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  15 (4.7%)
