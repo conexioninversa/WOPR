@@ -27,8 +27,8 @@ Top Routes
 - 5.196.0.0/16 (AS16276)    6 (1.9%)
 - 70.34.192.0/19 (AS20473)  4 (1.2%)
 - 20.64.0.0/10 (AS8075)     4 (1.2%)
-- 156.96.156.0/23 (AS46664) 3 (0.9%)
 - 147.78.47.0/24 (AS209588) 3 (0.9%)
+- 156.96.156.0/23 (AS46664) 3 (0.9%)
 
 Top Countries
 - United States 78 (24.2%)
@@ -55,9 +55,9 @@ Top Carriers
 - zain JO 1 (0.3%)
 
 Top Privacy Services
-- Invisible browsing VPN 1 (0.3%)
 - VeePN                  1 (0.3%)
 - FrostVPN               1 (0.3%)
+- Invisible browsing VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 16 (5.0%)
