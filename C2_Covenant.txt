@@ -1,34 +1,33 @@
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
-20.112.75.17,7443,Covenant,Microsoft Corporation,
-51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
-172.104.157.19,7443,Covenant,Akamai Technologies, Inc.,172-104-157-19.ip.linodeusercontent.com
+65.109.173.97,7443,Covenant,Hetzner Online GmbH,static.97.173.109.65.clients.your-server.de
+74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+34.27.128.154,7443,Covenant,Google LLC,154.128.27.34.bc.googleusercontent.com
 3.131.163.207,7443,Covenant,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
+143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
+20.112.75.17,7443,Covenant,Microsoft Corporation,
 192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
 167.99.224.203,7443,Covenant,DigitalOcean, LLC,
-143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
-34.27.128.154,7443,Covenant,Google LLC,154.128.27.34.bc.googleusercontent.com
-45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
-3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-185.198.57.164,7443,Covenant,Host Sailor Ltd,
-5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
 159.75.240.4,7443,Covenant,Tencent Cloud Computing (Beijing) Co., Ltd,
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
-89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
 137.135.244.225,7443,Covenant,Microsoft Corp,
-74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+172.104.157.19,7443,Covenant,Akamai Technologies, Inc.,172-104-157-19.ip.linodeusercontent.com
+45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
+45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
+185.198.57.164,7443,Covenant,Host Sailor Ltd,
+54.37.225.27,7443,Covenant,OVH SAS,27.ip-54-37-225.eu
+194.163.148.158,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
+89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
 178.62.200.196,7443,Covenant,DigitalOcean Amsterdam,
 216.93.199.231,7443,Covenant,Consolidated Communications, Inc.,231.199-93-216-nokia-dsl.dynamic.surewest.net
 123.30.234.134,7443,Covenant,Vietnam Posts and Telecommunications Group,static.vnpt.vn
 91.107.136.163,7443,Covenant,Hetzner Online GmbH,static.163.136.107.91.clients.your-server.de
-194.163.148.158,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
 130.61.124.23,7443,Covenant,Oracle Public Cloud,
 45.79.155.64,7443,Covenant,Linode,45-79-155-64.ip.linodeusercontent.com
 195.128.248.10,7443,Covenant,PE Sira Olha,dedicated.vsys.host
 159.65.92.62,7443,Covenant,DigitalOcean, LLC,
-143.244.164.160,7443,Covenant,DigitalOcean, LLC,
-13.56.40.136,7443,Covenant,Amazon Technologies Inc.,ec2-13-56-40-136.us-west-1.compute.amazonaws.com
-174.138.10.170,7443,Covenant,DigitalOcean, LLC,linkedllin.ml
