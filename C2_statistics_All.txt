@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 70.34.192.0/19 (AS20473)   4 (1.2%)
-- 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 124.222.0.0/18 (AS45090)   3 (0.9%)
+- 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 43.154.192.0/18 (AS132203) 2 (0.6%)
 - 34.224.0.0/12 (AS14618)    2 (0.6%)
 
@@ -52,8 +52,8 @@ Top Regions
 - Central and Western, HK 17 (5.3%)
 
 Top Privacy Services
-- VeePN     1 (0.3%)
 - World VPN 1 (0.3%)
+- VeePN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.4%)
