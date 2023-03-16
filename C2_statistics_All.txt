@@ -24,8 +24,8 @@ Top Usage Types
 - Education 3 (0.9%)
 
 Top Routes
-- 3.64.0.0/12 (AS16509)       4 (1.2%)
 - 70.34.192.0/19 (AS20473)    4 (1.2%)
+- 3.64.0.0/12 (AS16509)       4 (1.2%)
 - 146.59.0.0/16 (AS16276)     3 (0.9%)
 - 103.100.157.0/24 (AS147001) 3 (0.9%)
 - 172.96.166.0/24 (AS63018)   3 (0.9%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - vultrusercontent.com  12 (3.8%)
-- googleusercontent.com 8 (2.5%)
 - null                  8 (2.5%)
 - contaboserver.net     8 (2.5%)
+- googleusercontent.com 8 (2.5%)
