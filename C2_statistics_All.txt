@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     18
+- VPN     20
 - Proxy   0
 - Hosting 280
 - Tor     0
@@ -32,29 +32,29 @@ Top Routes
 
 Top Countries
 - United States 79 (24.7%)
-- China         61 (19.1%)
+- China         62 (19.4%)
 - Germany       35 (10.9%)
 - Netherlands   23 (7.2%)
 - France        15 (4.7%)
 
 Top Cities
-- Beijing, Beijing, CN               29 (9.1%)
+- Beijing, Beijing, CN               30 (9.4%)
 - Frankfurt am Main, Hesse, DE       21 (6.6%)
-- Shanghai, Shanghai, CN             21 (6.6%)
+- Shanghai, Shanghai, CN             18 (5.6%)
 - Amsterdam, North Holland, NL       13 (4.1%)
 - Hong Kong, Central and Western, HK 11 (3.4%)
 
 Top Regions
-- Beijing, CN       29 (9.1%)
+- Beijing, CN       30 (9.4%)
 - Hesse, DE         21 (6.6%)
-- Shanghai, CN      21 (6.6%)
 - California, US    20 (6.2%)
+- Shanghai, CN      18 (5.6%)
 - North Holland, NL 16 (5.0%)
 
 Top Privacy Services
+- TunnelBear    2 (0.6%)
 - ironsocket    1 (0.3%)
 - VPN Unlimited 1 (0.3%)
-- AnonymousVPN  1 (0.3%)
 - VPNUK         1 (0.3%)
 - FrostVPN      1 (0.3%)
 
