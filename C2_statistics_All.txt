@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 70.34.192.0/19 (AS20473)    4 (1.2%)
 - 3.64.0.0/12 (AS16509)       4 (1.2%)
-- 146.59.0.0/16 (AS16276)     3 (0.9%)
 - 103.100.157.0/24 (AS147001) 3 (0.9%)
 - 172.96.166.0/24 (AS63018)   3 (0.9%)
+- 146.59.0.0/16 (AS16276)     3 (0.9%)
 
 Top Countries
 - United States 79 (24.7%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear    2 (0.6%)
-- VPN Unlimited 1 (0.3%)
-- VPNUK         1 (0.3%)
 - FrostVPN      1 (0.3%)
 - ironsocket    1 (0.3%)
+- VPN Unlimited 1 (0.3%)
+- VPNUK         1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  12 (3.8%)
