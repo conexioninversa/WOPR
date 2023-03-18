@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    6 (1.9%)
-- 3.64.0.0/12 (AS16509)     3 (0.9%)
 - 70.34.192.0/19 (AS20473)  3 (0.9%)
 - 107.189.0.0/21 (AS53667)  3 (0.9%)
+- 3.64.0.0/12 (AS16509)     3 (0.9%)
 - 204.10.120.0/22 (AS62217) 2 (0.6%)
 
 Top Countries
@@ -47,14 +47,14 @@ Top Cities
 Top Regions
 - Beijing, CN       27 (8.5%)
 - California, US    25 (7.9%)
-- Hesse, DE         17 (5.4%)
 - North Holland, NL 17 (5.4%)
+- Hesse, DE         17 (5.4%)
 - Shanghai, CN      16 (5.0%)
 
 Top Privacy Services
 - TunnelBear   2 (0.6%)
-- AnonymousVPN 1 (0.3%)
 - VeePN        1 (0.3%)
+- AnonymousVPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 13 (4.1%)
