@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     13
+- VPN     11
 - Proxy   0
-- Hosting 267
+- Hosting 268
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (3.8%)
 
 Top Usage Types
-- Hosting   267 (84.5%)
-- Business  30 (9.5%)
+- Hosting   268 (84.8%)
+- Business  29 (9.2%)
 - ISP       16 (5.1%)
 - Education 1 (0.3%)
 
 Top Routes
 - 107.189.0.0/21 (AS53667)   4 (1.3%)
 - 205.185.112.0/20 (AS53667) 4 (1.3%)
+- 164.92.96.0/19 (AS14061)   3 (0.9%)
 - 179.43.128.0/18 (AS51852)  3 (0.9%)
 - 3.108.0.0/14 (AS16509)     3 (0.9%)
-- 164.92.96.0/19 (AS14061)   3 (0.9%)
 
 Top Countries
 - United States 84 (26.6%)
@@ -52,10 +52,9 @@ Top Regions
 - North Holland, NL 15 (4.7%)
 
 Top Privacy Services
-- TunnelBear 2 (0.6%)
-- VeePN      1 (0.3%)
-- ProtonVPN  1 (0.3%)
-- Mullvad    1 (0.3%)
+- ProtonVPN 1 (0.3%)
+- Mullvad   1 (0.3%)
+- VeePN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  11 (3.5%)
