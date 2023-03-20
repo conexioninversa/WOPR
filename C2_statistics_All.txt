@@ -24,11 +24,11 @@ Top Usage Types
 - Education 3 (1.0%)
 
 Top Routes
+- 20.64.0.0/10 (AS8075)     3 (1.0%)
+- 82.157.64.0/18 (AS45090)  3 (1.0%)
 - 70.34.192.0/19 (AS20473)  3 (1.0%)
 - 164.92.96.0/19 (AS14061)  3 (1.0%)
 - 179.43.128.0/18 (AS51852) 3 (1.0%)
-- 20.64.0.0/10 (AS8075)     3 (1.0%)
-- 82.157.64.0/18 (AS45090)  3 (1.0%)
 
 Top Countries
 - United States 79 (25.1%)
@@ -46,8 +46,8 @@ Top Cities
 
 Top Regions
 - Beijing, CN       33 (10.5%)
-- Hesse, DE         21 (6.7%)
 - California, US    21 (6.7%)
+- Hesse, DE         21 (6.7%)
 - North Holland, NL 18 (5.7%)
 - Shanghai, CN      17 (5.4%)
 
@@ -55,9 +55,9 @@ Top Carriers
 - zain JO 1 (0.3%)
 
 Top Privacy Services
+- VeePN     1 (0.3%)
 - ProtonVPN 1 (0.3%)
 - VPNUK     1 (0.3%)
-- VeePN     1 (0.3%)
 
 Top Domains
 - contaboserver.net     11 (3.5%)
