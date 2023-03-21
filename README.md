@@ -4,7 +4,7 @@
  
 ---
 
-List of aggregated and summarized files from a network of global honeypots that belong to a personal investigation.
+List of aggregated and summarized files from a network of global honeypots that belong to a personal investigation. 
 
 Files:
   * `MaliciousIP.txt` - List of malicious IPs that have been successful in a honeypot attack
