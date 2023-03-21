@@ -24,11 +24,11 @@ Top Usage Types
 - Education 1 (0.3%)
 
 Top Routes
-- 107.189.0.0/21 (AS53667)  3 (1.0%)
-- 45.227.255.0/24 (AS43350) 3 (1.0%)
 - 179.43.128.0/18 (AS51852) 3 (1.0%)
 - 65.109.0.0/16 (AS24940)   3 (1.0%)
 - 3.108.0.0/14 (AS16509)    3 (1.0%)
+- 107.189.0.0/21 (AS53667)  3 (1.0%)
+- 45.227.255.0/24 (AS43350) 3 (1.0%)
 
 Top Countries
 - United States 85 (27.1%)
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN               38 (12.1%)
 - Frankfurt am Main, Hesse, DE       19 (6.1%)
 - Amsterdam, North Holland, NL       16 (5.1%)
-- Ashburn, Virginia, US              12 (3.8%)
 - Hong Kong, Central and Western, HK 12 (3.8%)
+- Ashburn, Virginia, US              12 (3.8%)
 
 Top Regions
 - Beijing, CN       38 (12.1%)
@@ -61,7 +61,7 @@ Top Privacy Services
 - Mullvad   1 (0.3%)
 
 Top Domains
-- null                 11 (3.5%)
 - vultrusercontent.com 11 (3.5%)
+- null                 11 (3.5%)
 - contaboserver.net    9 (2.9%)
 - your-server.de       7 (2.2%)
