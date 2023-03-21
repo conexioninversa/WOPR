@@ -6,7 +6,7 @@ Summary
 - Mobile  1
 - VPN     11
 - Proxy   0
-- Hosting 264
+- Hosting 265
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.5%)
 
 Top Usage Types
-- Hosting   264 (84.1%)
-- Business  29 (9.2%)
+- Hosting   265 (84.4%)
+- Business  28 (8.9%)
 - ISP       18 (5.7%)
 - Education 1 (0.3%)
 
@@ -31,25 +31,25 @@ Top Routes
 - 45.227.255.0/24 (AS43350) 3 (1.0%)
 
 Top Countries
-- United States 86 (27.4%)
+- United States 85 (27.1%)
 - China         53 (16.9%)
 - Germany       33 (10.5%)
-- Netherlands   25 (8.0%)
-- Russia        13 (4.1%)
+- Netherlands   24 (7.6%)
+- Hong Kong     13 (4.1%)
 
 Top Cities
-- Beijing, Beijing, CN         26 (8.3%)
-- Shanghai, Shanghai, CN       19 (6.1%)
-- Frankfurt am Main, Hesse, DE 18 (5.7%)
-- Los Angeles, California, US  14 (4.5%)
-- Ashburn, Virginia, US        12 (3.8%)
+- Beijing, Beijing, CN               38 (12.1%)
+- Frankfurt am Main, Hesse, DE       19 (6.1%)
+- Amsterdam, North Holland, NL       16 (5.1%)
+- Hong Kong, Central and Western, HK 12 (3.8%)
+- Ashburn, Virginia, US              12 (3.8%)
 
 Top Regions
-- Beijing, CN    26 (8.3%)
-- California, US 22 (7.0%)
-- Shanghai, CN   19 (6.1%)
-- Hesse, DE      18 (5.7%)
-- Virginia, US   15 (4.8%)
+- Beijing, CN       38 (12.1%)
+- California, US    21 (6.7%)
+- Hesse, DE         19 (6.1%)
+- North Holland, NL 17 (5.4%)
+- Virginia, US      15 (4.8%)
 
 Top Carriers
 - zain JO 1 (0.3%)
@@ -61,7 +61,7 @@ Top Privacy Services
 - Mullvad   1 (0.3%)
 
 Top Domains
-- null                 11 (3.5%)
 - vultrusercontent.com 11 (3.5%)
+- null                 11 (3.5%)
 - contaboserver.net    9 (2.9%)
 - your-server.de       7 (2.2%)
