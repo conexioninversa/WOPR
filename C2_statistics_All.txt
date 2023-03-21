@@ -6,7 +6,7 @@ Summary
 - Mobile  1
 - VPN     11
 - Proxy   0
-- Hosting 265
+- Hosting 276
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.5%)
 
 Top Usage Types
-- Hosting   265 (84.4%)
-- Business  28 (8.9%)
+- Hosting   276 (87.9%)
 - ISP       18 (5.7%)
+- Business  17 (5.4%)
 - Education 1 (0.3%)
 
 Top Routes
