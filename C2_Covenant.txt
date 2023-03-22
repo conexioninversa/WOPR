@@ -1,27 +1,28 @@
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-52.200.202.251,7443,Covenant,Amazon Technologies Inc.,ec2-52-200-202-251.compute-1.amazonaws.com
-20.112.75.17,7443,Covenant,Microsoft Corporation,
-137.135.244.225,7443,Covenant,Microsoft Corp,
-74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
-89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
-194.163.148.158,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
-5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
-192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
-45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
-172.104.157.19,7443,Covenant,Linode,172-104-157-19.ip.linodeusercontent.com
-65.109.173.97,7443,Covenant,Hetzner Online GmbH,static.97.173.109.65.clients.your-server.de
-45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 167.99.224.203,7443,Covenant,DigitalOcean, LLC,
-51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
-3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
+89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
 143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-34.27.128.154,7443,Covenant,Google LLC,154.128.27.34.bc.googleusercontent.com
+65.109.173.97,7443,Covenant,Hetzner Online GmbH,static.97.173.109.65.clients.your-server.de
+172.104.157.19,7443,Covenant,Linode,172-104-157-19.ip.linodeusercontent.com
 3.131.163.207,7443,Covenant,Amazon Technologies Inc.,ec2-3-131-163-207.us-east-2.compute.amazonaws.com
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+194.163.148.158,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
+20.112.75.17,7443,Covenant,Microsoft Corporation,
 159.75.240.4,7443,Covenant,Tencent Cloud Computing (Beijing) Co., Ltd,
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+137.135.244.225,7443,Covenant,Microsoft Corp,
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
+103.150.190.90,7443,Covenant,PT Biznet Gio Nusantara,ip-90-190-150-103.wjv-1.biznetg.io
+34.27.128.154,7443,Covenant,Google LLC,154.128.27.34.bc.googleusercontent.com
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
+45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
+192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
+52.200.202.251,7443,Covenant,Amazon Technologies Inc.,ec2-52-200-202-251.compute-1.amazonaws.com
+3.72.11.135,7443,Covenant,A100 ROW GmbH,ec2-3-72-11-135.eu-central-1.compute.amazonaws.com
 185.198.57.164,7443,Covenant,Host Sailor Ltd,
 54.37.225.27,7443,Covenant,OVH SAS,27.ip-54-37-225.eu
 89.163.153.7,7443,Covenant,myLoc managed IT AG,srv10006.epyc.fastwebserver.de
