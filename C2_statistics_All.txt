@@ -33,23 +33,23 @@ Top Routes
 Top Countries
 - United States 92 (29.2%)
 - China         47 (14.9%)
-- Germany       31 (9.8%)
-- Netherlands   25 (7.9%)
+- Germany       32 (10.2%)
+- Netherlands   24 (7.6%)
 - Russia        14 (4.4%)
 
 Top Cities
 - Beijing, Beijing, CN         36 (11.4%)
 - Frankfurt am Main, Hesse, DE 19 (6.0%)
-- Amsterdam, North Holland, NL 18 (5.7%)
+- Amsterdam, North Holland, NL 16 (5.1%)
 - Ashburn, Virginia, US        13 (4.1%)
 - Los Angeles, California, US  9 (2.9%)
 
 Top Regions
 - Beijing, CN       37 (11.7%)
-- North Holland, NL 20 (6.3%)
 - Hesse, DE         19 (6.0%)
-- California, US    18 (5.7%)
+- North Holland, NL 19 (6.0%)
 - Virginia, US      18 (5.7%)
+- California, US    18 (5.7%)
 
 Top Carriers
 - zain JO 1 (0.3%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - null                 13 (4.1%)
-- vultrusercontent.com 10 (3.2%)
 - contaboserver.net    10 (3.2%)
+- vultrusercontent.com 10 (3.2%)
 - your-server.de       6 (1.9%)
