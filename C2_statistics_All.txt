@@ -24,11 +24,11 @@ Top Usage Types
 - Education 1 (0.3%)
 
 Top Routes
+- 179.43.128.0/18 (AS51852) 3 (1.0%)
+- 65.109.0.0/16 (AS24940)   3 (1.0%)
 - 3.108.0.0/14 (AS16509)    3 (1.0%)
 - 107.189.0.0/21 (AS53667)  3 (1.0%)
 - 45.227.255.0/24 (AS43350) 3 (1.0%)
-- 179.43.128.0/18 (AS51852) 3 (1.0%)
-- 65.109.0.0/16 (AS24940)   3 (1.0%)
 
 Top Countries
 - United States 85 (27.1%)
@@ -55,10 +55,10 @@ Top Carriers
 - zain JO 1 (0.3%)
 
 Top Privacy Services
-- VPNUK     1 (0.3%)
-- Mullvad   1 (0.3%)
 - VeePN     1 (0.3%)
 - ProtonVPN 1 (0.3%)
+- VPNUK     1 (0.3%)
+- Mullvad   1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.5%)
