@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29124284/180993282-2bac97c5-f9a8-4bb8-ba9a-8dcfe4116c57.JPG"/>
+  <img src="https://github.com/conexioninversa/Incident-Response/blob/master/AtaquesLaterales/WOPR.jpg"/>
 </p>
  
 ---
