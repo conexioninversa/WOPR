@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS14061 DigitalOcean, LLC                                 30 (9.5%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 30 (9.5%)
+- AS14061 DigitalOcean, LLC                                 30 (9.5%)
 - AS16509 Amazon.com, Inc.                                  19 (6.0%)
 - AS63949 Akamai Connected Cloud                            14 (4.4%)
 - AS16276 OVH SAS                                           14 (4.4%)
@@ -46,8 +46,8 @@ Top Cities
 
 Top Regions
 - Beijing, CN       37 (11.7%)
-- Hesse, DE         19 (6.0%)
 - North Holland, NL 19 (6.0%)
+- Hesse, DE         19 (6.0%)
 - California, US    18 (5.7%)
 - Virginia, US      18 (5.7%)
 
