@@ -24,8 +24,8 @@ Top Usage Types
 - Education 2 (0.6%)
 
 Top Routes
-- 5.196.0.0/16 (AS16276)   5 (1.6%)
 - 20.64.0.0/10 (AS8075)    5 (1.6%)
+- 5.196.0.0/16 (AS16276)   5 (1.6%)
 - 70.34.192.0/19 (AS20473) 3 (0.9%)
 - 85.214.0.0/15 (AS6724)   3 (0.9%)
 - 51.89.0.0/16 (AS16276)   3 (0.9%)
@@ -52,14 +52,14 @@ Top Regions
 - Virginia, US      17 (5.4%)
 
 Top Privacy Services
+- VeePN     1 (0.3%)
 - TorGuard  1 (0.3%)
 - Mullvad   1 (0.3%)
 - World VPN 1 (0.3%)
 - ProtonVPN 1 (0.3%)
-- VeePN     1 (0.3%)
 
 Top Domains
-- vultrusercontent.com 12 (3.8%)
 - null                 12 (3.8%)
+- vultrusercontent.com 12 (3.8%)
 - contaboserver.net    7 (2.2%)
 - your-server.de       6 (1.9%)
