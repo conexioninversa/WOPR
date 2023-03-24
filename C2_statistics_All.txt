@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     15
+- VPN     16
 - Proxy   0
-- Hosting 274
+- Hosting 272
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.4%)
 
 Top Usage Types
-- Hosting   274 (87.0%)
+- Hosting   272 (86.3%)
+- Business  21 (6.7%)
 - ISP       19 (6.0%)
-- Business  19 (6.0%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 16 (5.1%)
 
 Top Privacy Services
+- VeePN                  1 (0.3%)
+- World VPN              1 (0.3%)
 - StrongVPN              1 (0.3%)
 - VPN Unlimited          1 (0.3%)
 - Invisible browsing VPN 1 (0.3%)
-- VeePN                  1 (0.3%)
-- World VPN              1 (0.3%)
 
 Top Domains
 - null                 13 (4.1%)
