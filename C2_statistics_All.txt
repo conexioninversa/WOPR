@@ -14,8 +14,8 @@ Top ASNs
 - AS14061 DigitalOcean, LLC                                 27 (8.6%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 24 (7.6%)
 - AS16276 OVH SAS                                           19 (6.0%)
-- AS16509 Amazon.com, Inc.                                  17 (5.4%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.4%)
+- AS16509 Amazon.com, Inc.                                  17 (5.4%)
 
 Top Usage Types
 - Hosting   274 (87.0%)
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 16 (5.1%)
 
 Top Privacy Services
-- Invisible browsing VPN 1 (0.3%)
 - VeePN                  1 (0.3%)
 - World VPN              1 (0.3%)
 - StrongVPN              1 (0.3%)
 - VPN Unlimited          1 (0.3%)
+- Invisible browsing VPN 1 (0.3%)
 
 Top Domains
 - null                 13 (4.1%)
