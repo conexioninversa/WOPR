@@ -1,7 +1,7 @@
-107.148.27.54,8443,localhost,Brute Ratel C4,PEG TECH INC,
 52.194.85.123,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-52-194-85-123.ap-northeast-1.compute.amazonaws.com
 13.82.141.216,443,R3,Brute Ratel C4,Microsoft Corporation,spectrumofinnovation.org
 149.28.251.203,80,,Brute Ratel C4,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
+107.148.27.54,8443,localhost,Brute Ratel C4,PEG TECH INC,
 107.148.27.54,443,localhost,Brute Ratel C4,PEG TECH INC,
 18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
 37.119.57.195,9002,R3,Brute Ratel C4,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
