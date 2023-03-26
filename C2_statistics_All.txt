@@ -4,8 +4,8 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     12
-- Proxy   1
+- VPN     13
+- Proxy   0
 - Hosting 275
 - Tor     0
 - Relay   0
@@ -52,10 +52,10 @@ Top Regions
 - North Holland, NL 15 (4.8%)
 
 Top Privacy Services
-- World VPN 2 (0.6%)
-- ProtonVPN 1 (0.3%)
-- TorGuard  1 (0.3%)
-- VeePN     1 (0.3%)
+- TunnelBear 2 (0.6%)
+- World VPN  2 (0.6%)
+- ProtonVPN  1 (0.3%)
+- VeePN      1 (0.3%)
 
 Top Domains
 - null                  16 (5.1%)
