@@ -1,99 +1,99 @@
+38.60.31.96,443,www.windowsupdate.com,Cobalt Strike Beacon,Cogent Communications,
+185.216.71.178,443,R3,Cobalt Strike Beacon,Neterra Ltd.,anysearch.live
+173.82.135.18,4443,,Cobalt Strike Beacon,MULTACOM CORPORATION,falsh.cf;18-135-82-173-dedicated.multacom.com
+103.234.72.27,8090,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
+121.199.166.58,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+124.222.185.248,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 185.183.94.24,80,,Cobalt Strike Beacon,VOLYN OPTICAL NETWORKS LLC,s24.vom.lutsk.ua
+162.19.155.49,8008,,Cobalt Strike Beacon,OVH GmbH,vps-e23ee70b.vps.ovh.net
+185.143.223.120,444,,Cobalt Strike Beacon,Partner LLC,4SER-1677787062.ip-ptr.tech
+101.43.16.149,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+3.231.199.164,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,gonamph.com;ec2-3-231-199-164.compute-1.amazonaws.com
+47.92.128.8,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+91.215.85.143,443,jquery.com,Cobalt Strike Beacon,Alliance LLC,
+123.56.82.231,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+54.173.59.51,443,www.bing.com,Cobalt Strike Beacon,Amazon Technologies Inc.,ec2-54-173-59-51.compute-1.amazonaws.com
+107.189.3.56,80,,Cobalt Strike Beacon,BuyVM,
+35.72.81.198,443,R3,Cobalt Strike Beacon,Amazon Data Services Japan,ec2-35-72-81-198.ap-northeast-1.compute.amazonaws.com;svalblod.connection-analysis.com
+3.22.116.191,443,,Cobalt Strike Beacon,Amazon Technologies Inc.,ec2-3-22-116-191.us-east-2.compute.amazonaws.com
+45.61.186.108,4433,,Cobalt Strike Beacon,FranTech Solutions,mia01.angola.top
+20.124.3.184,443,ogl.com,Cobalt Strike Beacon,Microsoft Corporation,
+62.204.41.45,1599,,Cobalt Strike Beacon,HORIZON LLC,
+78.138.98.142,443,include.com,Cobalt Strike Beacon,warmsip Communication,
+20.55.77.132,443,R3,Cobalt Strike Beacon,Microsoft Corporation,pfizer.eastus.cloudapp.azure.com
+20.94.177.31,80,,Cobalt Strike Beacon,Microsoft Corporation,
+47.242.72.118,80,,Cobalt Strike Beacon,Alibaba.com LLC,
+101.43.249.51,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+123.56.82.231,8080,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+47.100.244.166,2022,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+152.136.132.93,9999,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+45.204.1.25,8001,,Cobalt Strike Beacon,Jiangxi Meilan Network Technology Co., Ltd.,
+107.189.7.248,80,,Cobalt Strike Beacon,BuyVM,
+111.230.242.129,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+8.134.143.89,80,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
+47.206.167.222,80,,Cobalt Strike Beacon,Frontier Communications of America, Inc.,static-47-206-167-222.tamp.fl.frontiernet.net
+159.75.122.182,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+84.32.188.13,443,v3.37.com,Cobalt Strike Beacon,UAB Nacionalinis Telekomunikaciju Tinklas,
+45.227.252.243,443,,Cobalt Strike Beacon,DATA GRANDE S.A.,
+5.181.159.33,80,,Cobalt Strike Beacon,MivoCloud SRL,no-rdns.mivocloud.com
+84.32.188.13,80,,Cobalt Strike Beacon,UAB Nacionalinis Telekomunikaciju Tinklas,
+204.10.120.109,443,,Cobalt Strike Beacon,Vinters Corp,
+204.10.120.109,80,,Cobalt Strike Beacon,Vinters Corp,
+79.137.198.115,443,R3,Cobalt Strike Beacon,AEZA GROUP LLC,techlineengineering.com;rough-time.aeza.network
+49.232.128.4,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+43.142.85.214,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+121.5.196.25,8088,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+47.242.63.91,443,,Cobalt Strike Beacon,Alibaba.com LLC,micorsoft.shop
+20.94.177.31,8000,,Cobalt Strike Beacon,Microsoft Corporation,
+205.185.122.49,443,,Cobalt Strike Beacon,FranTech Solutions,bbcinternationalnews.com;mta2.apotheke-rezeptfrei.ch
+211.193.21.161,80,,Cobalt Strike Beacon,Korea Telecom,
+193.201.9.217,80,,Cobalt Strike Beacon,Infolink LLC,
+3.210.247.209,443,Colm J. Freyne,Cobalt Strike Beacon,Amazon Data Services NoVa,ec2-3-210-247-209.compute-1.amazonaws.com
+47.47.34.249,80,,Cobalt Strike Beacon,Charter Communications,047-047-034-249.biz.spectrum.com
+101.33.118.123,443,,Cobalt Strike Beacon,ACEVILLE PTE.LTD.,
+124.223.199.175,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+128.199.141.176,443,,Cobalt Strike Beacon,DigitalOcean, LLC,mlcr0s0ft.one
+152.67.117.125,8000,,Cobalt Strike Beacon,Oracle Public Cloud,
+185.166.163.115,666,,Cobalt Strike Beacon,DediPath,
+185.166.163.115,80,,Cobalt Strike Beacon,DediPath,
+185.254.37.251,80,,Cobalt Strike Beacon,Neterra Ltd.,
+87.118.67.253,80,,Cobalt Strike Beacon,Keyweb AG,h-87.118.67.253.keyweb.de
+107.189.28.84,443,,Cobalt Strike Beacon,FranTech Solutions,r1z.rocks;z3a.r1z.rocks;mx.chinanetworks.org
+101.43.109.197,443,foren.zik,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+91.213.50.75,801,,Cobalt Strike Beacon,3304776,
+69.49.229.88,443,amazon.com,Cobalt Strike Beacon,Newfold Digital, Inc.,69-49-229-88.webhostbox.net
+150.158.152.94,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+47.103.15.237,4443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+49.232.191.102,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+35.153.50.171,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,ec2-35-153-50-171.compute-1.amazonaws.com;repository-tools.com
+217.79.243.148,80,,Cobalt Strike Beacon,Hivelocity Inc,217-79-243-148.static.hvvc.us
+43.142.184.130,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+121.4.236.17,10001,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 106.14.94.149,443,baidu,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 81.70.57.135,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 81.68.232.146,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 1.117.87.247,8099,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-20.124.3.184,443,ogl.com,Cobalt Strike Beacon,Microsoft Corporation,
 104.168.57.106,80,,Cobalt Strike Beacon,RackNerd LLC,104-168-57-106-host.colocrossing.com
 77.91.85.130,443,R3,Cobalt Strike Beacon,Metrex Network,devsetgroup.com;docker-compose.aeza.network
 121.41.121.111,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 154.88.14.34,8443,Microsoft Time-Stamp Service,Cobalt Strike Beacon,GLOBALDATA INVESTMENTS INC,
 54.238.255.15,443,R3,Cobalt Strike Beacon,Amazon Data Services Japan,bravo.minutes-men.com;ec2-54-238-255-15.ap-northeast-1.compute.amazonaws.com
-78.138.98.142,443,include.com,Cobalt Strike Beacon,warmsip Communication,
 91.215.85.196,443,gmail.com,Cobalt Strike Beacon,Alliance LLC,
-204.10.120.109,443,,Cobalt Strike Beacon,Vinters Corp,
-173.82.135.18,4443,,Cobalt Strike Beacon,MULTACOM CORPORATION,falsh.cf;18-135-82-173-dedicated.multacom.com
-124.222.185.248,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 121.37.198.144,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-37-198-144.compute.hwclouds-dns.com
 47.92.82.250,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-45.227.252.243,443,,Cobalt Strike Beacon,DATA GRANDE S.A.,
-20.55.77.132,443,R3,Cobalt Strike Beacon,Microsoft Corporation,pfizer.eastus.cloudapp.azure.com
 124.222.16.73,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.242.63.91,443,,Cobalt Strike Beacon,Alibaba.com LLC,micorsoft.shop
 173.82.26.63,80,,Cobalt Strike Beacon,MULTACOM CORPORATION,63-26-82-173-dedicated.multacom.com
-69.49.229.88,443,amazon.com,Cobalt Strike Beacon,Newfold Digital, Inc.,69-49-229-88.webhostbox.net
 175.178.155.151,8001,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-123.56.82.231,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 23.21.52.245,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,dracumi.com;ec2-23-21-52-245.compute-1.amazonaws.com
 182.92.235.68,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 123.249.5.106,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-123-249-5-106.compute.hwclouds-dns.com
 39.98.163.184,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 143.42.120.56,8086,,Cobalt Strike Beacon,Linode,143-42-120-56.ip.linodeusercontent.com
-123.56.82.231,8080,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-121.199.166.58,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-20.94.177.31,8000,,Cobalt Strike Beacon,Microsoft Corporation,
-38.60.31.96,443,www.windowsupdate.com,Cobalt Strike Beacon,Sanren Data Limited,
 1.15.42.6,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 31.44.184.84,80,,Cobalt Strike Beacon,Petersburg Internet Network ltd.,
 107.189.28.84,80,,Cobalt Strike Beacon,FranTech Solutions,mx.chinanetworks.org
-152.136.132.93,9999,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 8.210.156.161,80,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
-91.215.85.143,443,jquery.com,Cobalt Strike Beacon,Alliance LLC,
 107.189.13.130,443,,Cobalt Strike Beacon,FranTech Solutions,p4nd41.ssndob.cn.com;ssndob.cn.com;p4nd42.ssndob.cn.com;p4nd4.ssndob.cn.com
 46.161.27.160,80,,Cobalt Strike Beacon,Petersburg Internet Network ltd.,
-217.79.243.148,80,,Cobalt Strike Beacon,Hivelocity Inc,217-79-243-148.static.hvvc.us
-162.19.155.49,8008,,Cobalt Strike Beacon,OVH GmbH,vps-e23ee70b.vps.ovh.net
 80.94.95.145,443,R3,Cobalt Strike Beacon,Bunea TELECOM SRL,domprocloud.live
 116.204.211.163,443,www.windowsupdate.com,Cobalt Strike Beacon,,
-43.154.27.211,443,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,microsofer.top
-1.116.160.60,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-5.188.86.235,80,,Cobalt Strike Beacon,pool for VPS and Cloud hosting,
-106.75.231.15,443,US,Cobalt Strike Beacon,Shanghai UCloud Information Technology Company Limited,
-185.254.37.251,443,jquery.com,Cobalt Strike Beacon,Neterra Ltd.,
-20.94.177.31,80,,Cobalt Strike Beacon,Microsoft Corporation,
-45.89.229.153,9090,,Cobalt Strike Beacon,LLC Baxet,qbyckni.cn
-152.67.117.125,8000,,Cobalt Strike Beacon,Oracle Public Cloud,
-79.137.203.113,80,,Cobalt Strike Beacon,LLC Digital Network,test.aeza.network
-107.189.6.239,443,,Cobalt Strike Beacon,BuyVM,bbcinternationalnews.com
-108.165.178.43,80,,Cobalt Strike Beacon,IPXO LLC,
-40.88.43.171,80,,Cobalt Strike Beacon,Microsoft Corporation,
-91.215.85.183,80,,Cobalt Strike Beacon,PROSPERO OOO,
-79.137.198.115,443,R3,Cobalt Strike Beacon,AEZA GROUP LLC,techlineengineering.com;rough-time.aeza.network
-121.4.97.5,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-103.146.141.98,443,,Cobalt Strike Beacon,HUA ER MI INDUSTRY CO.,LIMITED,
-8.213.134.213,8080,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
-119.45.167.101,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-43.142.117.98,8443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-1.117.89.216,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-91.215.85.183,8080,,Cobalt Strike Beacon,Alliance LLC,
-193.201.9.217,443,,Cobalt Strike Beacon,Infolink LLC,
-1.15.189.200,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-100.42.76.82,4433,jquery.com,Cobalt Strike Beacon,MULTACOM CORPORATION,mail2.inangiarehcm.com
-202.95.19.215,443,,Cobalt Strike Beacon,RACKIP CONSULTANCY PTE. LTD.,
-5.188.86.194,8080,,Cobalt Strike Beacon,pool for VPS and Cloud hosting,
-39.98.183.23,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-103.43.12.110,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,317317.xyz
-92.119.157.18,443,,Cobalt Strike Beacon,Apeiron Global Pvt. Ltd.,
-77.91.84.38,80,,Cobalt Strike Beacon,Metrex Network,fluent-religion.aeza.network
-101.43.34.192,8443,foren.zik,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-176.113.115.3,8080,,Cobalt Strike Beacon,Red Bytes LLC,
-43.136.134.43,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-124.222.71.90,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.243.104.189,8443,,Cobalt Strike Beacon,Alibaba.com LLC,qianxing.rocks
-154.223.165.16,443,Sectigo RSA Domain Validation Secure Server CA,Cobalt Strike Beacon,Shanghai Ruisu Network Technology Co. LTD,www.linkkedin.life;linkkedin.life
-47.92.173.228,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-193.201.9.217,80,,Cobalt Strike Beacon,Infolink LLC,
-120.46.179.174,8878,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-120-46-179-174.compute.hwclouds-dns.com
-91.215.85.196,8080,,Cobalt Strike Beacon,Alliance LLC,
-103.43.12.107,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,317317.xyz
-91.215.85.196,80,,Cobalt Strike Beacon,Alliance LLC,
-182.61.144.194,443,www.qianxin.com,Cobalt Strike Beacon,Beijing Baidu Netcom Science and Technology Co., Ltd.,
-163.172.97.117,8443,,Cobalt Strike Beacon,Scaleway Dedibox - Paris, France,163-172-97-117.rev.poneytelecom.eu;cookietest.ml
-109.172.45.77,443,R3,Cobalt Strike Beacon,DATAMAX-M, LLC,cbs12.aeza.network;uranustechsolution.com
-43.206.245.250,443,R3,Cobalt Strike Beacon,Amazon.com, Inc.,ec2-43-206-245-250.ap-northeast-1.compute.amazonaws.com;charie.taurinus-gnou.com
-109.172.45.77,80,,Cobalt Strike Beacon,DATAMAX-M, LLC,cbs12.aeza.network
-1.13.168.66,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-179.60.146.25,443,R3,Cobalt Strike Beacon,DATASOLUTIONS S.A.,hostby.data-solutions.net;opentechcorp.net
-121.5.138.100,50000,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-116.204.74.236,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-116-204-74-236.compute.hwclouds-dns.com
-87.118.67.253,80,,Cobalt Strike Beacon,Keyweb AG,h-87.118.67.253.keyweb.de
