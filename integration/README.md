@@ -1,0 +1,2 @@
+This script assumes that the IOC file has one entry per line and that each entry is an IP address or a range of IP addresses that should be blocked on the firewall. Please note that this script is only a basic example and may need to be modified to meet your specific requirements and ensure that it is safe and effective in your environment. Also, before running any code in your production environment, make sure you understand what you are doing and do proper testing in a sandbox environment to avoid potential corruption or interruptions.
+
