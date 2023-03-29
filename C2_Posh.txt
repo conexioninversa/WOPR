@@ -3,4 +3,3 @@
 95.213.145.101,443,PoshC2,Selectel SPb,
 34.235.5.141,443,PoshC2,Amazon Technologies Inc.,ec2-34-235-5-141.compute-1.amazonaws.com
 79.51.197.75,443,PoshC2,Telecom Italia S.p.A.,
-164.92.110.36,443,PoshC2,DigitalOcean, LLC,
