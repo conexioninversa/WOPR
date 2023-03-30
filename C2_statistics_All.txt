@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)     5 (1.6%)
-- 123.56.0.0/16 (AS37963)   2 (0.7%)
-- 107.189.0.0/21 (AS53667)  2 (0.7%)
 - 43.154.0.0/18 (AS132203)  2 (0.7%)
 - 204.10.120.0/22 (AS62217) 2 (0.7%)
+- 123.56.0.0/16 (AS37963)   2 (0.7%)
+- 107.189.0.0/21 (AS53667)  2 (0.7%)
 
 Top Countries
 - United States 87 (28.3%)
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 15 (4.9%)
 
 Top Privacy Services
+- Mullvad   1 (0.3%)
 - SaferVPN  1 (0.3%)
 - ProtonVPN 1 (0.3%)
 - World VPN 1 (0.3%)
 - VPNUK     1 (0.3%)
-- Mullvad   1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  13 (4.2%)
