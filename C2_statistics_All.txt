@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)     5 (1.6%)
-- 123.56.0.0/16 (AS37963)   2 (0.7%)
 - 107.189.0.0/21 (AS53667)  2 (0.7%)
 - 43.154.0.0/18 (AS132203)  2 (0.7%)
 - 204.10.120.0/22 (AS62217) 2 (0.7%)
+- 123.56.0.0/16 (AS37963)   2 (0.7%)
 
 Top Countries
 - United States 87 (28.3%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - vultrusercontent.com  13 (4.2%)
-- contaboserver.net     10 (3.3%)
 - null                  10 (3.3%)
+- contaboserver.net     10 (3.3%)
 - googleusercontent.com 6 (2.0%)
