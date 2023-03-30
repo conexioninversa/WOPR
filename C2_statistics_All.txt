@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     13
 - Proxy   0
-- Hosting 262
+- Hosting 257
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS63949 Akamai Connected Cloud                            13 (4.2%)
 
 Top Usage Types
-- Hosting   262 (85.3%)
-- ISP       22 (7.2%)
-- Business  20 (6.5%)
+- Hosting   257 (83.7%)
+- Business  24 (7.8%)
+- ISP       23 (7.5%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 15 (4.9%)
 
 Top Privacy Services
+- Mullvad   1 (0.3%)
+- SaferVPN  1 (0.3%)
 - ProtonVPN 1 (0.3%)
 - World VPN 1 (0.3%)
 - VPNUK     1 (0.3%)
-- Mullvad   1 (0.3%)
-- SaferVPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  13 (4.2%)
