@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 34 (11.1%)
 - AS14061 DigitalOcean, LLC                                 28 (9.1%)
 - AS16276 OVH SAS                                           15 (4.9%)
-- AS63949 Akamai Connected Cloud                            13 (4.2%)
 - AS20473 The Constant Company, LLC                         13 (4.2%)
+- AS63949 Akamai Connected Cloud                            13 (4.2%)
 
 Top Usage Types
 - Hosting   262 (85.3%)
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 15 (4.9%)
 
 Top Privacy Services
-- Mullvad   1 (0.3%)
-- SaferVPN  1 (0.3%)
 - ProtonVPN 1 (0.3%)
 - World VPN 1 (0.3%)
 - VPNUK     1 (0.3%)
+- Mullvad   1 (0.3%)
+- SaferVPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  13 (4.2%)
