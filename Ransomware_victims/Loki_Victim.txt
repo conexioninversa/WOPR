@@ -10,7 +10,6 @@
 41.111.144.106,Windows Server 2012 R2,3389,Remote Desktop Protocol,41.111.0.0/20 LAGHOUAT RESIDENTIEL,
 87.146.220.12,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Deutsche Telekom AG,p5792dc0c.dip0.t-ipconnect.de
 88.99.74.130,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.130.74.99.88.clients.your-server.de
-64.91.16.103,Windows 7 Professional,3389,Remote Desktop Protocol,CenturyLink Communications, LLC,64-91-16-103.static.centurylink.net
 103.39.215.73,Windows Server 2012 R2,3389,Remote Desktop Protocol,Shenzhen Qianhai bird cloud computing Co. Ltd.,
 91.89.15.237,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Vodafone BW GmbH,ip-091-089-015-237.um28.pools.vodafone-ip.de
 174.74.43.228,Windows 7 Professional,3389,Remote Desktop Protocol,Cox Communications,ip174-74-43-228.om.om.cox.net
