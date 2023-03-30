@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 34 (11.1%)
 - AS14061 DigitalOcean, LLC                                 28 (9.1%)
 - AS16276 OVH SAS                                           15 (4.9%)
-- AS63949 Akamai Connected Cloud                            13 (4.2%)
 - AS20473 The Constant Company, LLC                         13 (4.2%)
+- AS63949 Akamai Connected Cloud                            13 (4.2%)
 
 Top Usage Types
 - Hosting   257 (83.7%)
@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)     5 (1.6%)
-- 204.10.120.0/22 (AS62217) 2 (0.7%)
 - 123.56.0.0/16 (AS37963)   2 (0.7%)
 - 107.189.0.0/21 (AS53667)  2 (0.7%)
 - 43.154.0.0/18 (AS132203)  2 (0.7%)
+- 204.10.120.0/22 (AS62217) 2 (0.7%)
 
 Top Countries
 - United States 87 (28.3%)
