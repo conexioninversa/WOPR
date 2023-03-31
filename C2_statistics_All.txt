@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 34 (11.1%)
 - AS14061 DigitalOcean, LLC                                 28 (9.1%)
 - AS16276 OVH SAS                                           15 (4.9%)
-- AS20473 The Constant Company, LLC                         13 (4.2%)
 - AS63949 Akamai Connected Cloud                            13 (4.2%)
+- AS20473 The Constant Company, LLC                         13 (4.2%)
 
 Top Usage Types
 - Hosting   257 (83.7%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - vultrusercontent.com  13 (4.2%)
-- null                  10 (3.3%)
 - contaboserver.net     10 (3.3%)
+- null                  10 (3.3%)
 - googleusercontent.com 6 (2.0%)
