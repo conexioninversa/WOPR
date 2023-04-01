@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)      4 (1.3%)
+- 47.92.0.0/15 (AS37963)     3 (1.0%)
 - 45.76.192.0/19 (AS20473)   3 (1.0%)
 - 123.56.0.0/16 (AS37963)    3 (1.0%)
-- 47.92.0.0/15 (AS37963)     3 (1.0%)
 - 45.227.252.0/24 (AS267784) 2 (0.6%)
 
 Top Countries
@@ -52,11 +52,11 @@ Top Regions
 - Virginia, US      12 (3.8%)
 
 Top Privacy Services
+- World VPN    1 (0.3%)
+- FrostVPN     1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - ProtonVPN    1 (0.3%)
 - SaferVPN     1 (0.3%)
-- World VPN    1 (0.3%)
-- FrostVPN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  12 (3.8%)
