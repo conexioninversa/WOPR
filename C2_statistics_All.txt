@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)     4 (1.3%)
+- 179.60.146.0/24 (AS42237) 3 (0.9%)
 - 172.96.166.0/24 (AS63018) 3 (0.9%)
 - 5.196.0.0/16 (AS16276)    3 (0.9%)
-- 179.60.146.0/24 (AS42237) 3 (0.9%)
 - 8.130.0.0/16 (AS37963)    2 (0.6%)
 
 Top Countries
@@ -39,8 +39,8 @@ Top Countries
 
 Top Cities
 - Beijing, Beijing, CN               41 (12.9%)
-- Frankfurt am Main, Hesse, DE       17 (5.4%)
 - Amsterdam, North Holland, NL       17 (5.4%)
+- Frankfurt am Main, Hesse, DE       17 (5.4%)
 - Ashburn, Virginia, US              10 (3.2%)
 - Hong Kong, Central and Western, HK 10 (3.2%)
 
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - AnonymousVPN 2 (0.6%)
 - TunnelBear   2 (0.6%)
-- NordVPN      1 (0.3%)
 - ProtonVPN    1 (0.3%)
 - VeePN        1 (0.3%)
+- NordVPN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.5%)
