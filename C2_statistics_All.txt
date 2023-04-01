@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN               41 (12.9%)
 - Frankfurt am Main, Hesse, DE       17 (5.4%)
 - Amsterdam, North Holland, NL       17 (5.4%)
-- Hong Kong, Central and Western, HK 10 (3.2%)
 - Ashburn, Virginia, US              10 (3.2%)
+- Hong Kong, Central and Western, HK 10 (3.2%)
 
 Top Regions
 - Beijing, CN       42 (13.2%)
@@ -52,11 +52,11 @@ Top Regions
 - Virginia, US      14 (4.4%)
 
 Top Privacy Services
-- TunnelBear   2 (0.6%)
 - AnonymousVPN 2 (0.6%)
+- TunnelBear   2 (0.6%)
+- NordVPN      1 (0.3%)
 - ProtonVPN    1 (0.3%)
 - VeePN        1 (0.3%)
-- NordVPN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.5%)
