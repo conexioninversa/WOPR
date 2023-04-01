@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     11
+- VPN     13
 - Proxy   0
 - Hosting 255
 - Tor     0
@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   255 (80.4%)
-- Business  37 (11.7%)
-- ISP       17 (5.4%)
+- Business  38 (12.0%)
+- ISP       16 (5.0%)
 - Education 5 (1.6%)
 
 Top Routes
@@ -53,12 +53,13 @@ Top Regions
 
 Top Privacy Services
 - AnonymousVPN 2 (0.6%)
+- TunnelBear   2 (0.6%)
 - ProtonVPN    1 (0.3%)
 - VeePN        1 (0.3%)
-- HideMyAss    1 (0.3%)
+- NordVPN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.5%)
-- null                 9 (2.8%)
+- null                 10 (3.2%)
 - contaboserver.net    8 (2.5%)
 - your-server.de       6 (1.9%)
