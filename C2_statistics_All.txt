@@ -26,8 +26,8 @@ Top Routes
 - 20.64.0.0/10 (AS8075)      5 (1.6%)
 - 182.161.68.0/22 (AS132839) 3 (1.0%)
 - 205.185.112.0/20 (AS53667) 3 (1.0%)
-- 39.96.0.0/14 (AS37963)     2 (0.6%)
 - 13.64.0.0/11 (AS8075)      2 (0.6%)
+- 39.96.0.0/14 (AS37963)     2 (0.6%)
 
 Top Countries
 - United States 85 (27.2%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear    2 (0.6%)
 - TorGuard      2 (0.6%)
+- VPN Unlimited 1 (0.3%)
 - SlickVPN      1 (0.3%)
 - World VPN     1 (0.3%)
-- VPN Unlimited 1 (0.3%)
 
 Top Domains
 - null                 12 (3.8%)
