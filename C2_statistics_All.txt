@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 20.64.0.0/10 (AS8075)      5 (1.6%)
 - 82.157.128.0/18 (AS45090)  3 (1.0%)
-- 217.79.242.0/23 (AS29802)  2 (0.6%)
 - 179.60.146.0/24 (AS42237)  2 (0.6%)
 - 45.227.252.0/24 (AS267784) 2 (0.6%)
+- 217.79.242.0/23 (AS29802)  2 (0.6%)
 
 Top Countries
 - United States 88 (28.1%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TorGuard   2 (0.6%)
-- Windscribe 1 (0.3%)
-- World VPN  1 (0.3%)
 - Mullvad    1 (0.3%)
 - NordVPN    1 (0.3%)
+- Windscribe 1 (0.3%)
+- World VPN  1 (0.3%)
 
 Top Domains
 - contaboserver.net    14 (4.5%)
