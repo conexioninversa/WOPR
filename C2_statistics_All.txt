@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     13
+- VPN     15
 - Proxy   0
 - Hosting 252
 - Tor     0
@@ -46,14 +46,14 @@ Top Cities
 Top Regions
 - Beijing, CN       35 (11.2%)
 - North Holland, NL 21 (6.7%)
-- Virginia, US      19 (6.1%)
 - Hesse, DE         19 (6.1%)
+- Virginia, US      19 (6.1%)
 - California, US    17 (5.4%)
 
 Top Privacy Services
+- TunnelBear    2 (0.6%)
 - TorGuard      2 (0.6%)
-- AnonymousVPN  1 (0.3%)
-- GHOSTPATH     1 (0.3%)
+- SlickVPN      1 (0.3%)
 - World VPN     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 
