@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     13
+- VPN     11
 - Proxy   0
 - Hosting 256
 - Tor     0
@@ -53,7 +53,7 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear   2 (0.6%)
-- TorGuard     2 (0.6%)
+- VeePN        1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - FrostVPN     1 (0.3%)
 - Mullvad      1 (0.3%)
