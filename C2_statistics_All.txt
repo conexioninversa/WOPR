@@ -6,7 +6,7 @@ Summary
 - Mobile  1
 - VPN     13
 - Proxy   0
-- Hosting 238
+- Hosting 232
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.5%)
 
 Top Usage Types
-- Hosting   238 (76.5%)
-- Business  46 (14.8%)
+- Hosting   232 (74.6%)
+- Business  52 (16.7%)
 - ISP       20 (6.4%)
 - Education 3 (1.0%)
 
