@@ -1,3 +1,5 @@
+38.122.23.82,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cogent Communications,
+96.31.71.102,Windows Server 2012 R2,3389,Remote Desktop Protocol,HIVELOCITY, Inc.,96-31-71-102.static.hvvc.us
 78.159.118.5,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Leaseweb Deutschland GmbH,hosted-by.leaseweb.com
 217.74.16.70,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Istqrar For Web Hosting,
 180.142.128.60,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,CHINANET GUANGXI PROVINCE NETWORK,
@@ -8,4 +10,3 @@
 185.125.44.113,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Enterprise Cloud Ltd.,
 94.26.242.164,Windows Server 2012 R2,3389,Remote Desktop Protocol,Selectel Network,
 64.20.43.94,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Interserver, Inc,sirius.tagnia.com
-195.224.228.178,,3389,Remote Desktop Protocol,Daisy Corporate Services Trading Ltd,
