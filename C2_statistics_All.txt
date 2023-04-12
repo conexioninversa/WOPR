@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     9
+- VPN     10
 - Proxy   0
 - Hosting 238
 - Tor     0
@@ -39,27 +39,27 @@ Top Countries
 
 Top Cities
 - Beijing, Beijing, CN         35 (11.3%)
-- Frankfurt am Main, Hesse, DE 18 (5.8%)
+- Frankfurt am Main, Hesse, DE 19 (6.1%)
 - Amsterdam, North Holland, NL 14 (4.5%)
 - Los Angeles, California, US  14 (4.5%)
 - Shenzhen, Guangdong, CN      12 (3.9%)
 
 Top Regions
 - Beijing, CN    35 (11.3%)
+- Hesse, DE      20 (6.5%)
 - California, US 20 (6.5%)
-- Hesse, DE      19 (6.1%)
 - Guangdong, CN  17 (5.5%)
 - Virginia, US   15 (4.8%)
 
 Top Privacy Services
 - VeePN        1 (0.3%)
-- ProtonVPN    1 (0.3%)
+- Windscribe   1 (0.3%)
+- TorGuard     1 (0.3%)
 - AnonymousVPN 1 (0.3%)
-- Mullvad      1 (0.3%)
 - World VPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
-- vultrusercontent.com 10 (3.2%)
 - null                 10 (3.2%)
 - hwclouds-dns.com     10 (3.2%)
+- vultrusercontent.com 10 (3.2%)
