@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)    5 (2.3%)
+- 3.64.0.0/12 (AS16509)    3 (1.4%)
 - 77.91.84.0/22 (AS210644) 3 (1.4%)
 - 39.96.0.0/14 (AS37963)   3 (1.4%)
-- 3.64.0.0/12 (AS16509)    3 (1.4%)
 - 13.64.0.0/11 (AS8075)    2 (0.9%)
 
 Top Countries
@@ -46,9 +46,9 @@ Top Cities
 Top Regions
 - Beijing, CN    31 (14.6%)
 - Hesse, DE      14 (6.6%)
+- Guangdong, CN  12 (5.6%)
 - California, US 12 (5.6%)
 - Virginia, US   12 (5.6%)
-- Guangdong, CN  12 (5.6%)
 
 Top Privacy Services
 - TorGuard     2 (0.9%)
