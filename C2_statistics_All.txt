@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)    5 (2.4%)
+- 43.142.64.0/18 (AS45090) 3 (1.4%)
 - 3.64.0.0/12 (AS16509)    3 (1.4%)
 - 123.249.0.0/18 (AS55990) 3 (1.4%)
-- 43.142.64.0/18 (AS45090) 3 (1.4%)
 - 23.96.0.0/14 (AS8075)    2 (0.9%)
 
 Top Countries
@@ -47,15 +47,15 @@ Top Regions
 - Beijing, CN             31 (14.6%)
 - Hesse, DE               16 (7.5%)
 - Central and Western, HK 14 (6.6%)
-- Texas, US               11 (5.2%)
 - California, US          11 (5.2%)
+- Texas, US               11 (5.2%)
 
 Top Privacy Services
 - TorGuard      2 (0.9%)
-- ProtonVPN     1 (0.5%)
 - VeePN         1 (0.5%)
 - AnonymousVPN  1 (0.5%)
 - VPN Unlimited 1 (0.5%)
+- ProtonVPN     1 (0.5%)
 
 Top Domains
 - vultrusercontent.com  8 (3.8%)
