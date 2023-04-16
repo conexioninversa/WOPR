@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    8 (2.8%)
+- 43.143.128.0/18 (AS45090) 4 (1.4%)
 - 3.64.0.0/12 (AS16509)     4 (1.4%)
 - 194.135.24.0/24 (AS33696) 4 (1.4%)
 - 20.64.0.0/10 (AS8075)     4 (1.4%)
-- 43.143.128.0/18 (AS45090) 4 (1.4%)
 
 Top Countries
 - United States 78 (27.0%)
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - TorGuard   2 (0.7%)
-- Windscribe 1 (0.3%)
 - NordVPN    1 (0.3%)
 - VPNUK      1 (0.3%)
 - SaferVPN   1 (0.3%)
+- Windscribe 1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.5%)
 - null                 10 (3.5%)
-- hwclouds-dns.com     9 (3.1%)
 - vultrusercontent.com 9 (3.1%)
+- hwclouds-dns.com     9 (3.1%)
