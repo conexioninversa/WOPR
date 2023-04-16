@@ -25,17 +25,17 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    8 (2.8%)
-- 43.143.128.0/18 (AS45090) 4 (1.4%)
 - 3.64.0.0/12 (AS16509)     4 (1.4%)
 - 194.135.24.0/24 (AS33696) 4 (1.4%)
 - 20.64.0.0/10 (AS8075)     4 (1.4%)
+- 43.143.128.0/18 (AS45090) 4 (1.4%)
 
 Top Countries
 - United States 78 (27.0%)
 - China         62 (21.5%)
 - Germany       28 (9.7%)
-- Netherlands   14 (4.8%)
 - France        14 (4.8%)
+- Netherlands   14 (4.8%)
 
 Top Cities
 - Beijing, Beijing, CN         41 (14.2%)
@@ -48,18 +48,18 @@ Top Regions
 - Beijing, CN    41 (14.2%)
 - Hesse, DE      17 (5.9%)
 - Virginia, US   15 (5.2%)
-- California, US 13 (4.5%)
 - Texas, US      13 (4.5%)
+- California, US 13 (4.5%)
 
 Top Privacy Services
 - TorGuard   2 (0.7%)
+- Windscribe 1 (0.3%)
 - NordVPN    1 (0.3%)
 - VPNUK      1 (0.3%)
 - SaferVPN   1 (0.3%)
-- Windscribe 1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.5%)
 - null                 10 (3.5%)
-- vultrusercontent.com 9 (3.1%)
 - hwclouds-dns.com     9 (3.1%)
+- vultrusercontent.com 9 (3.1%)
