@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     13
+- VPN     9
 - Proxy   0
-- Hosting 238
+- Hosting 240
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS8075 Microsoft Corporation                              14 (4.6%)
 
 Top Usage Types
-- Hosting   238 (77.5%)
-- Business  48 (15.6%)
+- Hosting   240 (78.2%)
+- Business  46 (15.0%)
 - ISP       17 (5.5%)
 - Education 2 (0.7%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 5.196.0.0/16 (AS16276)    8 (2.6%)
 - 20.64.0.0/10 (AS8075)     5 (1.6%)
 - 44.192.0.0/11 (AS14618)   3 (1.0%)
-- 204.10.120.0/22 (AS62217) 2 (0.7%)
 - 124.71.64.0/18 (AS55990)  2 (0.7%)
+- 204.10.120.0/22 (AS62217) 2 (0.7%)
 
 Top Countries
 - United States 88 (28.7%)
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN         41 (13.4%)
 - Frankfurt am Main, Hesse, DE 14 (4.6%)
-- Ashburn, Virginia, US        12 (3.9%)
 - Los Angeles, California, US  12 (3.9%)
+- Ashburn, Virginia, US        12 (3.9%)
 - Amsterdam, North Holland, NL 11 (3.6%)
 
 Top Regions
@@ -55,11 +55,11 @@ Top Carriers
 - A1 1 (0.3%)
 
 Top Privacy Services
-- TorGuard     2 (0.7%)
 - AnonymousVPN 2 (0.7%)
-- NordVPN      1 (0.3%)
-- SaferVPN     1 (0.3%)
+- Windscribe   1 (0.3%)
+- VeePN        1 (0.3%)
 - World VPN    1 (0.3%)
+- NordVPN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 13 (4.2%)
