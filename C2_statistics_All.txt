@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 39 (13.0%)
-- AS16509 Amazon.com, Inc.                                  23 (7.6%)
 - AS14061 DigitalOcean, LLC                                 23 (7.6%)
+- AS16509 Amazon.com, Inc.                                  23 (7.6%)
 - AS8075 Microsoft Corporation                              16 (5.3%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             14 (4.7%)
 
@@ -52,10 +52,10 @@ Top Regions
 - California, US             12 (4.0%)
 
 Top Privacy Services
-- ProtonVPN    1 (0.3%)
-- VeePN        1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - NordVPN      1 (0.3%)
+- ProtonVPN    1 (0.3%)
+- VeePN        1 (0.3%)
 
 Top Domains
 - contaboserver.net    15 (5.0%)
