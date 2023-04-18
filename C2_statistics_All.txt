@@ -48,15 +48,14 @@ Top Regions
 - Beijing, CN                43 (14.3%)
 - Hesse, DE                  20 (6.6%)
 - Virginia, US               13 (4.3%)
-- North Rhine-Westphalia, DE 12 (4.0%)
 - California, US             12 (4.0%)
+- North Rhine-Westphalia, DE 12 (4.0%)
 
 Top Privacy Services
-- VeePN        1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - NordVPN      1 (0.3%)
-- TunnelBear   1 (0.3%)
-- Windscribe   1 (0.3%)
+- ProtonVPN    1 (0.3%)
+- VeePN        1 (0.3%)
 
 Top Domains
 - contaboserver.net    15 (5.0%)
