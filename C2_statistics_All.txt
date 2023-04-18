@@ -27,8 +27,8 @@ Top Routes
 - 20.64.0.0/10 (AS8075)      5 (1.7%)
 - 124.221.128.0/18 (AS45090) 3 (1.0%)
 - 3.64.0.0/12 (AS16509)      3 (1.0%)
-- 20.48.0.0/12 (AS8075)      2 (0.7%)
 - 162.14.64.0/18 (AS45090)   2 (0.7%)
+- 20.48.0.0/12 (AS8075)      2 (0.7%)
 
 Top Countries
 - United States 73 (24.3%)
@@ -52,11 +52,11 @@ Top Regions
 - California, US             12 (4.0%)
 
 Top Privacy Services
+- TunnelBear   1 (0.3%)
+- Windscribe   1 (0.3%)
 - VeePN        1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - NordVPN      1 (0.3%)
-- TunnelBear   1 (0.3%)
-- Windscribe   1 (0.3%)
 
 Top Domains
 - contaboserver.net    15 (5.0%)
