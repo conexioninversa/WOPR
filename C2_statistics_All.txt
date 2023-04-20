@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 20.64.0.0/10 (AS8075)      7 (2.2%)
-- 47.96.0.0/16 (AS37963)     3 (1.0%)
-- 179.60.146.0/24 (AS42237)  3 (1.0%)
 - 51.89.0.0/16 (AS16276)     3 (1.0%)
 - 182.161.68.0/22 (AS132839) 3 (1.0%)
+- 47.96.0.0/16 (AS37963)     3 (1.0%)
+- 179.60.146.0/24 (AS42237)  3 (1.0%)
 
 Top Countries
 - United States 75 (24.0%)
@@ -40,22 +40,22 @@ Top Cities
 - Beijing, Beijing, CN               24 (7.7%)
 - Frankfurt am Main, Hesse, DE       20 (6.4%)
 - Hong Kong, Central and Western, HK 18 (5.8%)
-- London, England, GB                12 (3.8%)
 - Amsterdam, North Holland, NL       12 (3.8%)
+- London, England, GB                12 (3.8%)
 
 Top Regions
-- Hesse, DE               24 (7.7%)
 - Beijing, CN             24 (7.7%)
+- Hesse, DE               24 (7.7%)
 - Central and Western, HK 18 (5.8%)
 - California, US          15 (4.8%)
 - Virginia, US            14 (4.5%)
 
 Top Privacy Services
+- ProtonVPN    1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - VeePN        1 (0.3%)
 - NordVPN      1 (0.3%)
 - SaferVPN     1 (0.3%)
-- ProtonVPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net     19 (6.1%)
