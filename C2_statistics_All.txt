@@ -40,8 +40,8 @@ Top Cities
 - Beijing, Beijing, CN               24 (7.7%)
 - Frankfurt am Main, Hesse, DE       20 (6.4%)
 - Hong Kong, Central and Western, HK 18 (5.8%)
-- Amsterdam, North Holland, NL       12 (3.8%)
 - London, England, GB                12 (3.8%)
+- Amsterdam, North Holland, NL       12 (3.8%)
 
 Top Regions
 - Hesse, DE               24 (7.7%)
@@ -51,11 +51,11 @@ Top Regions
 - Virginia, US            14 (4.5%)
 
 Top Privacy Services
-- ProtonVPN    1 (0.3%)
-- AnonymousVPN 1 (0.3%)
 - VeePN        1 (0.3%)
 - NordVPN      1 (0.3%)
 - SaferVPN     1 (0.3%)
+- ProtonVPN    1 (0.3%)
+- AnonymousVPN 1 (0.3%)
 
 Top Domains
 - contaboserver.net     19 (6.1%)
