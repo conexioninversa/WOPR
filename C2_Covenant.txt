@@ -1,20 +1,21 @@
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
-45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
-51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
-18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 20.213.239.95,7443,Covenant,Microsoft Corporation,
-74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
+89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
-192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
-104.237.142.165,7443,Covenant,Linode,104-237-142-165.ip.linodeusercontent.com
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-20.213.248.0,7443,Covenant,Microsoft Corporation,
 172.104.157.19,7443,Covenant,Akamai Technologies, Inc.,172-104-157-19.ip.linodeusercontent.com
+18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
+104.237.142.165,7443,Covenant,Linode,104-237-142-165.ip.linodeusercontent.com
+109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+74.208.208.195,7443,Covenant,IONOS Inc.,isecureconsultingltd.co.uk
+192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+45.76.195.92,7443,Covenant,Vultr Holdings, LLC,45.76.195.92.vultrusercontent.com
+45.76.211.73,7443,Covenant,Vultr Holdings, LLC,45.76.211.73.vultrusercontent.com
+20.213.248.0,7443,Covenant,Microsoft Corporation,
 81.17.242.130,7443,Covenant,Blacknight Internet Solutions Limited,uber1.efence.co.uk
 34.27.128.154,7443,Covenant,Google LLC,154.128.27.34.bc.googleusercontent.com
 167.99.224.203,7443,Covenant,DigitalOcean, LLC,
