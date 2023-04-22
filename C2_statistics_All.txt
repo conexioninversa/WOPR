@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     9
 - Proxy   0
 - Hosting 252
 - Tor     0
@@ -47,16 +47,15 @@ Top Cities
 Top Regions
 - Beijing, CN       36 (11.6%)
 - North Holland, NL 16 (5.1%)
+- Hesse, DE         15 (4.8%)
 - California, US    15 (4.8%)
 - Guangdong, CN     15 (4.8%)
-- Hesse, DE         15 (4.8%)
 
 Top Privacy Services
-- VeePN        1 (0.3%)
-- TunnelBear   1 (0.3%)
 - ProtonVPN    1 (0.3%)
 - NordVPN      1 (0.3%)
 - AnonymousVPN 1 (0.3%)
+- VeePN        1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 15 (4.8%)
