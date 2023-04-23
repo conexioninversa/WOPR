@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 32 (10.7%)
 - AS14061 DigitalOcean, LLC                                 23 (7.7%)
 - AS16276 OVH SAS                                           21 (7.0%)
-- AS16509 Amazon.com, Inc.                                  17 (5.7%)
 - AS8075 Microsoft Corporation                              17 (5.7%)
+- AS16509 Amazon.com, Inc.                                  17 (5.7%)
 
 Top Usage Types
 - Hosting  230 (76.9%)
@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 5.196.0.0/16 (AS16276)     9 (3.0%)
 - 20.64.0.0/10 (AS8075)      6 (2.0%)
-- 44.192.0.0/11 (AS14618)    3 (1.0%)
 - 20.192.0.0/10 (AS8075)     3 (1.0%)
 - 216.122.175.0/24 (AS33696) 3 (1.0%)
+- 44.192.0.0/11 (AS14618)    3 (1.0%)
 
 Top Countries
 - United States 68 (22.7%)
