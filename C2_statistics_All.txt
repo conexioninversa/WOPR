@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 5.196.0.0/16 (AS16276)     9 (3.0%)
 - 20.64.0.0/10 (AS8075)      6 (2.0%)
+- 44.192.0.0/11 (AS14618)    3 (1.0%)
 - 20.192.0.0/10 (AS8075)     3 (1.0%)
 - 216.122.175.0/24 (AS33696) 3 (1.0%)
-- 44.192.0.0/11 (AS14618)    3 (1.0%)
 
 Top Countries
 - United States 68 (22.7%)
@@ -51,10 +51,10 @@ Top Regions
 - Texas, US               12 (4.0%)
 
 Top Privacy Services
+- AnonymousVPN 1 (0.3%)
 - VeePN        1 (0.3%)
 - NordVPN      1 (0.3%)
 - VPNUK        1 (0.3%)
-- AnonymousVPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (4.0%)
