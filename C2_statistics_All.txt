@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 32 (10.7%)
 - AS14061 DigitalOcean, LLC                                 23 (7.7%)
 - AS16276 OVH SAS                                           21 (7.0%)
-- AS8075 Microsoft Corporation                              17 (5.7%)
 - AS16509 Amazon.com, Inc.                                  17 (5.7%)
+- AS8075 Microsoft Corporation                              17 (5.7%)
 
 Top Usage Types
 - Hosting  230 (76.9%)
@@ -51,10 +51,10 @@ Top Regions
 - Texas, US               12 (4.0%)
 
 Top Privacy Services
+- VeePN        1 (0.3%)
 - NordVPN      1 (0.3%)
 - VPNUK        1 (0.3%)
 - AnonymousVPN 1 (0.3%)
-- VeePN        1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (4.0%)
