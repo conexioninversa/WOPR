@@ -31,8 +31,8 @@ Top Routes
 - 91.215.85.0/24 (AS200593) 3 (1.1%)
 
 Top Countries
-- United States 63 (22.6%)
 - China         63 (22.6%)
+- United States 63 (22.6%)
 - Germany       27 (9.7%)
 - Russia        17 (6.1%)
 - Hong Kong     14 (5.0%)
@@ -52,11 +52,11 @@ Top Regions
 - Texas, US               12 (4.3%)
 
 Top Privacy Services
+- AnonymousVPN 1 (0.4%)
 - SlickVPN     1 (0.4%)
 - Mullvad      1 (0.4%)
 - VPN Gate     1 (0.4%)
 - VeePN        1 (0.4%)
-- AnonymousVPN 1 (0.4%)
 
 Top Domains
 - vultrusercontent.com 17 (6.1%)
