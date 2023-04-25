@@ -24,8 +24,8 @@ Top Usage Types
 - Education 4 (1.4%)
 
 Top Routes
-- 5.196.0.0/16 (AS16276)     5 (1.7%)
 - 20.64.0.0/10 (AS8075)      5 (1.7%)
+- 5.196.0.0/16 (AS16276)     5 (1.7%)
 - 20.48.0.0/12 (AS8075)      3 (1.0%)
 - 94.131.105.0/24 (AS44477)  2 (0.7%)
 - 216.122.175.0/24 (AS33696) 2 (0.7%)
@@ -55,11 +55,11 @@ Top Carriers
 - A1 1 (0.3%)
 
 Top Privacy Services
+- SaferVPN     1 (0.3%)
+- VPN Gate     1 (0.3%)
 - World VPN    1 (0.3%)
 - NordVPN      1 (0.3%)
 - AnonymousVPN 1 (0.3%)
-- SaferVPN     1 (0.3%)
-- VPN Gate     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (4.1%)
