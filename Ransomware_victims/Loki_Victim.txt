@@ -1,3 +1,4 @@
+200.137.216.70,Windows 7 Professional,3389,Remote Desktop Protocol,Rede Nacional de Ensino e Pesquisa,h20013721670.ufg.br
 88.99.74.130,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.130.74.99.88.clients.your-server.de
 54.153.62.247,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,Amazon Technologies Inc.,ec2-54-153-62-247.us-west-1.compute.amazonaws.com
 190.106.220.65,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Servicios Innovadores de Comunicación y Entretenimiento, S.A.,
@@ -6,5 +7,7 @@
 104.218.165.112,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,UCLOUD,
 49.204.89.74,Windows 7 Professional,3389,Remote Desktop Protocol,Beam Telecom Pvt Ltd,49.204.88.74.actcorp.in
 206.142.242.46,Windows Server 2012 R2,3389,Remote Desktop Protocol,CenturyLink Technology UK Ltd,
+88.247.8.49,Windows Server 2012 R2,3389,Remote Desktop Protocol,Turk Telekomunikasyon Anonim Sirketi,88.247.8.49.static.ttnet.com.tr
 139.162.33.193,Windows Server 2012 R2,3389,Remote Desktop Protocol,139.162.0.0/16,139-162-33-193.ip.linodeusercontent.com
+182.73.122.154,Windows 7 Ultimate,3389,Remote Desktop Protocol,DONGLIM PRECISION INDIA P,
 211.105.158.199,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Korea Telecom,
