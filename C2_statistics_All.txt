@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 119.42.149.0/24 (AS45753)  4 (1.9%)
+- 101.43.128.0/18 (AS45090)  3 (1.4%)
 - 101.43.64.0/18 (AS45090)   3 (1.4%)
 - 31.44.184.0/24 (AS34665)   3 (1.4%)
-- 101.43.128.0/18 (AS45090)  3 (1.4%)
 - 116.204.211.0/24 (AS24373) 2 (0.9%)
 
 Top Countries
@@ -52,8 +52,8 @@ Top Regions
 - California, US          10 (4.7%)
 
 Top Privacy Services
-- VeePN         1 (0.5%)
 - VPN Unlimited 1 (0.5%)
+- VeePN         1 (0.5%)
 
 Top Domains
 - vultrusercontent.com 9 (4.2%)
