@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 47.106.0.0/16 (AS37963)    4 (1.4%)
+- 101.43.64.0/18 (AS45090)   3 (1.0%)
 - 150.158.128.0/18 (AS45090) 3 (1.0%)
 - 20.192.0.0/10 (AS8075)     3 (1.0%)
 - 179.43.128.0/18 (AS51852)  3 (1.0%)
-- 101.43.64.0/18 (AS45090)   3 (1.0%)
 
 Top Countries
 - China         67 (23.1%)
@@ -39,25 +39,25 @@ Top Countries
 
 Top Cities
 - Beijing, Beijing, CN               44 (15.2%)
-- Shenzhen, Guangdong, CN            14 (4.8%)
 - Frankfurt am Main, Hesse, DE       14 (4.8%)
 - Hong Kong, Central and Western, HK 14 (4.8%)
+- Shenzhen, Guangdong, CN            14 (4.8%)
 - Singapore, Singapore, SG           10 (3.4%)
 
 Top Regions
 - Beijing, CN             44 (15.2%)
 - Hesse, DE               17 (5.9%)
+- Guangdong, CN           14 (4.8%)
 - Virginia, US            14 (4.8%)
 - Central and Western, HK 14 (4.8%)
-- Guangdong, CN           14 (4.8%)
 
 Top Privacy Services
 - Mullvad  2 (0.7%)
-- VeePN    1 (0.3%)
 - SaferVPN 1 (0.3%)
+- VeePN    1 (0.3%)
 
 Top Domains
-- vultrusercontent.com 10 (3.4%)
 - null                 10 (3.4%)
+- vultrusercontent.com 10 (3.4%)
 - contaboserver.net    9 (3.1%)
 - your-server.de       6 (2.1%)
