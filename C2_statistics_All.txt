@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 47.106.0.0/16 (AS37963)    4 (1.4%)
-- 20.192.0.0/10 (AS8075)     3 (1.0%)
-- 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 101.43.64.0/18 (AS45090)   3 (1.0%)
 - 150.158.128.0/18 (AS45090) 3 (1.0%)
+- 20.192.0.0/10 (AS8075)     3 (1.0%)
+- 179.43.128.0/18 (AS51852)  3 (1.0%)
 
 Top Countries
 - China         67 (23.1%)
@@ -47,9 +47,9 @@ Top Cities
 Top Regions
 - Beijing, CN             44 (15.2%)
 - Hesse, DE               17 (5.9%)
-- Virginia, US            14 (4.8%)
 - Central and Western, HK 14 (4.8%)
 - Guangdong, CN           14 (4.8%)
+- Virginia, US            14 (4.8%)
 
 Top Privacy Services
 - Mullvad  2 (0.7%)
