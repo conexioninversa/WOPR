@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     6
 - Proxy   0
-- Hosting 225
+- Hosting 235
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  10 (3.4%)
 
 Top Usage Types
-- Hosting   225 (77.6%)
-- Business  35 (12.1%)
-- ISP       23 (7.9%)
+- Hosting   235 (81.0%)
+- ISP       25 (8.6%)
+- Business  23 (7.9%)
 - Education 5 (1.7%)
 
 Top Routes
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - Mullvad  2 (0.7%)
-- VeePN    1 (0.3%)
 - SaferVPN 1 (0.3%)
+- VeePN    1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 10 (3.4%)
