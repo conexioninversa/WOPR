@@ -31,8 +31,8 @@ Top Routes
 - 182.255.45.0/24 (AS6134)  2 (0.7%)
 
 Top Countries
-- China         62 (21.5%)
 - United States 62 (21.5%)
+- China         62 (21.5%)
 - Germany       26 (9.0%)
 - Netherlands   19 (6.6%)
 - Hong Kong     14 (4.9%)
@@ -52,10 +52,10 @@ Top Regions
 - Central and Western, HK 13 (4.5%)
 
 Top Privacy Services
-- ProtonVPN    1 (0.3%)
-- Mullvad      1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - FrostVPN     1 (0.3%)
+- ProtonVPN    1 (0.3%)
+- Mullvad      1 (0.3%)
 
 Top Domains
 - contaboserver.net    16 (5.6%)
