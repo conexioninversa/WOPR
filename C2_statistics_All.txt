@@ -1,1 +1,64 @@
-no input ips
+Summary
+- Total   288
+- Unique  276
+- Anycast 0
+- Bogon   0
+- Mobile  0
+- VPN     13
+- Proxy   0
+- Hosting 236
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 34 (11.8%)
+- AS14061 DigitalOcean, LLC                                 24 (8.3%)
+- AS16509 Amazon.com, Inc.                                  18 (6.2%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (5.2%)
+- AS20473 The Constant Company, LLC                         11 (3.8%)
+
+Top Usage Types
+- Hosting   236 (81.9%)
+- Business  28 (9.7%)
+- ISP       19 (6.6%)
+- Education 5 (1.7%)
+
+Top Routes
+- 179.60.146.0/24 (AS42237) 7 (2.4%)
+- 5.188.86.0/24 (AS49453)   6 (2.1%)
+- 101.43.192.0/18 (AS45090) 3 (1.0%)
+- 123.60.0.0/17 (AS55990)   3 (1.0%)
+- 182.255.45.0/24 (AS6134)  2 (0.7%)
+
+Top Countries
+- United States 62 (21.5%)
+- China         62 (21.5%)
+- Germany       26 (9.0%)
+- Netherlands   19 (6.6%)
+- Hong Kong     14 (4.9%)
+
+Top Cities
+- Beijing, Beijing, CN               37 (12.8%)
+- Amsterdam, North Holland, NL       14 (4.9%)
+- Hong Kong, Central and Western, HK 13 (4.5%)
+- Frankfurt am Main, Hesse, DE       10 (3.5%)
+- Shenzhen, Guangdong, CN            10 (3.5%)
+
+Top Regions
+- Beijing, CN             37 (12.8%)
+- North Holland, NL       16 (5.6%)
+- California, US          14 (4.9%)
+- Hesse, DE               13 (4.5%)
+- Central and Western, HK 13 (4.5%)
+
+Top Privacy Services
+- Mullvad      1 (0.3%)
+- AnonymousVPN 1 (0.3%)
+- FrostVPN     1 (0.3%)
+- ProtonVPN    1 (0.3%)
+
+Top Domains
+- contaboserver.net    16 (5.6%)
+- vultrusercontent.com 11 (3.8%)
+- hwclouds-dns.com     8 (2.8%)
+- null                 7 (2.4%)
