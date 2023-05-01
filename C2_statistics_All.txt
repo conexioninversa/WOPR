@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 179.60.146.0/24 (AS42237) 7 (2.4%)
 - 5.188.86.0/24 (AS49453)   6 (2.1%)
-- 101.43.192.0/18 (AS45090) 3 (1.0%)
 - 123.60.0.0/17 (AS55990)   3 (1.0%)
+- 101.43.192.0/18 (AS45090) 3 (1.0%)
 - 182.255.45.0/24 (AS6134)  2 (0.7%)
 
 Top Countries
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN               37 (12.8%)
 - Amsterdam, North Holland, NL       14 (4.9%)
 - Hong Kong, Central and Western, HK 13 (4.5%)
-- Frankfurt am Main, Hesse, DE       10 (3.5%)
 - Shenzhen, Guangdong, CN            10 (3.5%)
+- Frankfurt am Main, Hesse, DE       10 (3.5%)
 
 Top Regions
 - Beijing, CN             37 (12.8%)
