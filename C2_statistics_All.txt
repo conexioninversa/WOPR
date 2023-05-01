@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     13
+- VPN     14
 - Proxy   0
 - Hosting 236
 - Tor     0
@@ -41,20 +41,20 @@ Top Cities
 - Beijing, Beijing, CN               37 (12.8%)
 - Amsterdam, North Holland, NL       14 (4.9%)
 - Hong Kong, Central and Western, HK 13 (4.5%)
-- Shenzhen, Guangdong, CN            10 (3.5%)
 - Frankfurt am Main, Hesse, DE       10 (3.5%)
+- Shenzhen, Guangdong, CN            10 (3.5%)
 
 Top Regions
 - Beijing, CN             37 (12.8%)
 - North Holland, NL       16 (5.6%)
 - California, US          14 (4.9%)
-- Hesse, DE               13 (4.5%)
 - Central and Western, HK 13 (4.5%)
+- Hesse, DE               12 (4.2%)
 
 Top Privacy Services
+- SaferVPN     2 (0.7%)
 - AnonymousVPN 1 (0.3%)
 - FrostVPN     1 (0.3%)
-- ProtonVPN    1 (0.3%)
 - Mullvad      1 (0.3%)
 
 Top Domains
