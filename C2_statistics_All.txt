@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     8
 - Proxy   1
-- Hosting 235
+- Hosting 231
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           10 (3.3%)
 
 Top Usage Types
-- Hosting   235 (77.8%)
-- ISP       33 (10.9%)
-- Business  28 (9.3%)
+- Hosting   231 (76.5%)
+- Business  36 (11.9%)
+- ISP       29 (9.6%)
 - Education 5 (1.7%)
 
 Top Routes
-- 182.161.68.0/22 (AS132839) 3 (1.0%)
 - 34.224.0.0/12 (AS14618)    3 (1.0%)
 - 3.20.0.0/14 (AS16509)      3 (1.0%)
 - 43.154.0.0/18 (AS132203)   3 (1.0%)
 - 52.90.0.0/15 (AS14618)     3 (1.0%)
+- 182.161.68.0/22 (AS132839) 3 (1.0%)
 
 Top Countries
 - United States 84 (27.8%)
@@ -47,15 +47,15 @@ Top Cities
 Top Regions
 - Virginia, US            31 (10.3%)
 - Beijing, CN             22 (7.3%)
-- Hesse, DE               18 (6.0%)
+- Hesse, DE               19 (6.3%)
 - Central and Western, HK 15 (5.0%)
 - California, US          11 (3.6%)
 
 Top Privacy Services
-- World VPN 1 (0.3%)
-- SlickVPN  1 (0.3%)
-- VeePN     1 (0.3%)
 - VPNUK     1 (0.3%)
+- World VPN 1 (0.3%)
+- SaferVPN  1 (0.3%)
+- VeePN     1 (0.3%)
 
 Top Domains
 - null                 29 (9.6%)
