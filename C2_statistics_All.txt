@@ -24,11 +24,11 @@ Top Usage Types
 - Education 5 (1.7%)
 
 Top Routes
+- 182.161.68.0/22 (AS132839) 3 (1.0%)
+- 34.224.0.0/12 (AS14618)    3 (1.0%)
 - 3.20.0.0/14 (AS16509)      3 (1.0%)
 - 43.154.0.0/18 (AS132203)   3 (1.0%)
 - 52.90.0.0/15 (AS14618)     3 (1.0%)
-- 182.161.68.0/22 (AS132839) 3 (1.0%)
-- 34.224.0.0/12 (AS14618)    3 (1.0%)
 
 Top Countries
 - United States 84 (27.8%)
@@ -52,10 +52,10 @@ Top Regions
 - California, US          11 (3.6%)
 
 Top Privacy Services
-- SaferVPN  1 (0.3%)
 - VeePN     1 (0.3%)
 - VPNUK     1 (0.3%)
 - World VPN 1 (0.3%)
+- SaferVPN  1 (0.3%)
 
 Top Domains
 - null                 29 (9.6%)
