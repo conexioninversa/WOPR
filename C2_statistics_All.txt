@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 47.102.0.0/15 (AS37963)   4 (1.3%)
-- 47.92.0.0/15 (AS37963)    3 (1.0%)
 - 124.222.64.0/18 (AS45090) 3 (1.0%)
 - 82.157.128.0/18 (AS45090) 3 (1.0%)
 - 39.96.0.0/14 (AS37963)    3 (1.0%)
+- 47.92.0.0/15 (AS37963)    3 (1.0%)
 
 Top Countries
 - China         74 (24.7%)
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Beijing, CN             48 (16.0%)
 - Hesse, DE               22 (7.3%)
-- Guangdong, CN           15 (5.0%)
 - Central and Western, HK 15 (5.0%)
+- Guangdong, CN           15 (5.0%)
 - California, US          11 (3.7%)
 
 Top Privacy Services
