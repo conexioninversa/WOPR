@@ -1,18 +1,11 @@
-103.142.218.236,Windows Server 2012 R2,3389,Remote Desktop Protocol,Reload Company Limited,
 49.204.89.74,Windows 7 Professional,3389,Remote Desktop Protocol,Beam Telecom Pvt Ltd,49.204.88.74.actcorp.in
-45.85.250.205,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,Contabo GmbH,vmi1255847.contaboserver.net
-203.115.28.183,Windows Server 2012 R2,3389,Remote Desktop Protocol,Internet Service Provider in Sri Lanka,
 104.218.165.112,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,UCLOUD,
-200.137.216.70,Windows 7 Professional,3389,Remote Desktop Protocol,Rede Nacional de Ensino e Pesquisa,h20013721670.ufg.br
 88.99.74.130,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.130.74.99.88.clients.your-server.de
-54.153.62.247,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,Amazon Technologies Inc.,ec2-54-153-62-247.us-west-1.compute.amazonaws.com
 190.106.220.65,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Servicios Innovadores de Comunicación y Entretenimiento, S.A.,
-148.204.64.19,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Instituto Politecnico Nacional,m019.cic20.ipn.mx;pc-064-019.cic.ipn.mx
 91.89.15.237,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Vodafone BW GmbH,ip-091-089-015-237.um28.pools.vodafone-ip.de
 194.233.88.230,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,Contabo Asia Private Limited,vmi813478.contaboserver.net
 177.54.148.114,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Latitude.sh LTDA,
 186.5.144.163,Windows Server 2012 R2,3389,Remote Desktop Protocol,Columbus Networks Panama,
-206.142.242.46,Windows Server 2012 R2,3389,Remote Desktop Protocol,CenturyLink Technology UK Ltd,
 197.91.252.197,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Dimension Data,197-91-252-197.ftth.mweb.co.za
 117.54.120.45,Windows Server 2012,3389,Remote Desktop Protocol,IndoInternet Network,rev-117-54-120-45.indo.net.id
 129.80.219.20,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,Oracle Corporation,
@@ -21,4 +14,3 @@
 198.37.123.76,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,H4Y Technologies LLC,
 175.197.237.109,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Korea Telecom,
 174.74.43.228,Windows 7 Professional,3389,Remote Desktop Protocol,Cox Communications,ip174-74-43-228.om.om.cox.net
-139.162.33.193,Windows Server 2012 R2,3389,Remote Desktop Protocol,139.162.0.0/16,139-162-33-193.ip.linodeusercontent.com
