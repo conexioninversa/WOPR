@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 39 (13.0%)
-- AS14061 DigitalOcean, LLC                                 23 (7.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             23 (7.7%)
+- AS14061 DigitalOcean, LLC                                 23 (7.7%)
 - AS16509 Amazon.com, Inc.                                  17 (5.7%)
 - AS20473 The Constant Company, LLC                         13 (4.3%)
 
@@ -52,11 +52,11 @@ Top Regions
 - California, US          11 (3.7%)
 
 Top Privacy Services
-- Mullvad    1 (0.3%)
-- World VPN  1 (0.3%)
 - VPN Gate   1 (0.3%)
 - VeePN      1 (0.3%)
 - TunnelBear 1 (0.3%)
+- Mullvad    1 (0.3%)
+- World VPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 13 (4.3%)
