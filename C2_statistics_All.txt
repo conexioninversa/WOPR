@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     7
 - Proxy   0
 - Hosting 251
 - Tor     0
@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    10 (3.3%)
-- 8.130.0.0/16 (AS37963)    4 (1.3%)
 - 44.192.0.0/11 (AS14618)   4 (1.3%)
-- 20.192.0.0/10 (AS8075)    3 (1.0%)
+- 8.130.0.0/16 (AS37963)    4 (1.3%)
 - 43.143.128.0/18 (AS45090) 3 (1.0%)
+- 20.192.0.0/10 (AS8075)    3 (1.0%)
 
 Top Countries
 - China         75 (24.6%)
@@ -52,8 +52,9 @@ Top Regions
 - Virginia, US            13 (4.3%)
 
 Top Privacy Services
-- VeePN   1 (0.3%)
-- NordVPN 1 (0.3%)
+- VeePN      1 (0.3%)
+- TunnelBear 1 (0.3%)
+- NordVPN    1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 11 (3.6%)
