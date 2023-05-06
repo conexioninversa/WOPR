@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     8
 - Proxy   0
-- Hosting 240
+- Hosting 232
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           17 (5.6%)
 
 Top Usage Types
-- Hosting   240 (78.7%)
-- Business  35 (11.5%)
+- Hosting   232 (76.1%)
+- Business  43 (14.1%)
 - ISP       24 (7.9%)
 - Education 3 (1.0%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    6 (2.0%)
 - 43.143.128.0/18 (AS45090) 4 (1.3%)
-- 44.192.0.0/11 (AS14618)   3 (1.0%)
 - 43.142.64.0/18 (AS45090)  3 (1.0%)
 - 42.193.96.0/19 (AS45090)  3 (1.0%)
+- 44.192.0.0/11 (AS14618)   3 (1.0%)
 
 Top Countries
 - China         89 (29.2%)
@@ -41,24 +41,24 @@ Top Cities
 - Beijing, Beijing, CN         53 (17.4%)
 - Frankfurt am Main, Hesse, DE 17 (5.6%)
 - Shenzhen, Guangdong, CN      17 (5.6%)
+- London, England, GB          11 (3.6%)
 - Amsterdam, North Holland, NL 10 (3.3%)
-- Ashburn, Virginia, US        10 (3.3%)
 
 Top Regions
-- Beijing, CN       53 (17.4%)
-- Guangdong, CN     20 (6.6%)
-- Hesse, DE         18 (5.9%)
-- Virginia, US      12 (3.9%)
-- North Holland, NL 11 (3.6%)
+- Beijing, CN   53 (17.4%)
+- Guangdong, CN 20 (6.6%)
+- Hesse, DE     18 (5.9%)
+- England, GB   12 (3.9%)
+- Virginia, US  12 (3.9%)
 
 Top Privacy Services
-- VeePN      1 (0.3%)
 - TunnelBear 1 (0.3%)
 - NordVPN    1 (0.3%)
 - SlickVPN   1 (0.3%)
+- VeePN      1 (0.3%)
 
 Top Domains
-- vultrusercontent.com 11 (3.6%)
 - contaboserver.net    11 (3.6%)
 - null                 11 (3.6%)
+- vultrusercontent.com 11 (3.6%)
 - hwclouds-dns.com     8 (2.6%)
