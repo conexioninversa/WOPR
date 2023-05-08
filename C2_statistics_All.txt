@@ -27,8 +27,8 @@ Top Routes
 - 20.192.0.0/10 (AS8075)      4 (1.3%)
 - 172.247.0.0/16 (AS40065)    4 (1.3%)
 - 3.64.0.0/12 (AS16509)       3 (1.0%)
-- 82.157.128.0/18 (AS45090)   2 (0.7%)
 - 103.149.200.0/24 (AS142032) 2 (0.7%)
+- 82.157.128.0/18 (AS45090)   2 (0.7%)
 
 Top Countries
 - United States 69 (22.5%)
@@ -52,10 +52,10 @@ Top Regions
 - Virginia, US            15 (4.9%)
 
 Top Privacy Services
-- TunnelBear 1 (0.3%)
 - Mullvad    1 (0.3%)
 - FrostVPN   1 (0.3%)
 - VeePN      1 (0.3%)
+- TunnelBear 1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (3.9%)
