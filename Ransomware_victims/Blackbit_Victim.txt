@@ -1,16 +1,7 @@
-60.217.23.228,Windows Server 2012 R2,3389,Remote Desktop Protocol,China Unicom Shandong province network,
+91.242.189.57,Windows 7 Ultimate,3389,Remote Desktop Protocol,JSC ER-Telecom Holding Irkutsk branch,c91-242-189-57.clients.ts-astra.ru
 118.103.236.105,Windows Server 2012 R2,3389,Remote Desktop Protocol,Metro Ethernet Network,
-85.105.124.231,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Turk Telekomunikasyon Anonim Sirketi,85.105.124.231.static.ttnet.com.tr
 157.122.114.177,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,China Unicom Guangdong province network,
-31.170.52.32,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Great ISP in bushehr,
 217.74.16.70,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Istqrar For Web Hosting,
-180.142.128.60,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,CHINANET GUANGXI PROVINCE NETWORK,
-60.248.16.43,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Chunghwa Telecom Co.,Ltd.,60-248-16-43.hinet-ip.hinet.net
-221.202.93.100,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,China Unicom Liaoning Province Network,
-103.144.245.107,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,PROSPUR INT'L CO., LIMITED,
-119.109.140.69,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,China Unicom Liaoning province network,
-67.129.72.250,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,WINSTON COUNTY COMMISSION,
-190.219.86.235,Windows 7 Professional,3389,Remote Desktop Protocol,Cable Onda,cpe-bc5ff43edf2c.cpe.cableonda.net
 78.159.118.5,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Leaseweb Deutschland GmbH,hosted-by.leaseweb.com
 96.31.71.102,Windows Server 2012 R2,3389,Remote Desktop Protocol,HIVELOCITY, Inc.,96-31-71-102.static.hvvc.us
 38.122.23.82,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cogent Communications,
