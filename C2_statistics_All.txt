@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     14
 - Proxy   0
-- Hosting 232
+- Hosting 233
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (3.9%)
 
 Top Usage Types
-- Hosting   232 (75.6%)
-- Business  54 (17.6%)
+- Hosting   233 (75.9%)
+- Business  53 (17.3%)
 - ISP       19 (6.2%)
 - Education 1 (0.3%)
 
 Top Routes
 - 5.196.0.0/16 (AS16276)   5 (1.6%)
 - 20.192.0.0/10 (AS8075)   4 (1.3%)
+- 39.96.0.0/14 (AS37963)   3 (1.0%)
 - 8.140.0.0/15 (AS37963)   3 (1.0%)
 - 172.247.0.0/16 (AS40065) 3 (1.0%)
-- 39.96.0.0/14 (AS37963)   3 (1.0%)
 
 Top Countries
 - China         82 (26.7%)
@@ -52,11 +52,11 @@ Top Regions
 - England, GB    13 (4.2%)
 
 Top Privacy Services
+- ProtonVPN     1 (0.3%)
 - TunnelBear    1 (0.3%)
 - VPNUK         1 (0.3%)
 - SlickVPN      1 (0.3%)
 - VPN Unlimited 1 (0.3%)
-- Windscribe    1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
