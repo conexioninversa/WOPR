@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 101.43.128.0/18 (AS45090) 5 (1.6%)
 - 31.44.184.0/24 (AS34665)  4 (1.3%)
+- 91.238.181.0/24 (AS49434) 3 (1.0%)
 - 172.247.0.0/16 (AS40065)  3 (1.0%)
 - 120.48.96.0/19 (AS38365)  3 (1.0%)
-- 91.238.181.0/24 (AS49434) 3 (1.0%)
 
 Top Countries
 - China         72 (23.5%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - Mullvad    2 (0.7%)
-- TunnelBear 1 (0.3%)
-- SaferVPN   1 (0.3%)
 - VeePN      1 (0.3%)
 - ProtonVPN  1 (0.3%)
+- TunnelBear 1 (0.3%)
+- SaferVPN   1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (3.9%)
