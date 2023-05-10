@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     12
+- VPN     9
 - Proxy   0
-- Hosting 239
+- Hosting 241
 - Tor     0
 - Relay   0
 
@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   239 (77.9%)
-- Business  39 (12.7%)
-- ISP       20 (6.5%)
+- Business  33 (10.7%)
+- ISP       26 (8.5%)
 - Education 8 (2.6%)
 
 Top Routes
@@ -52,11 +52,10 @@ Top Regions
 - Guangdong, CN  18 (5.9%)
 
 Top Privacy Services
-- Mullvad    2 (0.7%)
-- VeePN      1 (0.3%)
-- ProtonVPN  1 (0.3%)
-- TunnelBear 1 (0.3%)
-- SaferVPN   1 (0.3%)
+- Mullvad   2 (0.7%)
+- VeePN     1 (0.3%)
+- ProtonVPN 1 (0.3%)
+- SaferVPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (3.9%)
