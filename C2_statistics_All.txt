@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   244 (79.2%)
-- Business  27 (8.8%)
 - ISP       27 (8.8%)
+- Business  27 (8.8%)
 - Education 9 (2.9%)
 
 Top Routes
@@ -52,9 +52,9 @@ Top Regions
 - California, US 17 (5.5%)
 
 Top Privacy Services
+- ProtonVPN    1 (0.3%)
 - AnonymousVPN 1 (0.3%)
 - Mullvad      1 (0.3%)
-- ProtonVPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net    14 (4.5%)
