@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    10 (3.4%)
+- 42.193.96.0/19 (AS45090)  3 (1.0%)
 - 43.138.64.0/18 (AS45090)  3 (1.0%)
 - 43.139.0.0/18 (AS45090)   3 (1.0%)
 - 43.143.128.0/18 (AS45090) 3 (1.0%)
-- 42.193.96.0/19 (AS45090)  3 (1.0%)
 
 Top Countries
 - China         74 (24.8%)
@@ -51,9 +51,9 @@ Top Regions
 - Central and Western, HK 15 (5.0%)
 
 Top Privacy Services
-- Windscribe 1 (0.3%)
 - NordVPN    1 (0.3%)
 - Mullvad    1 (0.3%)
+- Windscribe 1 (0.3%)
 
 Top Domains
 - null                 11 (3.7%)
