@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     12
+- VPN     11
 - Proxy   0
-- Hosting 238
+- Hosting 244
 - Tor     0
 - Relay   0
 
@@ -51,10 +51,9 @@ Top Regions
 - Central and Western, HK 15 (5.0%)
 
 Top Privacy Services
-- ProtonVPN 1 (0.3%)
-- NordVPN   1 (0.3%)
-- Mullvad   1 (0.3%)
-- SaferVPN  1 (0.3%)
+- NordVPN    1 (0.3%)
+- Mullvad    1 (0.3%)
+- Windscribe 1 (0.3%)
 
 Top Domains
 - null                 11 (3.7%)
