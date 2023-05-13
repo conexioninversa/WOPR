@@ -13,5 +13,3 @@
 119.109.140.69,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,China Unicom Liaoning province network,
 67.129.72.250,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,WINSTON COUNTY COMMISSION,
 190.219.86.235,Windows 7 Professional,3389,Remote Desktop Protocol,Cable Onda,cpe-bc5ff43edf2c.cpe.cableonda.net
-78.159.118.5,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Leaseweb Deutschland GmbH,hosted-by.leaseweb.com
-96.31.71.102,Windows Server 2012 R2,3389,Remote Desktop Protocol,HIVELOCITY, Inc.,96-31-71-102.static.hvvc.us
