@@ -137,7 +137,6 @@
 146.185.166.202,3790,MetasploitSelfSignedCA,nginx,Digital Ocean, Inc.,
 165.246.38.151,3790,MetasploitSelfSignedCA,nginx,INHA UNIVERSITY,
 45.142.213.91,3790,MetasploitSelfSignedCA,nginx,STARK INDUSTRIES SOLUTIONS LTD,ermetpalaev.example.com
-188.0.21.80,3790,MetasploitSelfSignedCA,nginx,YarTV Ltd.,PPPoE-188.0.21.80-IP.RastrNET.RU
 104.248.59.171,3790,MetasploitSelfSignedCA,nginx,DigitalOcean, LLC,
 210.255.57.172,3790,MetasploitSelfSignedCA,nginx,TBK Systems Co.,Ltd.,
 209.126.85.30,3790,MetasploitSelfSignedCA,nginx,Contabo Inc.,vmi1037813.contaboserver.net
@@ -196,6 +195,7 @@
 138.68.104.219,3790,MetasploitSelfSignedCA,nginx,DigitalOcean, LLC,
 77.75.125.176,3790,MetasploitSelfSignedCA,nginx,JAC004,
 35.86.211.205,3790,MetasploitSelfSignedCA,nginx,Amazon.com, Inc.,ec2-35-86-211-205.us-west-2.compute.amazonaws.com
+123.207.84.229,3790,MetasploitSelfSignedCA,nginx,Tencent cloud computing (Beijing) Co., Ltd.,
 13.82.141.216,443,R3,Brute Ratel C4,Microsoft Corporation,spectrumofinnovation.org
 149.28.251.203,80,,Brute Ratel C4,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
 18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
@@ -213,6 +213,8 @@
 193.41.237.173,7443,,Mythic,dataforest GmbH,v56119.php-friends.de
 51.83.75.44,7443,,nginx,OVH SAS,vps-e92cc4af.vps.ovh.net
 64.176.8.42,7443,,Mythic,Vultr Holdings, LLC,64.176.8.42.vultrusercontent.com
+185.245.182.209,7443,,nginx,Contabo GmbH,vmi1247833.contaboserver.net
+34.215.75.141,7443,,Mythic,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
 62.113.196.46,7443,,nginx,23M GmbH,s1.revealedtricks4u.com
 157.230.93.100,7443,,nginx,DigitalOcean, LLC,
 138.197.142.113,7443,,nginx,DigitalOcean, LLC,collaborator-perso.somecanadian.ca
@@ -221,6 +223,7 @@
 159.89.191.115,7443,,Mythic,DigitalOcean, LLC,
 149.28.133.118,7443,,Mythic,Vultr Holdings, LLC,149.28.133.118.vultrusercontent.com
 35.93.133.191,7443,,Mythic,Amazon.com, Inc.,ec2-35-93-133-191.us-west-2.compute.amazonaws.com
+23.239.29.223,7443,,Mythic,Linode,23-239-29-223.ip.linodeusercontent.com
 89.44.201.72,7443,,Mythic,M247 Europe SRL,
 194.233.164.157,7443,,Mythic,Linode, LLC,194-233-164-157.ip.linodeusercontent.com
 94.102.49.176,7443,,Mythic,FiberXpress BV,no-reverse-dns-configured.com
@@ -242,6 +245,7 @@
 83.244.163.202,7443,,Mythic,SCALABLE COMMUNICATIONS,83-244-163-202.cust-83.exponential-e.net
 84.46.241.248,7443,,Mythic,IPXO,vmi1097036.contaboserver.net
 185.187.169.34,7443,,Mythic,Contabo GmbH,vmi1205332.contaboserver.net
+5.188.34.118,7443,,Mythic,G-Core Labs S.A.,mtc.com
 138.68.127.9,7443,,Mythic,DigitalOcean, LLC,
 104.248.88.172,7443,,Mythic,DigitalOcean, LLC,
 43.206.136.41,7443,,Mythic,Amazon.com, Inc.,ec2-43-206-136-41.ap-northeast-1.compute.amazonaws.com
@@ -257,11 +261,10 @@
 37.187.123.146,7443,,Mythic,OVH SAS,ns332345.ip-37-187-123.eu
 18.133.78.17,7443,,Mythic,Amazon Data Services UK,ec2-18-133-78-17.eu-west-2.compute.amazonaws.com
 40.69.93.39,7443,,Mythic,Microsoft Corporation,
+139.99.89.117,7443,,Mythic,OVH Singapore PTE. LTD,groot.nerveservers.net
 74.207.254.195,7443,,,Linode,74-207-254-195.ip.linodeusercontent.com
 154.180.67.196,7443,,Mythic,TE Data,host-154.180.196.67-static.tedata.net
 52.63.64.64,7443,,Mythic,Amazon Technologies Inc.,ec2-52-63-64-64.ap-southeast-2.compute.amazonaws.com
-79.16.159.159,7443,,,Telecom Italia S.p.A.,host-79-16-159-159.retail.telecomitalia.it
-191.252.220.58,7443,,Mythic,Locaweb Servi�os de Internet S/A,vps44383.publiccloud.com.br
 109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
 44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
@@ -291,8 +294,6 @@
 81.17.242.130,7443,Covenant,Blacknight Internet Solutions Limited,uber1.efence.co.uk
 5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
 5.101.5.196,8443,Deimos C2,s80.spb-dc's objects,
-103.231.172.147,8443,Deimos C2,varidata,
-103.231.172.148,8443,Deimos C2,varidata,
 62.182.159.147,443,PoshC2,Selectel Network,
 95.213.145.101,443,PoshC2,Selectel SPb,
 184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
