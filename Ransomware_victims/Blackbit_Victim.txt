@@ -1,3 +1,4 @@
+91.242.189.57,Windows 7 Ultimate,3389,Remote Desktop Protocol,JSC ER-Telecom Holding Irkutsk branch,c91-242-189-57.clients.ts-astra.ru
 60.217.23.228,Windows Server 2012 R2,3389,Remote Desktop Protocol,China Unicom Shandong province network,
 118.103.236.105,Windows Server 2012 R2,3389,Remote Desktop Protocol,Metro Ethernet Network,
 85.105.124.231,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Turk Telekomunikasyon Anonim Sirketi,85.105.124.231.static.ttnet.com.tr
@@ -9,4 +10,3 @@
 84.92.81.231,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,British Telecommunications PLC,valleycentre.plus.com
 221.202.93.100,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,China Unicom Liaoning Province Network,
 103.144.245.107,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,PROSPUR INT'L CO., LIMITED,
-119.109.140.69,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,China Unicom Liaoning province network,
