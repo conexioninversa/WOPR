@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     8
+- VPN     9
 - Proxy   0
-- Hosting 257
+- Hosting 263
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS63949 Akamai Connected Cloud                            12 (3.9%)
 
 Top Usage Types
-- Hosting  260 (85.5%)
-- Business 27 (8.9%)
+- Hosting  262 (86.2%)
+- Business 25 (8.2%)
 - ISP      15 (4.9%)
 
 Top Routes
@@ -51,10 +51,10 @@ Top Regions
 - Guangdong, CN           13 (4.3%)
 
 Top Privacy Services
-- FrostVPN  1 (0.3%)
-- World VPN 1 (0.3%)
 - VeePN     1 (0.3%)
 - ProtonVPN 1 (0.3%)
+- FrostVPN  1 (0.3%)
+- World VPN 1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.3%)
