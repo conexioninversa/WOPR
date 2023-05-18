@@ -25,8 +25,8 @@ Top Usage Types
 Top Routes
 - 91.238.181.0/24 (AS49434) 6 (2.0%)
 - 47.92.0.0/15 (AS37963)    6 (2.0%)
-- 20.192.0.0/10 (AS8075)    3 (1.0%)
 - 43.154.0.0/18 (AS132203)  3 (1.0%)
+- 20.192.0.0/10 (AS8075)    3 (1.0%)
 - 101.35.0.0/18 (AS45090)   2 (0.7%)
 
 Top Countries
@@ -51,10 +51,10 @@ Top Regions
 - Guangdong, CN           13 (4.3%)
 
 Top Privacy Services
+- VeePN     1 (0.3%)
 - ProtonVPN 1 (0.3%)
 - FrostVPN  1 (0.3%)
 - World VPN 1 (0.3%)
-- VeePN     1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.3%)
