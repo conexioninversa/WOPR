@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     11
+- VPN     9
 - Proxy   0
-- Hosting 228
+- Hosting 219
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS8075 Microsoft Corporation                              8 (2.9%)
 
 Top Usage Types
-- Hosting   225 (81.2%)
-- Business  32 (11.6%)
-- ISP       12 (4.3%)
+- Hosting   217 (78.3%)
+- Business  37 (13.4%)
+- ISP       15 (5.4%)
 - Education 5 (1.8%)
 
 Top Routes
@@ -33,28 +33,27 @@ Top Routes
 Top Countries
 - China         77 (27.8%)
 - United States 58 (20.9%)
-- Germany       30 (10.8%)
+- Germany       31 (11.2%)
 - Hong Kong     22 (7.9%)
 - Russia        14 (5.1%)
 
 Top Cities
 - Beijing, Beijing, CN               54 (19.5%)
-- Frankfurt am Main, Hesse, DE       19 (6.9%)
-- Hong Kong, Central and Western, HK 18 (6.5%)
+- Frankfurt am Main, Hesse, DE       20 (7.2%)
+- Hong Kong, Central and Western, HK 19 (6.9%)
 - Guangzhou, Guangdong, CN           9 (3.2%)
 - Amsterdam, North Holland, NL       8 (2.9%)
 
 Top Regions
 - Beijing, CN             56 (20.2%)
-- Hesse, DE               21 (7.6%)
-- Central and Western, HK 18 (6.5%)
+- Hesse, DE               24 (8.7%)
+- Central and Western, HK 19 (6.9%)
 - Guangdong, CN           13 (4.7%)
 - Virginia, US            11 (4.0%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
-- TunnelBear    2 (0.7%)
-- ProtonVPN     1 (0.4%)
+- Windscribe    1 (0.4%)
 - SaferVPN      1 (0.4%)
 - FrostVPN      1 (0.4%)
 
