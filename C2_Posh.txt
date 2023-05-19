@@ -1,4 +1,5 @@
 62.182.159.147,443,PoshC2,Selectel Network,
 95.213.145.101,443,PoshC2,Selectel SPb,
 184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
+159.69.180.8,443,PoshC2,Hetzner Online GmbH,static.8.180.69.159.clients.your-server.de
 3.72.176.74,443,PoshC2,A100 ROW GmbH,ec2-3-72-176-74.eu-central-1.compute.amazonaws.com

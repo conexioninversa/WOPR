@@ -1,65 +1,65 @@
 Summary
-- Total   288
-- Unique  278
+- Total   277
+- Unique  271
 - Anycast 0
 - Bogon   0
 - Mobile  0
 - VPN     11
 - Proxy   0
-- Hosting 238
+- Hosting 228
 - Tor     0
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 45 (15.6%)
-- AS14061 DigitalOcean, LLC                                 28 (9.7%)
-- AS16509 Amazon.com, Inc.                                  19 (6.6%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             19 (6.6%)
-- AS16276 OVH SAS                                           11 (3.8%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 52 (18.8%)
+- AS14061 DigitalOcean, LLC                                 28 (10.1%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             16 (5.8%)
+- AS16509 Amazon.com, Inc.                                  13 (4.7%)
+- AS8075 Microsoft Corporation                              8 (2.9%)
 
 Top Usage Types
-- Hosting   234 (81.2%)
-- Business  29 (10.1%)
-- ISP       17 (5.9%)
-- Education 6 (2.1%)
+- Hosting   225 (81.2%)
+- Business  32 (11.6%)
+- ISP       12 (4.3%)
+- Education 5 (1.8%)
 
 Top Routes
-- 65.109.0.0/16 (AS24940)   3 (1.0%)
-- 101.43.128.0/18 (AS45090) 3 (1.0%)
-- 39.104.0.0/15 (AS37963)   3 (1.0%)
-- 110.41.128.0/18 (AS55990) 3 (1.0%)
-- 47.102.0.0/15 (AS37963)   3 (1.0%)
+- 172.96.166.0/24 (AS63018) 3 (1.1%)
+- 20.192.0.0/10 (AS8075)    3 (1.1%)
+- 124.222.64.0/18 (AS45090) 3 (1.1%)
+- 150.158.0.0/18 (AS45090)  3 (1.1%)
+- 117.78.16.0/21 (AS55990)  2 (0.7%)
 
 Top Countries
-- China         78 (27.1%)
-- United States 66 (22.9%)
-- Germany       28 (9.7%)
-- Russia        13 (4.5%)
-- Hong Kong     11 (3.8%)
+- China         77 (27.8%)
+- United States 58 (20.9%)
+- Germany       30 (10.8%)
+- Hong Kong     22 (7.9%)
+- Russia        14 (5.1%)
 
 Top Cities
-- Beijing, Beijing, CN         49 (17.0%)
-- Guangzhou, Guangdong, CN     14 (4.9%)
-- Frankfurt am Main, Hesse, DE 14 (4.9%)
-- Singapore, Singapore, SG     11 (3.8%)
-- North Bergen, New Jersey, US 9 (3.1%)
+- Beijing, Beijing, CN               54 (19.5%)
+- Frankfurt am Main, Hesse, DE       19 (6.9%)
+- Hong Kong, Central and Western, HK 18 (6.5%)
+- Guangzhou, Guangdong, CN           9 (3.2%)
+- Amsterdam, North Holland, NL       8 (2.9%)
 
 Top Regions
-- Beijing, CN    51 (17.7%)
-- Guangdong, CN  18 (6.2%)
-- Hesse, DE      18 (6.2%)
-- California, US 13 (4.5%)
-- Virginia, US   12 (4.2%)
+- Beijing, CN             56 (20.2%)
+- Hesse, DE               21 (7.6%)
+- Central and Western, HK 18 (6.5%)
+- Guangdong, CN           13 (4.7%)
+- Virginia, US            11 (4.0%)
 
 Top Privacy Services
-- SaferVPN     2 (0.7%)
-- TunnelBear   1 (0.3%)
-- ProtonVPN    1 (0.3%)
-- AnonymousVPN 1 (0.3%)
-- Mullvad      1 (0.3%)
+- TunnelBear    2 (0.7%)
+- VPN Unlimited 2 (0.7%)
+- ProtonVPN     1 (0.4%)
+- SaferVPN      1 (0.4%)
+- FrostVPN      1 (0.4%)
 
 Top Domains
-- contaboserver.net    14 (4.9%)
-- null                 10 (3.5%)
-- vultrusercontent.com 9 (3.1%)
-- hwclouds-dns.com     7 (2.4%)
+- null                 9 (3.2%)
+- vultrusercontent.com 8 (2.9%)
+- contaboserver.net    7 (2.5%)
+- hwclouds-dns.com     5 (1.8%)
