@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     14
+- VPN     15
 - Proxy   0
 - Hosting 250
 - Tor     0
@@ -41,23 +41,23 @@ Top Cities
 - Beijing, Beijing, CN         59 (19.6%)
 - Guangzhou, Guangdong, CN     21 (7.0%)
 - Frankfurt am Main, Hesse, DE 17 (5.6%)
-- Amsterdam, North Holland, NL 14 (4.7%)
+- Amsterdam, North Holland, NL 13 (4.3%)
 - Lille, Hauts-de-France, FR   12 (4.0%)
 
 Top Regions
 - Beijing, CN         60 (19.9%)
 - Guangdong, CN       23 (7.6%)
 - Hesse, DE           20 (6.6%)
-- North Holland, NL   15 (5.0%)
 - Hauts-de-France, FR 14 (4.7%)
+- North Holland, NL   14 (4.7%)
 
 Top Carriers
 - A1 1 (0.3%)
 
 Top Privacy Services
+- TunnelBear 2 (0.7%)
 - World VPN  2 (0.7%)
-- Windscribe 1 (0.3%)
-- HideMyAss  1 (0.3%)
+- NordVPN    1 (0.3%)
 - VPN Jantit 1 (0.3%)
 - Mullvad    1 (0.3%)
 
