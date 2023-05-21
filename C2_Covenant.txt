@@ -1,17 +1,19 @@
-5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
-152.67.26.76,7443,Covenant,Oracle Public Cloud,
-109.123.231.70,7443,Covenant,CASABLANCA INT a.s.,vmi1020227.contaboserver.net
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
 165.227.207.110,7443,Covenant,DigitalOcean, LLC,
-68.183.120.153,7443,Covenant,DigitalOcean, LLC,
 51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
+68.183.120.153,7443,Covenant,DigitalOcean, LLC,
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
+192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
+109.123.231.70,7443,Covenant,CASABLANCA INT a.s.,vmi1020227.contaboserver.net
+143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
+89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
+152.67.26.76,7443,Covenant,Oracle Public Cloud,
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 168.100.232.169,7443,Covenant,E SHELLS INC,
+18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
 92.40.8.73,7443,Covenant,Mobile Broadband Service,92.40.8.73.threembb.co.uk
 43.142.178.122,7443,Covenant,Tencent Cloud Computing (Beijing) Co., Ltd,
 65.21.248.64,7443,Covenant,Hetzner Online GmbH,static.64.248.21.65.clients.your-server.de
