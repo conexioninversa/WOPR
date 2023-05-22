@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    11 (3.7%)
-- 44.192.0.0/11 (AS14618)   3 (1.0%)
 - 42.193.0.0/18 (AS45090)   3 (1.0%)
 - 147.78.47.0/24 (AS209588) 3 (1.0%)
+- 44.192.0.0/11 (AS14618)   3 (1.0%)
 - 82.157.128.0/18 (AS45090) 2 (0.7%)
 
 Top Countries
@@ -48,8 +48,8 @@ Top Regions
 - Beijing, CN         60 (19.9%)
 - Guangdong, CN       23 (7.6%)
 - Hesse, DE           20 (6.6%)
-- North Holland, NL   14 (4.7%)
 - Hauts-de-France, FR 14 (4.7%)
+- North Holland, NL   14 (4.7%)
 
 Top Carriers
 - A1 1 (0.3%)
@@ -57,9 +57,9 @@ Top Carriers
 Top Privacy Services
 - TunnelBear 2 (0.7%)
 - World VPN  2 (0.7%)
-- NordVPN    1 (0.3%)
 - VPN Jantit 1 (0.3%)
 - Mullvad    1 (0.3%)
+- NordVPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.3%)
