@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 172.247.0.0/16 (AS40065)   4 (1.5%)
-- 101.43.128.0/18 (AS45090)  3 (1.1%)
 - 5.196.0.0/16 (AS16276)     3 (1.1%)
 - 182.161.68.0/22 (AS132839) 3 (1.1%)
 - 110.41.128.0/18 (AS55990)  3 (1.1%)
+- 101.43.128.0/18 (AS45090)  3 (1.1%)
 
 Top Countries
 - China         78 (28.8%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - SaferVPN      2 (0.7%)
+- Mullvad       1 (0.4%)
 - SlickVPN      1 (0.4%)
 - VPN Unlimited 1 (0.4%)
 - ProtonVPN     1 (0.4%)
-- Mullvad       1 (0.4%)
 
 Top Domains
 - null                 9 (3.3%)
