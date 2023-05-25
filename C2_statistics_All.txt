@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (13.5%)
 - AS14061 DigitalOcean, LLC                                 21 (7.5%)
-- AS16509 Amazon.com, Inc.                                  17 (6.0%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (6.0%)
+- AS16509 Amazon.com, Inc.                                  17 (6.0%)
 - AS51167 Contabo GmbH                                      11 (3.9%)
 
 Top Usage Types
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    16 (5.7%)
+- hwclouds-dns.com     10 (3.6%)
 - null                 10 (3.6%)
 - vultrusercontent.com 10 (3.6%)
-- hwclouds-dns.com     10 (3.6%)
