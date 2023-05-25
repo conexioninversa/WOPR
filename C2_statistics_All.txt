@@ -52,14 +52,14 @@ Top Regions
 - North Holland, NL 15 (5.3%)
 
 Top Privacy Services
+- World VPN    1 (0.4%)
+- AnonymousVPN 1 (0.4%)
 - Mullvad      1 (0.4%)
 - SlickVPN     1 (0.4%)
 - SaferVPN     1 (0.4%)
-- World VPN    1 (0.4%)
-- AnonymousVPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    16 (5.7%)
-- null                 10 (3.6%)
 - vultrusercontent.com 10 (3.6%)
 - hwclouds-dns.com     10 (3.6%)
+- null                 10 (3.6%)
