@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (13.5%)
 - AS14061 DigitalOcean, LLC                                 21 (7.5%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (6.0%)
 - AS16509 Amazon.com, Inc.                                  17 (6.0%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (6.0%)
 - AS51167 Contabo GmbH                                      11 (3.9%)
 
 Top Usage Types
@@ -47,19 +47,19 @@ Top Cities
 Top Regions
 - Beijing, CN       44 (15.7%)
 - Guangdong, CN     19 (6.8%)
-- Hesse, DE         16 (5.7%)
 - England, GB       16 (5.7%)
+- Hesse, DE         16 (5.7%)
 - North Holland, NL 15 (5.3%)
 
 Top Privacy Services
-- AnonymousVPN 1 (0.4%)
-- Mullvad      1 (0.4%)
 - SlickVPN     1 (0.4%)
 - SaferVPN     1 (0.4%)
 - World VPN    1 (0.4%)
+- AnonymousVPN 1 (0.4%)
+- Mullvad      1 (0.4%)
 
 Top Domains
 - contaboserver.net    16 (5.7%)
-- hwclouds-dns.com     10 (3.6%)
 - null                 10 (3.6%)
 - vultrusercontent.com 10 (3.6%)
+- hwclouds-dns.com     10 (3.6%)
