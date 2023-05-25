@@ -24,10 +24,10 @@ Top Usage Types
 - Education 3 (1.1%)
 
 Top Routes
-- 101.43.128.0/18 (AS45090) 4 (1.4%)
-- 172.247.0.0/16 (AS40065)  4 (1.4%)
 - 101.43.0.0/18 (AS45090)   4 (1.4%)
 - 175.178.0.0/18 (AS45090)  4 (1.4%)
+- 101.43.128.0/18 (AS45090) 4 (1.4%)
+- 172.247.0.0/16 (AS40065)  4 (1.4%)
 - 8.130.0.0/16 (AS37963)    3 (1.1%)
 
 Top Countries
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    16 (5.7%)
-- null                 10 (3.6%)
 - hwclouds-dns.com     10 (3.6%)
+- null                 10 (3.6%)
 - vultrusercontent.com 9 (3.2%)
