@@ -24,10 +24,10 @@ Top Usage Types
 - Education 3 (1.1%)
 
 Top Routes
-- 101.43.0.0/18 (AS45090)   4 (1.4%)
-- 175.178.0.0/18 (AS45090)  4 (1.4%)
 - 101.43.128.0/18 (AS45090) 4 (1.4%)
 - 172.247.0.0/16 (AS40065)  4 (1.4%)
+- 101.43.0.0/18 (AS45090)   4 (1.4%)
+- 175.178.0.0/18 (AS45090)  4 (1.4%)
 - 8.130.0.0/16 (AS37963)    3 (1.1%)
 
 Top Countries
@@ -47,16 +47,16 @@ Top Cities
 Top Regions
 - Beijing, CN       44 (15.7%)
 - Guangdong, CN     19 (6.8%)
-- England, GB       16 (5.7%)
 - Hesse, DE         16 (5.7%)
+- England, GB       16 (5.7%)
 - North Holland, NL 15 (5.3%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.4%)
-- AnonymousVPN  1 (0.4%)
 - Mullvad       1 (0.4%)
 - GHOSTPATH     1 (0.4%)
 - World VPN     1 (0.4%)
+- VPN Unlimited 1 (0.4%)
+- AnonymousVPN  1 (0.4%)
 
 Top Domains
 - contaboserver.net    16 (5.7%)
