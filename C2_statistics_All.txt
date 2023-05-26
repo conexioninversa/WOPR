@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 59 (19.3%)
 - AS14061 DigitalOcean, LLC                                 28 (9.2%)
 - AS16509 Amazon.com, Inc.                                  19 (6.2%)
-- AS16276 OVH SAS                                           15 (4.9%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (4.9%)
+- AS16276 OVH SAS                                           15 (4.9%)
 
 Top Usage Types
 - Hosting   265 (86.9%)
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN               57 (18.7%)
 - Guangzhou, Guangdong, CN           19 (6.2%)
-- Frankfurt am Main, Hesse, DE       12 (3.9%)
 - Ashburn, Virginia, US              12 (3.9%)
+- Frankfurt am Main, Hesse, DE       12 (3.9%)
 - Hong Kong, Central and Western, HK 11 (3.6%)
 
 Top Regions
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - ProtonVPN     2 (0.7%)
-- AnonymousVPN  1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - World VPN     1 (0.3%)
 - HideMyAss     1 (0.3%)
+- AnonymousVPN  1 (0.3%)
 
 Top Domains
 - null                 12 (3.9%)
