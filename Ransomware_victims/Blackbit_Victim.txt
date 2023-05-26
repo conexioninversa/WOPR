@@ -1,6 +1,4 @@
 109.148.31.236,,3389,Remote Desktop Protocol,BT Infrastructure Layer,host109-148-31-236.range109-148.btcentralplus.com
 189.203.227.44,Windows Server 2012 R2,3389,Remote Desktop Protocol,TOTAL PLAY TELECOMUNICACIONES SA DE CV,fixed-189-203-227-44.totalplay.net
-91.242.189.57,Windows 7 Ultimate,3389,Remote Desktop Protocol,JSC ER-Telecom Holding Irkutsk branch,c91-242-189-57.clients.ts-astra.ru
 60.217.23.228,Windows Server 2012 R2,3389,Remote Desktop Protocol,China Unicom Shandong province network,
 118.103.236.105,Windows Server 2012 R2,3389,Remote Desktop Protocol,Metro Ethernet Network,
-85.105.124.231,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,Turk Telekomunikasyon Anonim Sirketi,85.105.124.231.static.ttnet.com.tr
