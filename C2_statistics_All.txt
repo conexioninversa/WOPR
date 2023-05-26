@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     11
+- VPN     10
 - Proxy   0
-- Hosting 267
+- Hosting 268
 - Tor     0
 - Relay   0
 
@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)     9 (3.0%)
+- 190.211.255.0/24 (AS51852) 4 (1.3%)
 - 42.193.96.0/19 (AS45090)   4 (1.3%)
 - 43.138.64.0/18 (AS45090)   4 (1.3%)
-- 190.211.255.0/24 (AS51852) 4 (1.3%)
 - 91.215.85.0/24 (AS200593)  3 (1.0%)
 
 Top Countries
@@ -39,9 +39,9 @@ Top Countries
 
 Top Cities
 - Beijing, Beijing, CN               57 (18.7%)
-- Guangzhou, Guangdong, CN           18 (5.9%)
-- Frankfurt am Main, Hesse, DE       13 (4.3%)
+- Guangzhou, Guangdong, CN           19 (6.2%)
 - Ashburn, Virginia, US              12 (3.9%)
+- Frankfurt am Main, Hesse, DE       12 (3.9%)
 - Hong Kong, Central and Western, HK 11 (3.6%)
 
 Top Regions
@@ -52,11 +52,11 @@ Top Regions
 - England, GB   13 (4.3%)
 
 Top Privacy Services
-- World VPN    1 (0.3%)
-- NordVPN      1 (0.3%)
-- AnonymousVPN 1 (0.3%)
-- Windscribe   1 (0.3%)
-- SaferVPN     1 (0.3%)
+- ProtonVPN     2 (0.7%)
+- HideMyAss     1 (0.3%)
+- AnonymousVPN  1 (0.3%)
+- VPN Unlimited 1 (0.3%)
+- World VPN     1 (0.3%)
 
 Top Domains
 - null                 12 (3.9%)
