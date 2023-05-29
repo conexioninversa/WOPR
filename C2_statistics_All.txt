@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 5.196.0.0/16 (AS16276)    7 (2.4%)
-- 109.248.6.0/23 (AS213220) 3 (1.0%)
 - 44.192.0.0/11 (AS14618)   3 (1.0%)
 - 172.247.0.0/16 (AS40065)  3 (1.0%)
 - 47.115.128.0/17 (AS37963) 3 (1.0%)
+- 109.248.6.0/23 (AS213220) 3 (1.0%)
 
 Top Countries
 - China         76 (25.7%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - World VPN     2 (0.7%)
 - VPN Unlimited 2 (0.7%)
+- AnonymousVPN  1 (0.3%)
 - Windscribe    1 (0.3%)
 - NordVPN       1 (0.3%)
-- AnonymousVPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 13 (4.4%)
