@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     14
+- VPN     13
 - Proxy   0
 - Hosting 257
 - Tor     0
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             13 (4.4%)
 
 Top Usage Types
-- Hosting   256 (86.5%)
+- Hosting   254 (85.8%)
 - ISP       17 (5.7%)
-- Business  15 (5.1%)
+- Business  17 (5.7%)
 - Education 7 (2.4%)
 
 Top Routes
@@ -31,30 +31,30 @@ Top Routes
 - 47.115.128.0/17 (AS37963) 3 (1.0%)
 
 Top Countries
-- United States 126 (42.6%)
-- China         49 (16.6%)
-- Germany       17 (5.7%)
-- Netherlands   15 (5.1%)
-- France        11 (3.7%)
+- China         76 (25.7%)
+- United States 69 (23.3%)
+- Germany       25 (8.4%)
+- Netherlands   18 (6.1%)
+- Russia        14 (4.7%)
 
 Top Cities
-- Seattle, Washington, US      68 (23.0%)
-- Beijing, Beijing, CN         17 (5.7%)
-- Shanghai, Shanghai, CN       15 (5.1%)
-- Amsterdam, North Holland, NL 10 (3.4%)
-- Guangzhou, Guangdong, CN     9 (3.0%)
+- Beijing, Beijing, CN         48 (16.2%)
+- Guangzhou, Guangdong, CN     18 (6.1%)
+- Amsterdam, North Holland, NL 13 (4.4%)
+- Frankfurt am Main, Hesse, DE 12 (4.1%)
+- Ashburn, Virginia, US        10 (3.4%)
 
 Top Regions
-- Washington, US 68 (23.0%)
-- Beijing, CN    18 (6.1%)
-- Shanghai, CN   15 (5.1%)
-- Guangdong, CN  13 (4.4%)
-- California, US 13 (4.4%)
+- Beijing, CN       49 (16.6%)
+- Guangdong, CN     23 (7.8%)
+- North Holland, NL 15 (5.1%)
+- Hesse, DE         14 (4.7%)
+- California, US    14 (4.7%)
 
 Top Privacy Services
-- TunnelBear    2 (0.7%)
 - World VPN     2 (0.7%)
 - VPN Unlimited 2 (0.7%)
+- TunnelBear    1 (0.3%)
 - NordVPN       1 (0.3%)
 - AnonymousVPN  1 (0.3%)
 
