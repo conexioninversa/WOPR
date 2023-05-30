@@ -18,15 +18,15 @@ Top ASNs
 - AS36352 ColoCrossing                                      9 (3.3%)
 
 Top Usage Types
-- Hosting   234 (85.4%)
-- Business  19 (6.9%)
+- Hosting   237 (86.5%)
+- Business  16 (5.8%)
 - ISP       14 (5.1%)
 - Education 6 (2.2%)
 
 Top Routes
 - 47.98.0.0/15 (AS37963)    4 (1.5%)
-- 31.44.184.0/24 (AS34665)  3 (1.1%)
 - 172.247.0.0/16 (AS40065)  3 (1.1%)
+- 31.44.184.0/24 (AS34665)  3 (1.1%)
 - 8.218.128.0/17 (AS45102)  2 (0.7%)
 - 107.174.64.0/21 (AS36352) 2 (0.7%)
 
@@ -38,22 +38,22 @@ Top Countries
 - Netherlands   13 (4.7%)
 
 Top Cities
-- Beijing, Beijing, CN               42 (15.3%)
-- Guangzhou, Guangdong, CN           14 (5.1%)
+- Beijing, Beijing, CN               26 (9.5%)
+- Shanghai, Shanghai, CN             21 (7.7%)
 - Hong Kong, Central and Western, HK 14 (5.1%)
+- Guangzhou, Guangdong, CN           13 (4.7%)
 - Frankfurt am Main, Hesse, DE       12 (4.4%)
-- Amsterdam, North Holland, NL       10 (3.6%)
 
 Top Regions
-- Beijing, CN             43 (15.7%)
-- Guangdong, CN           15 (5.5%)
+- Beijing, CN             27 (9.9%)
+- Shanghai, CN            21 (7.7%)
+- Guangdong, CN           14 (5.1%)
 - Central and Western, HK 14 (5.1%)
-- Hesse, DE               13 (4.7%)
 - California, US          13 (4.7%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
-- SaferVPN      1 (0.4%)
+- TunnelBear    1 (0.4%)
 - Mullvad       1 (0.4%)
 - VPN Jantit    1 (0.4%)
 - AnonymousVPN  1 (0.4%)
