@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     14
+- VPN     12
 - Proxy   0
 - Hosting 255
 - Tor     0
@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 5.196.0.0/16 (AS16276)     6 (2.0%)
 - 190.211.255.0/24 (AS51852) 5 (1.7%)
-- 8.130.0.0/16 (AS37963)     3 (1.0%)
 - 44.192.0.0/11 (AS14618)    3 (1.0%)
 - 31.44.184.0/24 (AS34665)   3 (1.0%)
+- 8.130.0.0/16 (AS37963)     3 (1.0%)
 
 Top Countries
 - China         88 (29.9%)
@@ -52,11 +52,11 @@ Top Regions
 - New Jersey, US 12 (4.1%)
 
 Top Privacy Services
-- TunnelBear 3 (1.0%)
-- Mullvad    1 (0.3%)
-- World VPN  1 (0.3%)
 - VPN Jantit 1 (0.3%)
 - ironsocket 1 (0.3%)
+- Windscribe 1 (0.3%)
+- Mullvad    1 (0.3%)
+- World VPN  1 (0.3%)
 
 Top Domains
 - contaboserver.net     11 (3.7%)
