@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     11
+- VPN     12
 - Proxy   0
-- Hosting 236
+- Hosting 238
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (4.2%)
 
 Top Usage Types
-- Hosting   236 (83.4%)
+- Hosting   238 (84.1%)
 - ISP       24 (8.5%)
-- Business  18 (6.4%)
+- Business  16 (5.7%)
 - Education 5 (1.8%)
 
 Top Routes
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
-- World VPN     1 (0.4%)
-- VPN Jantit    1 (0.4%)
 - ironsocket    1 (0.4%)
 - Mullvad       1 (0.4%)
+- World VPN     1 (0.4%)
+- VPN Jantit    1 (0.4%)
 
 Top Domains
 - contaboserver.net    11 (3.9%)
