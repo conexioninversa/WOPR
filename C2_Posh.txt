@@ -1,5 +1,4 @@
 95.213.145.101,443,PoshC2,Selectel SPb,
-62.182.159.147,443,PoshC2,Selectel Network,
 3.84.141.94,443,PoshC2,Amazon Data Services NoVa,ec2-3-84-141-94.compute-1.amazonaws.com
 34.105.151.117,443,PoshC2,Google LLC,117.151.105.34.bc.googleusercontent.com
 184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
