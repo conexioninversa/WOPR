@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 213.30.192.0/18 (AS8881)   3 (1.0%)
 - 1.116.128.0/18 (AS45090)   3 (1.0%)
-- 137.220.128.0/17 (AS64050) 2 (0.7%)
 - 35.72.0.0/13 (AS16509)     2 (0.7%)
 - 88.214.25.0/24 (AS29551)   2 (0.7%)
+- 137.220.128.0/17 (AS64050) 2 (0.7%)
 
 Top Countries
 - China          72 (24.5%)
@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN               30 (10.2%)
 - Shanghai, Shanghai, CN             24 (8.2%)
 - Frankfurt am Main, Hesse, DE       16 (5.4%)
-- Hong Kong, Central and Western, HK 11 (3.7%)
 - Tokyo, Tokyo, JP                   11 (3.7%)
+- Hong Kong, Central and Western, HK 11 (3.7%)
 
 Top Regions
 - Beijing, CN  30 (10.2%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
-- FrostVPN      1 (0.3%)
 - TunnelBear    1 (0.3%)
 - VPN Jantit    1 (0.3%)
 - ironsocket    1 (0.3%)
+- FrostVPN      1 (0.3%)
 
 Top Domains
 - contaboserver.net     9 (3.1%)
