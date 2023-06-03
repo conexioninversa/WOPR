@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 213.30.192.0/18 (AS8881)  3 (1.1%)
 - 130.61.88.0/21 (AS31898)  3 (1.1%)
-- 175.178.0.0/18 (AS45090)  2 (0.7%)
 - 34.91.176.0/20 (AS396982) 2 (0.7%)
 - 101.43.64.0/18 (AS45090)  2 (0.7%)
+- 175.178.0.0/18 (AS45090)  2 (0.7%)
 
 Top Countries
 - China         68 (24.0%)
@@ -58,6 +58,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net     10 (3.5%)
-- googleusercontent.com 7 (2.5%)
 - null                  7 (2.5%)
+- googleusercontent.com 7 (2.5%)
 - vultrusercontent.com  6 (2.1%)
