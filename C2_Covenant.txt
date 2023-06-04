@@ -5,6 +5,7 @@
 44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 152.67.26.76,7443,Covenant,Oracle Public Cloud,
 143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
@@ -16,4 +17,5 @@
 23.106.122.63,7443,Covenant,Leaseweb Asia Pacific Pte. Ltd.,
 165.227.207.110,7443,Covenant,DigitalOcean, LLC,
 18.222.189.135,7443,Covenant,Amazon Technologies Inc.,ec2-18-222-189-135.us-east-2.compute.amazonaws.com
+92.40.8.73,7443,Covenant,Mobile Broadband Service,92.40.8.73.threembb.co.uk
 65.21.248.64,7443,Covenant,Hetzner Online GmbH,static.64.248.21.65.clients.your-server.de
