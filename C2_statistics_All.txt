@@ -24,11 +24,11 @@ Top Usage Types
 - Education 2 (0.7%)
 
 Top Routes
-- 213.30.192.0/18 (AS8881)  3 (1.0%)
 - 1.15.64.0/18 (AS45090)    3 (1.0%)
 - 31.44.184.0/24 (AS34665)  3 (1.0%)
 - 109.248.6.0/23 (AS213220) 3 (1.0%)
 - 5.196.0.0/16 (AS16276)    3 (1.0%)
+- 213.30.192.0/18 (AS8881)  3 (1.0%)
 
 Top Countries
 - China          73 (24.6%)
@@ -38,8 +38,8 @@ Top Countries
 - United Kingdom 16 (5.4%)
 
 Top Cities
-- Frankfurt am Main, Hesse, DE       20 (6.7%)
 - Hohhot, Inner Mongolia, CN         20 (6.7%)
+- Frankfurt am Main, Hesse, DE       20 (6.7%)
 - Guangzhou, Guangdong, CN           16 (5.4%)
 - Beijing, Beijing, CN               15 (5.1%)
 - Hong Kong, Central and Western, HK 11 (3.7%)
@@ -52,9 +52,9 @@ Top Regions
 - England, GB        16 (5.4%)
 
 Top Privacy Services
+- Windscribe 1 (0.3%)
 - FrostVPN   1 (0.3%)
 - TunnelBear 1 (0.3%)
-- Windscribe 1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.7%)
