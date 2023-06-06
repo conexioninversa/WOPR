@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     5
 - Proxy   0
-- Hosting 246
+- Hosting 253
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS36352 ColoCrossing                                      13 (4.4%)
 
 Top Usage Types
-- Hosting   243 (82.4%)
-- Business  27 (9.2%)
+- Hosting   248 (84.1%)
+- Business  22 (7.5%)
 - ISP       20 (6.8%)
 - Education 2 (0.7%)
 
@@ -52,9 +52,8 @@ Top Regions
 - North Holland, NL  14 (4.7%)
 
 Top Privacy Services
-- TunnelBear    1 (0.3%)
-- FrostVPN      1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- FrostVPN      1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (4.1%)
