@@ -1,4 +1,6 @@
 91.120.52.124,,3389,Remote Desktop Protocol,KDB Bank Hungary Co.,tms.nokitc.hu
+103.95.197.149,Windows Server 2012 R2,3389,Remote Desktop Protocol,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,
+200.137.216.70,Windows 7 Professional,3389,Remote Desktop Protocol,Rede Nacional de Ensino e Pesquisa,h20013721670.ufg.br
 98.142.244.236,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
 96.42.43.8,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Charter Communications,096-042-043-008.res.spectrum.com
 61.219.17.218,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Chunghwa Telecom Co.,Ltd.,mail.arena.com.tw
@@ -16,5 +18,7 @@
 104.218.165.112,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,UCLOUD,
 194.233.172.161,Windows Server 2012 R2,3389,Remote Desktop Protocol,Linode, LLC,194-233-172-161.ip.linodeusercontent.com
 87.146.214.58,Windows (Build 10.0.19041),3389,Remote Desktop Protocol,Deutsche Telekom AG,
+209.14.70.89,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,QNAX LTDA,
+178.79.184.66,Windows Server 2012 R2,3389,Remote Desktop Protocol,Linode, LLC,178-79-184-66.ip.linodeusercontent.com
 31.220.74.123,Windows (Build 10.0.20348),3389,Remote Desktop Protocol,Contabo GmbH,vmd109710.contaboserver.net
-201.110.69.43,Windows 11 (version 22H2),3389,Remote Desktop Protocol,Uninet S.A. de C.V.,dsl-201-110-69-43-dyn.prod-infinitum.com.mx
+49.204.89.74,Windows 7 Professional,3389,Remote Desktop Protocol,Beam Telecom Pvt Ltd,49.204.88.74.actcorp.in

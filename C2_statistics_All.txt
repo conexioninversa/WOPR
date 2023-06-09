@@ -1,63 +1,62 @@
 Summary
-- Total   294
-- Unique  291
+- Total   296
+- Unique  293
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     10
 - Proxy   0
-- Hosting 234
+- Hosting 241
 - Tor     0
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 46 (15.6%)
-- AS14061 DigitalOcean, LLC                                 32 (10.9%)
-- AS16509 Amazon.com, Inc.                                  24 (8.2%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (6.1%)
-- AS51167 Contabo GmbH                                      12 (4.1%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 51 (17.2%)
+- AS14061 DigitalOcean, LLC                                 35 (11.8%)
+- AS16509 Amazon.com, Inc.                                  25 (8.4%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (5.1%)
+- AS14618 Amazon.com, Inc.                                  11 (3.7%)
 
 Top Usage Types
-- Hosting   231 (78.6%)
-- Business  41 (13.9%)
-- ISP       16 (5.4%)
-- Education 4 (1.4%)
+- Hosting  239 (80.7%)
+- Business 41 (13.9%)
+- ISP      15 (5.1%)
 
 Top Routes
-- 101.43.64.0/18 (AS45090)  4 (1.4%)
+- 81.68.192.0/18 (AS45090)  4 (1.4%)
 - 109.248.6.0/23 (AS213220) 3 (1.0%)
-- 47.115.128.0/17 (AS37963) 3 (1.0%)
-- 81.68.192.0/18 (AS45090)  3 (1.0%)
-- 43.142.128.0/18 (AS45090) 2 (0.7%)
+- 52.66.128.0/17 (AS16509)  3 (1.0%)
+- 101.43.64.0/18 (AS45090)  3 (1.0%)
+- 3.80.0.0/12 (AS14618)     3 (1.0%)
 
 Top Countries
-- China          78 (26.5%)
-- United States  67 (22.8%)
-- Germany        30 (10.2%)
-- Russia         15 (5.1%)
-- United Kingdom 13 (4.4%)
+- China         78 (26.4%)
+- United States 67 (22.6%)
+- Germany       25 (8.4%)
+- Russia        14 (4.7%)
+- Hong Kong     14 (4.7%)
 
 Top Cities
-- Hohhot, Inner Mongolia, CN   23 (7.8%)
-- Guangzhou, Guangdong, CN     19 (6.5%)
-- Beijing, Beijing, CN         18 (6.1%)
-- Frankfurt am Main, Hesse, DE 17 (5.8%)
-- Singapore, Singapore, SG     12 (4.1%)
+- Hohhot, Inner Mongolia, CN   24 (8.1%)
+- Guangzhou, Guangdong, CN     22 (7.4%)
+- Beijing, Beijing, CN         15 (5.1%)
+- Frankfurt am Main, Hesse, DE 14 (4.7%)
+- Ashburn, Virginia, US        13 (4.4%)
 
 Top Regions
-- Guangdong, CN      25 (8.5%)
-- Inner Mongolia, CN 23 (7.8%)
-- Hesse, DE          21 (7.1%)
-- Beijing, CN        19 (6.5%)
-- Virginia, US       14 (4.8%)
+- Guangdong, CN      28 (9.5%)
+- Inner Mongolia, CN 24 (8.1%)
+- Hesse, DE          18 (6.1%)
+- Virginia, US       16 (5.4%)
+- Beijing, CN        16 (5.4%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.3%)
+- VPN Unlimited 2 (0.7%)
 - ProtonVPN     1 (0.3%)
-- FrostVPN      1 (0.3%)
+- SaferVPN      1 (0.3%)
 
 Top Domains
-- contaboserver.net    15 (5.1%)
-- vultrusercontent.com 11 (3.7%)
-- null                 9 (3.1%)
+- contaboserver.net    12 (4.1%)
+- null                 11 (3.7%)
+- vultrusercontent.com 7 (2.4%)
 - hwclouds-dns.com     7 (2.4%)
