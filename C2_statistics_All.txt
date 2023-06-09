@@ -18,23 +18,23 @@ Top ASNs
 - AS14618 Amazon.com, Inc.                                  11 (3.7%)
 
 Top Usage Types
-- Hosting  239 (80.7%)
-- Business 41 (13.9%)
-- ISP      15 (5.1%)
+- Hosting  252 (85.1%)
+- Business 29 (9.8%)
+- ISP      14 (4.7%)
 
 Top Routes
 - 81.68.192.0/18 (AS45090)  4 (1.4%)
+- 109.248.6.0/23 (AS213220) 3 (1.0%)
 - 52.66.128.0/17 (AS16509)  3 (1.0%)
 - 101.43.64.0/18 (AS45090)  3 (1.0%)
 - 3.80.0.0/12 (AS14618)     3 (1.0%)
-- 109.248.6.0/23 (AS213220) 3 (1.0%)
 
 Top Countries
 - China         78 (26.4%)
 - United States 67 (22.6%)
 - Germany       25 (8.4%)
-- Russia        14 (4.7%)
 - Hong Kong     14 (4.7%)
+- Russia        14 (4.7%)
 
 Top Cities
 - Hohhot, Inner Mongolia, CN   24 (8.1%)
@@ -47,8 +47,8 @@ Top Regions
 - Guangdong, CN      28 (9.5%)
 - Inner Mongolia, CN 24 (8.1%)
 - Hesse, DE          19 (6.4%)
-- Beijing, CN        16 (5.4%)
 - Virginia, US       16 (5.4%)
+- Beijing, CN        16 (5.4%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
