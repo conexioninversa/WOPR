@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     11
 - Proxy   0
-- Hosting 236
+- Hosting 249
 - Tor     0
 - Relay   0
 
@@ -38,17 +38,17 @@ Top Countries
 - France        15 (5.1%)
 
 Top Cities
-- Guangzhou, Guangdong, CN     21 (7.1%)
-- Beijing, Beijing, CN         21 (7.1%)
-- Hohhot, Inner Mongolia, CN   21 (7.1%)
-- Frankfurt am Main, Hesse, DE 15 (5.1%)
+- Beijing, Beijing, CN         22 (7.5%)
+- Hohhot, Inner Mongolia, CN   22 (7.5%)
+- Frankfurt am Main, Hesse, DE 14 (4.7%)
 - Ashburn, Virginia, US        13 (4.4%)
+- Guangzhou, Guangdong, CN     11 (3.7%)
 
 Top Regions
-- Guangdong, CN      25 (8.5%)
-- Beijing, CN        21 (7.1%)
-- Inner Mongolia, CN 21 (7.1%)
-- Hesse, DE          18 (6.1%)
+- Guangdong, CN      23 (7.8%)
+- Beijing, CN        22 (7.5%)
+- Inner Mongolia, CN 22 (7.5%)
+- Hesse, DE          16 (5.4%)
 - Virginia, US       15 (5.1%)
 
 Top Privacy Services
