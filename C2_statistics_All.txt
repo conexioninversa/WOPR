@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     10
 - Proxy   0
-- Hosting 228
+- Hosting 219
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (4.1%)
 
 Top Usage Types
-- Hosting   226 (77.9%)
-- Business  41 (14.1%)
-- ISP       20 (6.9%)
+- Hosting   217 (74.8%)
+- Business  52 (17.9%)
+- ISP       18 (6.2%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -48,15 +48,15 @@ Top Regions
 - Central and Western, HK 21 (7.2%)
 - Beijing, CN             20 (6.9%)
 - Inner Mongolia, CN      16 (5.5%)
-- Hesse, DE               15 (5.2%)
 - Guangdong, CN           15 (5.2%)
+- Hesse, DE               15 (5.2%)
 
 Top Privacy Services
-- ProtonVPN  1 (0.3%)
-- TunnelBear 1 (0.3%)
-- Mullvad    1 (0.3%)
-- SlickVPN   1 (0.3%)
-- FrostVPN   1 (0.3%)
+- SaferVPN      2 (0.7%)
+- VPN Unlimited 1 (0.3%)
+- ProtonVPN     1 (0.3%)
+- Mullvad       1 (0.3%)
+- FrostVPN      1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.5%)
