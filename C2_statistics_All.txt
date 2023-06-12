@@ -33,8 +33,8 @@ Top Routes
 Top Countries
 - China         64 (22.1%)
 - United States 56 (19.3%)
-- Hong Kong     26 (9.0%)
 - Germany       26 (9.0%)
+- Hong Kong     26 (9.0%)
 - Russia        23 (7.9%)
 
 Top Cities
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - SaferVPN      2 (0.7%)
-- Mullvad       1 (0.3%)
 - FrostVPN      1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- Mullvad       1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.5%)
