@@ -48,18 +48,18 @@ Top Regions
 - Central and Western, HK 21 (7.2%)
 - Beijing, CN             20 (6.9%)
 - Inner Mongolia, CN      16 (5.5%)
-- Guangdong, CN           15 (5.2%)
 - Hesse, DE               15 (5.2%)
+- Guangdong, CN           15 (5.2%)
 
 Top Privacy Services
-- Mullvad    1 (0.3%)
 - SlickVPN   1 (0.3%)
 - FrostVPN   1 (0.3%)
 - ProtonVPN  1 (0.3%)
 - TunnelBear 1 (0.3%)
+- Mullvad    1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.5%)
 - vultrusercontent.com 7 (2.4%)
-- hwclouds-dns.com     6 (2.1%)
 - null                 6 (2.1%)
+- hwclouds-dns.com     6 (2.1%)
