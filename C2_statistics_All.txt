@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 30 (10.8%)
 - 47.98.0.0/15 (AS37963)     4 (1.4%)
 - 109.248.6.0/23 (AS213220)  3 (1.1%)
-- 175.24.192.0/18 (AS45090)  2 (0.7%)
 - 204.10.120.0/22 (AS62217)  2 (0.7%)
+- 175.24.192.0/18 (AS45090)  2 (0.7%)
 
 Top Countries
 - China         78 (28.0%)
@@ -52,11 +52,11 @@ Top Regions
 - Guangdong, CN           13 (4.7%)
 
 Top Privacy Services
+- TunnelBear 1 (0.4%)
 - Windscribe 1 (0.4%)
 - FrostVPN   1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - Mullvad    1 (0.4%)
-- TunnelBear 1 (0.4%)
 
 Top Domains
 - contaboserver.net     12 (4.3%)
