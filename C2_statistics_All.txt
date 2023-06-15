@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (10.2%)
-- 109.248.6.0/23 (AS213220)  3 (1.0%)
 - 47.98.0.0/15 (AS37963)     3 (1.0%)
+- 109.248.6.0/23 (AS213220)  3 (1.0%)
 - 120.26.0.0/16 (AS37963)    2 (0.7%)
 - 194.50.153.0/24 (AS202973) 2 (0.7%)
 
@@ -52,11 +52,11 @@ Top Regions
 - Guangdong, CN           13 (4.4%)
 
 Top Privacy Services
+- VPN Jantit 1 (0.3%)
+- Mullvad    1 (0.3%)
 - Windscribe 1 (0.3%)
 - SaferVPN   1 (0.3%)
 - FrostVPN   1 (0.3%)
-- VPN Jantit 1 (0.3%)
-- Mullvad    1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (4.1%)
