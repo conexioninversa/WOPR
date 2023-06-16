@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 28 (9.7%)
 - 109.248.6.0/23 (AS213220)  3 (1.0%)
 - 38.87.196.0/22 (AS174)     3 (1.0%)
-- 123.56.0.0/16 (AS37963)    2 (0.7%)
 - 204.10.120.0/22 (AS62217)  2 (0.7%)
+- 123.56.0.0/16 (AS37963)    2 (0.7%)
 
 Top Countries
 - China         70 (24.3%)
@@ -52,10 +52,10 @@ Top Regions
 - Guangdong, CN           15 (5.2%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.3%)
-- Windscribe    1 (0.3%)
 - World VPN     1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- VPN Unlimited 1 (0.3%)
+- Windscribe    1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (3.1%)
