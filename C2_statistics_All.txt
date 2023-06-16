@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 36 (12.5%)
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              28 (9.7%)
 - AS14061 DigitalOcean, LLC                                 28 (9.7%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              28 (9.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             22 (7.6%)
 - AS16509 Amazon.com, Inc.                                  19 (6.6%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 28 (9.7%)
 - 109.248.6.0/23 (AS213220)  3 (1.0%)
 - 38.87.196.0/22 (AS174)     3 (1.0%)
-- 204.10.120.0/22 (AS62217)  2 (0.7%)
 - 123.56.0.0/16 (AS37963)    2 (0.7%)
+- 204.10.120.0/22 (AS62217)  2 (0.7%)
 
 Top Countries
 - China         70 (24.3%)
