@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     11
 - Proxy   0
-- Hosting 230
+- Hosting 207
 - Tor     0
 - Relay   0
 
@@ -31,7 +31,7 @@ Top Routes
 - 103.44.240.0/20 (AS4816)   2 (0.7%)
 
 Top Countries
-- United States 69 (24.5%)
+- United States 68 (24.1%)
 - China         68 (24.1%)
 - Hong Kong     33 (11.7%)
 - Germany       26 (9.2%)
@@ -39,24 +39,24 @@ Top Countries
 
 Top Cities
 - Hong Kong, Central and Western, HK 31 (11.0%)
-- Beijing, Beijing, CN               21 (7.4%)
+- Beijing, Beijing, CN               20 (7.1%)
 - Hohhot, Inner Mongolia, CN         17 (6.0%)
-- Frankfurt am Main, Hesse, DE       14 (5.0%)
-- Ashburn, Virginia, US              13 (4.6%)
+- Frankfurt am Main, Hesse, DE       15 (5.3%)
+- Guangzhou, Guangdong, CN           14 (5.0%)
 
 Top Regions
 - Central and Western, HK 31 (11.0%)
-- Beijing, CN             22 (7.8%)
+- Beijing, CN             21 (7.4%)
+- Guangdong, CN           17 (6.0%)
 - Inner Mongolia, CN      17 (6.0%)
-- Guangdong, CN           16 (5.7%)
-- Hesse, DE               15 (5.3%)
+- Hesse, DE               16 (5.7%)
 
 Top Privacy Services
 - VPN Unlimited 2 (0.7%)
-- World VPN     1 (0.4%)
 - VPN Jantit    1 (0.4%)
 - Mullvad       1 (0.4%)
 - ProtonVPN     1 (0.4%)
+- World VPN     1 (0.4%)
 
 Top Domains
 - contaboserver.net    12 (4.3%)
