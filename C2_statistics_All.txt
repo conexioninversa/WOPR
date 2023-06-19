@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 206
+- Hosting 223
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             16 (5.7%)
 
 Top Usage Types
-- Hosting   205 (73.0%)
-- Business  60 (21.4%)
-- ISP       13 (4.6%)
+- Hosting   222 (79.0%)
+- Business  44 (15.7%)
+- ISP       12 (4.3%)
 - Education 2 (0.7%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (10.7%)
-- 109.248.6.0/23 (AS213220)  3 (1.1%)
-- 121.4.64.0/18 (AS45090)    3 (1.1%)
-- 31.44.184.0/24 (AS34665)   3 (1.1%)
-- 194.50.153.0/24 (AS202973) 2 (0.7%)
+- 43.136.0.0/14 (AS45090)    8 (2.8%)
+- 121.4.0.0/15 (AS45090)     4 (1.4%)
+- 124.220.0.0/14 (AS45090)   4 (1.4%)
+- 1.12.0.0/14 (AS45090)      4 (1.4%)
 
 Top Countries
 - China         73 (26.0%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 38 (13.5%)
 - Guangzhou, Guangdong, CN           19 (6.8%)
 - Hohhot, Inner Mongolia, CN         17 (6.0%)
-- Beijing, Beijing, CN               14 (5.0%)
 - Frankfurt am Main, Hesse, DE       14 (5.0%)
+- Beijing, Beijing, CN               14 (5.0%)
 
 Top Regions
 - Central and Western, HK 38 (13.5%)
@@ -58,6 +58,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    11 (3.9%)
+- null                 6 (2.1%)
 - vultrusercontent.com 6 (2.1%)
 - hwclouds-dns.com     6 (2.1%)
-- null                 6 (2.1%)
