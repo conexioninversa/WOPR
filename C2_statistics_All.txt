@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (10.7%)
+- 31.44.184.0/24 (AS34665)   3 (1.1%)
 - 109.248.6.0/23 (AS213220)  3 (1.1%)
 - 121.4.64.0/18 (AS45090)    3 (1.1%)
-- 31.44.184.0/24 (AS34665)   3 (1.1%)
 - 194.50.153.0/24 (AS202973) 2 (0.7%)
 
 Top Countries
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 38 (13.5%)
 - Guangzhou, Guangdong, CN           19 (6.8%)
 - Hohhot, Inner Mongolia, CN         17 (6.0%)
-- Frankfurt am Main, Hesse, DE       14 (5.0%)
 - Beijing, Beijing, CN               14 (5.0%)
+- Frankfurt am Main, Hesse, DE       14 (5.0%)
 
 Top Regions
 - Central and Western, HK 38 (13.5%)
@@ -52,9 +52,9 @@ Top Regions
 - Hesse, DE               15 (5.3%)
 
 Top Privacy Services
-- World VPN     1 (0.4%)
 - Mullvad       1 (0.4%)
 - VPN Unlimited 1 (0.4%)
+- World VPN     1 (0.4%)
 
 Top Domains
 - contaboserver.net    11 (3.9%)
