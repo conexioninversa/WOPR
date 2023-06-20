@@ -1,12 +1,12 @@
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
-89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
+172.104.195.25,7443,Covenant,Akamai Technologies, Inc.,172-104-195-25.ip.linodeusercontent.com
 109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 143.47.228.54,7443,Covenant,Oracle Corporation Ireland,
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 168.100.232.169,7443,Covenant,E SHELLS INC,
 80.243.140.69,7443,Covenant,Dom Tehniki Ltd,
 51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
+178.128.194.238,7443,Covenant,DigitalOcean, LLC,
 192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
 5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
@@ -14,3 +14,4 @@
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 68.183.120.153,7443,Covenant,DigitalOcean, LLC,
 129.213.138.54,7443,Covenant,Oracle Public Cloud,
+23.106.122.63,7443,Covenant,Leaseweb Asia Pacific Pte. Ltd.,
