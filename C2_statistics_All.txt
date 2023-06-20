@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     3
 - Proxy   0
-- Hosting 213
+- Hosting 211
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (5.5%)
 
 Top Usage Types
-- Hosting   211 (76.7%)
-- Business  52 (18.9%)
-- ISP       9 (3.3%)
+- Hosting   209 (76.0%)
+- Business  53 (19.3%)
+- ISP       10 (3.6%)
 - Education 2 (0.7%)
 
 Top Routes
@@ -52,8 +52,8 @@ Top Regions
 - Hesse, DE               14 (5.1%)
 
 Top Privacy Services
-- Windscribe 1 (0.4%)
 - World VPN  1 (0.4%)
+- Windscribe 1 (0.4%)
 
 Top Domains
 - contaboserver.net     9 (3.3%)
