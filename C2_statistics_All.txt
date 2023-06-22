@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     6
 - Proxy   0
 - Hosting 141
 - Tor     0
@@ -18,8 +18,8 @@ Top ASNs
 - AS36352 ColoCrossing                                      10 (4.5%)
 
 Top Usage Types
-- Hosting   142 (64.0%)
-- Business  70 (31.5%)
+- Hosting   153 (68.9%)
+- Business  59 (26.6%)
 - ISP       7 (3.2%)
 - Education 3 (1.4%)
 
@@ -54,6 +54,7 @@ Top Regions
 Top Privacy Services
 - World VPN     2 (0.9%)
 - VPN Unlimited 1 (0.5%)
+- TunnelBear    1 (0.5%)
 
 Top Domains
 - colocrossing.com  8 (3.6%)
