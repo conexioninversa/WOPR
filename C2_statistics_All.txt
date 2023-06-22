@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 33 (14.9%)
 - 43.136.0.0/14 (AS45090)    5 (2.3%)
-- 5.196.0.0/16 (AS16276)     4 (1.8%)
 - 194.50.153.0/24 (AS202973) 4 (1.8%)
+- 5.196.0.0/16 (AS16276)     4 (1.8%)
 - 124.220.0.0/14 (AS45090)   3 (1.4%)
 
 Top Countries
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - World VPN     2 (0.9%)
-- VPN Unlimited 1 (0.5%)
 - TunnelBear    1 (0.5%)
+- VPN Unlimited 1 (0.5%)
 
 Top Domains
 - colocrossing.com  8 (3.6%)
