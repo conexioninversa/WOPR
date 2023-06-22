@@ -1,63 +1,62 @@
 Summary
-- Total   215
-- Unique  213
+- Total   222
+- Unique  221
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     5
 - Proxy   0
-- Hosting 139
+- Hosting 141
 - Tor     0
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (16.3%)
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (15.3%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (7.0%)
-- AS16509 Amazon.com, Inc.                                  14 (6.5%)
-- AS16276 OVH SAS                                           9 (4.2%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 34 (15.3%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              33 (14.9%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (8.1%)
+- AS16509 Amazon.com, Inc.                                  11 (5.0%)
+- AS36352 ColoCrossing                                      10 (4.5%)
 
 Top Usage Types
-- Hosting   139 (64.7%)
-- Business  68 (31.6%)
-- ISP       6 (2.8%)
-- Education 2 (0.9%)
+- Hosting   142 (64.0%)
+- Business  70 (31.5%)
+- ISP       7 (3.2%)
+- Education 3 (1.4%)
 
 Top Routes
-- 154.215.16.0/21 (AS139471) 35 (16.3%)
-- 43.136.0.0/14 (AS45090)    4 (1.9%)
-- 5.196.0.0/16 (AS16276)     3 (1.4%)
-- 47.96.0.0/15 (AS37963)     3 (1.4%)
-- 204.10.120.0/22 (AS62217)  2 (0.9%)
+- 154.215.16.0/21 (AS139471) 33 (14.9%)
+- 43.136.0.0/14 (AS45090)    5 (2.3%)
+- 5.196.0.0/16 (AS16276)     4 (1.8%)
+- 194.50.153.0/24 (AS202973) 4 (1.8%)
+- 124.220.0.0/14 (AS45090)   3 (1.4%)
 
 Top Countries
-- China         62 (28.8%)
-- Hong Kong     52 (24.2%)
-- United States 35 (16.3%)
-- Germany       14 (6.5%)
-- India         7 (3.3%)
+- China         64 (28.8%)
+- Hong Kong     44 (19.8%)
+- United States 41 (18.5%)
+- Germany       22 (9.9%)
+- India         9 (4.1%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 46 (21.4%)
-- Beijing, Beijing, CN               20 (9.3%)
-- Hohhot, Inner Mongolia, CN         13 (6.0%)
-- Guangzhou, Guangdong, CN           12 (5.6%)
-- Frankfurt am Main, Hesse, DE       9 (4.2%)
+- Hong Kong, Central and Western, HK 41 (18.5%)
+- Beijing, Beijing, CN               20 (9.0%)
+- Hohhot, Inner Mongolia, CN         16 (7.2%)
+- Frankfurt am Main, Hesse, DE       15 (6.8%)
+- Guangzhou, Guangdong, CN           11 (5.0%)
 
 Top Regions
-- Central and Western, HK 46 (21.4%)
-- Beijing, CN             22 (10.2%)
-- Guangdong, CN           13 (6.0%)
-- Inner Mongolia, CN      13 (6.0%)
-- Hesse, DE               11 (5.1%)
+- Central and Western, HK 41 (18.5%)
+- Beijing, CN             21 (9.5%)
+- Hesse, DE               18 (8.1%)
+- Inner Mongolia, CN      16 (7.2%)
+- Guangdong, CN           13 (5.9%)
 
 Top Privacy Services
 - World VPN     2 (0.9%)
-- PureVPN       1 (0.5%)
 - VPN Unlimited 1 (0.5%)
 
 Top Domains
-- hwclouds-dns.com      7 (3.3%)
-- contaboserver.net     5 (2.3%)
-- your-server.de        3 (1.4%)
-- googleusercontent.com 3 (1.4%)
+- colocrossing.com  8 (3.6%)
+- hwclouds-dns.com  7 (3.2%)
+- contaboserver.net 5 (2.3%)
+- null              4 (1.8%)
