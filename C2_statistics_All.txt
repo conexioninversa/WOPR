@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 29 (12.9%)
 - 124.220.0.0/14 (AS45090)   8 (3.6%)
-- 81.68.0.0/14 (AS45090)     4 (1.8%)
 - 43.136.0.0/14 (AS45090)    4 (1.8%)
+- 81.68.0.0/14 (AS45090)     4 (1.8%)
 - 1.12.0.0/14 (AS45090)      3 (1.3%)
 
 Top Countries
@@ -47,16 +47,16 @@ Top Cities
 Top Regions
 - Central and Western, HK 35 (15.6%)
 - Inner Mongolia, CN      25 (11.2%)
-- Beijing, CN             15 (6.7%)
 - Guangdong, CN           15 (6.7%)
+- Beijing, CN             15 (6.7%)
 - Hesse, DE               13 (5.8%)
 
 Top Privacy Services
 - BulletVPN  2 (0.9%)
+- VPN Jantit 1 (0.4%)
 - World VPN  1 (0.4%)
 - ProtonVPN  1 (0.4%)
 - TunnelBear 1 (0.4%)
-- VPN Jantit 1 (0.4%)
 
 Top Domains
 - colocrossing.com  7 (3.1%)
