@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     11
 - Proxy   0
-- Hosting 168
+- Hosting 159
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  8 (3.5%)
 
 Top Usage Types
-- Hosting   154 (67.2%)
-- Business  61 (26.6%)
-- ISP       10 (4.4%)
+- Hosting   157 (68.6%)
+- Business  57 (24.9%)
+- ISP       11 (4.8%)
 - Education 1 (0.4%)
 
 Top Routes
@@ -52,8 +52,8 @@ Top Regions
 - Zhejiang, CN            9 (3.9%)
 
 Top Privacy Services
-- BulletVPN  2 (0.9%)
-- NordVPN    1 (0.4%)
+- World VPN  1 (0.4%)
+- HideMyAss  1 (0.4%)
 - ProtonVPN  1 (0.4%)
 - TunnelBear 1 (0.4%)
 - TrustZone  1 (0.4%)
@@ -61,5 +61,5 @@ Top Privacy Services
 Top Domains
 - null                 6 (2.6%)
 - vultrusercontent.com 5 (2.2%)
-- colocrossing.com     4 (1.7%)
 - contaboserver.net    4 (1.7%)
+- colocrossing.com     4 (1.7%)
