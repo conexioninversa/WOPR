@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     9
 - Proxy   0
-- Hosting 168
+- Hosting 174
 - Tor     0
 - Relay   0
 
@@ -18,16 +18,16 @@ Top ASNs
 - AS16276 OVH SAS                                           11 (4.7%)
 
 Top Usage Types
-- Hosting   168 (72.1%)
-- Business  52 (22.3%)
+- Hosting   174 (74.7%)
+- Business  46 (19.7%)
 - ISP       11 (4.7%)
 - Education 1 (0.4%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 28 (12.0%)
 - 124.220.0.0/14 (AS45090)   6 (2.6%)
-- 43.136.0.0/14 (AS45090)    4 (1.7%)
 - 5.196.0.0/16 (AS16276)     4 (1.7%)
+- 43.136.0.0/14 (AS45090)    4 (1.7%)
 - 194.50.153.0/24 (AS202973) 3 (1.3%)
 
 Top Countries
@@ -52,10 +52,10 @@ Top Regions
 - Virginia, US            11 (4.7%)
 
 Top Privacy Services
-- World VPN  1 (0.4%)
-- HideMyAss  1 (0.4%)
 - TrustZone  1 (0.4%)
 - VPN Jantit 1 (0.4%)
+- World VPN  1 (0.4%)
+- NordVPN    1 (0.4%)
 
 Top Domains
 - null                 7 (3.0%)
