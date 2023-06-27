@@ -47,17 +47,17 @@ Top Cities
 Top Regions
 - Central and Western, HK 50 (21.5%)
 - Beijing, CN             22 (9.4%)
-- Shanghai, CN            16 (6.9%)
 - Guangdong, CN           16 (6.9%)
+- Shanghai, CN            16 (6.9%)
 - Hesse, DE               14 (6.0%)
 
 Top Privacy Services
-- Mullvad  1 (0.4%)
 - Le-VPN   1 (0.4%)
 - FrostVPN 1 (0.4%)
+- Mullvad  1 (0.4%)
 
 Top Domains
 - colocrossing.com  9 (3.9%)
-- contaboserver.net 5 (2.1%)
 - hwclouds-dns.com  5 (2.1%)
+- contaboserver.net 5 (2.1%)
 - null              4 (1.7%)
