@@ -1,6 +1,5 @@
+134.213.168.35,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Cloud Servers UK IP Space,
 148.51.139.154,Windows Server 2012 R2,3389,Remote Desktop Protocol,Iron Mountain Data Center,
 66.55.92.188,Windows (build 10.0.17763),3389,Remote Desktop Protocol,GigeNET,
-192.41.102.101,Windows (build 10.0.17763),3389,Remote Desktop Protocol,GoodLeaf Hosting & Development LLC,
 107.173.159.12,Windows Server 2012 R2,3389,Remote Desktop Protocol,RackNerd LLC,107-173-159-12-host.colocrossing.com
-119.188.90.159,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,China Unicom Shandong Province Network,
 202.191.132.152,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Sify Limited,

@@ -1,8 +1,6 @@
-192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 141.147.78.236,7443,Covenant,Oracle Corporation,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-98.117.244.42,7443,Covenant,Verizon Business,static-98-117-244-42.hrbgpa.fios.verizon.net
+34.28.100.185,7443,Covenant,Google LLC,185.100.28.34.bc.googleusercontent.com
+192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
 172.105.179.88,7443,Covenant,Linode,172-105-179-88.ip.linodeusercontent.com
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 103.234.72.240,7443,Covenant,Asia Pacific Network Information Centre,
