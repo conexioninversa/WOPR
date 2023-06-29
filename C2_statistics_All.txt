@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 181
+- Hosting 192
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           10 (4.1%)
 
 Top Usage Types
-- Hosting   181 (73.9%)
-- Business  55 (22.4%)
+- Hosting   192 (78.4%)
+- Business  44 (18.0%)
 - ISP       6 (2.4%)
 - Education 2 (0.8%)
 
@@ -38,25 +38,25 @@ Top Countries
 - Russia        10 (4.1%)
 
 Top Cities
+- Beijing, Beijing, CN               48 (19.6%)
 - Hong Kong, Central and Western, HK 36 (14.7%)
-- Beijing, Beijing, CN               26 (10.6%)
 - Frankfurt am Main, Hesse, DE       17 (6.9%)
-- Shanghai, Shanghai, CN             16 (6.5%)
 - Guangzhou, Guangdong, CN           7 (2.9%)
+- Ashburn, Virginia, US              6 (2.4%)
 
 Top Regions
+- Beijing, CN             48 (19.6%)
 - Central and Western, HK 36 (14.7%)
-- Beijing, CN             30 (12.2%)
 - Hesse, DE               21 (8.6%)
-- Shanghai, CN            16 (6.5%)
 - Guangdong, CN           11 (4.5%)
+- Virginia, US            7 (2.9%)
 
 Top Privacy Services
-- ProtonVPN  1 (0.4%)
 - VPN Jantit 1 (0.4%)
+- ProtonVPN  1 (0.4%)
 
 Top Domains
 - contaboserver.net    11 (4.5%)
 - vultrusercontent.com 7 (2.9%)
-- hwclouds-dns.com     6 (2.4%)
 - null                 6 (2.4%)
+- hwclouds-dns.com     6 (2.4%)
