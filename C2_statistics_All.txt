@@ -6,7 +6,7 @@ Summary
 - Mobile  1
 - VPN     5
 - Proxy   0
-- Hosting 178
+- Hosting 168
 - Tor     0
 - Relay   0
 
@@ -18,15 +18,15 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  10 (4.0%)
 
 Top Usage Types
-- Hosting   178 (72.1%)
-- Business  56 (22.7%)
-- Education 6 (2.4%)
+- Hosting   168 (68.0%)
+- Business  66 (26.7%)
 - ISP       6 (2.4%)
+- Education 6 (2.4%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 34 (13.8%)
 - 121.4.0.0/15 (AS45090)     6 (2.4%)
-- 194.50.153.0/24 (AS202973) 4 (1.6%)
+- 194.50.153.0/24 (AS210281) 4 (1.6%)
 - 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 1.12.0.0/14 (AS45090)      4 (1.6%)
 
@@ -55,10 +55,10 @@ Top Carriers
 - China Telecom 1 (0.4%)
 
 Top Privacy Services
-- Mullvad    1 (0.4%)
-- BulletVPN  1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - World VPN  1 (0.4%)
+- Mullvad    1 (0.4%)
+- BulletVPN  1 (0.4%)
 
 Top Domains
 - null                 9 (3.6%)
