@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (14.0%)
-- 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 43.140.0.0/14 (AS45090)    4 (1.6%)
 - 124.220.0.0/14 (AS45090)   4 (1.6%)
+- 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 47.92.0.0/15 (AS37963)     3 (1.2%)
 
 Top Countries
@@ -55,9 +55,9 @@ Top Carriers
 - China Telecom 1 (0.4%)
 
 Top Privacy Services
+- World VPN 1 (0.4%)
 - Mullvad   1 (0.4%)
 - BulletVPN 1 (0.4%)
-- World VPN 1 (0.4%)
 
 Top Domains
 - null              8 (3.2%)
