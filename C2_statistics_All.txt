@@ -41,8 +41,8 @@ Top Cities
 - Beijing, Beijing, CN               49 (19.8%)
 - Hong Kong, Central and Western, HK 44 (17.8%)
 - Frankfurt am Main, Hesse, DE       13 (5.3%)
-- Singapore, Singapore, SG           9 (3.6%)
 - Ashburn, Virginia, US              9 (3.6%)
+- Singapore, Singapore, SG           9 (3.6%)
 
 Top Regions
 - Beijing, CN             49 (19.8%)
@@ -55,10 +55,10 @@ Top Carriers
 - China Telecom 1 (0.4%)
 
 Top Privacy Services
-- World VPN  1 (0.4%)
-- Mullvad    1 (0.4%)
 - BulletVPN  1 (0.4%)
 - VPN Jantit 1 (0.4%)
+- World VPN  1 (0.4%)
+- Mullvad    1 (0.4%)
 
 Top Domains
 - null                 9 (3.6%)
