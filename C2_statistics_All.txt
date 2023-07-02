@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (11.9%)
-- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 43.140.0.0/14 (AS45090)    4 (1.6%)
 - 31.44.184.0/24 (AS34665)   4 (1.6%)
+- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 43.136.0.0/14 (AS45090)    3 (1.2%)
 
 Top Countries
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Central and Western, HK 42 (16.6%)
 - Beijing, CN             41 (16.2%)
-- Hesse, DE               12 (4.7%)
 - Guangdong, CN           12 (4.7%)
+- Hesse, DE               12 (4.7%)
 - New York, US            11 (4.3%)
 
 Top Privacy Services
