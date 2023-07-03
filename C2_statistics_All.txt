@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (11.9%)
-- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 43.140.0.0/14 (AS45090)    4 (1.6%)
 - 31.44.184.0/24 (AS34665)   4 (1.6%)
+- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 43.136.0.0/14 (AS45090)    3 (1.2%)
 
 Top Countries
@@ -52,11 +52,11 @@ Top Regions
 - Virginia, US            11 (4.3%)
 
 Top Privacy Services
-- ironsocket 1 (0.4%)
 - TrustZone  1 (0.4%)
+- ironsocket 1 (0.4%)
 
 Top Domains
 - vultrusercontent.com 8 (3.2%)
 - null                 7 (2.8%)
-- colocrossing.com     6 (2.4%)
 - contaboserver.net    6 (2.4%)
+- colocrossing.com     6 (2.4%)
