@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 32 (12.5%)
 - 43.136.0.0/14 (AS45090)    5 (2.0%)
+- 43.140.0.0/14 (AS45090)    4 (1.6%)
 - 31.44.184.0/24 (AS34665)   4 (1.6%)
 - 47.92.0.0/15 (AS37963)     4 (1.6%)
-- 43.140.0.0/14 (AS45090)    4 (1.6%)
 
 Top Countries
 - China         71 (27.8%)
@@ -52,12 +52,12 @@ Top Regions
 - Hesse, DE               10 (3.9%)
 
 Top Privacy Services
-- ProtonVPN  1 (0.4%)
 - ironsocket 1 (0.4%)
 - TrustZone  1 (0.4%)
+- ProtonVPN  1 (0.4%)
 
 Top Domains
 - null                 8 (3.1%)
 - contaboserver.net    7 (2.7%)
-- vultrusercontent.com 6 (2.4%)
 - hwclouds-dns.com     6 (2.4%)
+- vultrusercontent.com 6 (2.4%)
