@@ -1,4 +1,3 @@
-185.254.99.66,Windows (build 10.0.17763),3389,Remote Desktop Protocol,dataforest GmbH,
 65.109.57.122,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.122.57.109.65.clients.your-server.de
 161.97.169.171,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Contabo GmbH,vmd109491.contaboserver.net
 139.99.210.186,Windows (build 10.0.17763),3389,Remote Desktop Protocol,OVH Australia PTY LTD,ns556178.ip-139-99-210.net
@@ -8,4 +7,3 @@
 192.41.102.101,Windows (build 10.0.17763),3389,Remote Desktop Protocol,GoodLeaf Hosting & Development LLC,
 107.173.159.12,Windows Server 2012 R2,3389,Remote Desktop Protocol,RackNerd LLC,107-173-159-12-host.colocrossing.com
 119.188.90.159,Windows (Build 10.0.17763),3389,Remote Desktop Protocol,China Unicom Shandong Province Network,
-202.191.132.152,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Sify Limited,
