@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 179
+- Hosting 166
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  10 (4.0%)
 
 Top Usage Types
-- Hosting   179 (72.5%)
-- Business  52 (21.1%)
+- Hosting   166 (67.2%)
+- Business  65 (26.3%)
 - ISP       13 (5.3%)
 - Education 2 (0.8%)
 
@@ -57,7 +57,7 @@ Top Privacy Services
 - ProtonVPN  1 (0.4%)
 
 Top Domains
-- contaboserver.net 7 (2.8%)
 - null              7 (2.8%)
 - hwclouds-dns.com  7 (2.8%)
+- contaboserver.net 7 (2.8%)
 - colocrossing.com  5 (2.0%)
