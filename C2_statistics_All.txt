@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 32 (13.0%)
-- 31.44.184.0/24 (AS34665)   5 (2.0%)
 - 43.140.0.0/14 (AS45090)    5 (2.0%)
+- 31.44.184.0/24 (AS34665)   5 (2.0%)
 - 47.92.0.0/15 (AS37963)     4 (1.6%)
 - 81.68.0.0/14 (AS45090)     3 (1.2%)
 
@@ -57,7 +57,7 @@ Top Privacy Services
 - ProtonVPN  1 (0.4%)
 
 Top Domains
+- contaboserver.net 7 (2.8%)
 - null              7 (2.8%)
 - hwclouds-dns.com  7 (2.8%)
-- contaboserver.net 7 (2.8%)
 - colocrossing.com  5 (2.0%)
