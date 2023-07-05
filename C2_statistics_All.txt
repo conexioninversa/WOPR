@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN                 48 (19.4%)
 - Hong Kong, Central and Western, HK   35 (14.2%)
-- Shenzhen, Guangdong, CN              10 (4.0%)
 - Saint Petersburg, St.-Petersburg, RU 10 (4.0%)
+- Shenzhen, Guangdong, CN              10 (4.0%)
 - Ashburn, Virginia, US                9 (3.6%)
 
 Top Regions
@@ -52,12 +52,12 @@ Top Regions
 - Virginia, US            11 (4.5%)
 
 Top Privacy Services
-- ProtonVPN  1 (0.4%)
 - ironsocket 1 (0.4%)
 - Mullvad    1 (0.4%)
+- ProtonVPN  1 (0.4%)
 
 Top Domains
+- hwclouds-dns.com  7 (2.8%)
 - contaboserver.net 7 (2.8%)
 - null              7 (2.8%)
-- hwclouds-dns.com  7 (2.8%)
 - colocrossing.com  5 (2.0%)
