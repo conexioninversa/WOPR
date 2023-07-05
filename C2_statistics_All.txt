@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 34 (13.4%)
-- 43.140.0.0/14 (AS45090)    6 (2.4%)
 - 124.220.0.0/14 (AS45090)   6 (2.4%)
-- 47.100.0.0/14 (AS37963)    4 (1.6%)
+- 43.140.0.0/14 (AS45090)    6 (2.4%)
 - 194.50.153.0/24 (AS202973) 4 (1.6%)
+- 47.100.0.0/14 (AS37963)    4 (1.6%)
 
 Top Countries
 - China         79 (31.1%)
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Beijing, Beijing, CN               46 (18.1%)
 - Hong Kong, Central and Western, HK 37 (14.6%)
-- Frankfurt am Main, Hesse, DE       11 (4.3%)
 - Ashburn, Virginia, US              11 (4.3%)
+- Frankfurt am Main, Hesse, DE       11 (4.3%)
 - Shenzhen, Guangdong, CN            9 (3.5%)
 
 Top Regions
@@ -52,8 +52,8 @@ Top Regions
 - Virginia, US            13 (5.1%)
 
 Top Privacy Services
-- Mullvad    1 (0.4%)
 - ironsocket 1 (0.4%)
+- Mullvad    1 (0.4%)
 
 Top Domains
 - null              9 (3.5%)
