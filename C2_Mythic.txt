@@ -1,7 +1,6 @@
+23.239.29.223,7443,,Mythic,Linode,23-239-29-223.ip.linodeusercontent.com
 193.41.237.173,7443,,Mythic,dataforest GmbH,v56119.php-friends.de
 158.160.69.66,7443,,Mythic,Yandex.Cloud LLC,
-23.239.29.223,7443,,Mythic,Linode,23-239-29-223.ip.linodeusercontent.com
-20.151.239.27,7443,,Mythic,Microsoft Corporation,
 62.113.196.46,7443,,nginx,23M GmbH,s1.revealedtricks4u.com
 137.184.151.45,7443,,Mythic,DigitalOcean, LLC,
 108.61.190.25,7443,,Mythic,Vultr Holdings, LLC,108.61.190.25.vultrusercontent.com
@@ -26,5 +25,3 @@
 195.97.212.50,7443,,Mythic,Onyx Internet Ltd,50.212.97.195.in-addr.arpa
 192.3.255.153,7443,,Mythic,My Server Planet Ltd,192-3-255-153-host.colocrossing.com
 5.188.34.118,7443,,Mythic,G-Core Labs S.A.,mtc.com
-111.90.150.101,7443,,Mythic,Shinjiru Technology Sdn Bhd,server1.kamon.la
-91.107.234.213,7443,,Mythic,Hetzner Online GmbH,static.213.234.107.91.clients.your-server.de
