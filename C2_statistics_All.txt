@@ -38,8 +38,8 @@ Top Countries
 - Russia        10 (4.0%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 42 (16.7%)
 - Beijing, Beijing, CN               42 (16.7%)
+- Hong Kong, Central and Western, HK 42 (16.7%)
 - Shenzhen, Guangdong, CN            12 (4.8%)
 - Ashburn, Virginia, US              10 (4.0%)
 - Frankfurt am Main, Hesse, DE       9 (3.6%)
@@ -52,10 +52,10 @@ Top Regions
 - Hesse, DE               11 (4.4%)
 
 Top Privacy Services
-- ironsocket 1 (0.4%)
-- Mullvad    1 (0.4%)
 - BulletVPN  1 (0.4%)
 - VPN Jantit 1 (0.4%)
+- ironsocket 1 (0.4%)
+- Mullvad    1 (0.4%)
 
 Top Domains
 - contaboserver.net    9 (3.6%)
