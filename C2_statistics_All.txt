@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 46 (18.3%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              31 (12.4%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (6.0%)
 - AS14061 DigitalOcean, LLC                                 15 (6.0%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (6.0%)
 - AS16276 OVH SAS                                           9 (3.6%)
 
 Top Usage Types
@@ -52,10 +52,10 @@ Top Regions
 - Hesse, DE               11 (4.4%)
 
 Top Privacy Services
-- BulletVPN  1 (0.4%)
-- VPN Jantit 1 (0.4%)
 - ironsocket 1 (0.4%)
 - Mullvad    1 (0.4%)
+- BulletVPN  1 (0.4%)
+- VPN Jantit 1 (0.4%)
 
 Top Domains
 - contaboserver.net    9 (3.6%)
