@@ -1,5 +1,6 @@
-51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+195.15.240.22,7443,Covenant,Infomaniak Network SA,195-15-240-22.dc3-a.pub1.etik-cloud.com
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
