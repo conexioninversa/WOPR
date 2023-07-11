@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  8 (3.1%)
 
 Top Usage Types
-- Hosting  177 (69.4%)
-- Business 66 (25.9%)
-- ISP      11 (4.3%)
+- Hosting  181 (71.0%)
+- Business 58 (22.7%)
+- ISP      15 (5.9%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (13.7%)
@@ -31,24 +31,24 @@ Top Routes
 
 Top Countries
 - Hong Kong     58 (22.7%)
-- China         57 (22.4%)
+- China         58 (22.7%)
 - United States 40 (15.7%)
-- Germany       21 (8.2%)
+- Germany       20 (7.8%)
 - Russia        15 (5.9%)
 
 Top Cities
-- Hong Kong, Central and Western, HK   51 (20.0%)
-- Beijing, Beijing, CN                 28 (11.0%)
-- Frankfurt am Main, Hesse, DE         14 (5.5%)
+- Hong Kong, Central and Western, HK   53 (20.8%)
+- Shanghai, Shanghai, CN               22 (8.6%)
+- Frankfurt am Main, Hesse, DE         15 (5.9%)
+- Beijing, Beijing, CN                 10 (3.9%)
 - Saint Petersburg, St.-Petersburg, RU 10 (3.9%)
-- Amsterdam, North Holland, NL         9 (3.5%)
 
 Top Regions
-- Central and Western, HK 55 (21.6%)
-- Beijing, CN             28 (11.0%)
+- Central and Western, HK 56 (22.0%)
+- Shanghai, CN            22 (8.6%)
 - Hesse, DE               15 (5.9%)
-- Virginia, US            11 (4.3%)
 - Guangdong, CN           11 (4.3%)
+- St.-Petersburg, RU      10 (3.9%)
 
 Top Carriers
 - China Telecom 1 (0.4%)
