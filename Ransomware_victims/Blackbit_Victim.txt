@@ -1,3 +1,5 @@
+194.26.192.46,Windows (build 10.0.17763),3389,Remote Desktop Protocol,1337 Services GmbH,powered.by.rdp.sh
+142.44.203.175,Windows (build 10.0.14393),3389,Remote Desktop Protocol,OVH SAS,ip175.ip-142-44-203.net
 103.125.189.133,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Hypernet Vietnam Technology Company Limited,
 66.55.92.188,Windows (build 10.0.17763),3389,Remote Desktop Protocol,GigeNET,
 117.120.8.87,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Servers Australia Pty. Ltd,sau-be8f7-or.servercontrol.com.au
@@ -7,4 +9,5 @@
 139.99.210.186,Windows (build 10.0.17763),3389,Remote Desktop Protocol,OVH Australia PTY LTD,ns556178.ip-139-99-210.net
 103.67.163.157,Windows Server 2012 R2,3389,Remote Desktop Protocol,Thoi MMO Company Limited,
 134.213.168.35,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Cloud Servers UK IP Space,
+107.173.159.12,Windows Server 2012 R2,3389,Remote Desktop Protocol,RackNerd LLC,107-173-159-12-host.colocrossing.com
 202.191.132.152,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Sify Limited,
