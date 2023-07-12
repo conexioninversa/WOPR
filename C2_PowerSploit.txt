@@ -1,3 +1,2 @@
-186.81.132.202,80,Apache httpd,Telmex Colombia S.A.,static-ip-18681132202.cable.net.co
 34.220.186.86,80,nginx,Amazon Technologies Inc.,ec2-34-220-186-86.us-west-2.compute.amazonaws.com
 51.38.230.212,8000,SimpleHTTPServer,OVH SAS,vps-29835532.vps.ovh.net
