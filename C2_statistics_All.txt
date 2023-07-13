@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 35 (14.0%)
 - 124.220.0.0/14 (AS45090)   5 (2.0%)
 - 81.68.0.0/14 (AS45090)     4 (1.6%)
-- 194.50.153.0/24 (AS202973) 3 (1.2%)
 - 1.12.0.0/14 (AS45090)      3 (1.2%)
+- 194.50.153.0/24 (AS202973) 3 (1.2%)
 
 Top Countries
 - Hong Kong     58 (23.2%)
@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK   53 (21.2%)
 - Shanghai, Shanghai, CN               22 (8.8%)
 - Frankfurt am Main, Hesse, DE         13 (5.2%)
-- Beijing, Beijing, CN                 10 (4.0%)
 - Saint Petersburg, St.-Petersburg, RU 10 (4.0%)
+- Beijing, Beijing, CN                 10 (4.0%)
 
 Top Regions
 - Central and Western, HK 56 (22.4%)
