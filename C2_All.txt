@@ -199,12 +199,15 @@
 18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
 149.28.251.203,80,,Brute Ratel C4,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
 13.82.141.216,443,R3,Brute Ratel C4,Microsoft Corporation,spectrumofinnovation.org
+52.197.222.201,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-52-197-222-201.ap-northeast-1.compute.amazonaws.com
 18.176.35.161,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-18-176-35-161.ap-northeast-1.compute.amazonaws.com
+193.41.237.173,7443,,Mythic,dataforest GmbH,v56119.php-friends.de
 20.151.239.27,7443,,Mythic,Microsoft Corporation,
 143.110.217.151,7443,,Mythic,DigitalOcean, LLC,
 52.58.57.248,7443,,Mythic,A100 ROW GmbH,ec2-52-58-57-248.eu-central-1.compute.amazonaws.com
 111.90.150.101,7443,,Mythic,Shinjiru Technology Sdn Bhd,server1.kamon.la
 104.248.88.172,7443,,Mythic,DigitalOcean, LLC,
+109.248.6.210,7443,,Mythic,Delta Ltd,free.datacheap.ru
 23.239.29.223,7443,,Mythic,Linode,23-239-29-223.ip.linodeusercontent.com
 158.160.69.66,7443,,Mythic,Yandex.Cloud LLC,
 62.113.196.46,7443,,nginx,23M GmbH,s1.revealedtricks4u.com
@@ -242,5 +245,6 @@
 5.101.5.196,8443,Deimos C2,s80.spb-dc's objects,
 5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
 62.182.159.147,443,PoshC2,Selectel Network,
+186.81.132.202,80,Apache httpd,Telmex Colombia S.A.,static-ip-18681132202.cable.net.co
 34.220.186.86,80,nginx,Amazon Technologies Inc.,ec2-34-220-186-86.us-west-2.compute.amazonaws.com
 51.38.230.212,8000,SimpleHTTPServer,OVH SAS,vps-29835532.vps.ovh.net
