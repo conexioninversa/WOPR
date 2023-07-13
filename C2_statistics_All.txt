@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     6
+- VPN     5
 - Proxy   0
-- Hosting 170
+- Hosting 166
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  9 (3.6%)
 
 Top Usage Types
-- Hosting  166 (66.4%)
-- Business 67 (26.8%)
-- ISP      16 (6.4%)
+- Hosting  167 (66.8%)
+- Business 70 (28.0%)
+- ISP      12 (4.8%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (14.0%)
@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK   53 (21.2%)
 - Shanghai, Shanghai, CN               22 (8.8%)
 - Frankfurt am Main, Hesse, DE         13 (5.2%)
-- Saint Petersburg, St.-Petersburg, RU 10 (4.0%)
 - Beijing, Beijing, CN                 10 (4.0%)
+- Saint Petersburg, St.-Petersburg, RU 10 (4.0%)
 
 Top Regions
 - Central and Western, HK 56 (22.4%)
