@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 34 (13.6%)
 - 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 1.12.0.0/14 (AS45090)      4 (1.6%)
-- 81.68.0.0/14 (AS45090)     3 (1.2%)
 - 43.136.0.0/14 (AS45090)    3 (1.2%)
+- 81.68.0.0/14 (AS45090)     3 (1.2%)
 
 Top Countries
 - China         60 (24.0%)
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - VPN Jantit 2 (0.8%)
+- TunnelBear 1 (0.4%)
 - RA4W VPN   1 (0.4%)
 - Mullvad    1 (0.4%)
 - SlickVPN   1 (0.4%)
-- TunnelBear 1 (0.4%)
 
 Top Domains
 - contaboserver.net    9 (3.6%)
-- hwclouds-dns.com     6 (2.4%)
 - vultrusercontent.com 6 (2.4%)
+- hwclouds-dns.com     6 (2.4%)
 - colocrossing.com     4 (1.6%)
