@@ -27,13 +27,13 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 28 (10.9%)
 - 194.50.153.0/24 (AS202973) 5 (1.9%)
 - 124.220.0.0/14 (AS45090)   4 (1.6%)
-- 82.156.0.0/15 (AS45090)    3 (1.2%)
 - 43.136.0.0/14 (AS45090)    3 (1.2%)
+- 82.156.0.0/15 (AS45090)    3 (1.2%)
 
 Top Countries
 - China         61 (23.7%)
-- United States 45 (17.5%)
 - Hong Kong     45 (17.5%)
+- United States 45 (17.5%)
 - Germany       28 (10.9%)
 - Russia        9 (3.5%)
 
@@ -52,9 +52,9 @@ Top Regions
 - Guangdong, CN           12 (4.7%)
 
 Top Privacy Services
-- VPN Jantit 1 (0.4%)
 - BulletVPN  1 (0.4%)
 - RA4W VPN   1 (0.4%)
+- VPN Jantit 1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.1%)
