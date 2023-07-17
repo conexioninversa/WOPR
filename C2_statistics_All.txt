@@ -18,9 +18,9 @@ Top ASNs
 - AS16276 OVH SAS                                           11 (4.4%)
 
 Top Usage Types
-- Hosting   170 (68.0%)
-- Business  68 (27.2%)
-- ISP       8 (3.2%)
+- Hosting   168 (67.2%)
+- Business  69 (27.6%)
+- ISP       9 (3.6%)
 - Education 3 (1.2%)
 
 Top Routes
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    9 (3.6%)
-- hwclouds-dns.com     6 (2.4%)
 - vultrusercontent.com 6 (2.4%)
+- hwclouds-dns.com     6 (2.4%)
 - colocrossing.com     4 (1.6%)
