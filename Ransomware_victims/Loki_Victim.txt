@@ -1,3 +1,4 @@
+2.42.193.122,Windows Server 2012,3389,Remote Desktop Protocol,Vodafone Italia S.p.A.,net-2-42-193-122.cust.vodafonedsl.it
 165.154.184.215,Windows (build 10.0.14393),3389,Remote Desktop Protocol,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 103.133.215.41,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Ewebguru,
 200.137.216.70,Windows 7 Professional,3389,Remote Desktop Protocol,Rede Nacional de Ensino e Pesquisa,h20013721670.ufg.br
@@ -6,7 +7,6 @@
 46.183.181.190,Windows 7 Professional,3389,Remote Desktop Protocol,Moscow-1 and Moscow-2 Customer P2P connections /30,zimbra.programsport.ru
 118.218.94.138,Windows 7 Ultimate K,3389,Remote Desktop Protocol,SK Broadband Co Ltd,
 52.144.67.209,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,IRIDEOS S.P.A.,209.67.144.52.cust.ip.kpnqwest.it
-2.42.193.122,Windows Server 2012,3389,Remote Desktop Protocol,Vodafone Italia S.p.A.,net-2-42-193-122.cust.vodafonedsl.it
 98.142.244.241,Windows (build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
 186.5.144.163,Windows Server 2012 R2,3389,Remote Desktop Protocol,Columbus Networks Panama,
 54.153.62.247,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,Amazon Technologies Inc.,ec2-54-153-62-247.us-west-1.compute.amazonaws.com
