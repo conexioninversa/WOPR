@@ -11,11 +11,11 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (14.6%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (14.6%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (14.6%)
 - AS14061 DigitalOcean, LLC                                 17 (6.5%)
-- AS16509 Amazon.com, Inc.                                  10 (3.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             10 (3.8%)
+- AS16509 Amazon.com, Inc.                                  10 (3.8%)
 
 Top Usage Types
 - Hosting   182 (70.0%)
@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (14.6%)
 - 124.220.0.0/14 (AS45090)   8 (3.1%)
-- 194.50.153.0/24 (AS202973) 5 (1.9%)
 - 43.136.0.0/14 (AS45090)    5 (1.9%)
+- 194.50.153.0/24 (AS202973) 5 (1.9%)
 - 82.156.0.0/15 (AS45090)    4 (1.5%)
 
 Top Countries
