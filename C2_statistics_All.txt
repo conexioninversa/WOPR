@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 33 (13.3%)
 - 124.220.0.0/14 (AS45090)   5 (2.0%)
-- 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 1.12.0.0/14 (AS45090)      4 (1.6%)
+- 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 139.155.0.0/16 (AS45090)   3 (1.2%)
 
 Top Countries
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Jantit 2 (0.8%)
-- Mullvad    1 (0.4%)
 - SlickVPN   1 (0.4%)
+- Mullvad    1 (0.4%)
 
 Top Domains
 - contaboserver.net    11 (4.4%)
