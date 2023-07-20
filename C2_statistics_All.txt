@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 51 (19.6%)
 - Shanghai, Shanghai, CN             26 (10.0%)
-- Beijing, Beijing, CN               16 (6.2%)
 - Frankfurt am Main, Hesse, DE       16 (6.2%)
+- Beijing, Beijing, CN               16 (6.2%)
 - Shenzhen, Guangdong, CN            7 (2.7%)
 
 Top Regions
@@ -52,14 +52,14 @@ Top Regions
 - New Jersey, US          10 (3.8%)
 
 Top Privacy Services
+- Mullvad      1 (0.4%)
 - NordVPN      1 (0.4%)
 - SlickVPN     1 (0.4%)
 - RA4W VPN     1 (0.4%)
 - Vanished VPN 1 (0.4%)
-- Mullvad      1 (0.4%)
 
 Top Domains
 - contaboserver.net    9 (3.5%)
-- colocrossing.com     6 (2.3%)
 - null                 6 (2.3%)
 - vultrusercontent.com 6 (2.3%)
+- colocrossing.com     6 (2.3%)
