@@ -1,4 +1,6 @@
+139.144.19.118,7443,,Mythic,Linode,139-144-19-118.ip.linodeusercontent.com
 159.223.234.22,7443,,Mythic,DigitalOcean, LLC,
+45.79.213.188,7443,,Mythic,Linode,45-79-213-188.ip.linodeusercontent.com
 194.233.164.157,7443,,Mythic,Linode, LLC,194-233-164-157.ip.linodeusercontent.com
 158.160.69.66,7443,,Mythic,Yandex.Cloud LLC,
 142.93.166.252,7443,,Mythic,DigitalOcean, LLC,
@@ -9,7 +11,6 @@
 62.113.196.46,7443,,nginx,23M GmbH,s1.revealedtricks4u.com
 54.197.245.200,7443,,Mythic,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
 103.140.187.203,7443,,Mythic,EstNOC-GLOBAL,
-63.250.44.170,7443,,Mythic,Namecheap, Inc.,
 52.58.57.248,7443,,Mythic,A100 ROW GmbH,ec2-52-58-57-248.eu-central-1.compute.amazonaws.com
 20.151.239.27,7443,,Mythic,Microsoft Corporation,
 143.110.217.151,7443,,Mythic,DigitalOcean, LLC,
@@ -31,4 +32,3 @@
 13.236.177.3,7443,,Mythic,Amazon Corporate Services Pty Ltd,ec2-13-236-177-3.ap-southeast-2.compute.amazonaws.com
 3.80.39.181,7443,,Mythic,Amazon Data Services NoVa,ec2-3-80-39-181.compute-1.amazonaws.com
 195.97.212.50,7443,,Mythic,Onyx Internet Ltd,50.212.97.195.in-addr.arpa
-5.188.34.118,7443,,Mythic,G-Core Labs S.A.,mtc.com
