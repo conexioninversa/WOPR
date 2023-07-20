@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (14.6%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (14.6%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (14.6%)
 - AS14061 DigitalOcean, LLC                                 17 (6.5%)
 - AS16509 Amazon.com, Inc.                                  10 (3.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             10 (3.8%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Jantit   2 (0.8%)
-- NordVPN      1 (0.4%)
-- Vanished VPN 1 (0.4%)
 - SlickVPN     1 (0.4%)
 - Mullvad      1 (0.4%)
+- NordVPN      1 (0.4%)
+- Vanished VPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    9 (3.5%)
