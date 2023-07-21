@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     11
 - Proxy   0
-- Hosting 169
+- Hosting 179
 - Tor     0
 - Relay   0
 
@@ -18,15 +18,15 @@ Top ASNs
 - AS51167 Contabo GmbH                                      9 (3.6%)
 
 Top Usage Types
-- Hosting   168 (67.2%)
-- Business  68 (27.2%)
+- Hosting   178 (71.2%)
+- Business  58 (23.2%)
 - ISP       11 (4.4%)
 - Education 3 (1.2%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (14.4%)
-- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 47.98.0.0/15 (AS37963)     4 (1.6%)
+- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 81.68.0.0/14 (AS45090)     3 (1.2%)
 - 103.61.3.0/24 (AS136800)   2 (0.8%)
 
@@ -52,11 +52,11 @@ Top Regions
 - New York, US            9 (3.6%)
 
 Top Privacy Services
-- NordVPN      1 (0.4%)
-- SlickVPN     1 (0.4%)
-- RA4W VPN     1 (0.4%)
+- AnonymousVPN 1 (0.4%)
 - Vanished VPN 1 (0.4%)
 - World VPN    1 (0.4%)
+- NordVPN      1 (0.4%)
+- SwitchVPN    1 (0.4%)
 
 Top Domains
 - contaboserver.net 12 (4.8%)
