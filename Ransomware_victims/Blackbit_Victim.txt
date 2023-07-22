@@ -1,5 +1,4 @@
 185.254.30.126,Windows Server 2012 R2,3389,Remote Desktop Protocol,DGN TEKNOLOJI A.S.,host-185.254.30.126.routergate.com
-81.129.103.182,,3389,Remote Desktop Protocol,BT Infrastructure Layer,host81-129-103-182.range81-129.btcentralplus.com
 144.126.156.7,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Contabo Inc.,vmi1242063.contaboserver.net
 135.181.124.178,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.178.124.181.135.clients.your-server.de
 98.142.244.246,Windows (build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
@@ -15,7 +14,6 @@
 150.239.142.190,Windows (build 10.0.17763),3389,Remote Desktop Protocol,SoftLayer Technologies Inc.,be.8e.ef96.ip4.static.sl-reverse.com
 62.171.156.27,Windows (Build 10.0.14393),3389,Remote Desktop Protocol,Contabo GmbH,vmd63122.contaboserver.net
 142.44.203.175,Windows (build 10.0.14393),3389,Remote Desktop Protocol,OVH SAS,ip175.ip-142-44-203.net
-103.125.189.133,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Hypernet Vietnam Technology Company Limited,
 117.120.8.87,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Servers Australia Pty. Ltd,sau-be8f7-or.servercontrol.com.au
 157.7.91.55,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,GMO Internet Group, Inc.,v157-7-91-55.5wsl.static.cnode.io
 185.254.99.66,Windows (build 10.0.17763),3389,Remote Desktop Protocol,dataforest GmbH,
