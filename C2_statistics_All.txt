@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     13
 - Proxy   0
-- Hosting 188
+- Hosting 182
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             11 (4.2%)
 
 Top Usage Types
-- Hosting   188 (72.0%)
-- Business  60 (23.0%)
-- ISP       9 (3.4%)
+- Hosting   182 (69.7%)
+- Business  67 (25.7%)
+- ISP       8 (3.1%)
 - Education 4 (1.5%)
 
 Top Routes
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - Mullvad      2 (0.8%)
-- AnonymousVPN 1 (0.4%)
 - Vanished VPN 1 (0.4%)
 - World VPN    1 (0.4%)
 - VPN Jantit   1 (0.4%)
+- AnonymousVPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    10 (3.8%)
