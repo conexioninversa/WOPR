@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 32 (12.5%)
 - 124.220.0.0/14 (AS45090)   9 (3.5%)
-- 5.196.0.0/16 (AS16276)     3 (1.2%)
 - 121.4.0.0/15 (AS45090)     3 (1.2%)
+- 5.196.0.0/16 (AS16276)     3 (1.2%)
 - 102.112.0.0/13 (AS23889)   2 (0.8%)
 
 Top Countries
@@ -52,11 +52,11 @@ Top Regions
 - Guangdong, CN           12 (4.7%)
 
 Top Privacy Services
+- ProtonVPN  1 (0.4%)
 - SwitchVPN  1 (0.4%)
 - RA4W VPN   1 (0.4%)
 - Mullvad    1 (0.4%)
 - VPN Jantit 1 (0.4%)
-- ProtonVPN  1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.1%)
