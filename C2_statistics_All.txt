@@ -52,14 +52,14 @@ Top Regions
 - Guangdong, CN           12 (4.7%)
 
 Top Privacy Services
-- TunnelBear   1 (0.4%)
-- SwitchVPN    1 (0.4%)
 - AnonymousVPN 1 (0.4%)
 - Mullvad      1 (0.4%)
 - VPN Jantit   1 (0.4%)
+- TunnelBear   1 (0.4%)
+- SwitchVPN    1 (0.4%)
 
 Top Domains
-- contaboserver.net    8 (3.1%)
 - null                 8 (3.1%)
+- contaboserver.net    8 (3.1%)
 - hwclouds-dns.com     7 (2.7%)
 - vultrusercontent.com 6 (2.3%)
