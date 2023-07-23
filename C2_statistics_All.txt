@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     9
 - Proxy   0
-- Hosting 179
+- Hosting 185
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  11 (4.3%)
 
 Top Usage Types
-- Hosting   179 (69.6%)
-- Business  65 (25.3%)
+- Hosting   185 (72.0%)
+- Business  59 (23.0%)
 - ISP       9 (3.5%)
 - Education 4 (1.6%)
 
@@ -45,18 +45,18 @@ Top Cities
 - Shenzhen, Guangdong, CN            10 (3.9%)
 
 Top Regions
-- Central and Western, HK 44 (17.1%)
+- Central and Western, HK 43 (16.7%)
 - Shanghai, CN            22 (8.6%)
 - Hesse, DE               15 (5.8%)
-- Beijing, CN             12 (4.7%)
 - Guangdong, CN           12 (4.7%)
+- Beijing, CN             12 (4.7%)
 
 Top Privacy Services
-- VPN Jantit   1 (0.4%)
-- TunnelBear   1 (0.4%)
-- SwitchVPN    1 (0.4%)
-- AnonymousVPN 1 (0.4%)
-- Mullvad      1 (0.4%)
+- ProtonVPN  1 (0.4%)
+- SwitchVPN  1 (0.4%)
+- RA4W VPN   1 (0.4%)
+- Mullvad    1 (0.4%)
+- VPN Jantit 1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.1%)
