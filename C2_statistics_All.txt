@@ -48,18 +48,18 @@ Top Regions
 - Central and Western, HK 43 (16.7%)
 - Shanghai, CN            22 (8.6%)
 - Hesse, DE               15 (5.8%)
-- Beijing, CN             12 (4.7%)
 - Guangdong, CN           12 (4.7%)
+- Beijing, CN             12 (4.7%)
 
 Top Privacy Services
-- RA4W VPN   1 (0.4%)
 - Mullvad    1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - ProtonVPN  1 (0.4%)
 - SwitchVPN  1 (0.4%)
+- RA4W VPN   1 (0.4%)
 
 Top Domains
-- contaboserver.net    8 (3.1%)
 - null                 8 (3.1%)
+- contaboserver.net    8 (3.1%)
 - hwclouds-dns.com     7 (2.7%)
 - vultrusercontent.com 6 (2.3%)
