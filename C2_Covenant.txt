@@ -1,6 +1,16 @@
+35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
+5.182.17.134,7443,Covenant,Contabo GmbH,vmi1040070.contaboserver.net
 45.63.127.77,7443,,Vultr Holdings, LLC,45.63.127.77.vultrusercontent.com
 109.123.231.70,7443,,Contabo GmbH,vmi1020227.contaboserver.net
+167.233.4.178,7443,Covenant,Hetzner Online GmbH,hallinta.suomivita.fi
 192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
+195.15.240.22,7443,Covenant,Infomaniak Network SA,195-15-240-22.dc3-a.pub1.etik-cloud.com
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+89.251.177.85,7443,Covenant,Logos Technologies Hosting and Housing Services,
 209.126.77.241,7443,Covenant,Contabo Inc.,vmi1325212.contaboserver.net
+141.147.78.236,7443,Covenant,Oracle Corporation,
+34.28.100.185,7443,Covenant,Google LLC,185.100.28.34.bc.googleusercontent.com
+152.67.26.76,7443,Covenant,Oracle Public Cloud,
