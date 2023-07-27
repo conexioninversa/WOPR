@@ -3,7 +3,6 @@
 20.151.239.27,7443,,Mythic,Microsoft Corporation,
 3.80.39.181,7443,,Mythic,Amazon Data Services NoVa,ec2-3-80-39-181.compute-1.amazonaws.com
 23.239.29.223,7443,,Mythic,Linode,
-157.230.93.100,7443,,nginx,DigitalOcean, LLC,
 3.128.135.199,7443,,Mythic,Amazon Technologies Inc.,ec2-3-128-135-199.us-east-2.compute.amazonaws.com
 107.174.68.34,7443,,Mythic,Virtual Machine Solutions LLC,107-174-68-34-host.colocrossing.com
 88.208.100.189,7443,,nginx,Accenture Services, s.r.o.,
@@ -14,7 +13,6 @@
 91.107.234.213,7443,,Mythic,Hetzner Online GmbH,static.213.234.107.91.clients.your-server.de
 109.248.6.210,7443,,Mythic,Delta Ltd,free.datacheap.ru
 34.215.75.141,7443,,Mythic,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
-67.207.81.170,7443,,nginx,DigitalOcean, LLC,
 62.113.196.46,7443,,nginx,23M GmbH,s1.revealedtricks4u.com
 54.197.245.200,7443,,Mythic,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
 103.140.187.203,7443,,Mythic,EstNOC-GLOBAL,
