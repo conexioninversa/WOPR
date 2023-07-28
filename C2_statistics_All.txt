@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (13.6%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 35 (13.6%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (13.6%)
 - AS14061 DigitalOcean, LLC                                 18 (7.0%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (6.6%)
 - AS16509 Amazon.com, Inc.                                  12 (4.7%)
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Central and Western, HK 40 (15.6%)
 - Shanghai, CN            19 (7.4%)
-- Guangdong, CN           16 (6.2%)
 - Beijing, CN             16 (6.2%)
+- Guangdong, CN           16 (6.2%)
 - Hesse, DE               14 (5.4%)
 
 Top Privacy Services
