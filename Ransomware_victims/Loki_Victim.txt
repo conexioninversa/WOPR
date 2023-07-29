@@ -1,3 +1,5 @@
+80.67.214.142,Windows 7 Ultimate,3389,Remote Desktop Protocol,Norilsk-Telecom JSC Network,
+189.152.39.189,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Gestión de direccionamiento UniNet,dsl-189-152-39-189-dyn.prod-infinitum.com.mx
 79.216.147.220,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Deutsche Telekom AG,p4fd893dc.dip0.t-ipconnect.de
 190.106.220.65,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Servicios Innovadores de Comunicación y Entretenimiento, S.A.,
 98.142.244.238,Windows (build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
@@ -11,4 +13,3 @@
 118.218.94.138,Windows 7 Ultimate K,3389,Remote Desktop Protocol,SK Broadband Co Ltd,
 52.144.67.209,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,IRIDEOS S.P.A.,209.67.144.52.cust.ip.kpnqwest.it
 98.142.244.241,Windows (build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
-186.5.144.163,Windows Server 2012 R2,3389,Remote Desktop Protocol,Columbus Networks Panama,
