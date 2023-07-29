@@ -27,13 +27,13 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 32 (12.5%)
 - 43.136.0.0/14 (AS45090)    5 (2.0%)
 - 1.12.0.0/14 (AS45090)      4 (1.6%)
-- 119.45.0.0/16 (AS45090)    3 (1.2%)
 - 47.92.0.0/15 (AS37963)     3 (1.2%)
+- 119.45.0.0/16 (AS45090)    3 (1.2%)
 
 Top Countries
 - China         66 (25.9%)
-- Hong Kong     46 (18.0%)
 - United States 46 (18.0%)
+- Hong Kong     46 (18.0%)
 - Germany       25 (9.8%)
 - Russia        14 (5.5%)
 
@@ -48,14 +48,14 @@ Top Regions
 - Central and Western, HK 45 (17.6%)
 - Beijing, CN             18 (7.1%)
 - Guangdong, CN           15 (5.9%)
-- Hesse, DE               14 (5.5%)
 - Shanghai, CN            14 (5.5%)
+- Hesse, DE               14 (5.5%)
 
 Top Privacy Services
-- ProtonVPN  1 (0.4%)
-- VPN Jantit 1 (0.4%)
 - FrostVPN   1 (0.4%)
 - NoodleVPN  1 (0.4%)
+- ProtonVPN  1 (0.4%)
+- VPN Jantit 1 (0.4%)
 
 Top Domains
 - contaboserver.net 10 (3.9%)
