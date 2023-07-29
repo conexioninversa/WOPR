@@ -32,8 +32,8 @@ Top Routes
 
 Top Countries
 - China         66 (25.9%)
-- United States 46 (18.0%)
 - Hong Kong     46 (18.0%)
+- United States 46 (18.0%)
 - Germany       25 (9.8%)
 - Russia        14 (5.5%)
 
@@ -48,14 +48,14 @@ Top Regions
 - Central and Western, HK 45 (17.6%)
 - Beijing, CN             18 (7.1%)
 - Guangdong, CN           15 (5.9%)
-- Shanghai, CN            14 (5.5%)
 - Hesse, DE               14 (5.5%)
+- Shanghai, CN            14 (5.5%)
 
 Top Privacy Services
+- ProtonVPN  1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - FrostVPN   1 (0.4%)
 - NoodleVPN  1 (0.4%)
-- ProtonVPN  1 (0.4%)
 
 Top Domains
 - contaboserver.net 10 (3.9%)
