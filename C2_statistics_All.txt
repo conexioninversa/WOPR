@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 32 (12.5%)
 - 43.136.0.0/14 (AS45090)    6 (2.4%)
 - 124.220.0.0/14 (AS45090)   4 (1.6%)
-- 175.178.0.0/16 (AS45090)   3 (1.2%)
 - 47.92.0.0/15 (AS37963)     3 (1.2%)
+- 175.178.0.0/16 (AS45090)   3 (1.2%)
 
 Top Countries
 - China         73 (28.6%)
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 43 (16.9%)
 - Beijing, Beijing, CN               20 (7.8%)
-- Shanghai, Shanghai, CN             17 (6.7%)
 - Shenzhen, Guangdong, CN            17 (6.7%)
+- Shanghai, Shanghai, CN             17 (6.7%)
 - Frankfurt am Main, Hesse, DE       11 (4.3%)
 
 Top Regions
@@ -52,9 +52,9 @@ Top Regions
 - Hesse, DE               13 (5.1%)
 
 Top Privacy Services
-- ProtonVPN 1 (0.4%)
 - Mullvad   1 (0.4%)
 - NoodleVPN 1 (0.4%)
+- ProtonVPN 1 (0.4%)
 
 Top Domains
 - colocrossing.com  9 (3.5%)
