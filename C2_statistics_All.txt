@@ -1,1 +1,62 @@
-no input ips
+Summary
+- Total   241
+- Unique  241
+- Anycast 0
+- Bogon   0
+- Mobile  0
+- VPN     7
+- Proxy   0
+- Hosting 167
+- Tor     0
+- Relay   0
+
+Top ASNs
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 48 (19.9%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              33 (13.7%)
+- AS14061 DigitalOcean, LLC                                 18 (7.5%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (6.2%)
+- AS36352 ColoCrossing                                      10 (4.1%)
+
+Top Usage Types
+- Hosting   165 (68.5%)
+- Business  60 (24.9%)
+- ISP       12 (5.0%)
+- Education 3 (1.2%)
+
+Top Routes
+- 154.215.16.0/21 (AS139471) 33 (13.7%)
+- 43.136.0.0/14 (AS45090)    6 (2.5%)
+- 124.220.0.0/14 (AS45090)   4 (1.7%)
+- 1.12.0.0/14 (AS45090)      3 (1.2%)
+- 175.178.0.0/16 (AS45090)   3 (1.2%)
+
+Top Countries
+- China         73 (30.3%)
+- Hong Kong     47 (19.5%)
+- United States 40 (16.6%)
+- Germany       16 (6.6%)
+- France        9 (3.7%)
+
+Top Cities
+- Hong Kong, Central and Western, HK 44 (18.3%)
+- Beijing, Beijing, CN               20 (8.3%)
+- Shanghai, Shanghai, CN             19 (7.9%)
+- Shenzhen, Guangdong, CN            16 (6.6%)
+- Frankfurt am Main, Hesse, DE       8 (3.3%)
+
+Top Regions
+- Central and Western, HK 46 (19.1%)
+- Beijing, CN             20 (8.3%)
+- Shanghai, CN            19 (7.9%)
+- Guangdong, CN           17 (7.1%)
+- Hesse, DE               9 (3.7%)
+
+Top Privacy Services
+- Mullvad   1 (0.4%)
+- ProtonVPN 1 (0.4%)
+
+Top Domains
+- colocrossing.com     10 (4.1%)
+- contaboserver.net    7 (2.9%)
+- vultrusercontent.com 4 (1.7%)
+- null                 4 (1.7%)
