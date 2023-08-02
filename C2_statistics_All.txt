@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 33 (13.7%)
 - 43.136.0.0/14 (AS45090)    6 (2.5%)
 - 124.220.0.0/14 (AS45090)   4 (1.7%)
-- 1.12.0.0/14 (AS45090)      3 (1.2%)
 - 175.178.0.0/16 (AS45090)   3 (1.2%)
+- 1.12.0.0/14 (AS45090)      3 (1.2%)
 
 Top Countries
 - China         73 (30.3%)
@@ -52,11 +52,11 @@ Top Regions
 - Hesse, DE               9 (3.7%)
 
 Top Privacy Services
-- Mullvad   1 (0.4%)
 - ProtonVPN 1 (0.4%)
+- Mullvad   1 (0.4%)
 
 Top Domains
 - colocrossing.com     10 (4.1%)
 - contaboserver.net    7 (2.9%)
-- vultrusercontent.com 4 (1.7%)
 - null                 4 (1.7%)
+- vultrusercontent.com 4 (1.7%)
