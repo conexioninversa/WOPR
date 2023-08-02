@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 32 (12.7%)
 - 43.136.0.0/14 (AS45090)    7 (2.8%)
 - 124.220.0.0/14 (AS45090)   5 (2.0%)
-- 119.45.0.0/16 (AS45090)    3 (1.2%)
 - 175.178.0.0/16 (AS45090)   3 (1.2%)
+- 119.45.0.0/16 (AS45090)    3 (1.2%)
 
 Top Countries
 - China         73 (29.0%)
@@ -52,10 +52,10 @@ Top Regions
 - Hesse, DE               12 (4.8%)
 
 Top Privacy Services
+- NordVPN   1 (0.4%)
 - ProtonVPN 1 (0.4%)
 - World VPN 1 (0.4%)
 - FrostVPN  1 (0.4%)
-- NordVPN   1 (0.4%)
 
 Top Domains
 - contaboserver.net    10 (4.0%)
