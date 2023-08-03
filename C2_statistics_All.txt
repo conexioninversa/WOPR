@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  9 (3.7%)
 
 Top Usage Types
-- Hosting   192 (79.7%)
-- Business  34 (14.1%)
+- Hosting   193 (80.1%)
+- Business  33 (13.7%)
 - ISP       13 (5.4%)
 - Education 1 (0.4%)
 
@@ -53,9 +53,9 @@ Top Regions
 
 Top Privacy Services
 - World VPN 2 (0.8%)
-- NordVPN   1 (0.4%)
 - ProtonVPN 1 (0.4%)
 - FrostVPN  1 (0.4%)
+- NordVPN   1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.3%)
