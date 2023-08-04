@@ -3,3 +3,4 @@
 3.70.143.123,443,PoshC2,A100 ROW GmbH,ec2-3-70-143-123.eu-central-1.compute.amazonaws.com
 62.182.159.155,443,,Selectel Network,
 103.230.142.243,443,,EstNOC Malaysia,
+95.213.145.101,443,PoshC2,Selectel SPb,

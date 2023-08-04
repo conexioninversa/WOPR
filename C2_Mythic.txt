@@ -8,16 +8,18 @@
 139.84.192.189,7443,,Mythic,Vultr Holdings, LLC,139.84.192.189.vultrusercontent.com
 54.197.245.200,7443,,,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
 67.207.81.170,7443,,,DigitalOcean, LLC,
+3.69.214.254,7443,,,A100 ROW GmbH,ec2-3-69-214-254.eu-central-1.compute.amazonaws.com
 192.3.255.153,7443,,,My Server Planet Ltd,192-3-255-153-host.colocrossing.com
 164.92.88.164,7443,,Mythic,DigitalOcean, LLC,
 88.208.100.189,7443,,nginx,Accenture Services, s.r.o.,
+20.151.239.27,7443,,Mythic,Microsoft Corporation,
 23.239.29.223,7443,,Mythic,Linode,
-3.128.135.199,7443,,Mythic,Amazon Technologies Inc.,ec2-3-128-135-199.us-east-2.compute.amazonaws.com
+3.128.135.199,7443,,,Amazon Technologies Inc.,ec2-3-128-135-199.us-east-2.compute.amazonaws.com
 107.174.68.34,7443,,Mythic,Virtual Machine Solutions LLC,107-174-68-34-host.colocrossing.com
 159.223.234.22,7443,,Mythic,DigitalOcean, LLC,
 142.93.166.252,7443,,Mythic,DigitalOcean, LLC,
 109.248.6.210,7443,,Mythic,Delta Ltd,free.datacheap.ru
-34.215.75.141,7443,,Mythic,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
+34.215.75.141,7443,,,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
 103.140.187.203,7443,,Mythic,EstNOC-GLOBAL,
 143.110.217.151,7443,,Mythic,DigitalOcean, LLC,
 164.92.240.184,7443,,Mythic,DigitalOcean, LLC,
