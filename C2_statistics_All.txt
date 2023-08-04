@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 28 (11.6%)
 - 124.220.0.0/14 (AS45090)   7 (2.9%)
-- 175.178.0.0/16 (AS45090)   4 (1.7%)
 - 43.136.0.0/14 (AS45090)    4 (1.7%)
+- 175.178.0.0/16 (AS45090)   4 (1.7%)
 - 47.100.0.0/14 (AS37963)    3 (1.2%)
 
 Top Countries
@@ -53,9 +53,9 @@ Top Regions
 
 Top Privacy Services
 - World VPN 2 (0.8%)
+- NordVPN   1 (0.4%)
 - ProtonVPN 1 (0.4%)
 - FrostVPN  1 (0.4%)
-- NordVPN   1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.3%)
