@@ -1,8 +1,8 @@
 110.40.184.247,443,,,Tencent cloud computing (Beijing) Co., Ltd.,
 139.59.77.99,80,,,DigitalOcean, LLC,
 47.100.215.156,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-114.132.243.226,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-43.143.153.235,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+114.132.243.226,443,,,Tencent cloud computing (Beijing) Co., Ltd.,
+43.143.153.235,80,,,Tencent Cloud Computing (Beijing) Co., Ltd,
 167.99.246.113,443,,Cobalt Strike Beacon,DigitalOcean, LLC,
 124.220.28.253,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 182.92.131.14,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
@@ -14,7 +14,7 @@
 43.154.18.45,80,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 124.222.88.246,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.158.168,80,,,Zenlayer Inc,
-148.66.6.28,443,,Cobalt Strike Beacon,SIMCENTRIC-HK NETBLOCK,jscriptstore.com
+148.66.6.28,443,,Apache httpd,SIMCENTRIC-HK NETBLOCK,jscriptstore.com
 110.41.131.105,6666,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-110-41-131-105.compute.hwclouds-dns.com
 162.19.68.68,443,,Cobalt Strike Beacon,OVH SAS,
 103.234.72.18,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
@@ -31,7 +31,7 @@
 175.178.74.238,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 49.4.88.243,443,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-49-4-88-243.compute.hwclouds-dns.com
 143.92.58.97,80,,Cobalt Strike Beacon,CTG Server Ltd.,
-39.105.107.87,443,R3,Cobalt Strike Beacon,Aliyun Computing Co., LTD,360safes.net
+39.105.107.87,443,R3,,Aliyun Computing Co., LTD,360safes.net
 43.142.193.86,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 3.124.182.176,443,R3,Cobalt Strike Beacon,A100 ROW GmbH,airbarsweden.com;ec2-3-124-182-176.eu-central-1.compute.amazonaws.com
 124.222.3.42,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
@@ -52,7 +52,7 @@
 132.232.102.57,80,,,Tencent Cloud Computing (Beijing) Co., Ltd,
 106.52.116.188,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 175.178.213.59,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-124.222.16.73,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+124.222.16.73,80,,,Tencent cloud computing (Beijing) Co., Ltd.,
 101.35.46.154,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 47.99.57.95,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 43.134.228.170,80,,,Asia Pacific Network Information Center, Pty. Ltd.,
@@ -68,7 +68,7 @@
 107.174.192.58,5555,,Cobalt Strike Beacon,ColoCrossing,107-174-192-58-host.colocrossing.com
 23.146.242.81,80,,Cobalt Strike Beacon,,
 124.220.182.36,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.93.63.179,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+47.93.63.179,8888,,,Aliyun Computing Co., LTD,
 43.139.52.123,82,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 139.199.3.221,443,CN,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 103.146.179.84,8099,,Cobalt Strike Beacon,HONGKONG NEWS COMMENTARY AGENCY CO. ,LIMITED,
@@ -243,11 +243,11 @@
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
-5.101.5.196,8443,Deimos C2,s80.spb-dc's objects,
+5.101.5.196,8443,,s80.spb-dc's objects,
 62.182.159.147,443,,Selectel Network,
 3.78.75.167,443,,A100 ROW GmbH,ec2-3-78-75-167.eu-central-1.compute.amazonaws.com
 3.70.143.123,443,PoshC2,A100 ROW GmbH,ec2-3-70-143-123.eu-central-1.compute.amazonaws.com
 62.182.159.155,443,,Selectel Network,
 103.230.142.243,443,,EstNOC Malaysia,
-95.213.145.101,443,PoshC2,Selectel SPb,
+95.213.145.101,443,,Selectel SPb,
 34.220.186.86,80,nginx,Amazon Technologies Inc.,ec2-34-220-186-86.us-west-2.compute.amazonaws.com
