@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (11.9%)
 - 124.220.0.0/14 (AS45090)   7 (2.8%)
+- 3.64.0.0/12 (AS16509)      4 (1.6%)
 - 43.136.0.0/14 (AS45090)    4 (1.6%)
 - 175.178.0.0/16 (AS45090)   4 (1.6%)
-- 3.64.0.0/12 (AS16509)      4 (1.6%)
 
 Top Countries
 - China         71 (28.2%)
@@ -53,11 +53,11 @@ Top Regions
 
 Top Privacy Services
 - World VPN 2 (0.8%)
-- ProtonVPN 1 (0.4%)
 - VPNArea   1 (0.4%)
+- ProtonVPN 1 (0.4%)
 
 Top Domains
 - null              7 (2.8%)
-- contaboserver.net 6 (2.4%)
 - hwclouds-dns.com  6 (2.4%)
+- contaboserver.net 6 (2.4%)
 - colocrossing.com  5 (2.0%)
