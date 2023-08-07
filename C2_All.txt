@@ -1,17 +1,22 @@
+101.35.112.94,8443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+119.45.252.164,4443,CN,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+47.106.123.86,8080,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+44.198.16.37,80,,Cobalt Strike Beacon,Amazon Data Services NoVa,ec2-44-198-16-37.compute-1.amazonaws.com
+120.132.99.116,443,jquery.com,Cobalt Strike Beacon,CloudVsp.Inc,
+43.143.6.159,8888,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+47.111.99.111,8443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,cdndbapp.top
+47.241.225.61,443,,Cobalt Strike Beacon,ALICLOUD-SG,
 110.40.184.247,443,,,Tencent cloud computing (Beijing) Co., Ltd.,
 139.59.77.99,80,,,DigitalOcean, LLC,
 47.100.215.156,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 114.132.243.226,443,,,Tencent cloud computing (Beijing) Co., Ltd.,
 43.143.153.235,80,,,Tencent Cloud Computing (Beijing) Co., Ltd,
-167.99.246.113,443,,Cobalt Strike Beacon,DigitalOcean, LLC,
 124.220.28.253,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 182.92.131.14,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 43.155.173.17,5555,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 82.157.138.249,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 116.204.81.202,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-116-204-81-202.compute.hwclouds-dns.com
-47.100.170.9,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 175.178.74.238,8099,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-43.154.18.45,80,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 124.222.88.246,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.158.168,80,,,Zenlayer Inc,
 148.66.6.28,443,,Apache httpd,SIMCENTRIC-HK NETBLOCK,jscriptstore.com
@@ -27,7 +32,6 @@
 203.161.57.225,443,,Cobalt Strike Beacon,Namecheap, Inc.,gupdate.online;puppied-voorhuis.vpsrdns.web-hosting.com
 124.220.164.254,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 101.43.16.149,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-101.43.2.116,80,,,Tencent Cloud Computing (Beijing) Co., Ltd,
 175.178.74.238,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 49.4.88.243,443,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-49-4-88-243.compute.hwclouds-dns.com
 143.92.58.97,80,,Cobalt Strike Beacon,CTG Server Ltd.,
@@ -40,8 +44,6 @@
 39.107.70.26,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 31.44.184.63,80,,,Petersburg Internet Network ltd.,
 101.42.254.219,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-43.143.6.159,8888,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-114.132.59.185,443,,,Tencent cloud computing (Beijing) Co., Ltd.,
 8.129.237.254,80,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 162.14.81.81,9999,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 143.198.111.217,443,jquery.com,Cobalt Strike Beacon,DigitalOcean, LLC,
@@ -61,7 +63,6 @@
 175.178.180.234,6000,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 175.27.240.50,443,gmail.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 132.232.103.48,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-123.56.226.153,9999,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 109.206.245.161,7070,,Cobalt Strike Beacon,Sakura network limited,
 120.48.62.132,80,,Cobalt Strike Beacon,Beijing Baidu Netcom Science and Technology Co., Ltd.,
 45.207.49.59,443,jquery.com,Cobalt Strike Beacon,SONDERCLOUD LIMITED,
@@ -84,7 +85,6 @@
 47.109.19.188,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 101.35.123.193,8088,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 1.116.156.226,8098,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-101.33.231.180,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 103.57.228.99,8443,,Cobalt Strike Beacon,POWER LINE DATACENTER,hin7lostvas.pro
 45.137.10.34,2083,jquery.com,Cobalt Strike Beacon,XNNET LLC,
 103.146.141.98,443,,Cobalt Strike Beacon,HUA ER MI INDUSTRY CO.,LIMITED,
@@ -96,7 +96,57 @@
 101.35.4.152,8443,Managed CA ef7bee7d9e90600f60ca23b57249c4b4,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 134.122.190.146,80,,,BGP Network Limited Co.,Ltd,
 39.99.242.16,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-1.15.120.10,7777,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+172.86.127.13,8080,,Cobalt Strike Beacon,FranTech Solutions,
+185.170.214.108,3790,MetasploitSelfSignedCA,,MVPS LTD,ip-185-170-214-108-83446.vps.hosted-by-mvps.net
+85.243.239.81,3790,MetasploitSelfSignedCA,,PT Comunicacoes S.A.,bl10-239-81.dsl.telepac.pt
+154.215.23.180,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+193.109.120.15,3790,MetasploitSelfSignedCA,,BlueVPS OU,
+213.183.56.138,3790,MetasploitSelfSignedCA,,EDIS Infrastructure in Moscow,138.56.183.213.in-addr.arpa
+172.96.166.108,3790,MetasploitSelfSignedCA,,Dedicated.com,
+5.196.213.108,3790,MetasploitSelfSignedCA,,OVH SAS,generation-cleantech.com
+172.247.11.246,3790,MetasploitSelfSignedCA,,CloudRadium L.L.C,
+134.209.71.204,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
+154.215.23.165,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+52.138.143.143,3790,MetasploitSelfSignedCA,,Microsoft Corporation,
+89.248.170.94,3790,MetasploitSelfSignedCA,,FiberXpress BV,
+185.158.248.56,3790,MetasploitSelfSignedCA,,servinga GmbH,awesome.lulabim.org.uk
+154.215.17.164,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+51.91.98.213,3790,MetasploitSelfSignedCA,,OVH SAS,vps-96549721.vps.ovh.net
+77.75.125.176,3790,MetasploitSelfSignedCA,,JAC004,
+154.215.18.181,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+89.58.9.56,3790,MetasploitSelfSignedCA,,netcup GmbH,v2202112118727170766.bestsrv.de
+45.143.200.6,3790,MetasploitSelfSignedCA,,,
+154.215.20.165,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+8.130.24.139,3790,MetasploitSelfSignedCA,,Aliyun Computing Co.LTD,
+154.215.23.174,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.16.188,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+88.80.184.154,3790,MetasploitSelfSignedCA,,Linode, LLC,88-80-184-154.ip.linodeusercontent.com
+87.229.94.231,3790,MetasploitSelfSignedCA,,Varga Zsolt Robert EV,server.eszterhazy.hu
+188.212.124.111,3790,MetasploitSelfSignedCA,,MVPS LTD,ip-188-212-124-111-79100.vps.hosted-by-mvps.net
+154.215.19.168,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+213.226.123.170,3790,MetasploitSelfSignedCA,,IT Resheniya LLC,
+31.220.108.134,3790,MetasploitSelfSignedCA,,VPS Servers,
+20.74.104.35,3790,MetasploitSelfSignedCA,,Microsoft Corporation,
+54.243.120.218,3790,MetasploitSelfSignedCA,,Amazon Data Services NoVa,ec2-54-243-120-218.compute-1.amazonaws.com
+31.42.186.100,3790,MetasploitSelfSignedCA,,Virtual Systems LLC,dedicated.vsys.host
+8.136.134.193,3790,MetasploitSelfSignedCA,,Aliyun Computing Co.LTD,
+36.91.103.194,3790,MetasploitSelfSignedCA,,PT Telekomunikasi Indonesia,
+185.3.95.209,3790,MetasploitSelfSignedCA,,Linode, LLC,li788-209.members.linode.com
+154.215.21.171,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+167.235.169.4,3790,MetasploitSelfSignedCA,,Hetzner Online GmbH,static.4.169.235.167.clients.your-server.de
+154.215.22.170,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.23.184,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.17.166,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+42.192.226.194,3790,MetasploitSelfSignedCA,,Tencent cloud computing (Beijing) Co., Ltd.,
+146.59.45.94,3790,MetasploitSelfSignedCA,,OVH Sp. z o. o.,vps-62515552.vps.ovh.net
+109.123.242.116,3790,MetasploitSelfSignedCA,,Contabo GmbH,vmi1280316.contaboserver.net
+164.132.50.235,3790,MetasploitSelfSignedCA,,OVH SAS,lo-02.synhack.fr
+154.215.21.173,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+119.29.26.137,3790,MetasploitSelfSignedCA,,Tencent cloud computing (Beijing) Co., Ltd.,
+77.88.193.133,3790,MetasploitSelfSignedCA,,Ante Mediam LLC,
+141.11.182.15,3790,MetasploitSelfSignedCA,,RACK400.com - Netherlands Infrastructure,ip-141-11-182-15.Hosted-by.RACK400.com
+154.215.19.172,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.17.176,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
 83.243.64.180,3790,MetasploitSelfSignedCA,,ZAO ElectronTelecom,
 154.215.17.188,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 45.82.247.126,3790,MetasploitSelfSignedCA,,Dedipath,
@@ -111,7 +161,6 @@
 213.246.45.5,3790,MetasploitSelfSignedCA,,ikoula france serveur dedie,frhb50342ds.ikexpress.com
 3.78.117.96,3790,MetasploitSelfSignedCA,,A100 ROW GmbH,ec2-3-78-117-96.eu-central-1.compute.amazonaws.com
 154.215.18.172,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.16.188,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.18.161,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 192.198.87.46,3790,MetasploitSelfSignedCA,,VMNode,darkorb.robotham.dev
 76.176.32.76,3790,MetasploitSelfSignedCA,,Charter Communications Inc,cpe-76-176-32-76.san.res.rr.com
@@ -121,12 +170,10 @@
 154.215.21.178,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 94.232.47.45,3790,MetasploitSelfSignedCA,,XHOST INTERNET SOLUTIONS LP,
 145.239.29.137,3790,MetasploitSelfSignedCA,,OVH PCI WAW,
-154.215.17.166,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.21.184,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 216.75.60.208,3790,MetasploitSelfSignedCA,,CariNet, Inc.,ubuntu2060208.aspadmin.net
 182.253.111.11,3790,MetasploitSelfSignedCA,,Kartini Teh Nasional - BATANG,
 54.175.183.78,3790,MetasploitSelfSignedCA,,Amazon Technologies Inc.,ec2-54-175-183-78.compute-1.amazonaws.com
-31.42.186.100,3790,MetasploitSelfSignedCA,,Virtual Systems LLC,dedicated.vsys.host
 66.85.178.214,3790,MetasploitSelfSignedCA,,SECURED SERVERS LLC,fsd34wf.monstergulf.com
 192.3.161.235,3790,MetasploitSelfSignedCA,,ColoCrossing,192-3-161-235-host.colocrossing.com
 154.215.21.183,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
@@ -149,64 +196,17 @@
 104.225.235.176,3790,MetasploitSelfSignedCA,,IT7 Networks Inc,104.225.235.176.16clouds.com
 146.190.161.181,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 45.63.99.50,3790,MetasploitSelfSignedCA,,Vultr Holdings, LLC,45.63.99.50.vultrusercontent.com
-52.90.107.253,3790,MetasploitSelfSignedCA,,Amazon Technologies Inc.,ec2-52-90-107-253.compute-1.amazonaws.com
-154.215.21.164,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.16.169,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-163.172.65.151,3790,MetasploitSelfSignedCA,,Scaleway Dedibox - Paris, France,163-172-65-151.rev.poneytelecom.eu
-154.215.22.162,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-74.207.237.31,3790,MetasploitSelfSignedCA,,Linode,74-207-237-31.ip.linodeusercontent.com
-107.182.188.30,3790,MetasploitSelfSignedCA,,IT7 Networks Inc,quick-fiber-1.localdomain
-212.129.43.47,3790,MetasploitSelfSignedCA,,Scaleway Dedibox IPFO,www.in-over.com
-154.215.17.178,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.20.175,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-58.213.63.26,3790,MetasploitSelfSignedCA,,CHINANET jiangsu province network,
-154.215.17.164,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-217.12.220.18,3790,MetasploitSelfSignedCA,,Green Floid LLC,79825-49010.hyperdomen.com
-154.215.19.176,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-89.117.53.241,3790,MetasploitSelfSignedCA,,IPXO,vmi1128432.contaboserver.net
-8.130.96.100,3790,MetasploitSelfSignedCA,,Aliyun Computing Co.LTD,
-172.247.11.243,3790,MetasploitSelfSignedCA,,CloudRadium L.L.C,
-95.179.151.134,3790,MetasploitSelfSignedCA,,JW Lucasweg 35,95.179.151.134.vultrusercontent.com
-154.215.17.184,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.16.189,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-140.82.34.250,3790,MetasploitSelfSignedCA,,Vultr Holdings, LLC,140.82.34.250.vultrusercontent.com
-143.244.138.165,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
-47.100.107.192,3790,MetasploitSelfSignedCA,,Aliyun Computing Co., LTD,
-213.226.123.112,3790,MetasploitSelfSignedCA,,IT Resheniya LLC,
-198.199.76.168,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
-154.215.20.180,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.19.173,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-159.223.10.199,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
-175.24.199.8,3790,MetasploitSelfSignedCA,,Tencent cloud computing (Beijing) Co., Ltd.,
-91.219.237.47,3790,MetasploitSelfSignedCA,,ServerAstra Kft.,no-hostname.serverastra.com
-5.101.5.196,3790,MetasploitSelfSignedCA,,s80.spb-dc's objects,
-154.215.22.187,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-5.196.213.205,3790,MetasploitSelfSignedCA,,OVH SAS,maigrot.fr
-51.254.147.165,3790,MetasploitSelfSignedCA,,OVH SAS,ip165.ip-51-254-147.eu
-154.215.17.165,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-87.229.94.231,3790,MetasploitSelfSignedCA,,Varga Zsolt Robert EV,server.eszterhazy.hu
-154.26.133.222,3790,MetasploitSelfSignedCA,,Cogent Communications,vmi1353664.contaboserver.net
-173.249.4.165,4444,MetasploitSelfSignedCA,,Contabo GmbH,vmi269145.contaboserver.net
-45.32.156.66,3790,MetasploitSelfSignedCA,,Vultr Holdings, LLC,45.32.156.66.vultrusercontent.com
-43.138.196.191,3790,MetasploitSelfSignedCA,,Tencent Cloud Computing (Beijing) Co., Ltd,
-101.43.186.153,3790,MetasploitSelfSignedCA,,Tencent Cloud Computing (Beijing) Co., Ltd,
-179.43.155.131,3790,MetasploitSelfSignedCA,nginx,PRIVATE LAYER INC,hostedby.privatelayer.com
-185.223.235.19,3790,MetasploitSelfSignedCA,,Hydra Communications Ltd,19.235.223.185.baremetal.zare.com
-154.215.23.167,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-193.29.62.214,3790,MetasploitSelfSignedCA,,HostHatch LLC,
-146.185.166.202,3790,MetasploitSelfSignedCA,,Digital Ocean, Inc.,
-161.35.177.190,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 52.196.50.60,80,,AWS ELB,Amazon Data Services Japan,ec2-52-196-50-60.ap-northeast-1.compute.amazonaws.com
 37.119.57.195,9002,R3,,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
 18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
 54.249.200.119,80,,Brute Ratel C4,Amazon.com, Inc.,ec2-54-249-200-119.ap-northeast-1.compute.amazonaws.com
 149.28.251.203,80,,,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
+104.248.88.172,7443,,,DigitalOcean, LLC,
 159.223.7.193,7443,,,DigitalOcean, LLC,falkor.linaccess.za.net
 193.41.237.173,7443,,,dataforest GmbH,v56119.php-friends.de
 3.80.39.181,7443,,,Amazon Data Services NoVa,ec2-3-80-39-181.compute-1.amazonaws.com
 172.105.254.138,7443,,,Linode,li2169-138.members.linode.com
 185.187.169.34,7443,,Mythic,Contabo GmbH,vmi1205332.contaboserver.net
-94.102.49.176,7443,,,FiberXpress BV,no-reverse-dns-configured.com
 185.245.182.209,7443,,,Contabo GmbH,vmi1247833.contaboserver.net
 139.84.192.189,7443,,Mythic,Vultr Holdings, LLC,139.84.192.189.vultrusercontent.com
 54.197.245.200,7443,,,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
@@ -215,11 +215,10 @@
 192.3.255.153,7443,,,My Server Planet Ltd,192-3-255-153-host.colocrossing.com
 164.92.88.164,7443,,Mythic,DigitalOcean, LLC,
 88.208.100.189,7443,,nginx,Accenture Services, s.r.o.,
-20.151.239.27,7443,,Mythic,Microsoft Corporation,
+20.151.239.27,7443,,,Microsoft Corporation,
 23.239.29.223,7443,,Mythic,Linode,
 3.128.135.199,7443,,,Amazon Technologies Inc.,ec2-3-128-135-199.us-east-2.compute.amazonaws.com
 107.174.68.34,7443,,Mythic,Virtual Machine Solutions LLC,107-174-68-34-host.colocrossing.com
-159.223.234.22,7443,,,DigitalOcean, LLC,
 142.93.166.252,7443,,Mythic,DigitalOcean, LLC,
 109.248.6.210,7443,,Mythic,Delta Ltd,free.datacheap.ru
 34.215.75.141,7443,,,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
@@ -227,6 +226,8 @@
 143.110.217.151,7443,,Mythic,DigitalOcean, LLC,
 164.92.240.184,7443,,Mythic,DigitalOcean, LLC,
 111.90.150.101,7443,,Mythic,Shinjiru Technology Sdn Bhd,server1.kamon.la
+34.140.146.194,443,,Google LLC,194.146.140.34.bc.googleusercontent.com
+34.125.1.141,7443,,Google LLC,141.1.125.34.bc.googleusercontent.com
 5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
 150.136.90.238,7443,,Oracle Public Cloud,
 109.123.251.235,7443,,Contabo GmbH,vmi1228002.contaboserver.net
@@ -239,9 +240,7 @@
 109.123.231.70,7443,,Contabo GmbH,vmi1020227.contaboserver.net
 167.233.4.178,7443,Covenant,Hetzner Online GmbH,hallinta.suomivita.fi
 195.15.240.22,7443,Covenant,Infomaniak Network SA,195-15-240-22.dc3-a.pub1.etik-cloud.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-51.89.185.29,7443,Covenant,OVH Ltd,ip29.ip-51-89-185.eu
 5.101.4.196,8443,Deimos C2,s80.spb-dc's objects,hvilica.ru.4.101.5.in-addr.arpa
 5.101.5.196,8443,,s80.spb-dc's objects,
 62.182.159.147,443,,Selectel Network,
