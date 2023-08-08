@@ -1,6 +1,3 @@
-103.133.215.41,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Ewebguru,
-80.67.214.142,Windows 7 Ultimate,3389,Remote Desktop Protocol,Norilsk-Telecom JSC Network,
 190.106.220.65,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Servicios Innovadores de Comunicación y Entretenimiento, S.A.,
-98.142.244.236,Windows (build 10.0.19041),3389,Remote Desktop Protocol,IPXO LLC,
+103.133.215.41,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Ewebguru,
 2.42.193.122,Windows Server 2012,3389,Remote Desktop Protocol,Vodafone Italia S.p.A.,net-2-42-193-122.cust.vodafonedsl.it
-165.154.184.215,Windows (build 10.0.14393),3389,Remote Desktop Protocol,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
