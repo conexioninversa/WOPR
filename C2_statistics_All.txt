@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     6
 - Proxy   0
 - Hosting 192
 - Tor     0
@@ -52,10 +52,9 @@ Top Regions
 - Virginia, US            10 (4.0%)
 
 Top Privacy Services
-- VPNSecure  1 (0.4%)
-- TunnelBear 1 (0.4%)
-- ProtonVPN  1 (0.4%)
-- World VPN  1 (0.4%)
+- ProtonVPN 1 (0.4%)
+- World VPN 1 (0.4%)
+- SwitchVPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.2%)
