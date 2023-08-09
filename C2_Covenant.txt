@@ -1,3 +1,4 @@
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 34.140.146.194,443,,Google LLC,194.146.140.34.bc.googleusercontent.com
 34.125.1.141,7443,,Google LLC,141.1.125.34.bc.googleusercontent.com
 5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
@@ -12,4 +13,3 @@
 109.123.231.70,7443,,Contabo GmbH,vmi1020227.contaboserver.net
 167.233.4.178,7443,Covenant,Hetzner Online GmbH,hallinta.suomivita.fi
 195.15.240.22,7443,Covenant,Infomaniak Network SA,195-15-240-22.dc3-a.pub1.etik-cloud.com
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
