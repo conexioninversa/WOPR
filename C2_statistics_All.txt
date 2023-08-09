@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 34 (13.5%)
+- 5.196.0.0/16 (AS16276)     4 (1.6%)
 - 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 175.178.0.0/16 (AS45090)   4 (1.6%)
 - 119.45.0.0/16 (AS45090)    4 (1.6%)
-- 5.196.0.0/16 (AS16276)     4 (1.6%)
 
 Top Countries
 - China         67 (26.6%)
@@ -52,9 +52,9 @@ Top Regions
 - Virginia, US            10 (4.0%)
 
 Top Privacy Services
-- SwitchVPN 1 (0.4%)
 - ProtonVPN 1 (0.4%)
 - World VPN 1 (0.4%)
+- SwitchVPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    8 (3.2%)
