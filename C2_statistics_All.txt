@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     7
 - Proxy   0
-- Hosting 192
+- Hosting 191
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (5.3%)
 
 Top Usage Types
-- Hosting   192 (73.0%)
-- Business  57 (21.7%)
+- Hosting   191 (72.6%)
+- Business  58 (22.1%)
 - ISP       12 (4.6%)
 - Education 1 (0.4%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 41 (15.6%)
+- 81.68.0.0/14 (AS45090)     4 (1.5%)
 - 3.64.0.0/12 (AS16509)      4 (1.5%)
 - 119.45.0.0/16 (AS45090)    4 (1.5%)
 - 124.220.0.0/14 (AS45090)   4 (1.5%)
-- 81.68.0.0/14 (AS45090)     4 (1.5%)
 
 Top Countries
 - China         59 (22.4%)
@@ -48,16 +48,16 @@ Top Regions
 - Central and Western, HK 48 (18.3%)
 - Shanghai, CN            16 (6.1%)
 - Beijing, CN             14 (5.3%)
-- Virginia, US            12 (4.6%)
 - Guangdong, CN           12 (4.6%)
+- Virginia, US            12 (4.6%)
 
 Top Privacy Services
 - ProtonVPN 2 (0.8%)
 - BulletVPN 1 (0.4%)
-- Celo      1 (0.4%)
+- SlickVPN  1 (0.4%)
 
 Top Domains
-- null                 8 (3.0%)
 - contaboserver.net    8 (3.0%)
 - vultrusercontent.com 8 (3.0%)
+- null                 8 (3.0%)
 - colocrossing.com     7 (2.7%)
