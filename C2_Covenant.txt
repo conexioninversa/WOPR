@@ -1,12 +1,12 @@
 34.140.146.194,443,,Google LLC,194.146.140.34.bc.googleusercontent.com
 45.63.127.77,7443,,Vultr Holdings, LLC,45.63.127.77.vultrusercontent.com
-150.136.90.238,7443,,Oracle Public Cloud,
-167.99.206.136,7443,,DigitalOcean, LLC,
-35.180.21.188,7443,,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
-44.198.64.113,7443,,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
 109.123.251.235,7443,,Contabo GmbH,vmi1228002.contaboserver.net
+150.136.90.238,7443,,Oracle Public Cloud,
 152.67.26.76,7443,,Oracle Public Cloud,
+44.198.64.113,7443,,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+167.99.206.136,7443,,DigitalOcean, LLC,
+5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
+35.180.21.188,7443,,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
 3.67.204.148,7443,,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 34.125.1.141,7443,,Google LLC,141.1.125.34.bc.googleusercontent.com
 141.147.78.236,7443,,Oracle Corporation,
