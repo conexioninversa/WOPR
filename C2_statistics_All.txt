@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (14.3%)
-- 179.43.128.0/18 (AS51852)  4 (1.5%)
 - 119.45.0.0/16 (AS45090)    4 (1.5%)
 - 124.220.0.0/14 (AS45090)   4 (1.5%)
 - 81.68.0.0/14 (AS45090)     4 (1.5%)
+- 179.43.128.0/18 (AS51852)  4 (1.5%)
 
 Top Countries
 - China         59 (22.2%)
@@ -48,8 +48,8 @@ Top Regions
 - Central and Western, HK 47 (17.7%)
 - Shanghai, CN            17 (6.4%)
 - Beijing, CN             14 (5.3%)
-- Hesse, DE               12 (4.5%)
 - North Holland, NL       12 (4.5%)
+- Hesse, DE               12 (4.5%)
 
 Top Privacy Services
 - ProtonVPN 2 (0.8%)
