@@ -1,8 +1,9 @@
+82.156.148.34,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+23.224.61.90,6666,,Cobalt Strike Beacon,CloudRadium L.L.C,
 91.103.253.45,80,,Cobalt Strike Beacon,Shelter LLC,
 47.94.120.34,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 140.143.150.169,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 60.204.156.77,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-60-204-156-77.compute.hwclouds-dns.com
-148.66.6.29,443,,Cobalt Strike Beacon,SIMCENTRIC-HK NETBLOCK,jscriptstore.com
 49.232.2.50,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 81.68.232.146,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 120.26.74.112,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
@@ -21,7 +22,7 @@
 8.129.237.254,80,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 198.46.226.97,443,,Cobalt Strike Beacon,ColoCrossing,198-46-226-97-host.colocrossing.com
 151.236.9.117,10443,Microsoft IT TLS CA 5,Cobalt Strike Beacon,EDIS Infrastructure in Austria,117.9.236.151.in-addr.arpa
-81.68.106.68,8888,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+81.68.106.68,8888,,,Tencent Cloud Computing (Beijing) Co., Ltd,
 43.153.173.61,80,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 47.108.142.27,443,Major Cobalt Strike,Apache httpd,Aliyun Computing Co., LTD,
 81.68.248.129,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
@@ -75,7 +76,6 @@
 120.76.173.159,8092,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 179.43.155.235,443,Managed CA 48b6524028e4d839a839346f13f070eb,Cobalt Strike Beacon,PRIVATE LAYER INC,hostedby.privatelayer.com
 111.229.10.49,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-119.148.49.49,443,,Cobalt Strike Beacon,Agni Systems Limited,,
 194.50.153.13,80,,Cobalt Strike Beacon,BenderPremium,
 154.12.35.176,444,,Cobalt Strike Beacon,NetLab Global,zork.cc
 134.122.190.146,443,R3,Cobalt Strike Beacon,BGP Network Limited Co.,Ltd,flash-cn.top
