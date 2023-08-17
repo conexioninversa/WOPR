@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 212
+- Hosting 210
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (5.2%)
 
 Top Usage Types
-- Hosting   208 (76.8%)
-- Business  49 (18.1%)
+- Hosting   207 (76.4%)
+- Business  50 (18.5%)
 - ISP       10 (3.7%)
 - Education 2 (0.7%)
 
@@ -38,14 +38,14 @@ Top Countries
 - France        10 (3.7%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 45 (16.6%)
+- Hong Kong, Central and Western, HK 46 (17.0%)
 - Shanghai, Shanghai, CN             19 (7.0%)
 - Beijing, Beijing, CN               15 (5.5%)
 - Shenzhen, Guangdong, CN            10 (3.7%)
 - Frankfurt am Main, Hesse, DE       9 (3.3%)
 
 Top Regions
-- Central and Western, HK 45 (16.6%)
+- Central and Western, HK 46 (17.0%)
 - Shanghai, CN            19 (7.0%)
 - Beijing, CN             16 (5.9%)
 - California, US          15 (5.5%)
