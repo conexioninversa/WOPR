@@ -5,4 +5,5 @@
 103.53.44.124,Windows Server 2012 R2,3389,Remote Desktop Protocol,Ebone Network (PVT.) Limited,static-124-44-53-103.ebonenet.com
 190.106.220.65,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Servicios Innovadores de Comunicación y Entretenimiento, S.A.,
 80.67.214.142,Windows 7 Ultimate,3389,Remote Desktop Protocol,Norilsk-Telecom JSC Network,
-2.42.193.122,Windows Server 2012,3389,Remote Desktop Protocol,Vodafone Italia S.p.A.,net-2-42-193-122.cust.vodafonedsl.it
+189.152.39.189,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Gestión de direccionamiento UniNet,dsl-189-152-39-189-dyn.prod-infinitum.com.mx
+79.216.147.220,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Deutsche Telekom AG,p4fd893dc.dip0.t-ipconnect.de
