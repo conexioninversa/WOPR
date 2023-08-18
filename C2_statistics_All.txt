@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     5
+- VPN     6
 - Proxy   0
-- Hosting 209
+- Hosting 211
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (5.2%)
 
 Top Usage Types
-- Hosting   208 (77.0%)
-- Business  46 (17.0%)
+- Hosting   209 (77.4%)
+- Business  45 (16.7%)
 - ISP       11 (4.1%)
 - Education 2 (0.7%)
 
@@ -52,8 +52,9 @@ Top Regions
 - California, US          12 (4.4%)
 
 Top Privacy Services
-- ProtonVPN 2 (0.7%)
-- Mullvad   1 (0.4%)
+- ProtonVPN  2 (0.7%)
+- TunnelBear 1 (0.4%)
+- Mullvad    1 (0.4%)
 
 Top Domains
 - colocrossing.com     9 (3.3%)
