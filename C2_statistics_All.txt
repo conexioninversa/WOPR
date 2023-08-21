@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 208
+- Hosting 206
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             12 (4.4%)
 
 Top Usage Types
-- Hosting  207 (76.7%)
-- Business 51 (18.9%)
-- ISP      10 (3.7%)
+- Hosting  205 (75.9%)
+- Business 52 (19.3%)
+- ISP      11 (4.1%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (14.1%)
@@ -51,10 +51,9 @@ Top Regions
 - Hesse, DE               10 (3.7%)
 
 Top Privacy Services
-- World VPN  1 (0.4%)
-- Celo       1 (0.4%)
-- ProtonVPN  1 (0.4%)
-- TunnelBear 1 (0.4%)
+- World VPN 1 (0.4%)
+- Le-VPN    1 (0.4%)
+- ProtonVPN 1 (0.4%)
 
 Top Domains
 - colocrossing.com     11 (4.1%)
