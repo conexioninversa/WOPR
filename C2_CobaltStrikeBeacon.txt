@@ -1,19 +1,18 @@
-51.79.207.53,9191,,Cobalt Strike Beacon,OVH Singapore PTE. LTD,vps-e8621d8c.vps.ovh.ca
+163.197.211.102,443,,Cobalt Strike Beacon,Anglo American,
+124.220.65.91,9999,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+103.14.101.11,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
+119.23.233.237,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+23.254.224.214,37,,,Hostwinds Seattle,hwsrv-1090415.hostwindsdns.com
+114.115.178.231,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-114-115-178-231.compute.hwclouds-dns.com
 42.192.86.94,8888,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 147.182.226.218,443,microsoft.com,Cobalt Strike Beacon,DigitalOcean, LLC,
 43.133.35.66,80,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
-43.248.136.117,8443,,Cobalt Strike Beacon,Jiangsu Dongyun Cloud computing co., LTD,
 43.142.241.70,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-47.98.173.89,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 34.92.206.127,8443,,Cobalt Strike Beacon,Google LLC,127.206.92.34.bc.googleusercontent.com
 101.43.136.152,8888,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 121.37.191.139,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-37-191-139.compute.hwclouds-dns.com
 104.168.59.8,8080,,Cobalt Strike Beacon,ColoCrossing,104-168-59-8-host.colocrossing.com
-123.60.74.61,8009,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-123-60-74-61.compute.hwclouds-dns.com
-107.174.95.78,9999,,Cobalt Strike Beacon,ColoCrossing,107-174-95-78-host.colocrossing.com
-101.32.186.170,443,,Cobalt Strike Beacon,ACEVILLE PTE.LTD.,
-163.197.211.102,443,,Cobalt Strike Beacon,Anglo American,
-154.83.17.116,443,,Cobalt Strike Beacon,YISU,
+101.32.186.170,443,,,ACEVILLE PTE.LTD.,
 150.158.212.71,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 81.68.248.129,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 104.168.48.208,443,R3,Cobalt Strike Beacon,ColoCrossing,104-168-48-208-host.colocrossing.com;onlinetechdesk.com
@@ -22,17 +21,14 @@
 101.32.72.240,443,publisher.net,Cobalt Strike Beacon,ACEVILLE PTE.LTD.,
 23.224.61.90,6666,,Cobalt Strike Beacon,CloudRadium L.L.C,
 91.103.253.45,80,,Cobalt Strike Beacon,Shelter LLC,
-47.94.120.34,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 140.143.150.169,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 60.204.156.77,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-60-204-156-77.compute.hwclouds-dns.com
 62.234.43.243,8099,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 43.133.75.73,81,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 45.85.77.189,8080,,Cobalt Strike Beacon,Tiger Network Limited,
 91.103.253.45,443,R3,Cobalt Strike Beacon,Shelter LLC,eapdns.com
-120.53.86.130,8443,companies.org,Cobalt Strike Beacon,Beijing Voda Telecom Technology Co. Ltd.,
 81.68.248.129,80,,,Tencent Cloud Computing (Beijing) Co., Ltd,
 124.223.63.236,443,*.netsarang.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-43.138.121.2,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 8.129.237.254,80,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 198.46.226.97,443,,Cobalt Strike Beacon,ColoCrossing,198-46-226-97-host.colocrossing.com
 151.236.9.117,10443,Microsoft IT TLS CA 5,Cobalt Strike Beacon,EDIS Infrastructure in Austria,117.9.236.151.in-addr.arpa
@@ -97,3 +93,7 @@
 120.72.117.131,80,,Cobalt Strike Beacon,Quang Trung Software City Development Company,
 103.13.28.16,9999,,Cobalt Strike Beacon,ReadyIDC CO.,LTD.,
 154.40.54.240,8013,,Cobalt Strike Beacon,NetLab Global,
+47.120.40.107,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+124.222.147.8,8017,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+47.109.25.241,6666,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+23.224.196.208,6000,,Cobalt Strike Beacon,CloudRadium L.L.C,
