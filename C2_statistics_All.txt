@@ -4,7 +4,7 @@ Summary
 - Anycast 2
 - Bogon   0
 - Mobile  0
-- VPN     6
+- VPN     8
 - Proxy   1
 - Hosting 212
 - Tor     0
@@ -52,6 +52,7 @@ Top Regions
 - Hesse, DE               13 (4.8%)
 
 Top Privacy Services
+- TunnelBear    2 (0.7%)
 - VPN Unlimited 1 (0.4%)
 - ProtonVPN     1 (0.4%)
 
