@@ -1,4 +1,7 @@
-218.161.48.6,8443,,Cobalt Strike Beacon,Chunghwa Telecom Co.,Ltd.,218-161-48-6.hinet-ip.hinet.net;ji31j6ul4283183.com
+103.234.54.128,80,,Cobalt Strike Beacon,45 Des Voeux Road, Central,
+103.133.176.247,443,Microsoft Windows,Cobalt Strike Beacon,TGT IAC, 22 Chun Cheong Street, Tseung Kwan O Industrial Estate, New Territories,
+148.66.6.27,443,,Cobalt Strike Beacon,SIMCENTRIC-HK NETBLOCK,jscriptstore.com
+43.134.114.253,443,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 103.14.101.11,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
 34.92.206.127,8443,,Cobalt Strike Beacon,Google LLC,127.206.92.34.bc.googleusercontent.com
 23.224.61.90,6666,,Cobalt Strike Beacon,CloudRadium L.L.C,
@@ -84,16 +87,4 @@
 182.92.202.43,84,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 206.189.107.207,80,,Cobalt Strike Beacon,DigitalOcean, LLC,
 116.196.69.39,7000,,Cobalt Strike Beacon,Beijing Jingdong 360 Degree E-commerce Co., Ltd.,
-117.50.174.131,7777,,Cobalt Strike Beacon,Shanghai UCloud Information Technology Company Limited,
-64.227.71.13,8180,,Cobalt Strike Beacon,DigitalOcean, LLC,
 49.232.253.148,443,www.windowsupdate.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-45.91.81.100,9091,,Cobalt Strike Beacon,RHINO CLOUD LTD,
-101.34.214.82,81,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-101.43.127.45,8080,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-45.81.235.69,3333,,Cobalt Strike Beacon,Sascha Gericke trading as Gericke KG,45.81.235.69.mc-host24.de
-106.14.181.215,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-119.96.233.154,8088,,Cobalt Strike Beacon,CHINANET Hubei province network,
-172.245.27.233,443,,Cobalt Strike Beacon,VPS ACE,172-245-27-233-host.colocrossing.com
-101.34.30.200,8087,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-143.92.36.48,443,R3,Cobalt Strike Beacon,CTG Server Ltd.,flash-cn.top
-161.35.155.87,80,,Cobalt Strike Beacon,DigitalOcean, LLC,
