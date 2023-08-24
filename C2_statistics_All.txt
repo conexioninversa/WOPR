@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     7
+- VPN     5
 - Proxy   0
 - Hosting 204
 - Tor     0
@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 31 (11.7%)
 - 3.64.0.0/12 (AS16509)      4 (1.5%)
+- 134.122.190.0/24 (AS64050) 3 (1.1%)
 - 119.45.0.0/16 (AS45090)    3 (1.1%)
 - 124.220.0.0/14 (AS45090)   3 (1.1%)
-- 134.122.190.0/24 (AS64050) 3 (1.1%)
 
 Top Countries
 - United States 50 (18.9%)
@@ -51,9 +51,8 @@ Top Regions
 - Beijing, CN             12 (4.5%)
 
 Top Privacy Services
-- TunnelBear 2 (0.8%)
-- Mullvad    1 (0.4%)
-- ProtonVPN  1 (0.4%)
+- Mullvad   1 (0.4%)
+- ProtonVPN 1 (0.4%)
 
 Top Domains
 - contaboserver.net    11 (4.2%)
