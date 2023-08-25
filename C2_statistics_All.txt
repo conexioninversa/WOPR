@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (15.1%)
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 25 (10.0%)
 - AS14061 DigitalOcean, LLC                                 25 (10.0%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 25 (10.0%)
 - AS16509 Amazon.com, Inc.                                  12 (4.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             10 (4.0%)
 
@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (15.1%)
-- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 3.64.0.0/12 (AS16509)      4 (1.6%)
+- 124.220.0.0/14 (AS45090)   4 (1.6%)
 - 119.45.0.0/16 (AS45090)    3 (1.2%)
 - 1.12.0.0/14 (AS45090)      3 (1.2%)
 
@@ -52,10 +52,10 @@ Top Regions
 - Beijing, CN             11 (4.4%)
 
 Top Privacy Services
+- TunnelBear 1 (0.4%)
 - Mullvad    1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - ProtonVPN  1 (0.4%)
-- TunnelBear 1 (0.4%)
 
 Top Domains
 - contaboserver.net    10 (4.0%)
