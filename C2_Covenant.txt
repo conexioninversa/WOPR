@@ -1,16 +1,16 @@
-152.67.26.76,7443,,Oracle Public Cloud,
-109.123.231.70,7443,,Contabo GmbH,vmi1020227.contaboserver.net
-165.154.167.51,7443,,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
-109.123.251.235,7443,,Contabo GmbH,vmi1228002.contaboserver.net
+34.140.146.194,443,,Google LLC,194.146.140.34.bc.googleusercontent.com
 88.119.170.197,7443,,Informacines sistemos ir technologijos, UAB,14747-38286.bacloud.info
-35.180.21.188,7443,,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
-3.67.204.148,7443,,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
+152.67.26.76,7443,,Oracle Public Cloud,
+109.123.251.235,7443,,Contabo GmbH,vmi1228002.contaboserver.net
 167.99.206.136,7443,,DigitalOcean, LLC,
+130.61.124.23,7443,,Oracle Public Cloud,
 44.198.64.113,7443,,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
 150.136.90.238,7443,,Oracle Public Cloud,
-34.140.146.194,443,,Google LLC,194.146.140.34.bc.googleusercontent.com
+5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
+3.67.204.148,7443,,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+35.180.21.188,7443,,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
+109.123.231.70,7443,,Contabo GmbH,vmi1020227.contaboserver.net
+165.154.167.51,7443,,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 45.63.127.77,7443,,Vultr Holdings, LLC,45.63.127.77.vultrusercontent.com
 34.125.1.141,7443,,Google LLC,141.1.125.34.bc.googleusercontent.com
 141.147.78.236,7443,,Oracle Corporation,
-192.46.225.126,7443,Covenant,Linode, LLC,192-46-225-126.ip.linodeusercontent.com
