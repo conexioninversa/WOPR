@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     4
 - Proxy   0
-- Hosting 168
+- Hosting 171
 - Tor     0
 - Relay   0
 
@@ -18,10 +18,11 @@ Top ASNs
 - AS16276 OVH SAS                                           12 (5.1%)
 
 Top Usage Types
-- Hosting   165 (70.2%)
-- Business  54 (23.0%)
-- ISP       11 (4.7%)
+- Hosting   167 (71.1%)
+- Business  52 (22.1%)
+- ISP       10 (4.3%)
 - Education 1 (0.4%)
+- Unknown   1 (0.4%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 42 (17.9%)
@@ -46,13 +47,13 @@ Top Cities
 
 Top Regions
 - Central and Western, HK 53 (22.6%)
-- Hesse, DE               13 (5.5%)
 - North Holland, NL       13 (5.5%)
-- Hauts-de-France, FR     9 (3.8%)
+- Hesse, DE               13 (5.5%)
 - Guangdong, CN           9 (3.8%)
+- Hauts-de-France, FR     9 (3.8%)
 
 Top Privacy Services
-- TunnelBear 1 (0.4%)
+- holaproxy 1 (0.4%)
 
 Top Domains
 - contaboserver.net    10 (4.3%)
