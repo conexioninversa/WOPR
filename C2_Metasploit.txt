@@ -3,7 +3,7 @@
 154.215.21.187,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 137.184.111.53,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 74.207.237.31,3790,MetasploitSelfSignedCA,,Linode,74-207-237-31.ip.linodeusercontent.com
-154.215.22.172,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.22.172,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 206.189.113.118,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 154.215.23.167,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 54.175.183.78,3790,MetasploitSelfSignedCA,,Amazon Technologies Inc.,ec2-54-175-183-78.compute-1.amazonaws.com
@@ -12,7 +12,7 @@
 185.213.27.106,3790,MetasploitSelfSignedCA,,Contabo GmbH,ubuntu18.rapid7.cloud
 128.199.36.184,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 154.215.23.187,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.21.181,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.21.181,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 5.196.213.206,3790,MetasploitSelfSignedCA,,OVH SAS,maloyatlantictour.fr
 154.215.21.176,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 116.204.211.193,443,MetasploitSelfSignedCA,,,
@@ -92,7 +92,7 @@
 154.215.20.169,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.20.175,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.16.164,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.22.162,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.22.162,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.22.168,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 212.92.23.152,3790,MetasploitSelfSignedCA,,Deninet serverhosting,,mail.cybermagic.hu
 37.187.20.127,3790,MetasploitSelfSignedCA,,OVH SAS,ns373538.ip-37-187-20.eu

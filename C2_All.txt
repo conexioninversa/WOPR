@@ -1,12 +1,12 @@
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
 176.113.115.145,443,,,Cat Technologies Co. Limited,
 3.143.51.7,80,,Cobalt Strike Beacon,Amazon Technologies Inc.,ec2-3-143-51-7.us-east-2.compute.amazonaws.com
-120.79.64.164,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+120.79.64.164,443,,,Aliyun Computing Co., LTD,
 49.233.56.4,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 103.14.101.11,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
 34.92.206.127,8443,,Cobalt Strike Beacon,Google LLC,127.206.92.34.bc.googleusercontent.com
 23.224.61.90,6666,,Cobalt Strike Beacon,CloudRadium L.L.C,
-91.103.253.45,80,,,GTELCOM LLC,
+91.103.253.45,80,,Cobalt Strike Beacon,Shelter LLC,
 43.133.75.73,81,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 45.85.77.189,8080,,Cobalt Strike Beacon,Tiger Network Limited,
 91.103.253.45,443,R3,Cobalt Strike Beacon,Shelter LLC,eapdns.com
@@ -29,22 +29,12 @@
 162.14.81.81,9999,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 121.36.18.243,5432,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-36-18-243.compute.hwclouds-dns.com
 175.178.213.59,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-49.4.24.255,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-49-4-24-255.compute.hwclouds-dns.com
-175.27.240.50,443,gmail.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-109.206.245.161,7070,,Cobalt Strike Beacon,Sakura network limited,
-23.146.242.81,80,,Cobalt Strike Beacon,,
-103.146.179.84,8099,,Cobalt Strike Beacon,HONGKONG NEWS COMMENTARY AGENCY CO. ,LIMITED,
-43.154.27.211,8088,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
-119.45.142.192,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-101.35.123.193,8088,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-47.99.45.68,443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-134.122.190.146,80,,,BGP Network Limited Co.,Ltd,
 183.63.115.120,3790,MetasploitSelfSignedCA,,CHINANET Guangdong province network,
 123.60.89.217,3790,MetasploitSelfSignedCA,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-123-60-89-217.compute.hwclouds-dns.com
 154.215.21.187,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 137.184.111.53,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 74.207.237.31,3790,MetasploitSelfSignedCA,,Linode,74-207-237-31.ip.linodeusercontent.com
-154.215.22.172,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.22.172,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 206.189.113.118,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 154.215.23.167,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 54.175.183.78,3790,MetasploitSelfSignedCA,,Amazon Technologies Inc.,ec2-54-175-183-78.compute-1.amazonaws.com
@@ -53,7 +43,7 @@
 185.213.27.106,3790,MetasploitSelfSignedCA,,Contabo GmbH,ubuntu18.rapid7.cloud
 128.199.36.184,3790,MetasploitSelfSignedCA,,DigitalOcean, LLC,
 154.215.23.187,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.21.181,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.21.181,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 5.196.213.206,3790,MetasploitSelfSignedCA,,OVH SAS,maloyatlantictour.fr
 154.215.21.176,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 116.204.211.193,443,MetasploitSelfSignedCA,,,
@@ -133,7 +123,7 @@
 154.215.20.169,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.20.175,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.16.164,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
-154.215.22.162,3790,MetasploitSelfSignedCA,,HWA CENT TELECOMMUNICATIONS LIMITED,
+154.215.22.162,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 154.215.22.168,3790,MetasploitSelfSignedCA,,HK Qianlong Technology Co., Limited,
 212.92.23.152,3790,MetasploitSelfSignedCA,,Deninet serverhosting,,mail.cybermagic.hu
 37.187.20.127,3790,MetasploitSelfSignedCA,,OVH SAS,ns373538.ip-37-187-20.eu
@@ -175,7 +165,7 @@
 45.133.238.221,7443,,,RHINO CLOUD LTD,
 104.248.88.172,7443,,,DigitalOcean, LLC,
 159.223.234.22,7443,,,DigitalOcean, LLC,
-179.43.170.197,7443,,,PRIVATE LAYER INC,hostedby.privatelayer.com
+179.43.170.197,7443,,,PRIVATE LAYER INC,hostedby.privatealps.net
 143.110.176.131,7443,,,DigitalOcean, LLC,
 20.151.239.27,7443,,,Microsoft Corporation,
 34.215.75.141,7443,,,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
@@ -193,7 +183,6 @@
 167.99.194.103,7443,,,DigitalOcean, LLC,
 95.214.27.241,7443,,,Fuse Hosting Web,
 20.163.220.14,7443,,,Microsoft Corporation,
-164.92.88.164,7443,,Mythic,DigitalOcean, LLC,
 109.123.251.235,7443,,Contabo GmbH,vmi1228002.contaboserver.net
 5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
 3.67.204.148,7443,,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
@@ -209,7 +198,6 @@
 165.154.167.51,7443,,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 45.63.127.77,7443,,Vultr Holdings, LLC,45.63.127.77.vultrusercontent.com
 34.125.1.141,7443,,Google LLC,141.1.125.34.bc.googleusercontent.com
-141.147.78.236,7443,,Oracle Corporation,
 62.182.159.147,443,,Selectel Network,
 3.78.75.167,443,,A100 ROW GmbH,ec2-3-78-75-167.eu-central-1.compute.amazonaws.com
 186.81.132.202,80,Apache httpd,Telmex Colombia S.A.,static-ip-18681132202.cable.net.co
