@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 42 (20.7%)
 - 5.196.0.0/16 (AS16276)     6 (3.0%)
 - 3.64.0.0/12 (AS16509)      3 (1.5%)
-- 124.220.0.0/14 (AS45090)   2 (1.0%)
 - 91.103.253.0/24 (AS198556) 2 (1.0%)
+- 124.220.0.0/14 (AS45090)   2 (1.0%)
 
 Top Countries
 - Hong Kong     51 (25.1%)
@@ -56,6 +56,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    10 (4.9%)
-- vultrusercontent.com 5 (2.5%)
 - null                 5 (2.5%)
 - colocrossing.com     5 (2.5%)
+- vultrusercontent.com 5 (2.5%)
