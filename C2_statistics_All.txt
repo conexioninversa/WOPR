@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     4
 - Proxy   0
-- Hosting 147
+- Hosting 146
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 10 (4.9%)
 
 Top Usage Types
-- Hosting   144 (70.6%)
+- Hosting   143 (70.1%)
 - Business  45 (22.1%)
-- ISP       11 (5.4%)
+- ISP       12 (5.9%)
 - Education 2 (1.0%)
 
 Top Routes
@@ -48,12 +48,12 @@ Top Regions
 - Central and Western, HK 43 (21.1%)
 - Hesse, DE               15 (7.4%)
 - North Holland, NL       10 (4.9%)
-- Shanghai, CN            7 (3.4%)
 - Virginia, US            7 (3.4%)
+- Shanghai, CN            7 (3.4%)
 
 Top Privacy Services
-- Mullvad   1 (0.5%)
 - holaproxy 1 (0.5%)
+- Mullvad   1 (0.5%)
 
 Top Domains
 - contaboserver.net    10 (4.9%)
