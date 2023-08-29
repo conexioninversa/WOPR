@@ -26,13 +26,13 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (17.6%)
 - 3.64.0.0/12 (AS16509)      3 (1.5%)
+- 91.103.253.0/24 (AS198556) 2 (1.0%)
 - 42.192.0.0/15 (AS45090)    2 (1.0%)
 - 124.220.0.0/14 (AS45090)   2 (1.0%)
-- 91.103.253.0/24 (AS198556) 2 (1.0%)
 
 Top Countries
 - Hong Kong     44 (21.6%)
-- United States 38 (18.6%)
+- United States 39 (19.1%)
 - Germany       26 (12.7%)
 - China         19 (9.3%)
 - Netherlands   10 (4.9%)
@@ -41,15 +41,15 @@ Top Cities
 - Hong Kong, Central and Western, HK 43 (21.1%)
 - Frankfurt am Main, Hesse, DE       15 (7.4%)
 - Amsterdam, North Holland, NL       10 (4.9%)
-- Shanghai, Shanghai, CN             7 (3.4%)
-- Moscow, Moscow, RU                 5 (2.5%)
+- Ashburn, Virginia, US              6 (2.9%)
+- Shanghai, Shanghai, CN             6 (2.9%)
 
 Top Regions
-- Central and Western, HK 43 (21.1%)
-- Hesse, DE               15 (7.4%)
-- North Holland, NL       10 (4.9%)
-- Virginia, US            7 (3.4%)
-- Shanghai, CN            7 (3.4%)
+- Central and Western, HK    43 (21.1%)
+- Hesse, DE                  15 (7.4%)
+- North Holland, NL          10 (4.9%)
+- North Rhine-Westphalia, DE 8 (3.9%)
+- Virginia, US               7 (3.4%)
 
 Top Privacy Services
 - Mullvad   1 (0.5%)
