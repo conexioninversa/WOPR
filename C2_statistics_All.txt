@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     7
+- VPN     8
 - Proxy   0
 - Hosting 153
 - Tor     0
@@ -55,8 +55,9 @@ Top Carriers
 - RighTel 1 (0.5%)
 
 Top Privacy Services
-- SlickVPN  1 (0.5%)
-- holaproxy 1 (0.5%)
+- TunnelBear 1 (0.5%)
+- VPNArea    1 (0.5%)
+- holaproxy  1 (0.5%)
 
 Top Domains
 - contaboserver.net    8 (3.8%)
