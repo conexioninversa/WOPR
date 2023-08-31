@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 36 (17.1%)
 - 5.196.0.0/16 (AS16276)     3 (1.4%)
 - 124.220.0.0/14 (AS45090)   3 (1.4%)
-- 91.103.253.0/24 (AS198556) 2 (1.0%)
 - 121.4.0.0/15 (AS45090)     2 (1.0%)
+- 91.103.253.0/24 (AS198556) 2 (1.0%)
 
 Top Countries
 - Hong Kong     44 (21.0%)
@@ -55,9 +55,9 @@ Top Carriers
 - RighTel 1 (0.5%)
 
 Top Privacy Services
-- holaproxy  1 (0.5%)
 - TunnelBear 1 (0.5%)
 - VPNArea    1 (0.5%)
+- holaproxy  1 (0.5%)
 
 Top Domains
 - contaboserver.net    8 (3.8%)
