@@ -1,10 +1,15 @@
-121.4.154.20,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+110.40.184.247,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+47.110.149.136,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+45.141.139.227,80,,Cobalt Strike Beacon,RHINO CLOUD LTD,
 110.40.157.87,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+104.129.20.44,443,R3,Cobalt Strike Beacon,QuadraNet Enterprises LLC,44-host.thebunter.com;incitewebsolution.com
+8.136.201.3,81,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
+8.217.147.50,443,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
+121.4.154.20,80,,,Tencent cloud computing (Beijing) Co., Ltd.,
+47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 173.249.201.243,443,,Cobalt Strike Beacon,tzulo, inc.,
 39.107.102.129,443,www.infoworld.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 124.220.49.74,9999,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-121.4.49.155,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
 176.113.115.145,443,,,Cat Technologies Co. Limited,
 3.143.51.7,80,,,Amazon Technologies Inc.,ec2-3-143-51-7.us-east-2.compute.amazonaws.com
@@ -23,14 +28,9 @@
 121.36.203.14,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-36-203-14.compute.hwclouds-dns.com
 50.17.149.220,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,nonalom.com;ec2-50-17-149-220.compute-1.amazonaws.com
 82.157.57.149,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-120.132.99.116,443,jquery.com,Apache httpd,CloudVsp.Inc,
 43.155.173.17,5555,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 124.222.88.246,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.158.168,80,,,Zenlayer Inc,
 121.196.200.132,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 128.199.192.131,443,051,Cobalt Strike Beacon,DigitalOcean, LLC,
 124.220.164.254,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-175.178.74.238,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-49.4.88.243,443,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-49-4-88-243.compute.hwclouds-dns.com
-3.124.182.176,443,R3,Cobalt Strike Beacon,A100 ROW GmbH,airbarsweden.com;ec2-3-124-182-176.eu-central-1.compute.amazonaws.com
-121.36.18.243,5432,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-36-18-243.compute.hwclouds-dns.com
