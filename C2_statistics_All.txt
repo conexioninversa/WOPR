@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 36 (17.1%)
 - 5.196.0.0/16 (AS16276)     3 (1.4%)
 - 124.220.0.0/14 (AS45090)   3 (1.4%)
-- 91.103.253.0/24 (AS198556) 2 (1.0%)
 - 121.4.0.0/15 (AS45090)     2 (1.0%)
+- 91.103.253.0/24 (AS198556) 2 (1.0%)
 
 Top Countries
 - Hong Kong     44 (21.0%)
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Central and Western, HK 43 (20.5%)
 - Shanghai, CN            12 (5.7%)
-- North Holland, NL       11 (5.2%)
 - Hesse, DE               11 (5.2%)
+- North Holland, NL       11 (5.2%)
 - New Jersey, US          8 (3.8%)
 
 Top Carriers
