@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 34 (15.9%)
 - 5.196.0.0/16 (AS16276)     3 (1.4%)
 - 124.220.0.0/14 (AS45090)   3 (1.4%)
-- 91.103.253.0/24 (AS198556) 2 (0.9%)
 - 110.40.128.0/17 (AS45090)  2 (0.9%)
+- 91.103.253.0/24 (AS198556) 2 (0.9%)
 
 Top Countries
 - United States 53 (24.8%)
@@ -47,15 +47,15 @@ Top Cities
 Top Regions
 - Central and Western, HK 43 (20.1%)
 - New Jersey, US          12 (5.6%)
-- North Holland, NL       10 (4.7%)
 - Hesse, DE               10 (4.7%)
+- North Holland, NL       10 (4.7%)
 - Virginia, US            9 (4.2%)
 
 Top Privacy Services
+- NordVPN       1 (0.5%)
 - holaproxy     1 (0.5%)
 - TunnelBear    1 (0.5%)
 - VPN Unlimited 1 (0.5%)
-- NordVPN       1 (0.5%)
 
 Top Domains
 - contaboserver.net          9 (4.2%)
