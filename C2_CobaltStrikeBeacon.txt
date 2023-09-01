@@ -1,7 +1,12 @@
+43.138.0.70,6666,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+43.134.114.253,443,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
+124.70.141.123,443,jquery.com,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-124-70-141-123.compute.hwclouds-dns.com
+81.70.3.30,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+110.40.135.135,443,jquery.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+47.87.133.176,80,,Cobalt Strike Beacon,Zenlayer Inc,
+47.109.19.188,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 110.40.184.247,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.110.149.136,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-45.141.139.227,80,,Cobalt Strike Beacon,RHINO CLOUD LTD,
-110.40.157.87,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 104.129.20.44,443,R3,Cobalt Strike Beacon,QuadraNet Enterprises LLC,44-host.thebunter.com;incitewebsolution.com
 8.136.201.3,81,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 8.217.147.50,443,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
@@ -12,8 +17,6 @@
 124.220.49.74,9999,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
 176.113.115.145,443,,,Cat Technologies Co. Limited,
-3.143.51.7,80,,,Amazon Technologies Inc.,ec2-3-143-51-7.us-east-2.compute.amazonaws.com
-120.79.64.164,443,,,Aliyun Computing Co., LTD,
 49.233.56.4,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 103.14.101.11,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
 34.92.206.127,8443,,Cobalt Strike Beacon,Google LLC,127.206.92.34.bc.googleusercontent.com
@@ -31,6 +34,3 @@
 43.155.173.17,5555,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
 124.222.88.246,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.158.168,80,,,Zenlayer Inc,
-121.196.200.132,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-128.199.192.131,443,051,Cobalt Strike Beacon,DigitalOcean, LLC,
-124.220.164.254,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
