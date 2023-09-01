@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  1
-- VPN     7
+- VPN     6
 - Proxy   0
 - Hosting 164
 - Tor     0
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 41 (18.8%)
 - Amsterdam, North Holland, NL       10 (4.6%)
-- Roubaix, Hauts-de-France, FR       8 (3.7%)
 - Shanghai, Shanghai, CN             8 (3.7%)
+- Roubaix, Hauts-de-France, FR       8 (3.7%)
 - Ashburn, Virginia, US              7 (3.2%)
 
 Top Regions
@@ -55,10 +55,9 @@ Top Carriers
 - China Telecom 1 (0.5%)
 
 Top Privacy Services
-- VPN Unlimited 1 (0.5%)
-- World VPN     1 (0.5%)
-- holaproxy     1 (0.5%)
-- TunnelBear    1 (0.5%)
+- KeepSolid 1 (0.5%)
+- World VPN 1 (0.5%)
+- holaproxy 1 (0.5%)
 
 Top Domains
 - contaboserver.net    8 (3.7%)
