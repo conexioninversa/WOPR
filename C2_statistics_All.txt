@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 45 (20.4%)
 - 5.196.0.0/16 (AS16276)     5 (2.3%)
+- 110.40.128.0/17 (AS45090)  2 (0.9%)
 - 124.220.0.0/14 (AS45090)   2 (0.9%)
 - 82.156.0.0/15 (AS45090)    2 (0.9%)
-- 110.40.128.0/17 (AS45090)  2 (0.9%)
 
 Top Countries
 - Hong Kong     55 (24.9%)
@@ -52,9 +52,9 @@ Top Regions
 - California, US          9 (4.1%)
 
 Top Privacy Services
-- BulletVPN  1 (0.5%)
 - VPN Jantit 1 (0.5%)
 - holaproxy  1 (0.5%)
+- BulletVPN  1 (0.5%)
 
 Top Domains
 - contaboserver.net    7 (3.2%)
