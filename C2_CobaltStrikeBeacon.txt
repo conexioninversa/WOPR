@@ -1,6 +1,12 @@
+119.45.183.207,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+23.94.239.95,8080,,Cobalt Strike Beacon,ColoCrossing,23-94-239-95-host.colocrossing.com
+82.157.138.249,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+43.142.12.13,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+208.70.74.144,2083,,Cobalt Strike Beacon,MULTACOM CORPORATION,unassigned.calpop.com
+202.95.15.23,8333,,Cobalt Strike Beacon,RACKIP CONSULTANCY PTE. LTD.,
+1.14.32.41,8082,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+124.220.79.50,6443,Microsoft Windows,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 43.138.0.70,6666,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-43.134.114.253,443,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
-124.70.141.123,443,jquery.com,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-124-70-141-123.compute.hwclouds-dns.com
 81.70.3.30,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 110.40.135.135,443,jquery.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.133.176,80,,Cobalt Strike Beacon,Zenlayer Inc,
@@ -12,7 +18,6 @@
 8.217.147.50,443,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
 121.4.154.20,80,,,Tencent cloud computing (Beijing) Co., Ltd.,
 47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-173.249.201.243,443,,Cobalt Strike Beacon,tzulo, inc.,
 39.107.102.129,443,www.infoworld.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 124.220.49.74,9999,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
@@ -31,6 +36,3 @@
 121.36.203.14,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-36-203-14.compute.hwclouds-dns.com
 50.17.149.220,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,nonalom.com;ec2-50-17-149-220.compute-1.amazonaws.com
 82.157.57.149,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
-43.155.173.17,5555,,Cobalt Strike Beacon,Asia Pacific Network Information Center, Pty. Ltd.,
-124.222.88.246,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.87.158.168,80,,,Zenlayer Inc,
