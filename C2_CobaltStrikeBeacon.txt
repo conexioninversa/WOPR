@@ -1,3 +1,6 @@
+91.103.253.48,443,R3,Cobalt Strike Beacon,GTELCOM LLC,tcessolution.com
+124.220.10.78,8443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+121.196.235.124,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 119.45.183.207,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 23.94.239.95,8080,,Cobalt Strike Beacon,ColoCrossing,23-94-239-95-host.colocrossing.com
 82.157.138.249,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
@@ -13,16 +16,13 @@
 47.109.19.188,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 110.40.184.247,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.110.149.136,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-104.129.20.44,443,R3,Cobalt Strike Beacon,QuadraNet Enterprises LLC,44-host.thebunter.com;incitewebsolution.com
 8.136.201.3,81,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 8.217.147.50,443,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
 121.4.154.20,80,,,Tencent cloud computing (Beijing) Co., Ltd.,
 47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 39.107.102.129,443,www.infoworld.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
-124.220.49.74,9999,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
 176.113.115.145,443,,,Cat Technologies Co. Limited,
-49.233.56.4,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 103.14.101.11,443,,Cobalt Strike Beacon,Asia Pacific Network Information Centre,
 34.92.206.127,8443,,Cobalt Strike Beacon,Google LLC,127.206.92.34.bc.googleusercontent.com
 23.224.61.90,6666,,Cobalt Strike Beacon,CloudRadium L.L.C,
@@ -32,7 +32,6 @@
 91.103.253.45,443,R3,Cobalt Strike Beacon,Shelter LLC,eapdns.com
 8.129.237.254,80,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 198.46.226.97,443,,Cobalt Strike Beacon,ColoCrossing,198-46-226-97-host.colocrossing.com
-151.236.9.117,10443,Microsoft IT TLS CA 5,Cobalt Strike Beacon,EDIS Infrastructure in Austria,117.9.236.151.in-addr.arpa
 121.36.203.14,80,,Cobalt Strike Beacon,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-121-36-203-14.compute.hwclouds-dns.com
 50.17.149.220,443,R3,Cobalt Strike Beacon,Amazon Data Services NoVa,nonalom.com;ec2-50-17-149-220.compute-1.amazonaws.com
 82.157.57.149,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
