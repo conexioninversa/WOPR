@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 52 (23.3%)
 - Amsterdam, North Holland, NL       11 (4.9%)
 - Shanghai, Shanghai, CN             9 (4.0%)
-- Frankfurt am Main, Hesse, DE       8 (3.6%)
 - Ashburn, Virginia, US              8 (3.6%)
+- Frankfurt am Main, Hesse, DE       8 (3.6%)
 
 Top Regions
 - Central and Western, HK 52 (23.3%)
@@ -51,13 +51,13 @@ Top Regions
 - Shanghai, CN            9 (4.0%)
 
 Top Privacy Services
+- TunnelBear 1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - World VPN  1 (0.4%)
 - Mullvad    1 (0.4%)
-- TunnelBear 1 (0.4%)
 
 Top Domains
 - contaboserver.net    15 (6.7%)
 - vultrusercontent.com 9 (4.0%)
-- null                 6 (2.7%)
 - colocrossing.com     6 (2.7%)
+- null                 6 (2.7%)
