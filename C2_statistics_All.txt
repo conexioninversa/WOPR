@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 165
+- Hosting 164
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS51167 Contabo GmbH                                      12 (5.4%)
 
 Top Usage Types
-- Hosting  162 (72.6%)
-- Business 50 (22.4%)
+- Hosting  161 (72.2%)
+- Business 51 (22.9%)
 - ISP      7 (3.1%)
 
 Top Routes
@@ -31,33 +31,33 @@ Top Routes
 
 Top Countries
 - Hong Kong     52 (23.3%)
-- United States 52 (23.3%)
+- United States 51 (22.9%)
 - China         25 (11.2%)
 - Germany       20 (9.0%)
 - Netherlands   13 (5.8%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 51 (22.9%)
+- Hong Kong, Central and Western, HK 52 (23.3%)
 - Amsterdam, North Holland, NL       11 (4.9%)
 - Shanghai, Shanghai, CN             9 (4.0%)
 - Frankfurt am Main, Hesse, DE       8 (3.6%)
 - Ashburn, Virginia, US              8 (3.6%)
 
 Top Regions
-- Central and Western, HK 51 (22.9%)
+- Central and Western, HK 52 (23.3%)
 - North Holland, NL       12 (5.4%)
 - California, US          11 (4.9%)
 - New Jersey, US          10 (4.5%)
 - Shanghai, CN            9 (4.0%)
 
 Top Privacy Services
+- TunnelBear 1 (0.4%)
 - VPN Jantit 1 (0.4%)
 - World VPN  1 (0.4%)
 - Mullvad    1 (0.4%)
-- TunnelBear 1 (0.4%)
 
 Top Domains
 - contaboserver.net    15 (6.7%)
 - vultrusercontent.com 9 (4.0%)
-- colocrossing.com     6 (2.7%)
 - null                 6 (2.7%)
+- colocrossing.com     6 (2.7%)
