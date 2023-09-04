@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (15.8%)
 - AS14061 DigitalOcean, LLC                                 27 (12.2%)
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 15 (6.8%)
 - AS16509 Amazon.com, Inc.                                  15 (6.8%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 15 (6.8%)
 - AS16276 OVH SAS                                           10 (4.5%)
 
 Top Usage Types
@@ -46,8 +46,8 @@ Top Cities
 Top Regions
 - Central and Western, HK 44 (19.8%)
 - North Holland, NL       15 (6.8%)
-- California, US          11 (5.0%)
 - Hesse, DE               11 (5.0%)
+- California, US          11 (5.0%)
 - Shanghai, CN            9 (4.1%)
 
 Top Privacy Services
