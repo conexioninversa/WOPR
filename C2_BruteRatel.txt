@@ -1,7 +1,6 @@
+37.119.57.195,9002,R3,,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
 18.163.6.122,80,,,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
 149.28.251.203,80,,,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
 13.113.45.138,80,,AWS ELB,Amazon Data Services Japan,ec2-13-113-45-138.ap-northeast-1.compute.amazonaws.com
-37.119.57.195,9002,R3,,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
 13.114.110.144,80,,AWS ELB,Amazon Data Services Japan,ec2-13-114-110-144.ap-northeast-1.compute.amazonaws.com
-54.65.8.67,80,,AWS ELB,Amazon Technologies Inc.,ec2-54-65-8-67.ap-northeast-1.compute.amazonaws.com
 13.231.24.246,80,,AWS ELB,Amazon Data Services Japan,ec2-13-231-24-246.ap-northeast-1.compute.amazonaws.com

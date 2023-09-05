@@ -1,3 +1,11 @@
+121.4.154.20,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+118.195.137.246,9001,R3,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,www.karesse.com.cn
+43.138.173.11,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+204.10.120.109,80,,Cobalt Strike Beacon,Vinters Corp,
+101.33.231.180,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+47.243.104.189,8443,,Cobalt Strike Beacon,Alibaba Cloud LLC,qianxing.rocks
+119.91.109.228,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
+139.99.118.61,443,ajax.aspnetcdn.com,Cobalt Strike Beacon,MAXSERVER CO., LTD,ip61.ip-139-99-118.net
 43.138.121.2,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 38.147.171.229,4433,gmail.com,Cobalt Strike Beacon,XNNET LLC,
 91.103.253.48,443,R3,Cobalt Strike Beacon,GTELCOM LLC,tcessolution.com
@@ -16,7 +24,6 @@
 110.40.184.247,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.110.149.136,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 8.136.201.3,81,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
-8.217.147.50,443,,Cobalt Strike Beacon,Alibaba.com Singapore E-Commerce Private Limited,
 47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 39.107.102.129,443,www.infoworld.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 150.109.246.198,443,,Cobalt Strike Beacon,,api.nextgpt.fun
