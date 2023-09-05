@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     10
+- VPN     11
 - Proxy   0
-- Hosting 170
+- Hosting 163
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (5.7%)
 
 Top Usage Types
-- Hosting   168 (73.0%)
-- Business  45 (19.6%)
+- Hosting   160 (69.6%)
+- Business  53 (23.0%)
 - ISP       13 (5.7%)
 - Education 1 (0.4%)
 
@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 33 (14.3%)
 - 5.196.0.0/16 (AS16276)     3 (1.3%)
 - 91.103.253.0/24 (AS198556) 3 (1.3%)
-- 124.220.0.0/14 (AS45090)   2 (0.9%)
 - 43.136.0.0/14 (AS45090)    2 (0.9%)
+- 124.220.0.0/14 (AS45090)   2 (0.9%)
 
 Top Countries
 - United States 52 (22.6%)
@@ -55,6 +55,7 @@ Top Privacy Services
 - ProtonVPN  2 (0.9%)
 - TunnelBear 1 (0.4%)
 - Mullvad    1 (0.4%)
+- NordVPN    1 (0.4%)
 
 Top Domains
 - contaboserver.net    10 (4.3%)
