@@ -1,3 +1,9 @@
+39.101.66.165,443,*.alicdn.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+47.116.73.197,443,,,Aliyun Computing Co., LTD,
+132.232.102.57,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+129.211.222.142,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
+123.56.226.153,9999,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
+47.92.97.171,8443,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 121.4.154.20,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 118.195.137.246,9001,R3,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,www.karesse.com.cn
 43.138.173.11,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
@@ -8,10 +14,8 @@
 139.99.118.61,443,ajax.aspnetcdn.com,Cobalt Strike Beacon,MAXSERVER CO., LTD,ip61.ip-139-99-118.net
 43.138.121.2,443,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 38.147.171.229,4433,gmail.com,Cobalt Strike Beacon,XNNET LLC,
-91.103.253.48,443,R3,Cobalt Strike Beacon,GTELCOM LLC,tcessolution.com
 124.220.10.78,8443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 119.45.183.207,80,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-82.157.138.249,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 43.142.12.13,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 208.70.74.144,2083,,Cobalt Strike Beacon,MULTACOM CORPORATION,unassigned.calpop.com
 202.95.15.23,8333,,Cobalt Strike Beacon,RACKIP CONSULTANCY PTE. LTD.,
@@ -20,9 +24,7 @@
 81.70.3.30,80,,Cobalt Strike Beacon,Tencent Cloud Computing (Beijing) Co., Ltd,
 110.40.135.135,443,jquery.com,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
 47.87.133.176,80,,Cobalt Strike Beacon,Zenlayer Inc,
-47.109.19.188,80,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 110.40.184.247,443,,Cobalt Strike Beacon,Tencent cloud computing (Beijing) Co., Ltd.,
-47.110.149.136,8888,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 8.136.201.3,81,,Cobalt Strike Beacon,Aliyun Computing Co.LTD,
 47.106.117.218,60001,,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
 39.107.102.129,443,www.infoworld.com,Cobalt Strike Beacon,Aliyun Computing Co., LTD,
