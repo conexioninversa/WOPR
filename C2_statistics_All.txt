@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     6
 - Proxy   0
-- Hosting 171
+- Hosting 181
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS51167 Contabo GmbH                                      13 (5.6%)
 
 Top Usage Types
-- Hosting   168 (72.1%)
-- Business  52 (22.3%)
+- Hosting   179 (76.8%)
+- Business  41 (17.6%)
 - ISP       10 (4.3%)
 - Education 1 (0.4%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 32 (13.7%)
 - 5.196.0.0/16 (AS16276)     6 (2.6%)
-- 43.136.0.0/14 (AS45090)    2 (0.9%)
 - 110.40.128.0/17 (AS45090)  2 (0.9%)
 - 124.220.0.0/14 (AS45090)   2 (0.9%)
+- 43.136.0.0/14 (AS45090)    2 (0.9%)
 
 Top Countries
 - United States 50 (21.5%)
@@ -47,13 +47,12 @@ Top Cities
 Top Regions
 - Central and Western, HK 43 (18.5%)
 - Virginia, US            12 (5.2%)
-- New Jersey, US          11 (4.7%)
 - Hesse, DE               11 (4.7%)
+- New Jersey, US          11 (4.7%)
 - Shanghai, CN            10 (4.3%)
 
 Top Privacy Services
-- SaferVPN                1 (0.4%)
-- TunnelBear              1 (0.4%)
+- TunnelBear              2 (0.9%)
 - Private Internet Access 1 (0.4%)
 
 Top Domains
