@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 29 (10.0%)
 - 124.220.0.0/14 (AS45090)   4 (1.4%)
-- 1.12.0.0/14 (AS45090)      3 (1.0%)
 - 43.140.0.0/14 (AS45090)    3 (1.0%)
 - 175.178.0.0/16 (AS45090)   3 (1.0%)
+- 1.12.0.0/14 (AS45090)      3 (1.0%)
 
 Top Countries
 - China         57 (19.6%)
@@ -52,9 +52,9 @@ Top Regions
 - New Jersey, US          13 (4.5%)
 
 Top Privacy Services
-- TunnelBear              1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - VPN Unlimited           1 (0.3%)
+- TunnelBear              1 (0.3%)
 
 Top Domains
 - contaboserver.net    13 (4.5%)
