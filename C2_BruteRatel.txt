@@ -3,5 +3,4 @@
 37.119.57.195,9002,R3,Brute Ratel C4,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
 18.180.64.43,80,,AWS ELB,Amazon Data Services Japan,ec2-18-180-64-43.ap-northeast-1.compute.amazonaws.com
 13.113.45.138,80,,AWS ELB,Amazon Data Services Japan,ec2-13-113-45-138.ap-northeast-1.compute.amazonaws.com
-13.114.110.144,80,,AWS ELB,Amazon Data Services Japan,ec2-13-114-110-144.ap-northeast-1.compute.amazonaws.com
 13.231.24.246,80,,AWS ELB,Amazon Data Services Japan,ec2-13-231-24-246.ap-northeast-1.compute.amazonaws.com
