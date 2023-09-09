@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     9
+- VPN     11
 - Proxy   0
-- Hosting 229
+- Hosting 207
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  15 (5.2%)
 
 Top Usage Types
-- Hosting  229 (79.2%)
-- Business 47 (16.3%)
-- ISP      11 (3.8%)
+- Hosting  207 (71.6%)
+- Business 68 (23.5%)
+- ISP      12 (4.2%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 37 (12.8%)
@@ -39,23 +39,23 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 48 (16.6%)
 - Shanghai, Shanghai, CN             27 (9.3%)
-- Beijing, Beijing, CN               13 (4.5%)
 - Shenzhen, Guangdong, CN            13 (4.5%)
 - Frankfurt am Main, Hesse, DE       13 (4.5%)
+- Beijing, Beijing, CN               13 (4.5%)
 
 Top Regions
 - Central and Western, HK 48 (16.6%)
 - Shanghai, CN            27 (9.3%)
 - Guangdong, CN           18 (6.2%)
-- Hesse, DE               13 (4.5%)
 - Beijing, CN             13 (4.5%)
+- Hesse, DE               13 (4.5%)
 
 Top Privacy Services
-- VPN Jantit              2 (0.7%)
-- Private Internet Access 1 (0.3%)
-- VPN Unlimited           1 (0.3%)
-- ProtonVPN               1 (0.3%)
-- BulletVPN               1 (0.3%)
+- VPN Jantit    2 (0.7%)
+- ProtonVPN     1 (0.3%)
+- SaferVPN      1 (0.3%)
+- TunnelBear    1 (0.3%)
+- VPN Unlimited 1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     10 (3.5%)
