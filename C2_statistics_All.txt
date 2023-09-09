@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 37 (12.8%)
 - 43.136.0.0/14 (AS45090)    4 (1.4%)
-- 175.178.0.0/16 (AS45090)   3 (1.0%)
 - 1.12.0.0/14 (AS45090)      3 (1.0%)
 - 124.220.0.0/14 (AS45090)   3 (1.0%)
+- 175.178.0.0/16 (AS45090)   3 (1.0%)
 
 Top Countries
 - China         72 (24.9%)
@@ -39,26 +39,26 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 48 (16.6%)
 - Shanghai, Shanghai, CN             27 (9.3%)
+- Frankfurt am Main, Hesse, DE       13 (4.5%)
 - Beijing, Beijing, CN               13 (4.5%)
 - Shenzhen, Guangdong, CN            13 (4.5%)
-- Frankfurt am Main, Hesse, DE       13 (4.5%)
 
 Top Regions
 - Central and Western, HK 48 (16.6%)
 - Shanghai, CN            27 (9.3%)
 - Guangdong, CN           18 (6.2%)
-- Beijing, CN             13 (4.5%)
 - Hesse, DE               13 (4.5%)
+- Beijing, CN             13 (4.5%)
 
 Top Privacy Services
 - VPN Jantit              2 (0.7%)
+- Private Internet Access 1 (0.3%)
 - VPN Unlimited           1 (0.3%)
 - ProtonVPN               1 (0.3%)
 - BulletVPN               1 (0.3%)
-- Private Internet Access 1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     10 (3.5%)
-- contaboserver.net    8 (2.8%)
 - vultrusercontent.com 8 (2.8%)
+- contaboserver.net    8 (2.8%)
 - null                 7 (2.4%)
