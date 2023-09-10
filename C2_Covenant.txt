@@ -1,12 +1,12 @@
-109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
 130.61.124.23,7443,Covenant,Oracle Public Cloud,
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-109.123.251.235,7443,Covenant,Contabo GmbH,vmi1228002.contaboserver.net
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
+109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+109.123.251.235,7443,Covenant,Contabo GmbH,vmi1228002.contaboserver.net
 5.182.17.134,7443,,Contabo GmbH,vmi1040070.contaboserver.net
 172.105.76.8,7443,,Akamai Technologies, Inc.,172-105-76-8.ip.linodeusercontent.com
 88.119.170.197,7443,,Informacines sistemos ir technologijos, UAB,14747-38286.bacloud.info
