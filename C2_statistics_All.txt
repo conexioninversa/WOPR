@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 37 (12.8%)
 - 43.136.0.0/14 (AS45090)    4 (1.4%)
+- 124.220.0.0/14 (AS45090)   3 (1.0%)
 - 175.178.0.0/16 (AS45090)   3 (1.0%)
 - 1.12.0.0/14 (AS45090)      3 (1.0%)
-- 124.220.0.0/14 (AS45090)   3 (1.0%)
 
 Top Countries
 - China         72 (24.9%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Jantit    2 (0.7%)
-- ProtonVPN     1 (0.3%)
 - SaferVPN      1 (0.3%)
 - TunnelBear    1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- ProtonVPN     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     10 (3.5%)
