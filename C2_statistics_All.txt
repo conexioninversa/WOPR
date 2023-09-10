@@ -14,8 +14,8 @@ Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              44 (15.2%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 42 (14.5%)
 - AS14061 DigitalOcean, LLC                                 23 (8.0%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (6.2%)
 - AS16509 Amazon.com, Inc.                                  18 (6.2%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (6.2%)
 
 Top Usage Types
 - Hosting  201 (69.6%)
@@ -46,15 +46,15 @@ Top Cities
 Top Regions
 - Central and Western, HK 54 (18.7%)
 - Shanghai, CN            23 (8.0%)
-- Guangdong, CN           15 (5.2%)
 - Hesse, DE               15 (5.2%)
+- Guangdong, CN           15 (5.2%)
 - Beijing, CN             13 (4.5%)
 
 Top Privacy Services
+- HideIPVPN               1 (0.3%)
 - TunnelBear              1 (0.3%)
 - VPN Jantit              1 (0.3%)
 - Private Internet Access 1 (0.3%)
-- HideIPVPN               1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.5%)
