@@ -14,8 +14,8 @@ Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              44 (15.2%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 42 (14.5%)
 - AS14061 DigitalOcean, LLC                                 23 (8.0%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (6.2%)
 - AS16509 Amazon.com, Inc.                                  18 (6.2%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (6.2%)
 
 Top Usage Types
 - Hosting  221 (76.5%)
@@ -25,8 +25,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 43 (14.9%)
 - 43.136.0.0/14 (AS45090)    7 (2.4%)
-- 150.158.0.0/16 (AS45090)   3 (1.0%)
 - 172.96.166.0/24 (AS63018)  3 (1.0%)
+- 150.158.0.0/16 (AS45090)   3 (1.0%)
 - 42.192.0.0/15 (AS45090)    2 (0.7%)
 
 Top Countries
@@ -40,14 +40,14 @@ Top Cities
 - Hong Kong, Central and Western, HK 54 (18.7%)
 - Shanghai, Shanghai, CN             23 (8.0%)
 - Frankfurt am Main, Hesse, DE       15 (5.2%)
-- Amsterdam, North Holland, NL       13 (4.5%)
 - Beijing, Beijing, CN               13 (4.5%)
+- Amsterdam, North Holland, NL       13 (4.5%)
 
 Top Regions
 - Central and Western, HK 54 (18.7%)
 - Shanghai, CN            23 (8.0%)
-- Guangdong, CN           15 (5.2%)
 - Hesse, DE               15 (5.2%)
+- Guangdong, CN           15 (5.2%)
 - Beijing, CN             13 (4.5%)
 
 Top Privacy Services
