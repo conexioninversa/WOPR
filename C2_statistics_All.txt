@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     9
+- VPN     10
 - Proxy   0
 - Hosting 225
 - Tor     0
@@ -39,24 +39,24 @@ Top Countries
 
 Top Cities
 - Hong Kong, Central and Western, HK 41 (14.1%)
-- Shanghai, Shanghai, CN             28 (9.7%)
+- Shanghai, Shanghai, CN             29 (10.0%)
 - Beijing, Beijing, CN               22 (7.6%)
 - Amsterdam, North Holland, NL       14 (4.8%)
-- Shenzhen, Guangdong, CN            11 (3.8%)
+- Frankfurt am Main, Hesse, DE       11 (3.8%)
 
 Top Regions
 - Central and Western, HK 41 (14.1%)
-- Shanghai, CN            28 (9.7%)
+- Shanghai, CN            29 (10.0%)
 - Beijing, CN             22 (7.6%)
 - Guangdong, CN           16 (5.5%)
 - New Jersey, US          15 (5.2%)
 
 Top Privacy Services
-- TunnelBear              2 (0.7%)
 - Mullvad                 2 (0.7%)
+- TunnelBear              1 (0.3%)
+- HideIPVPN               1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - ProtonVPN               1 (0.3%)
-- HideIPVpn               1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     12 (4.1%)
