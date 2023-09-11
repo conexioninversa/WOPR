@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 34 (11.7%)
 - 124.220.0.0/14 (AS45090)   6 (2.1%)
-- 43.136.0.0/14 (AS45090)    4 (1.4%)
 - 81.68.0.0/14 (AS45090)     4 (1.4%)
+- 43.136.0.0/14 (AS45090)    4 (1.4%)
 - 175.178.0.0/16 (AS45090)   3 (1.0%)
 
 Top Countries
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear              2 (0.7%)
 - Mullvad                 2 (0.7%)
-- Private Internet Access 1 (0.3%)
 - ProtonVPN               1 (0.3%)
 - HideIPVpn               1 (0.3%)
+- Private Internet Access 1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     12 (4.1%)
