@@ -18,8 +18,8 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             19 (6.5%)
 
 Top Usage Types
-- Hosting   228 (78.4%)
-- Business  45 (15.5%)
+- Hosting   229 (78.7%)
+- Business  44 (15.1%)
 - ISP       15 (5.2%)
 - Education 2 (0.7%)
 
@@ -52,14 +52,14 @@ Top Regions
 - California, US          12 (4.1%)
 
 Top Privacy Services
-- BulletVPN               1 (0.3%)
-- SaferVPN                1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - HideIPVPN               1 (0.3%)
 - Mullvad                 1 (0.3%)
+- BulletVPN               1 (0.3%)
+- SaferVPN                1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.8%)
-- null                 8 (2.7%)
 - hwclouds-dns.com     8 (2.7%)
+- null                 8 (2.7%)
 - vultrusercontent.com 6 (2.1%)
