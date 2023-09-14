@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (13.7%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (12.0%)
 - AS14061 DigitalOcean, LLC                                 26 (8.9%)
-- AS16509 Amazon.com, Inc.                                  17 (5.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.8%)
+- AS16509 Amazon.com, Inc.                                  17 (5.8%)
 
 Top Usage Types
 - Hosting   222 (76.0%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear              2 (0.7%)
+- Private Internet Access 1 (0.3%)
 - HideIPVpn               1 (0.3%)
 - HideMyAss               1 (0.3%)
 - Mullvad                 1 (0.3%)
-- Private Internet Access 1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (3.1%)
