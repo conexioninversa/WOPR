@@ -26,8 +26,8 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 33 (11.3%)
 - 124.220.0.0/14 (AS45090)   7 (2.4%)
-- 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 150.158.0.0/16 (AS45090)   3 (1.0%)
+- 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 121.4.0.0/15 (AS45090)     2 (0.7%)
 
 Top Countries
@@ -47,16 +47,16 @@ Top Cities
 Top Regions
 - Central and Western, HK 50 (17.1%)
 - Shanghai, CN            21 (7.2%)
-- New Jersey, US          15 (5.1%)
 - Beijing, CN             15 (5.1%)
 - North Holland, NL       15 (5.1%)
+- New Jersey, US          15 (5.1%)
 
 Top Privacy Services
 - TunnelBear    2 (0.7%)
-- World VPN     1 (0.3%)
-- ProtonVPN     1 (0.3%)
 - HideMyAss     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- World VPN     1 (0.3%)
+- ProtonVPN     1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.8%)
