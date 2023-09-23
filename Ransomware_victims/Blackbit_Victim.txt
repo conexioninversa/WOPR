@@ -1,3 +1,4 @@
+193.122.159.154,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Oracle Public Cloud,
 163.172.117.239,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Scaleway Dedibox - Paris, France,online2016.proxy.managerapp.net
 184.75.208.106,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Amanah Tech Inc,ionentis.store
 217.160.65.226,Windows (build 10.0.17763),3389,Remote Desktop Protocol,1&1 IONOS SE,
@@ -5,8 +6,6 @@
 193.227.47.247,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Egyptian Universities Network (EUN),
 77.247.93.235,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Tele.Co.Albania SHPK,
 114.40.84.90,Windows Server 2012,3389,Remote Desktop Protocol,Chunghwa Telecom Co.,Ltd.,114-40-84-90.dynamic-ip.hinet.net
-103.124.92.189,Windows Server 2012 R2,3389,Remote Desktop Protocol,NhanHoa Software company,
-178.205.143.10,Windows Server 2012 R2,3389,Remote Desktop Protocol,Kazan Broad-band access pools,
 212.227.233.120,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,IONOS SE,ip212.227.233.120.pbiaas.com
 135.181.124.178,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.178.124.181.135.clients.your-server.de
 36.94.146.15,Windows Server 2012 R2,3389,Remote Desktop Protocol,PT Telekomunikasi Indonesia,
@@ -18,6 +17,5 @@
 109.67.99.12,Windows (build 10.0.19041),3389,Remote Desktop Protocol,*SE4-PTK*,bzq-109-67-99-12.red.bezeqint.net
 144.126.156.7,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Contabo Inc.,vmi1242063.contaboserver.net
 167.57.53.30,Windows (build 10.0.18362),3389,Remote Desktop Protocol,Administracion Nacional de Telecomunicaciones,r167-57-53-30.dialup.adsl.anteldata.net.uy
-185.87.106.222,Windows (build 10.0.17763),3389,Remote Desktop Protocol,F2X Operator B.V.,
 189.129.88.176,Windows Server 2012 R2,3389,Remote Desktop Protocol,Gestión de direccionamiento UniNet,dsl-189-129-88-176-dyn.prod-infinitum.com.mx
 189.129.111.186,Windows Server 2012 R2,3389,Remote Desktop Protocol,Gestión de direccionamiento UniNet,dsl-189-129-111-186-dyn.prod-infinitum.com.mx
