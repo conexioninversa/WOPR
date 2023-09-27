@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (37.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (17.0%)
 - AS55990 Huawei Cloud Service data center                  11 (10.4%)
-- AS16509 Amazon.com, Inc.                                  3 (2.8%)
 - AS14061 DigitalOcean, LLC                                 3 (2.8%)
+- AS16509 Amazon.com, Inc.                                  3 (2.8%)
 
 Top Usage Types
 - Hosting  95 (89.6%)
@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 81.68.0.0/14 (AS45090)   3 (2.8%)
 - 124.220.0.0/14 (AS45090) 3 (2.8%)
+- 121.4.0.0/15 (AS45090)   2 (1.9%)
 - 82.156.0.0/15 (AS45090)  2 (1.9%)
 - 43.136.0.0/14 (AS45090)  2 (1.9%)
-- 121.4.0.0/15 (AS45090)   2 (1.9%)
 
 Top Countries
 - China         72 (67.9%)
