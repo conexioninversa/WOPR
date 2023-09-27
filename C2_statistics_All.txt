@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     5
 - Proxy   0
-- Hosting 95
+- Hosting 85
 - Tor     0
 - Relay   0
 
@@ -14,20 +14,20 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (37.7%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (17.0%)
 - AS55990 Huawei Cloud Service data center                  11 (10.4%)
+- AS64050 BGPNET Global ASN                                 4 (3.8%)
 - AS14061 DigitalOcean, LLC                                 3 (2.8%)
-- AS16509 Amazon.com, Inc.                                  3 (2.8%)
 
 Top Usage Types
-- Hosting  95 (89.6%)
-- Business 6 (5.7%)
+- Hosting  85 (80.2%)
+- Business 16 (15.1%)
 - ISP      5 (4.7%)
 
 Top Routes
-- 81.68.0.0/14 (AS45090)   3 (2.8%)
-- 124.220.0.0/14 (AS45090) 3 (2.8%)
-- 121.4.0.0/15 (AS45090)   2 (1.9%)
-- 82.156.0.0/15 (AS45090)  2 (1.9%)
-- 43.136.0.0/14 (AS45090)  2 (1.9%)
+- 92.63.196.0/24 (AS202425) 2 (1.9%)
+- 58.87.96.0/22 (AS45090)   2 (1.9%)
+- 1.12.64.0/18 (AS45090)    2 (1.9%)
+- 8.140.0.0/15 (AS37963)    2 (1.9%)
+- 121.4.32.0/19 (AS45090)   2 (1.9%)
 
 Top Countries
 - China         72 (67.9%)
@@ -56,5 +56,5 @@ Top Privacy Services
 Top Domains
 - hwclouds-dns.com                                     11 (10.4%)
 - srvape.com                                           2 (1.9%)
-- privatealps.net                                      1 (0.9%)
 - ec2-3-115-40-76.ap-northeast-1.compute.amazonaws.com 1 (0.9%)
+- privatealps.net                                      1 (0.9%)
