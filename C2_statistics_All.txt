@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     3
 - Proxy   0
-- Hosting 117
+- Hosting 116
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS64050 BGPNET Global ASN                                 6 (2.9%)
 
 Top Usage Types
-- Hosting   115 (55.8%)
+- Hosting   114 (55.3%)
 - Business  79 (38.3%)
-- ISP       11 (5.3%)
+- ISP       12 (5.8%)
 - Education 1 (0.5%)
 
 Top Routes
