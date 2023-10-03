@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 148.66.2.0/24 (AS45753)   3 (2.9%)
+- 101.43.0.0/18 (AS45090)   2 (1.9%)
 - 81.71.64.0/18 (AS45090)   2 (1.9%)
 - 43.143.128.0/18 (AS45090) 2 (1.9%)
 - 47.92.0.0/15 (AS37963)    2 (1.9%)
-- 101.43.0.0/18 (AS45090)   2 (1.9%)
 
 Top Countries
 - China         78 (74.3%)
@@ -55,6 +55,6 @@ Top Privacy Services
 
 Top Domains
 - hwclouds-dns.com 12 (11.4%)
-- mivocloud.com    1 (1.0%)
 - colocrossing.com 1 (1.0%)
 - oezxvxq.cn       1 (1.0%)
+- mivocloud.com    1 (1.0%)
