@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     2
+- VPN     1
 - Proxy   0
 - Hosting 66
 - Tor     0
@@ -40,14 +40,14 @@ Top Cities
 - Shanghai, Shanghai, CN             22 (21.0%)
 - Beijing, Beijing, CN               20 (19.0%)
 - Shenzhen, Guangdong, CN            11 (10.5%)
-- Hong Kong, Central and Western, HK 8 (7.6%)
+- Hong Kong, Central and Western, HK 7 (6.7%)
 - Chengdu, Sichuan, CN               5 (4.8%)
 
 Top Regions
 - Shanghai, CN            22 (21.0%)
 - Beijing, CN             20 (19.0%)
 - Guangdong, CN           17 (16.2%)
-- Central and Western, HK 8 (7.6%)
+- Central and Western, HK 7 (6.7%)
 - Sichuan, CN             5 (4.8%)
 
 Top Privacy Services
@@ -55,6 +55,6 @@ Top Privacy Services
 
 Top Domains
 - hwclouds-dns.com 12 (11.4%)
+- colocrossing.com 1 (1.0%)
 - oezxvxq.cn       1 (1.0%)
 - mivocloud.com    1 (1.0%)
-- colocrossing.com 1 (1.0%)
