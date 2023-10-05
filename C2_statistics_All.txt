@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 29 (14.9%)
 - 5.196.0.0/16 (AS16276)     5 (2.6%)
-- 5.101.4.0/24 (AS34665)     2 (1.0%)
 - 95.111.236.0/23 (AS51167)  2 (1.0%)
 - 135.181.0.0/16 (AS24940)   2 (1.0%)
+- 5.101.4.0/24 (AS34665)     2 (1.0%)
 
 Top Countries
 - United States 47 (24.1%)
@@ -51,11 +51,11 @@ Top Regions
 - Hesse, DE               9 (4.6%)
 
 Top Privacy Services
+- VPN Satoshi             1 (0.5%)
+- VPN Unlimited           1 (0.5%)
 - Private Internet Access 1 (0.5%)
 - HideIPVpn               1 (0.5%)
 - SwitchVPN               1 (0.5%)
-- VPN Satoshi             1 (0.5%)
-- VPN Unlimited           1 (0.5%)
 
 Top Domains
 - contaboserver.net    9 (4.6%)
