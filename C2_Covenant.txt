@@ -1,11 +1,16 @@
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-3.81.27.148,7443,Covenant,Amazon Data Services NoVa,ec2-3-81-27-148.compute-1.amazonaws.com
-37.139.129.17,7443,Covenant,Des Capital B.V.,
-130.61.124.23,7443,Covenant,Oracle Public Cloud,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-94.142.138.60,7443,Covenant,Shelter LLC,
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+37.139.129.17,7443,Covenant,Des Capital B.V.,
+94.142.138.60,7443,Covenant,Shelter LLC,
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
+18.132.243.126,7443,Covenant,Amazon Data Services UK,ec2-18-132-243-126.eu-west-2.compute.amazonaws.com
+3.81.27.148,7443,Covenant,Amazon Data Services NoVa,ec2-3-81-27-148.compute-1.amazonaws.com
+130.61.124.23,7443,Covenant,Oracle Public Cloud,
+85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
 129.213.138.54,7443,Covenant,Oracle Public Cloud,
+45.66.230.165,7443,Covenant,Des Capital B.V.,
 109.123.251.235,7443,Covenant,Contabo GmbH,vmi1228002.contaboserver.net
 109.123.231.70,7443,Covenant,Contabo GmbH,vmi1020227.contaboserver.net

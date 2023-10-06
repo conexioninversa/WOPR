@@ -1,4 +1,7 @@
 94.198.53.143,443,PoshC2,SmartApe OU,s706251.srvape.com
+184.72.153.18,443,PoshC2,Amazon Data Services NoVa,ec2-184-72-153-18.compute-1.amazonaws.com
+20.61.115.115,443,PoshC2,Microsoft Corporation,
 94.198.53.89,443,PoshC2,SmartApe OU,s676300.srvape.com
 95.213.145.101,443,PoshC2,Selectel SPb,
+198.37.103.67,6443,PoshC2,H4Y Technologies LLC,
 170.64.153.219,4443,PoshC2,DigitalOcean, LLC,
