@@ -6,48 +6,48 @@ Summary
 - Mobile  0
 - VPN     12
 - Proxy   0
-- Hosting 253
+- Hosting 254
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (12.8%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              36 (11.5%)
-- AS14061 DigitalOcean, LLC                                 30 (9.6%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             23 (7.3%)
+- AS14061 DigitalOcean, LLC                                 33 (10.5%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             22 (7.0%)
 - AS16509 Amazon.com, Inc.                                  19 (6.1%)
 
 Top Usage Types
-- Hosting  252 (80.5%)
+- Hosting  253 (80.8%)
 - Business 43 (13.7%)
-- ISP      17 (5.4%)
+- ISP      16 (5.1%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (11.5%)
-- 101.43.64.0/18 (AS45090)   3 (1.0%)
 - 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 47.100.0.0/15 (AS37963)    3 (1.0%)
-- 8.130.0.0/16 (AS37963)     2 (0.6%)
+- 101.43.64.0/18 (AS45090)   2 (0.6%)
+- 43.133.64.0/19 (AS132203)  2 (0.6%)
 
 Top Countries
 - China         73 (23.3%)
 - United States 64 (20.4%)
-- Hong Kong     53 (16.9%)
-- Germany       24 (7.7%)
-- Netherlands   16 (5.1%)
+- Hong Kong     52 (16.6%)
+- Germany       26 (8.3%)
+- Netherlands   17 (5.4%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 50 (16.0%)
+- Hong Kong, Central and Western, HK 49 (15.7%)
 - Shanghai, Shanghai, CN             34 (10.9%)
-- Amsterdam, North Holland, NL       15 (4.8%)
-- Beijing, Beijing, CN               14 (4.5%)
+- Amsterdam, North Holland, NL       16 (5.1%)
 - Ashburn, Virginia, US              13 (4.2%)
+- Beijing, Beijing, CN               11 (3.5%)
 
 Top Regions
-- Central and Western, HK 50 (16.0%)
-- Shanghai, CN            34 (10.9%)
-- North Holland, NL       15 (4.8%)
-- Beijing, CN             15 (4.8%)
+- Central and Western, HK 49 (15.7%)
+- Shanghai, CN            35 (11.2%)
+- North Holland, NL       16 (5.1%)
+- Virginia, US            14 (4.5%)
 - New Jersey, US          14 (4.5%)
 
 Top Privacy Services
@@ -58,7 +58,7 @@ Top Privacy Services
 - FreeVPN                 1 (0.3%)
 
 Top Domains
-- contaboserver.net    15 (4.8%)
+- contaboserver.net    16 (5.1%)
 - null                 11 (3.5%)
 - vultrusercontent.com 8 (2.6%)
 - hwclouds-dns.com     6 (1.9%)
