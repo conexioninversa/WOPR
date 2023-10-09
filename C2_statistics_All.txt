@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (11.6%)
+- 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 47.100.0.0/15 (AS37963)    3 (1.0%)
 - 101.43.64.0/18 (AS45090)   3 (1.0%)
-- 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 8.130.0.0/16 (AS37963)     2 (0.6%)
 
 Top Countries
@@ -51,11 +51,11 @@ Top Regions
 - New Jersey, US          14 (4.5%)
 
 Top Privacy Services
+- HideIPVpn               1 (0.3%)
+- Private Internet Access 1 (0.3%)
 - ProtonVPN               1 (0.3%)
 - SwitchVPN               1 (0.3%)
 - FreeVPN                 1 (0.3%)
-- HideIPVpn               1 (0.3%)
-- Private Internet Access 1 (0.3%)
 
 Top Domains
 - contaboserver.net    14 (4.5%)
