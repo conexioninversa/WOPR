@@ -5,5 +5,3 @@
 117.54.120.45,Windows Server 2012,3389,Remote Desktop Protocol,IndoInternet Network,rev-117-54-120-45.indo.net.id
 91.151.88.137,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Hosting Network,ddos-protection.safesunucum.com
 148.204.64.19,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Instituto Politecnico Nacional,pc-064-019.cic.ipn.mx;m019.cic20.ipn.mx
-187.175.48.39,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Uninet S.A. de C.V.,
-88.247.8.49,Windows Server 2012 R2,3389,Remote Desktop Protocol,Turk Telekomunikasyon Anonim Sirketi,88.247.8.49.static.ttnet.com.tr

@@ -25,4 +25,3 @@
 178.205.143.10,Windows Server 2012 R2,3389,Remote Desktop Protocol,Kazan Broad-band access pools,
 135.181.124.178,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Hetzner Online GmbH,static.178.124.181.135.clients.your-server.de
 119.188.90.159,Windows (build 10.0.17763),3389,Remote Desktop Protocol,China Unicom Shandong Province Network,
-190.218.157.15,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cable Onda,cpe-f81a673af509.cpe.cableonda.net
