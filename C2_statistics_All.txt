@@ -5,8 +5,8 @@ Summary
 - Bogon   0
 - Mobile  0
 - VPN     10
-- Proxy   0
-- Hosting 252
+- Proxy   1
+- Hosting 251
 - Tor     0
 - Relay   0
 
@@ -18,15 +18,15 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  19 (6.1%)
 
 Top Usage Types
-- Hosting  250 (80.4%)
-- Business 43 (13.8%)
+- Hosting  249 (80.1%)
+- Business 44 (14.1%)
 - ISP      17 (5.5%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (11.6%)
-- 101.43.64.0/18 (AS45090)   3 (1.0%)
 - 179.43.128.0/18 (AS51852)  3 (1.0%)
 - 47.100.0.0/15 (AS37963)    3 (1.0%)
+- 101.43.64.0/18 (AS45090)   3 (1.0%)
 - 8.130.0.0/16 (AS37963)     2 (0.6%)
 
 Top Countries
@@ -51,10 +51,10 @@ Top Regions
 - New Jersey, US          14 (4.5%)
 
 Top Privacy Services
-- TunnelBear              2 (0.6%)
+- HideIPVpn               1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - ProtonVPN               1 (0.3%)
-- Le-VPN                  1 (0.3%)
+- SwitchVPN               1 (0.3%)
 - FreeVPN                 1 (0.3%)
 
 Top Domains
