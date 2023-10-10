@@ -47,15 +47,15 @@ Top Regions
 - Central and Western, HK 60 (19.3%)
 - Shanghai, CN            30 (9.6%)
 - Beijing, CN             19 (6.1%)
-- Hesse, DE               12 (3.9%)
 - New Jersey, US          12 (3.9%)
+- Hesse, DE               12 (3.9%)
 
 Top Privacy Services
-- HideIPVpn     1 (0.3%)
-- VPN Unlimited 1 (0.3%)
 - Mullvad       1 (0.3%)
 - SaferVPN      1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- HideIPVpn     1 (0.3%)
+- VPN Unlimited 1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
