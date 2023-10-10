@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 60 (19.3%)
 - Shanghai, Shanghai, CN             28 (9.0%)
 - Beijing, Beijing, CN               18 (5.8%)
-- Amsterdam, North Holland, NL       12 (3.9%)
 - Frankfurt am Main, Hesse, DE       12 (3.9%)
+- Amsterdam, North Holland, NL       12 (3.9%)
 
 Top Regions
 - Central and Western, HK 60 (19.3%)
@@ -51,11 +51,11 @@ Top Regions
 - New Jersey, US          12 (3.9%)
 
 Top Privacy Services
-- HideIPVpn     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - Mullvad       1 (0.3%)
 - SwitchVPN     1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- HideIPVpn     1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
