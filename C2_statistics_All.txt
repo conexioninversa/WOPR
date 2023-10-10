@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 43 (13.8%)
 - 148.66.2.0/24 (AS45753)    5 (1.6%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
-- 43.136.0.0/18 (AS45090)    2 (0.6%)
 - 101.43.64.0/18 (AS45090)   2 (0.6%)
+- 43.136.0.0/18 (AS45090)    2 (0.6%)
 
 Top Countries
 - China         76 (24.4%)
@@ -47,15 +47,15 @@ Top Regions
 - Central and Western, HK 60 (19.3%)
 - Shanghai, CN            30 (9.6%)
 - Beijing, CN             19 (6.1%)
-- New Jersey, US          12 (3.9%)
 - Hesse, DE               12 (3.9%)
+- New Jersey, US          12 (3.9%)
 
 Top Privacy Services
+- HideIPVpn     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - Mullvad       1 (0.3%)
 - SwitchVPN     1 (0.3%)
 - ProtonVPN     1 (0.3%)
-- HideIPVpn     1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
