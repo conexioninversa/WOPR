@@ -1,14 +1,14 @@
 3.81.27.148,7443,Covenant,Amazon Data Services NoVa,ec2-3-81-27-148.compute-1.amazonaws.com
-85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-18.132.243.126,7443,Covenant,Amazon Data Services UK,ec2-18-132-243-126.eu-west-2.compute.amazonaws.com
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
-44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
-94.142.138.60,7443,Covenant,Shelter LLC,
-147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
+18.132.243.126,7443,Covenant,Amazon Data Services UK,ec2-18-132-243-126.eu-west-2.compute.amazonaws.com
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
+94.142.138.60,7443,Covenant,Shelter LLC,
+44.198.64.113,7443,Covenant,Amazon Data Services NoVa,ec2-44-198-64-113.compute-1.amazonaws.com
+147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
 37.139.129.17,7443,Covenant,Des Capital B.V.,
 130.61.124.23,7443,Covenant,Oracle Public Cloud,
 129.213.138.54,7443,Covenant,Oracle Public Cloud,
