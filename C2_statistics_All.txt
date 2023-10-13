@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 39 (12.5%)
-- 43.138.0.0/18 (AS45090)    3 (1.0%)
-- 39.106.0.0/15 (AS37963)    3 (1.0%)
 - 3.64.0.0/12 (AS16509)      3 (1.0%)
 - 47.110.0.0/16 (AS37963)    3 (1.0%)
+- 43.138.0.0/18 (AS45090)    3 (1.0%)
+- 39.106.0.0/15 (AS37963)    3 (1.0%)
 
 Top Countries
 - China         89 (28.5%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 48 (15.4%)
 - Shanghai, Shanghai, CN             30 (9.6%)
 - Beijing, Beijing, CN               24 (7.7%)
-- Shenzhen, Guangdong, CN            15 (4.8%)
 - Frankfurt am Main, Hesse, DE       15 (4.8%)
+- Shenzhen, Guangdong, CN            15 (4.8%)
 
 Top Regions
 - Central and Western, HK 48 (15.4%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear              3 (1.0%)
-- VPN Unlimited           1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - HideIPVpn               1 (0.3%)
 - BulletVPN               1 (0.3%)
+- VPN Unlimited           1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     10 (3.2%)
