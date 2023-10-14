@@ -14,8 +14,8 @@ Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 56 (17.9%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              39 (12.5%)
 - AS14061 DigitalOcean, LLC                                 23 (7.4%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             19 (6.1%)
 - AS16509 Amazon.com, Inc.                                  19 (6.1%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             19 (6.1%)
 
 Top Usage Types
 - Hosting   240 (76.9%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - hwclouds-dns.com     10 (3.2%)
-- null                 8 (2.6%)
 - contaboserver.net    8 (2.6%)
+- null                 8 (2.6%)
 - vultrusercontent.com 7 (2.2%)
