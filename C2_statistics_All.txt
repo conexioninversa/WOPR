@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 39 (12.6%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
 - 47.100.0.0/15 (AS37963)    3 (1.0%)
-- 39.100.0.0/14 (AS37963)    2 (0.6%)
 - 101.42.0.0/18 (AS45090)    2 (0.6%)
+- 39.100.0.0/14 (AS37963)    2 (0.6%)
 
 Top Countries
 - China         80 (25.8%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear 4 (1.3%)
-- BulletVPN  1 (0.3%)
-- ProtonVPN  1 (0.3%)
 - Celo       1 (0.3%)
 - VPN Jantit 1 (0.3%)
+- BulletVPN  1 (0.3%)
+- ProtonVPN  1 (0.3%)
 
 Top Domains
 - contaboserver.net    12 (3.9%)
