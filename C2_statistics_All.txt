@@ -1,6 +1,6 @@
 Summary
-- Total   310
-- Unique  308
+- Total   309
+- Unique  307
 - Anycast 1
 - Bogon   0
 - Mobile  0
@@ -11,16 +11,16 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 53 (17.1%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 52 (16.8%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              39 (12.6%)
 - AS14061 DigitalOcean, LLC                                 25 (8.1%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             20 (6.5%)
 - AS16509 Amazon.com, Inc.                                  17 (5.5%)
 
 Top Usage Types
-- Hosting  242 (78.1%)
+- Hosting  242 (78.3%)
 - Business 47 (15.2%)
-- ISP      19 (6.1%)
+- ISP      18 (5.8%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 39 (12.6%)
@@ -30,22 +30,22 @@ Top Routes
 - 39.100.0.0/14 (AS37963)    2 (0.6%)
 
 Top Countries
-- China         80 (25.8%)
+- China         79 (25.6%)
 - Hong Kong     57 (18.4%)
-- United States 45 (14.5%)
-- Germany       24 (7.7%)
+- United States 45 (14.6%)
+- Germany       24 (7.8%)
 - Netherlands   17 (5.5%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 53 (17.1%)
-- Shanghai, Shanghai, CN             34 (11.0%)
+- Hong Kong, Central and Western, HK 53 (17.2%)
+- Shanghai, Shanghai, CN             33 (10.7%)
 - Beijing, Beijing, CN               19 (6.1%)
-- Amsterdam, North Holland, NL       15 (4.8%)
+- Amsterdam, North Holland, NL       15 (4.9%)
 - Shenzhen, Guangdong, CN            13 (4.2%)
 
 Top Regions
-- Central and Western, HK 53 (17.1%)
-- Shanghai, CN            34 (11.0%)
+- Central and Western, HK 53 (17.2%)
+- Shanghai, CN            33 (10.7%)
 - Beijing, CN             19 (6.1%)
 - North Holland, NL       16 (5.2%)
 - Guangdong, CN           16 (5.2%)
@@ -60,5 +60,5 @@ Top Privacy Services
 Top Domains
 - contaboserver.net    12 (3.9%)
 - null                 9 (2.9%)
+- vultrusercontent.com 8 (2.6%)
 - hwclouds-dns.com     8 (2.6%)
-- vultrusercontent.com 7 (2.3%)
