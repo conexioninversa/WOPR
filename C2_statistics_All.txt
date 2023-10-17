@@ -6,20 +6,20 @@ Summary
 - Mobile  0
 - VPN     22
 - Proxy   0
-- Hosting 248
+- Hosting 247
 - Tor     0
 - Relay   0
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 51 (16.3%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (11.2%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             21 (6.7%)
 - AS14061 DigitalOcean, LLC                                 21 (6.7%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             21 (6.7%)
 - AS16509 Amazon.com, Inc.                                  16 (5.1%)
 
 Top Usage Types
-- Hosting   246 (78.6%)
-- Business  48 (15.3%)
+- Hosting   245 (78.3%)
+- Business  49 (15.7%)
 - ISP       15 (4.8%)
 - Education 1 (0.3%)
 
@@ -34,7 +34,7 @@ Top Countries
 - China         85 (27.2%)
 - Hong Kong     50 (16.0%)
 - United States 44 (14.1%)
-- Germany       24 (7.7%)
+- Germany       25 (8.0%)
 - France        14 (4.5%)
 
 Top Cities
@@ -48,15 +48,15 @@ Top Regions
 - Central and Western, HK 45 (14.4%)
 - Shanghai, CN            36 (11.5%)
 - Beijing, CN             25 (8.0%)
-- Hesse, DE               15 (4.8%)
+- Hesse, DE               16 (5.1%)
 - Virginia, US            13 (4.2%)
 
 Top Privacy Services
-- TunnelBear    3 (1.0%)
-- VPN Satoshi   2 (0.6%)
-- VPN Unlimited 2 (0.6%)
-- 4ebur.net     1 (0.3%)
-- ZoogVPN       1 (0.3%)
+- TunnelBear  3 (1.0%)
+- VPN Satoshi 2 (0.6%)
+- Mullvad     1 (0.3%)
+- 4ebur.net   1 (0.3%)
+- ZoogVPN     1 (0.3%)
 
 Top Domains
 - null                 10 (3.2%)
