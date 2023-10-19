@@ -31,8 +31,8 @@ Top Routes
 
 Top Countries
 - China         61 (19.1%)
-- Hong Kong     52 (16.2%)
 - United States 52 (16.2%)
+- Hong Kong     52 (16.2%)
 - Germany       30 (9.4%)
 - Netherlands   23 (7.2%)
 
@@ -45,20 +45,20 @@ Top Cities
 
 Top Regions
 - Central and Western, HK 49 (15.3%)
-- North Holland, NL       22 (6.9%)
 - Shanghai, CN            22 (6.9%)
+- North Holland, NL       22 (6.9%)
 - Beijing, CN             18 (5.6%)
 - Hesse, DE               17 (5.3%)
 
 Top Privacy Services
-- VPN Satoshi   2 (0.6%)
 - TunnelBear    2 (0.6%)
+- VPN Satoshi   2 (0.6%)
 - VPN Unlimited 1 (0.3%)
 - HideMyAss     1 (0.3%)
 - Mullvad       1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (2.8%)
+- null                 8 (2.5%)
 - vultrusercontent.com 8 (2.5%)
 - hwclouds-dns.com     8 (2.5%)
-- null                 8 (2.5%)
