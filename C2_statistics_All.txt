@@ -18,9 +18,9 @@ Top ASNs
 - AS51167 Contabo GmbH                                      11 (3.5%)
 
 Top Usage Types
-- Hosting  252 (79.5%)
-- Business 41 (12.9%)
-- ISP      22 (6.9%)
+- Hosting  253 (79.8%)
+- Business 42 (13.2%)
+- ISP      20 (6.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 10 (3.2%)
@@ -40,20 +40,20 @@ Top Cities
 - Shanghai, Shanghai, CN             28 (8.8%)
 - Hong Kong, Central and Western, HK 22 (6.9%)
 - Amsterdam, North Holland, NL       22 (6.9%)
-- Beijing, Beijing, CN               21 (6.6%)
-- Frankfurt am Main, Hesse, DE       15 (4.7%)
+- Beijing, Beijing, CN               20 (6.3%)
+- Frankfurt am Main, Hesse, DE       16 (5.0%)
 
 Top Regions
 - Shanghai, CN            28 (8.8%)
-- Beijing, CN             22 (6.9%)
 - North Holland, NL       22 (6.9%)
 - Central and Western, HK 22 (6.9%)
-- Hesse, DE               16 (5.0%)
+- Beijing, CN             21 (6.6%)
+- Hesse, DE               17 (5.4%)
 
 Top Privacy Services
+- VPN Satoshi   2 (0.6%)
 - VPN Unlimited 2 (0.6%)
 - TunnelBear    2 (0.6%)
-- VPN Satoshi   2 (0.6%)
 - Mullvad       1 (0.3%)
 - BulletVPN     1 (0.3%)
 
