@@ -52,8 +52,8 @@ Top Regions
 - Hesse, DE               15 (4.7%)
 
 Top Privacy Services
-- VPN Satoshi   3 (0.9%)
 - TunnelBear    3 (0.9%)
+- VPN Satoshi   3 (0.9%)
 - VPN Unlimited 2 (0.6%)
 - Mullvad       1 (0.3%)
 - VPN Jantit    1 (0.3%)
@@ -61,5 +61,5 @@ Top Privacy Services
 Top Domains
 - null                 12 (3.8%)
 - contaboserver.net    9 (2.8%)
-- your-server.de       6 (1.9%)
 - vultrusercontent.com 6 (1.9%)
+- your-server.de       6 (1.9%)
