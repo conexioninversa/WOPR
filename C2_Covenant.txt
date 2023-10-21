@@ -1,15 +1,15 @@
-18.102.118.100,7443,Covenant,Amazon Data Services Italy,ec2-18-102-118-100.eu-south-1.compute.amazonaws.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 35.180.21.188,7443,Covenant,Amazon Data Services France,ec2-35-180-21-188.eu-west-3.compute.amazonaws.com
 45.136.6.21,7443,Covenant,London Reklam ve Danismanlik Turizm Ticaret Limited Sirketi,
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 94.130.30.38,7443,Covenant,Hetzner Online GmbH,static.38.30.130.94.clients.your-server.de
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 94.142.138.60,7443,Covenant,Shelter LLC,
 147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+18.102.118.100,7443,Covenant,Amazon Data Services Italy,ec2-18-102-118-100.eu-south-1.compute.amazonaws.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
 129.213.138.54,7443,Covenant,Oracle Public Cloud,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 90.84.193.31,7443,Covenant,OBS OCB HONEY,ecs-90-84-193-31.compute.prod-cloud-ocb.orange-business.com
 3.81.27.148,7443,Covenant,Amazon Data Services NoVa,ec2-3-81-27-148.compute-1.amazonaws.com
 18.132.243.126,7443,Covenant,Amazon Data Services UK,ec2-18-132-243-126.eu-west-2.compute.amazonaws.com
