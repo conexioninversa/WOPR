@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 19 (6.0%)
-- 101.43.128.0/18 (AS45090)  3 (0.9%)
 - 39.104.0.0/15 (AS37963)    3 (0.9%)
 - 47.102.0.0/15 (AS37963)    3 (0.9%)
 - 82.156.128.0/18 (AS45090)  3 (0.9%)
+- 101.43.128.0/18 (AS45090)  3 (0.9%)
 
 Top Countries
 - China         77 (24.4%)
@@ -61,5 +61,5 @@ Top Privacy Services
 Top Domains
 - null                 12 (3.8%)
 - contaboserver.net    9 (2.8%)
-- your-server.de       6 (1.9%)
 - vultrusercontent.com 6 (1.9%)
+- your-server.de       6 (1.9%)
