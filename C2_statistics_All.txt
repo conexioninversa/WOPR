@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     20
+- VPN     22
 - Proxy   0
-- Hosting 247
+- Hosting 248
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  15 (4.7%)
 
 Top Usage Types
-- Hosting   248 (78.2%)
-- Business  50 (15.8%)
+- Hosting   249 (78.5%)
+- Business  49 (15.5%)
 - ISP       18 (5.7%)
 - Education 1 (0.3%)
 
@@ -52,7 +52,7 @@ Top Regions
 - Hesse, DE               15 (4.7%)
 
 Top Privacy Services
-- TunnelBear              2 (0.6%)
+- TunnelBear              3 (0.9%)
 - VPN Satoshi             2 (0.6%)
 - VPN99                   1 (0.3%)
 - Private Internet Access 1 (0.3%)
