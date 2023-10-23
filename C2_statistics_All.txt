@@ -24,8 +24,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 29 (9.2%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 43.138.0.0/18 (AS45090)    3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 175.178.192.0/18 (AS45090) 2 (0.6%)
 - 121.4.32.0/19 (AS45090)    2 (0.6%)
 
@@ -59,6 +59,6 @@ Top Privacy Services
 
 Top Domains
 - null                 9 (2.8%)
-- vultrusercontent.com 7 (2.2%)
 - contaboserver.net    7 (2.2%)
+- vultrusercontent.com 7 (2.2%)
 - colocrossing.com     4 (1.3%)
