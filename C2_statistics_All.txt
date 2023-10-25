@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     24
+- VPN     27
 - Proxy   0
-- Hosting 229
+- Hosting 220
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.3%)
 
 Top Usage Types
-- Hosting  229 (72.0%)
-- Business 76 (23.9%)
+- Hosting  220 (69.2%)
+- Business 85 (26.7%)
 - ISP      13 (4.1%)
 
 Top Routes
@@ -51,14 +51,14 @@ Top Regions
 - North Holland, NL       15 (4.7%)
 
 Top Privacy Services
-- TunnelBear    6 (1.9%)
+- TunnelBear    7 (2.2%)
+- VPN Satoshi   2 (0.6%)
 - VPN Unlimited 1 (0.3%)
 - NordVPN       1 (0.3%)
-- Le-VPN        1 (0.3%)
-- VPN99         1 (0.3%)
+- BulletVPN     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     13 (4.1%)
-- vultrusercontent.com 9 (2.8%)
 - contaboserver.net    9 (2.8%)
+- vultrusercontent.com 9 (2.8%)
 - null                 8 (2.5%)
