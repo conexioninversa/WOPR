@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 51 (15.9%)
 - 182.161.68.0/22 (AS132839) 3 (0.9%)
+- 31.44.184.0/24 (AS34665)   2 (0.6%)
 - 43.138.0.0/18 (AS45090)    2 (0.6%)
 - 49.233.48.0/20 (AS45090)   2 (0.6%)
-- 31.44.184.0/24 (AS34665)   2 (0.6%)
 
 Top Countries
 - China         71 (22.2%)
@@ -52,8 +52,8 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear  5 (1.6%)
-- VPN Satoshi 2 (0.6%)
 - Mullvad     2 (0.6%)
+- VPN Satoshi 2 (0.6%)
 - HideIPVpn   1 (0.3%)
 - 4ebur.net   1 (0.3%)
 
