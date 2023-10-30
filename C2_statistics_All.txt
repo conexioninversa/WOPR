@@ -18,15 +18,15 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             13 (4.0%)
 
 Top Usage Types
-- Hosting   228 (70.8%)
-- Business  71 (22.0%)
+- Hosting   229 (71.1%)
+- Business  70 (21.7%)
 - ISP       22 (6.8%)
 - Education 1 (0.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.4%)
-- 101.43.128.0/18 (AS45090)  3 (0.9%)
 - 65.109.0.0/16 (AS24940)    3 (0.9%)
+- 101.43.128.0/18 (AS45090)  3 (0.9%)
 - 5.101.0.0/24 (AS34665)     2 (0.6%)
 - 49.233.48.0/20 (AS45090)   2 (0.6%)
 
@@ -52,8 +52,8 @@ Top Regions
 - Virginia, US            13 (4.0%)
 
 Top Privacy Services
-- VPN Satoshi 2 (0.6%)
 - TunnelBear  2 (0.6%)
+- VPN Satoshi 2 (0.6%)
 - HideIPVpn   1 (0.3%)
 - VPN Jantit  1 (0.3%)
 - NordVPN     1 (0.3%)
