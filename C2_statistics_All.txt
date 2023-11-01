@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     22
 - Proxy   0
-- Hosting 239
+- Hosting 232
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  20 (6.1%)
 
 Top Usage Types
-- Hosting   239 (72.4%)
-- Business  72 (21.8%)
+- Hosting   232 (70.3%)
+- Business  79 (23.9%)
 - ISP       18 (5.5%)
 - Education 1 (0.3%)
 
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL       15 (4.5%)
 
 Top Privacy Services
-- VPN Satoshi 3 (0.9%)
-- BulletVPN   2 (0.6%)
-- TunnelBear  2 (0.6%)
-- HideIPVpn   1 (0.3%)
-- NordVPN     1 (0.3%)
+- VPN Satoshi 2 (0.6%)
+- SaferVPN    1 (0.3%)
+- HideMyAss   1 (0.3%)
+- BulletVPN   1 (0.3%)
+- TunnelBear  1 (0.3%)
 
 Top Domains
 - null                 11 (3.3%)
