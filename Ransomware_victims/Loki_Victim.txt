@@ -3,5 +3,3 @@
 148.204.64.19,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,Instituto Politecnico Nacional,pc-064-019.cic.ipn.mx;m019.cic20.ipn.mx
 54.155.165.204,,14265,,Amazon Technologies Inc.,ec2-54-155-165-204.eu-west-1.compute.amazonaws.com
 190.46.115.230,Windows (build 10.0.17763),3389,Remote Desktop Protocol,VTR BANDA ANCHA S.A.,pc-230-115-46-190.cm.vtr.net
-91.190.125.137,Windows 7 Professional,3389,Remote Desktop Protocol,Awanti Ltd.,91-190-125-137.ll.awanti.com
-43.153.208.149,Windows Server 2012 R2,3389,Remote Desktop Protocol,Asia Pacific Network Information Center, Pty. Ltd.,
