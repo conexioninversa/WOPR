@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     23
 - Proxy   0
-- Hosting 220
+- Hosting 252
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.2%)
 
 Top Usage Types
-- Hosting   219 (66.4%)
-- Business  95 (28.8%)
+- Hosting   251 (76.1%)
+- Business  63 (19.1%)
 - ISP       15 (4.5%)
 - Education 1 (0.3%)
 
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear    3 (0.9%)
 - VPN Satoshi   2 (0.6%)
+- Mullvad       1 (0.3%)
 - VPN99         1 (0.3%)
 - VPN Unlimited 1 (0.3%)
-- Mullvad       1 (0.3%)
 
 Top Domains
 - null                       10 (3.0%)
