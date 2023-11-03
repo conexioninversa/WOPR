@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 50 (15.2%)
-- 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 101.43.64.0/18 (AS45090)   4 (1.2%)
+- 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 175.24.192.0/18 (AS45090)  2 (0.6%)
 
@@ -54,12 +54,12 @@ Top Regions
 Top Privacy Services
 - TunnelBear    3 (0.9%)
 - VPN Satoshi   2 (0.6%)
-- Mullvad       1 (0.3%)
 - VPN99         1 (0.3%)
 - VPN Unlimited 1 (0.3%)
+- Mullvad       1 (0.3%)
 
 Top Domains
-- null                       10 (3.0%)
 - hwclouds-dns.com           10 (3.0%)
+- null                       10 (3.0%)
 - vultrusercontent.com       8 (2.4%)
 - stark-industries.solutions 5 (1.5%)
