@@ -1,11 +1,11 @@
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
 85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
+45.136.6.21,7443,Covenant,London Reklam ve Danismanlik Turizm Ticaret Limited Sirketi,
 94.142.138.60,7443,Covenant,Shelter LLC,
+147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-45.136.6.21,7443,Covenant,London Reklam ve Danismanlik Turizm Ticaret Limited Sirketi,
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 157.254.236.111,7443,Covenant,Virtuo Holdings Inc,
 103.141.68.145,7443,Covenant,CSNE Co., Ltd.,
 62.233.50.25,7443,Covenant,SIERRA LLC,
