@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (11.5%)
+- 150.158.0.0/18 (AS45090)   3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 123.249.64.0/18 (AS55990)  3 (0.9%)
-- 150.158.0.0/18 (AS45090)   3 (0.9%)
 
 Top Countries
 - China         74 (22.4%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi             4 (1.2%)
 - TunnelBear              3 (0.9%)
-- HideIPVpn               1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - VPN Unlimited           1 (0.3%)
+- HideIPVpn               1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     11 (3.3%)
