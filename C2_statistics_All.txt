@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 37 (11.2%)
 - 47.100.0.0/15 (AS37963)    3 (0.9%)
-- 124.71.224.0/20 (AS55990)  2 (0.6%)
 - 47.92.0.0/15 (AS37963)     2 (0.6%)
 - 47.110.0.0/16 (AS37963)    2 (0.6%)
+- 124.71.224.0/20 (AS55990)  2 (0.6%)
 
 Top Countries
 - China         83 (25.1%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi   3 (0.9%)
 - TunnelBear    3 (0.9%)
-- 4ebur.net     1 (0.3%)
 - VPN Unlimited 1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- 4ebur.net     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     12 (3.6%)
