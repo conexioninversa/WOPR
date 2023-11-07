@@ -46,19 +46,19 @@ Top Cities
 Top Regions
 - Central and Western, HK 56 (17.0%)
 - Shanghai, CN            31 (9.4%)
-- Hesse, DE               19 (5.8%)
 - Beijing, CN             19 (5.8%)
+- Hesse, DE               19 (5.8%)
 - Moscow, RU              16 (4.9%)
 
 Top Privacy Services
 - TunnelBear  3 (0.9%)
 - VPN Satoshi 2 (0.6%)
+- VPN Jantit  1 (0.3%)
 - VPN Gate    1 (0.3%)
 - Mullvad     1 (0.3%)
-- VPN Jantit  1 (0.3%)
 
 Top Domains
-- null                 10 (3.0%)
 - contaboserver.net    10 (3.0%)
+- null                 10 (3.0%)
 - hwclouds-dns.com     8 (2.4%)
 - vultrusercontent.com 6 (1.8%)
