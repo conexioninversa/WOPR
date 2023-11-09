@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 37 (11.1%)
-- 43.138.0.0/18 (AS45090)    4 (1.2%)
 - 47.110.0.0/16 (AS37963)    4 (1.2%)
+- 43.138.0.0/18 (AS45090)    4 (1.2%)
 - 175.24.192.0/18 (AS45090)  2 (0.6%)
 - 139.159.192.0/20 (AS55990) 2 (0.6%)
 
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi             2 (0.6%)
 - VPN Unlimited           2 (0.6%)
+- Private Internet Access 1 (0.3%)
 - BulletVPN               1 (0.3%)
 - TunnelBear              1 (0.3%)
-- Private Internet Access 1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     11 (3.3%)
