@@ -1,0 +1,4 @@
+181.56.166.194,80,Apache httpd,Telmex Colombia S.A.,static-ip-18156166194.cable.net.co
+43.131.45.17,8080,SimpleHTTPServer,Asia Pacific Network Information Center, Pty. Ltd.,
+34.220.186.86,80,nginx,Amazon Technologies Inc.,ec2-34-220-186-86.us-west-2.compute.amazonaws.com
+130.61.40.154,80,Apache httpd,Oracle Public Cloud,
