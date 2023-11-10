@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 46 (13.8%)
 - Beijing, Beijing, CN               21 (6.3%)
 - Shanghai, Shanghai, CN             20 (6.0%)
-- Moscow, Moscow, RU                 15 (4.5%)
 - Amsterdam, North Holland, NL       15 (4.5%)
+- Moscow, Moscow, RU                 15 (4.5%)
 
 Top Regions
 - Central and Western, HK 46 (13.8%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi   3 (0.9%)
 - VPN Unlimited 2 (0.6%)
+- VPN Gate      1 (0.3%)
 - Mullvad       1 (0.3%)
 - TunnelBear    1 (0.3%)
-- VPN Gate      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 10 (3.0%)
