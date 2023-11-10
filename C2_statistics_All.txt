@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 29 (8.7%)
-- 43.138.64.0/18 (AS45090)   3 (0.9%)
-- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 182.161.68.0/22 (AS132839) 3 (0.9%)
+- 43.138.64.0/18 (AS45090)   3 (0.9%)
+- 148.66.6.0/24 (AS45753)    3 (0.9%)
 
 Top Countries
 - China         68 (20.4%)
@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 46 (13.8%)
 - Beijing, Beijing, CN               21 (6.3%)
 - Shanghai, Shanghai, CN             20 (6.0%)
-- Moscow, Moscow, RU                 15 (4.5%)
 - Amsterdam, North Holland, NL       15 (4.5%)
+- Moscow, Moscow, RU                 15 (4.5%)
 
 Top Regions
 - Central and Western, HK 46 (13.8%)
