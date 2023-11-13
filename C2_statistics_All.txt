@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 42 (12.5%)
 - 8.130.0.0/16 (AS37963)     3 (0.9%)
+- 202.95.15.0/24 (AS64050)   2 (0.6%)
 - 123.60.128.0/18 (AS55990)  2 (0.6%)
 - 139.155.32.0/20 (AS45090)  2 (0.6%)
-- 202.95.15.0/24 (AS64050)   2 (0.6%)
 
 Top Countries
 - China         88 (26.3%)
@@ -59,6 +59,6 @@ Top Privacy Services
 
 Top Domains
 - hwclouds-dns.com     15 (4.5%)
-- contaboserver.net    10 (3.0%)
 - vultrusercontent.com 10 (3.0%)
+- contaboserver.net    10 (3.0%)
 - null                 7 (2.1%)
