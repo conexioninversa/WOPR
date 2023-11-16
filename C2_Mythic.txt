@@ -1,11 +1,16 @@
+198.148.80.86,7443,,Mythic,PRIVACY-PROTECTED,mail1.wenixin.com
+54.197.245.200,7443,,Mythic,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
+138.197.156.131,7443,,Mythic,DigitalOcean, LLC,
+193.134.210.75,7443,,Mythic,Cloudco LLC,
+188.40.162.125,7443,,Mythic,Hetzner Online GmbH,static.125.162.40.188.clients.your-server.de
+139.59.109.136,7443,,Mythic,DigitalOcean, LLC,
+65.109.103.227,7443,,Mythic,Hetzner Online GmbH,static.227.103.109.65.clients.your-server.de
 95.111.236.195,7443,,Mythic,Contabo GmbH,vmi1341970.contaboserver.net
 149.248.51.25,7443,,Mythic,Vultr Holdings, LLC,149.248.51.25.vultrusercontent.com
 91.107.234.213,7443,,Mythic,Hetzner Online GmbH,static.213.234.107.91.clients.your-server.de
 118.31.72.66,7443,,Mythic,Aliyun Computing Co., LTD,
 68.183.152.119,7443,,Mythic,DigitalOcean, LLC,
-198.148.80.86,7443,,Mythic,PRIVACY-PROTECTED,mail1.wenixin.com
 45.133.238.221,7443,,Mythic,RHINO CLOUD LTD,
-193.134.210.75,7443,,Mythic,Cloudco LLC,
 198.52.123.223,7443,,Mythic,STYLEX Networks INC,223-123-52-198-dedicated.multacom.com
 142.93.166.252,7443,,Mythic,DigitalOcean, LLC,
 94.102.49.176,7443,,nginx,FiberXpress BV,no-reverse-dns-configured.com
@@ -13,11 +18,9 @@
 157.230.93.100,7443,,nginx,DigitalOcean, LLC,
 34.206.208.220,7443,,Mythic,Amazon Technologies Inc.,ec2-34-206-208-220.compute-1.amazonaws.com
 64.31.63.82,7443,,Mythic,Limestone Networks, Inc.,82-63-31-64.static.reverse.lstn.net
-54.197.245.200,7443,,Mythic,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
 185.43.222.183,7443,,Mythic,Hooray Solutions Corp.,vz2.hostlife.net
 62.109.24.105,7443,,Mythic,JSC IOT,deliver.synerr.ru
 193.41.237.173,7443,,Mythic,dataforest GmbH,v56119.php-friends.de
-65.109.103.227,7443,,Mythic,Hetzner Online GmbH,static.227.103.109.65.clients.your-server.de
 45.137.118.181,7443,,Mythic,IPXO LIMITED,
 185.245.182.209,7443,,nginx,Contabo GmbH,vmi1247833.contaboserver.net
 45.79.213.188,7443,,Mythic,Linode,45-79-213-188.ip.linodeusercontent.com
@@ -29,7 +32,6 @@
 94.131.98.34,7443,,Mythic,STARK INDUSTRIES SOLUTIONS LTD,vm1610977.stark-industries.solutions
 67.207.81.170,7443,,Mythic,DigitalOcean, LLC,
 185.215.180.99,7443,,Mythic,Contabo GmbH,recon.justsec.net
-139.59.109.136,7443,,Mythic,DigitalOcean, LLC,
 83.244.163.202,7443,,Mythic,SCALABLE COMMUNICATIONS,83-244-163-202.cust-83.exponential-e.net
 34.215.75.141,7443,,Mythic,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
 185.187.169.34,7443,,Mythic,Contabo GmbH,vmi1205332.contaboserver.net
@@ -52,7 +54,6 @@
 159.89.191.115,7443,,Mythic,DigitalOcean, LLC,
 192.248.153.47,7443,,Mythic,The Constant Company, LLC,192.248.153.47.vultrusercontent.com
 54.168.147.222,7443,,Mythic,Amazon Data Services Japan,ec2-54-168-147-222.ap-northeast-1.compute.amazonaws.com
-188.40.162.125,7443,,Mythic,Hetzner Online GmbH,static.125.162.40.188.clients.your-server.de
 207.191.226.206,7443,,Mythic,NetSource Communications, Inc.,
 62.182.84.234,7443,,Mythic,Virtual Systems LLC,mail34.nuevomailmdb.com
 167.172.136.176,7443,,Mythic,DigitalOcean, LLC,
@@ -60,7 +61,6 @@
 103.140.187.203,7443,,Mythic,EstNOC-GLOBAL,
 172.104.206.233,7443,,Mythic,Linode,172-104-206-233.ip.linodeusercontent.com
 91.207.183.26,7443,,Mythic,STARK INDUSTRIES SOLUTIONS LTD.,vm1657703.stark-industries.solutions
-138.197.156.131,7443,,Mythic,DigitalOcean, LLC,
 185.141.63.166,7443,,Mythic,Redcluster LTD,
 95.164.19.54,7443,,Mythic,STARK INDUSTRIES SOLUTIONS LTD.,vm1746027.stark-industries.solutions
 3.69.214.254,7443,,Mythic,A100 ROW GmbH,ec2-3-69-214-254.eu-central-1.compute.amazonaws.com
@@ -90,4 +90,3 @@
 35.161.156.250,7443,,Mythic,Amazon.com, Inc.,ec2-35-161-156-250.us-west-2.compute.amazonaws.com
 20.92.62.101,7443,,Mythic,Microsoft Corporation,
 120.46.138.126,7443,,Mythic,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),ecs-120-46-138-126.compute.hwclouds-dns.com
-44.217.229.194,7443,,Mythic,Amazon Data Services NoVa,ec2-44-217-229-194.compute-1.amazonaws.com
