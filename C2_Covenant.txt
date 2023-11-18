@@ -1,12 +1,14 @@
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+130.61.124.23,7443,Covenant,Oracle Public Cloud,
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+34.124.138.144,7443,Covenant,Google LLC,144.138.124.34.bc.googleusercontent.com
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+157.254.236.111,7443,Covenant,Virtuo Holdings Inc,
 193.168.145.73,7443,Covenant,SERVERD SAS,
 44.224.46.16,7443,Covenant,Amazon.com, Inc.,ec2-44-224-46-16.us-west-2.compute.amazonaws.com
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 195.20.16.31,7443,Covenant,3DATA LLC,
-157.254.236.111,7443,Covenant,Virtuo Holdings Inc,
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
 45.136.6.21,7443,Covenant,London Reklam ve Danismanlik Turizm Ticaret Limited Sirketi,
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
 51.77.173.201,7443,Covenant,Hashemi Majid,ip201.ip-51-77-173.eu
 85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
 147.78.47.238,7443,Covenant,M Nets SAL,undefined.hostname.localhost
