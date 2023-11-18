@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 42 (12.5%)
 - 101.43.64.0/18 (AS45090)   4 (1.2%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 43.138.128.0/18 (AS45090)  3 (0.9%)
 - 121.4.64.0/18 (AS45090)    3 (0.9%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 
 Top Countries
 - China         77 (22.8%)
@@ -52,8 +52,8 @@ Top Regions
 - Hesse, DE               14 (4.2%)
 
 Top Privacy Services
-- VPN Satoshi   2 (0.6%)
 - VPN Unlimited 2 (0.6%)
+- VPN Satoshi   2 (0.6%)
 - SaferVPN      1 (0.3%)
 - Mullvad       1 (0.3%)
 - TunnelBear    1 (0.3%)
