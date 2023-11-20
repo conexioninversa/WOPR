@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.1%)
 
 Top Usage Types
-- Hosting  253 (75.5%)
+- Hosting  254 (75.8%)
 - Business 61 (18.2%)
-- ISP      20 (6.0%)
+- ISP      19 (5.7%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 44 (13.1%)
@@ -33,32 +33,32 @@ Top Countries
 - China         77 (23.0%)
 - Hong Kong     61 (18.2%)
 - United States 56 (16.7%)
-- Germany       31 (9.3%)
+- Germany       30 (9.0%)
 - Singapore     16 (4.8%)
 
 Top Cities
 - Hong Kong, Central and Western, HK 61 (18.2%)
 - Shanghai, Shanghai, CN             27 (8.1%)
-- Beijing, Beijing, CN               21 (6.3%)
-- Frankfurt am Main, Hesse, DE       16 (4.8%)
+- Beijing, Beijing, CN               22 (6.6%)
 - Singapore, Singapore, SG           16 (4.8%)
+- Frankfurt am Main, Hesse, DE       15 (4.5%)
 
 Top Regions
 - Central and Western, HK 61 (18.2%)
 - Shanghai, CN            28 (8.4%)
-- Beijing, CN             21 (6.3%)
-- Hesse, DE               17 (5.1%)
+- Beijing, CN             22 (6.6%)
+- Hesse, DE               16 (4.8%)
 - Singapore, SG           16 (4.8%)
 
 Top Privacy Services
 - VPN Unlimited           2 (0.6%)
 - VPN Satoshi             2 (0.6%)
+- VPN99                   1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - HideIPVpn               1 (0.3%)
-- VPN99                   1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (2.7%)
-- hwclouds-dns.com     7 (2.1%)
 - vultrusercontent.com 7 (2.1%)
+- hwclouds-dns.com     7 (2.1%)
 - your-server.de       6 (1.8%)
