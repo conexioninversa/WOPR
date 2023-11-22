@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     21
 - Proxy   0
-- Hosting 259
+- Hosting 260
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.1%)
 
 Top Usage Types
-- Hosting  240 (71.4%)
-- Business 80 (23.8%)
+- Hosting  260 (77.4%)
+- Business 60 (17.9%)
 - ISP      15 (4.5%)
 
 Top Routes
@@ -31,34 +31,34 @@ Top Routes
 
 Top Countries
 - China         74 (22.0%)
-- Hong Kong     58 (17.3%)
 - United States 58 (17.3%)
+- Hong Kong     58 (17.3%)
 - Germany       26 (7.7%)
 - Russia        18 (5.4%)
 
 Top Cities
 - Hong Kong, Central and Western, HK 57 (17.0%)
-- Shanghai, Shanghai, CN             32 (9.5%)
+- Shanghai, Shanghai, CN             30 (8.9%)
 - Beijing, Beijing, CN               21 (6.2%)
 - Amsterdam, North Holland, NL       17 (5.1%)
 - Ashburn, Virginia, US              13 (3.9%)
 
 Top Regions
 - Central and Western, HK 57 (17.0%)
-- Shanghai, CN            33 (9.8%)
+- Shanghai, CN            31 (9.2%)
 - Beijing, CN             21 (6.2%)
 - North Holland, NL       17 (5.1%)
 - Virginia, US            13 (3.9%)
 
 Top Privacy Services
+- VPN Unlimited 2 (0.6%)
 - VPN Satoshi   2 (0.6%)
 - Troywell VPN  2 (0.6%)
-- VPN Unlimited 2 (0.6%)
-- HideIPVpn     1 (0.3%)
 - TunnelBear    1 (0.3%)
+- HideIPVpn     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     11 (3.3%)
-- vultrusercontent.com 9 (2.7%)
 - null                 9 (2.7%)
+- vultrusercontent.com 9 (2.7%)
 - your-server.de       8 (2.4%)
