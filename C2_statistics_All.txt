@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 47 (14.0%)
 - 5.196.0.0/16 (AS16276)     5 (1.5%)
 - 3.64.0.0/12 (AS16509)      3 (0.9%)
-- 47.94.0.0/15 (AS37963)     2 (0.6%)
 - 121.37.192.0/18 (AS55990)  2 (0.6%)
+- 47.94.0.0/15 (AS37963)     2 (0.6%)
 
 Top Countries
 - China         74 (22.0%)
@@ -51,14 +51,14 @@ Top Regions
 - Virginia, US            13 (3.9%)
 
 Top Privacy Services
-- Troywell VPN  2 (0.6%)
 - VPN Unlimited 2 (0.6%)
 - VPN Satoshi   2 (0.6%)
+- Troywell VPN  2 (0.6%)
 - HideIPVpn     1 (0.3%)
 - TunnelBear    1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     11 (3.3%)
-- null                 9 (2.7%)
 - vultrusercontent.com 9 (2.7%)
+- null                 9 (2.7%)
 - your-server.de       8 (2.4%)
