@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 39 (11.9%)
 - 5.196.0.0/16 (AS16276)     5 (1.5%)
+- 150.158.0.0/18 (AS45090)   2 (0.6%)
 - 39.104.0.0/15 (AS37963)    2 (0.6%)
 - 162.14.64.0/18 (AS45090)   2 (0.6%)
-- 150.158.0.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - China         72 (21.9%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Unlimited           2 (0.6%)
-- VPNArea                 1 (0.3%)
-- Mullvad                 1 (0.3%)
 - HideIPVpn               1 (0.3%)
 - Private Internet Access 1 (0.3%)
+- VPNArea                 1 (0.3%)
+- Mullvad                 1 (0.3%)
 
 Top Domains
 - your-server.de       9 (2.7%)
