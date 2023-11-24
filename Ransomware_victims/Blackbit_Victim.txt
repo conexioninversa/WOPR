@@ -28,5 +28,3 @@
 190.218.157.82,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cable Onda,cpe-001617eef6b8.cpe.cableonda.net
 166.152.92.113,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Service Provider Corporation,113.sub-166-152-92.myvzw.com
 41.143.247.138,Windows 7 Professional,3389,Remote Desktop Protocol,ADSL_Maroc_telecom,
-201.93.117.219,Windows (build 10.0.19041),3389,Remote Desktop Protocol,TELEFÔNICA BRASIL S.A,201-93-117-219.dial-up.telesp.net.br
-118.32.249.5,Windows 7 Professional K,3389,Remote Desktop Protocol,Korea Telecom,
