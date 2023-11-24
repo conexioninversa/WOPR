@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 43 (12.8%)
-- 111.229.128.0/18 (AS45090) 3 (0.9%)
 - 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 39.100.0.0/14 (AS37963)    3 (0.9%)
+- 111.229.128.0/18 (AS45090) 3 (0.9%)
 - 20.64.0.0/10 (AS8075)      2 (0.6%)
 
 Top Countries
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi   3 (0.9%)
 - VPN Unlimited 2 (0.6%)
+- TunnelBear    1 (0.3%)
 - HideIPVpn     1 (0.3%)
 - SlickVPN      1 (0.3%)
-- TunnelBear    1 (0.3%)
 
 Top Domains
 - your-server.de       9 (2.7%)
