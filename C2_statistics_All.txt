@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     28
+- VPN     27
 - Proxy   0
 - Hosting 269
 - Tor     0
