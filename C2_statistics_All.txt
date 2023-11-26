@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 41 (12.5%)
 - Shanghai, Shanghai, CN             34 (10.3%)
 - Beijing, Beijing, CN               22 (6.7%)
-- Shenzhen, Guangdong, CN            14 (4.3%)
 - Moscow, Moscow, RU                 14 (4.3%)
+- Shenzhen, Guangdong, CN            14 (4.3%)
 
 Top Regions
 - Central and Western, HK 41 (12.5%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 2 (0.6%)
-- HideIPVpn   1 (0.3%)
-- VPN Jantit  1 (0.3%)
 - SaferVPN    1 (0.3%)
 - Mullvad     1 (0.3%)
+- HideIPVpn   1 (0.3%)
+- VPN Jantit  1 (0.3%)
 
 Top Domains
 - contaboserver.net    15 (4.6%)
