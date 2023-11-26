@@ -1,18 +1,18 @@
-34.124.231.204,7443,Covenant,Google LLC,204.231.124.34.bc.googleusercontent.com
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+137.184.4.41,7443,Covenant,DigitalOcean, LLC,
 167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-130.61.124.23,7443,Covenant,Oracle Public Cloud,
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
+130.61.124.23,7443,Covenant,Oracle Public Cloud,
+195.20.16.31,7443,Covenant,Shelter LLC,
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+34.124.231.204,7443,Covenant,Google LLC,204.231.124.34.bc.googleusercontent.com
 109.123.240.37,7443,Covenant,Contabo GmbH,vmi1503982.contaboserver.net
 34.205.127.224,7443,Covenant,Amazon Technologies Inc.,ec2-34-205-127-224.compute-1.amazonaws.com
-137.184.4.41,7443,Covenant,DigitalOcean, LLC,
 35.177.215.200,7443,Covenant,Amazon Data Services UK,ec2-35-177-215-200.eu-west-2.compute.amazonaws.com
 193.168.145.73,7443,Covenant,SERVERD SAS,
 34.124.138.144,7443,Covenant,Google LLC,144.138.124.34.bc.googleusercontent.com
 157.254.236.111,7443,Covenant,Virtuo Holdings Inc,
 44.224.46.16,7443,Covenant,Amazon.com, Inc.,ec2-44-224-46-16.us-west-2.compute.amazonaws.com
-195.20.16.31,7443,Covenant,3DATA LLC,
 45.136.6.21,7443,Covenant,London Reklam ve Danismanlik Turizm Ticaret Limited Sirketi,
 51.77.173.201,7443,Covenant,Hashemi Majid,ip201.ip-51-77-173.eu
 85.204.116.225,7443,Covenant,S.C. HOSTMAZE INC SRL-D,
@@ -21,5 +21,3 @@
 157.90.129.60,7443,Covenant,Hetzner Online GmbH,static.60.129.90.157.clients.your-server.de
 103.141.68.145,7443,Covenant,CSNE Co., Ltd.,
 62.233.50.25,7443,Covenant,SIERRA LLC,
-129.213.138.54,7443,Covenant,Oracle Public Cloud,
-94.130.30.38,7443,Covenant,Hetzner Online GmbH,static.38.30.130.94.clients.your-server.de
