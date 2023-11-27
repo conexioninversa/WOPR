@@ -1,11 +1,11 @@
-137.184.4.41,7443,Covenant,DigitalOcean, LLC,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-130.61.124.23,7443,Covenant,Oracle Public Cloud,
-195.20.16.31,7443,Covenant,Shelter LLC,
-34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
 34.124.231.204,7443,Covenant,Google LLC,204.231.124.34.bc.googleusercontent.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+130.61.124.23,7443,Covenant,Oracle Public Cloud,
+34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
+137.184.4.41,7443,Covenant,DigitalOcean, LLC,
+195.20.16.31,7443,Covenant,Shelter LLC,
 109.123.240.37,7443,Covenant,Contabo GmbH,vmi1503982.contaboserver.net
 34.205.127.224,7443,Covenant,Amazon Technologies Inc.,ec2-34-205-127-224.compute-1.amazonaws.com
 35.177.215.200,7443,Covenant,Amazon Data Services UK,ec2-35-177-215-200.eu-west-2.compute.amazonaws.com

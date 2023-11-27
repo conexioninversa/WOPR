@@ -1,3 +1,4 @@
+192.142.166.30,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,
 192.142.164.116,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,ns49.gkg.net;web53.gkg.net
 189.1.174.153,Windows Server 2012 R2,3389,Remote Desktop Protocol,SRVBR DATACENTER,srv03.jsbr.net.br
 52.39.178.77,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,Amazon Technologies Inc.,ec2-52-39-178-77.us-west-2.compute.amazonaws.com
