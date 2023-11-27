@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 33 (10.1%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
-- 45.79.192.0/19 (AS63949)   3 (0.9%)
 - 20.64.0.0/10 (AS8075)      3 (0.9%)
 - 31.44.184.0/24 (AS34665)   3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
+- 45.79.192.0/19 (AS63949)   3 (0.9%)
 
 Top Countries
 - China         73 (22.3%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi             2 (0.6%)
 - TunnelBear              2 (0.6%)
-- VPN Jantit              1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - VPN Unlimited           1 (0.3%)
+- VPN Jantit              1 (0.3%)
 
 Top Domains
 - contaboserver.net    9 (2.8%)
