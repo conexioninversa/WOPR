@@ -4,9 +4,9 @@ Summary
 - Anycast 1
 - Bogon   0
 - Mobile  0
-- VPN     24
+- VPN     21
 - Proxy   0
-- Hosting 260
+- Hosting 261
 - Tor     0
 - Relay   0
 
@@ -53,7 +53,7 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi             2 (0.6%)
 - Mullvad                 2 (0.6%)
-- TunnelBear              2 (0.6%)
+- TunnelBear              1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - VPN Jantit              1 (0.3%)
 
