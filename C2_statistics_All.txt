@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (10.8%)
-- 124.221.128.0/18 (AS45090) 3 (0.9%)
 - 43.138.0.0/18 (AS45090)    3 (0.9%)
+- 124.221.128.0/18 (AS45090) 3 (0.9%)
 - 8.130.0.0/16 (AS37963)     2 (0.6%)
 - 147.78.47.0/24 (AS209588)  2 (0.6%)
 
@@ -48,18 +48,18 @@ Top Regions
 - Central and Western, HK 45 (13.8%)
 - Shanghai, CN            26 (8.0%)
 - Beijing, CN             21 (6.5%)
-- Hesse, DE               14 (4.3%)
 - New Jersey, US          14 (4.3%)
+- Hesse, DE               14 (4.3%)
 
 Top Privacy Services
 - VPN Satoshi             2 (0.6%)
-- TunnelBear              1 (0.3%)
-- VPN Unlimited           1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - ProtonVPN               1 (0.3%)
+- TunnelBear              1 (0.3%)
+- VPN Unlimited           1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.4%)
-- vultrusercontent.com 10 (3.1%)
 - hwclouds-dns.com     10 (3.1%)
+- vultrusercontent.com 10 (3.1%)
 - your-server.de       6 (1.8%)
