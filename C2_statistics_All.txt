@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 53 (16.4%)
-- AS14061 DigitalOcean, LLC                                 29 (9.0%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              29 (9.0%)
+- AS14061 DigitalOcean, LLC                                 29 (9.0%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             16 (5.0%)
 - AS16509 Amazon.com, Inc.                                  15 (4.6%)
 
@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 29 (9.0%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 43.138.0.0/18 (AS45090)    4 (1.2%)
-- 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 39.104.0.0/15 (AS37963)    3 (0.9%)
+- 3.64.0.0/12 (AS16509)      3 (0.9%)
 
 Top Countries
 - China         85 (26.3%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi             2 (0.6%)
 - TunnelBear              2 (0.6%)
+- VPNArea                 1 (0.3%)
 - Private Internet Access 1 (0.3%)
 - NordVPN                 1 (0.3%)
-- VPNArea                 1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.4%)
