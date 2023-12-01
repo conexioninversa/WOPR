@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 31 (9.6%)
-- 101.43.64.0/18 (AS45090)   3 (0.9%)
 - 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
+- 101.43.64.0/18 (AS45090)   3 (0.9%)
 - 60.204.128.0/18 (AS55990)  2 (0.6%)
 
 Top Countries
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 2 (0.6%)
-- VPN Jantit  1 (0.3%)
-- Mullvad     1 (0.3%)
 - HideIPVpn   1 (0.3%)
 - VPNArea     1 (0.3%)
+- VPN Jantit  1 (0.3%)
+- Mullvad     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     11 (3.4%)
