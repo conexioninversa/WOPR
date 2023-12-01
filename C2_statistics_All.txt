@@ -52,13 +52,13 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 2 (0.6%)
-- Mullvad     1 (0.3%)
 - HideIPVpn   1 (0.3%)
 - VPNArea     1 (0.3%)
 - VPN Jantit  1 (0.3%)
+- Mullvad     1 (0.3%)
 
 Top Domains
-- hwclouds-dns.com     11 (3.4%)
 - contaboserver.net    11 (3.4%)
-- null                 8 (2.5%)
+- hwclouds-dns.com     11 (3.4%)
 - vultrusercontent.com 8 (2.5%)
+- null                 8 (2.5%)
