@@ -1,3 +1,5 @@
+121.40.192.99,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Aliyun Computing Co., LTD,
+74.91.116.59,Windows Server 2012,3389,Remote Desktop Protocol,Nuclearfallout Enterprises, Inc.,v-74-91-116-59.unman-vds.inap-nyc.nfoservers.com
 162.201.22.21,Windows (build 10.0.17763),3389,Remote Desktop Protocol,AT&T Services, Inc.,162-201-22-21.lightspeed.hstntx.sbcglobal.net
 189.36.30.22,Windows Server 2012,3389,Remote Desktop Protocol,UOL DIVEO S.A.,
 98.190.52.4,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cox Communications,wsip-98-190-52-4.hr.hr.cox.net
@@ -21,7 +23,3 @@
 3.95.197.12,Windows Server 2012 R2,3389,Remote Desktop Protocol,Amazon Data Services NoVa,ec2-3-95-197-12.compute-1.amazonaws.com
 93.218.155.247,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Deutsche Telekom AG,p5dda9bf7.dip0.t-ipconnect.de
 45.125.218.6,Windows (build 10.0.17763),3389,Remote Desktop Protocol,CLOUD GUARD LIMITED,
-70.169.21.71,Windows Server 2012 R2,3389,Remote Desktop Protocol,Cox Communications,wsip-70-169-21-71.hr.hr.cox.net
-45.125.218.5,Windows (build 10.0.17763),3389,Remote Desktop Protocol,CLOUD GUARD LIMITED,
-45.125.218.2,Windows (build 10.0.17763),3389,Remote Desktop Protocol,CLOUD GUARD LIMITED,
-166.152.92.110,,3389,Remote Desktop Protocol,Service Provider Corporation,110.sub-166-152-92.myvzw.com
