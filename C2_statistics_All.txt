@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 31 (9.5%)
-- 3.64.0.0/12 (AS16509)      3 (0.9%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 43.138.0.0/18 (AS45090)    3 (0.9%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
+- 3.64.0.0/12 (AS16509)      3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 
 Top Countries
 - China         62 (19.1%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 2 (0.6%)
+- Mullvad     1 (0.3%)
 - HideMyAss   1 (0.3%)
 - VPNArea     1 (0.3%)
 - SaferVPN    1 (0.3%)
-- Mullvad     1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.4%)
