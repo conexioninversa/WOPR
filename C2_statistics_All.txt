@@ -4,9 +4,9 @@ Summary
 - Anycast 2
 - Bogon   0
 - Mobile  0
-- VPN     21
+- VPN     24
 - Proxy   0
-- Hosting 268
+- Hosting 264
 - Tor     0
 - Relay   0
 
@@ -18,16 +18,16 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (4.3%)
 
 Top Usage Types
-- Hosting   268 (82.2%)
-- Business  42 (12.9%)
-- ISP       14 (4.3%)
+- Hosting   264 (81.0%)
+- Business  43 (13.2%)
+- ISP       17 (5.2%)
 - Education 2 (0.6%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 31 (9.5%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.98.0.0/15 (AS37963)     3 (0.9%)
 - 39.100.0.0/14 (AS37963)    3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 43.136.128.0/18 (AS45090)  2 (0.6%)
 
 Top Countries
@@ -52,11 +52,11 @@ Top Regions
 - Hesse, DE               13 (4.0%)
 
 Top Privacy Services
-- VPN Satoshi   2 (0.6%)
-- Troywell VPN  2 (0.6%)
-- VuzeVPN Proxy 1 (0.3%)
-- VPNArea       1 (0.3%)
-- TorGuard      1 (0.3%)
+- SaferVPN     2 (0.6%)
+- Troywell VPN 2 (0.6%)
+- VPN Satoshi  2 (0.6%)
+- TunnelBear   2 (0.6%)
+- TorGuard     1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.1%)
