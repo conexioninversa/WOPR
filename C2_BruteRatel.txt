@@ -1,6 +1,7 @@
 37.119.57.195,9002,R3,Brute Ratel C4,Vodafone Italia S.p.A.,francodp.dyndns.tv;net-37-119-57-195.cust.vodafonedsl.it
-18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
+18.176.27.91,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-18-176-27-91.ap-northeast-1.compute.amazonaws.com
 149.28.251.203,80,,Brute Ratel C4,Vultr Holdings, LLC,149.28.251.203.vultrusercontent.com
+18.163.6.122,80,,Brute Ratel C4,Amazon Data Services Hong Kong,ec2-18-163-6-122.ap-east-1.compute.amazonaws.com
 13.115.223.29,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-13-115-223-29.ap-northeast-1.compute.amazonaws.com
 196.51.37.139,80,,Brute Ratel C4,E-Com Cloud Solution Co., Ltd,
 13.113.204.244,80,,Brute Ratel C4,Amazon Data Services Japan,ec2-13-113-204-244.ap-northeast-1.compute.amazonaws.com
