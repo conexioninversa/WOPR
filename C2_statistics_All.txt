@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.5%)
 - 3.64.0.0/12 (AS16509)      4 (1.2%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
-- 120.78.0.0/16 (AS37963)    2 (0.6%)
 - 47.100.0.0/15 (AS37963)    2 (0.6%)
+- 120.78.0.0/16 (AS37963)    2 (0.6%)
 
 Top Countries
 - China         79 (24.6%)
@@ -55,8 +55,8 @@ Top Privacy Services
 - VPN Satoshi  3 (0.9%)
 - TunnelBear   2 (0.6%)
 - Troywell VPN 2 (0.6%)
-- PureVPN      1 (0.3%)
 - VPN Jantit   1 (0.3%)
+- PureVPN      1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 9 (2.8%)
