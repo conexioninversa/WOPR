@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (10.2%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              33 (10.2%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (10.2%)
 - AS14061 DigitalOcean, LLC                                 30 (9.2%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.2%)
 - AS16509 Amazon.com, Inc.                                  13 (4.0%)
@@ -52,8 +52,8 @@ Top Regions
 - North Holland, NL       13 (4.0%)
 
 Top Privacy Services
-- TunnelBear    2 (0.6%)
 - VPN Satoshi   2 (0.6%)
+- TunnelBear    2 (0.6%)
 - VPN Unlimited 1 (0.3%)
 - Mullvad       1 (0.3%)
 - SaferVPN      1 (0.3%)
