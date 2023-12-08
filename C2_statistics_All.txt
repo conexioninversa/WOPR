@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 30 (9.4%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 147.78.47.0/24 (AS209588)  3 (0.9%)
-- 47.100.0.0/15 (AS37963)    2 (0.6%)
 - 47.102.0.0/15 (AS37963)    2 (0.6%)
+- 47.100.0.0/15 (AS37963)    2 (0.6%)
 
 Top Countries
 - China         75 (23.4%)
@@ -52,14 +52,14 @@ Top Regions
 - Virginia, US            15 (4.7%)
 
 Top Privacy Services
+- TunnelBear   2 (0.6%)
 - VPN Satoshi  2 (0.6%)
 - Troywell VPN 2 (0.6%)
-- TunnelBear   2 (0.6%)
 - HideIPVpn    1 (0.3%)
 - Mullvad      1 (0.3%)
 
 Top Domains
 - your-server.de       10 (3.1%)
 - vultrusercontent.com 10 (3.1%)
-- null                 9 (2.8%)
 - contaboserver.net    9 (2.8%)
+- null                 9 (2.8%)
