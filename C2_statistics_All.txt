@@ -18,15 +18,15 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  12 (3.8%)
 
 Top Usage Types
-- Hosting   256 (80.0%)
-- Business  44 (13.8%)
+- Hosting   257 (80.3%)
+- Business  43 (13.4%)
 - ISP       18 (5.6%)
 - Education 1 (0.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (9.4%)
-- 147.78.47.0/24 (AS209588)  3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
+- 147.78.47.0/24 (AS209588)  3 (0.9%)
 - 47.102.0.0/15 (AS37963)    2 (0.6%)
 - 47.100.0.0/15 (AS37963)    2 (0.6%)
 
@@ -48,8 +48,8 @@ Top Regions
 - Central and Western, HK 40 (12.5%)
 - Shanghai, CN            32 (10.0%)
 - Beijing, CN             18 (5.6%)
-- North Holland, NL       15 (4.7%)
 - Virginia, US            15 (4.7%)
+- North Holland, NL       15 (4.7%)
 
 Top Privacy Services
 - TunnelBear   2 (0.6%)
