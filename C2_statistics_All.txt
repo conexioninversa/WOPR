@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 30 (9.4%)
 - 148.66.6.0/24 (AS45753)    5 (1.6%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
-- 150.158.0.0/18 (AS45090)   2 (0.6%)
 - 101.34.64.0/18 (AS45090)   2 (0.6%)
+- 150.158.0.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - China         66 (20.8%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net    13 (4.1%)
-- hwclouds-dns.com     9 (2.8%)
 - null                 9 (2.8%)
+- hwclouds-dns.com     9 (2.8%)
 - vultrusercontent.com 8 (2.5%)
