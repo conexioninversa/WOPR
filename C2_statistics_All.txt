@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     22
+- VPN     20
 - Proxy   0
-- Hosting 241
+- Hosting 243
 - Tor     0
 - Relay   0
 
@@ -18,44 +18,44 @@ Top ASNs
 - AS20473 The Constant Company, LLC                         12 (3.8%)
 
 Top Usage Types
-- Hosting  242 (77.3%)
-- Business 57 (18.2%)
+- Hosting  243 (77.6%)
+- Business 56 (17.9%)
 - ISP      13 (4.2%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 44 (14.1%)
+- 39.104.0.0/15 (AS37963)    3 (1.0%)
 - 148.66.6.0/24 (AS45753)    3 (1.0%)
 - 121.40.0.0/15 (AS37963)    3 (1.0%)
 - 47.98.0.0/15 (AS37963)     3 (1.0%)
-- 39.104.0.0/15 (AS37963)    3 (1.0%)
 
 Top Countries
 - China         67 (21.4%)
-- United States 59 (18.8%)
-- Hong Kong     58 (18.5%)
+- Hong Kong     59 (18.8%)
+- United States 58 (18.5%)
 - Germany       20 (6.4%)
 - Russia        16 (5.1%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 58 (18.5%)
+- Hong Kong, Central and Western, HK 59 (18.8%)
 - Shanghai, Shanghai, CN             22 (7.0%)
-- Beijing, Beijing, CN               19 (6.1%)
+- Beijing, Beijing, CN               18 (5.8%)
 - Amsterdam, North Holland, NL       12 (3.8%)
 - Singapore, Singapore, SG           12 (3.8%)
 
 Top Regions
-- Central and Western, HK 58 (18.5%)
+- Central and Western, HK 59 (18.8%)
 - Shanghai, CN            22 (7.0%)
 - Beijing, CN             19 (6.1%)
 - New Jersey, US          16 (5.1%)
-- California, US          15 (4.8%)
+- California, US          14 (4.5%)
 
 Top Privacy Services
 - VPN Satoshi 3 (1.0%)
-- TunnelBear  2 (0.6%)
+- TorGuard    1 (0.3%)
+- HideIPVpn   1 (0.3%)
 - Mullvad     1 (0.3%)
 - SaferVPN    1 (0.3%)
-- TorGuard    1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 12 (3.8%)
