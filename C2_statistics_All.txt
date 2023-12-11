@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 35 (10.9%)
 - 5.196.0.0/16 (AS16276)     5 (1.6%)
 - 45.79.192.0/19 (AS63949)   4 (1.2%)
-- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 121.40.0.0/15 (AS37963)    3 (0.9%)
+- 148.66.6.0/24 (AS45753)    3 (0.9%)
 
 Top Countries
 - China         65 (20.3%)
@@ -47,9 +47,9 @@ Top Cities
 Top Regions
 - Central and Western, HK 55 (17.2%)
 - Shanghai, CN            19 (5.9%)
+- Beijing, CN             14 (4.4%)
 - Singapore, SG           14 (4.4%)
 - North Holland, NL       14 (4.4%)
-- Beijing, CN             14 (4.4%)
 
 Top Privacy Services
 - VPN Satoshi   4 (1.2%)
