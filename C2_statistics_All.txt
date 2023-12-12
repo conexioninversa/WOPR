@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (11.0%)
+- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 45.79.192.0/19 (AS63949)   3 (0.9%)
 - 34.192.0.0/12 (AS14618)    3 (0.9%)
-- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 85.209.11.0/24 (AS57523)   2 (0.6%)
 
 Top Countries
@@ -39,16 +39,16 @@ Top Countries
 
 Top Cities
 - Hong Kong, Central and Western, HK 49 (15.5%)
-- Shanghai, Shanghai, CN             18 (5.7%)
 - Beijing, Beijing, CN               18 (5.7%)
 - Singapore, Singapore, SG           18 (5.7%)
+- Shanghai, Shanghai, CN             18 (5.7%)
 - Amsterdam, North Holland, NL       12 (3.8%)
 
 Top Regions
 - Central and Western, HK 49 (15.5%)
+- Singapore, SG           18 (5.7%)
 - Shanghai, CN            18 (5.7%)
 - Beijing, CN             18 (5.7%)
-- Singapore, SG           18 (5.7%)
 - New Jersey, US          13 (4.1%)
 
 Top Carriers
@@ -57,9 +57,9 @@ Top Carriers
 Top Privacy Services
 - VPN Satoshi  3 (0.9%)
 - Troywell VPN 2 (0.6%)
+- PureVPN      1 (0.3%)
 - NordVPN      1 (0.3%)
 - VPN Jantit   1 (0.3%)
-- PureVPN      1 (0.3%)
 
 Top Domains
 - contaboserver.net    10 (3.2%)
