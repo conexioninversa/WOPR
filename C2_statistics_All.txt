@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     19
+- VPN     18
 - Proxy   0
 - Hosting 245
 - Tor     0
@@ -24,23 +24,23 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 42 (13.4%)
-- 124.223.128.0/18 (AS45090) 2 (0.6%)
 - 43.129.192.0/18 (AS132203) 2 (0.6%)
 - 139.59.128.0/19 (AS14061)  2 (0.6%)
 - 43.138.0.0/18 (AS45090)    2 (0.6%)
+- 124.223.128.0/18 (AS45090) 2 (0.6%)
 
 Top Countries
 - China         81 (25.9%)
 - Hong Kong     53 (16.9%)
 - United States 49 (15.7%)
-- Germany       30 (9.6%)
+- Germany       29 (9.3%)
 - Singapore     11 (3.5%)
 
 Top Cities
 - Hong Kong, Central and Western, HK 50 (16.0%)
 - Shanghai, Shanghai, CN             30 (9.6%)
 - Beijing, Beijing, CN               19 (6.1%)
-- Frankfurt am Main, Hesse, DE       15 (4.8%)
+- Frankfurt am Main, Hesse, DE       16 (5.1%)
 - Singapore, Singapore, SG           11 (3.5%)
 
 Top Regions
@@ -52,7 +52,7 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi   4 (1.3%)
-- TunnelBear    2 (0.6%)
+- VPN Unlimited 2 (0.6%)
 - VuzeVPN Proxy 2 (0.6%)
 - Mullvad       1 (0.3%)
 - SaferVPN      1 (0.3%)
@@ -60,5 +60,5 @@ Top Privacy Services
 Top Domains
 - vultrusercontent.com 9 (2.9%)
 - contaboserver.net    8 (2.6%)
-- null                 7 (2.2%)
 - hwclouds-dns.com     7 (2.2%)
+- null                 7 (2.2%)
