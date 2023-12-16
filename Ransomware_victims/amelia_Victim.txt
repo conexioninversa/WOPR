@@ -1,6 +1,5 @@
 192.142.160.215,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,hyper2.gkg.net
 189.1.174.153,Windows Server 2012 R2,3389,Remote Desktop Protocol,Latitude.sh LTDA,srv03.jsbr.net.br
-192.142.164.116,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,web53.gkg.net;ns49.gkg.net
 192.142.166.159,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,web53.gkg.net
 59.37.166.144,Windows Server 2008 R2 Enterprise,3389,Remote Desktop Protocol,CHINANET Guangdong province network,
 192.142.164.117,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,ns50.gkg.net
@@ -8,4 +7,3 @@
 164.68.123.25,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Contabo GmbH,vmd42846.contaboserver.net
 101.227.64.225,Windows Server 2012 R2,3389,Remote Desktop Protocol,CHINANET SHANGHAI PROVINCE NETWORK,
 202.21.35.183,Windows Server 2012 R2,3389,Remote Desktop Protocol,NxtGen Datacenter & Cloud Technologies Pvt. Ltd.,
-111.59.10.213,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,China Mobile Communications Corporation,
