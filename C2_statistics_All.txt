@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (12.1%)
+- 31.44.184.0/24 (AS34665)   3 (1.0%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
 - 85.209.11.0/24 (AS57523)   3 (1.0%)
 - 39.100.0.0/14 (AS37963)    3 (1.0%)
-- 31.44.184.0/24 (AS34665)   3 (1.0%)
 
 Top Countries
 - China         69 (22.0%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 45 (14.3%)
 - Shanghai, Shanghai, CN             18 (5.7%)
 - Shenzhen, Guangdong, CN            15 (4.8%)
-- Moscow, Moscow, RU                 14 (4.5%)
 - Beijing, Beijing, CN               14 (4.5%)
+- Moscow, Moscow, RU                 14 (4.5%)
 
 Top Regions
 - Central and Western, HK 45 (14.3%)
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi   3 (1.0%)
-- SaferVPN      2 (0.6%)
 - TunnelBear    2 (0.6%)
+- SaferVPN      2 (0.6%)
 - VuzeVPN Proxy 1 (0.3%)
 - PrivadoVPN    1 (0.3%)
 
