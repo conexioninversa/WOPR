@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (12.1%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (12.1%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (12.1%)
 - AS14061 DigitalOcean, LLC                                 28 (8.9%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             20 (6.4%)
 - AS16509 Amazon.com, Inc.                                  17 (5.4%)
@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (12.1%)
-- 39.100.0.0/14 (AS37963)    3 (1.0%)
-- 31.44.184.0/24 (AS34665)   3 (1.0%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
 - 85.209.11.0/24 (AS57523)   3 (1.0%)
+- 39.100.0.0/14 (AS37963)    3 (1.0%)
+- 31.44.184.0/24 (AS34665)   3 (1.0%)
 
 Top Countries
 - China         69 (22.0%)
