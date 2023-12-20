@@ -1,3 +1,8 @@
+91.92.250.237,7443,,Mythic,Neterra Ltd.,
+68.183.60.125,7443,,Mythic,DigitalOcean, LLC,
+198.148.80.86,7443,,Mythic,PRIVACY-PROTECTED,mail1.wenixin.com
+154.38.167.90,7443,,Mythic,Contabo Inc,vmi1509423.contaboserver.net
+143.110.176.131,7443,,,DigitalOcean, LLC,
 185.43.222.183,7443,,Mythic,Hooray Solutions Corp.,vz2.hostlife.net
 38.180.44.56,7443,,Mythic,3NT SOLUTIONS LLP,
 64.31.63.82,7443,,Mythic,Limestone Networks, Inc.,82-63-31-64.static.reverse.lstn.net
@@ -14,7 +19,6 @@
 45.151.126.118,7443,,Mythic,Remote Admin Sp. Z o.o.,rev-45-151-126-118.remoteadmin.store
 139.144.19.118,7443,,Mythic,Linode,139-144-19-118.ip.linodeusercontent.com
 64.176.164.107,7443,,Mythic,The Constant Company, LLC,64.176.164.107.vultrusercontent.com
-68.183.60.125,7443,,Mythic,DigitalOcean, LLC,
 54.197.245.200,7443,,Mythic,Amazon.com, Inc.,ec2-54-197-245-200.compute-1.amazonaws.com
 62.109.24.105,7443,,Mythic,JSC IOT,deliver.synerr.ru
 130.51.20.132,7443,,Mythic,,
@@ -37,13 +41,10 @@
 54.168.147.222,7443,,Mythic,Amazon Data Services Japan,ec2-54-168-147-222.ap-northeast-1.compute.amazonaws.com
 139.59.109.136,7443,,Mythic,DigitalOcean, LLC,
 45.133.238.221,7443,,Mythic,RHINO CLOUD LTD,
-83.244.163.202,7443,,Mythic,SCALABLE COMMUNICATIONS,83-244-163-202.cust-83.exponential-e.net
-198.148.80.86,7443,,Mythic,Sharktech,mail1.wenixin.com
 139.180.136.59,7443,,Mythic,The Constant Company, LLC,139.180.136.59.vultrusercontent.com
 159.89.191.115,7443,,Mythic,DigitalOcean, LLC,
 34.206.208.220,7443,,Mythic,Amazon Technologies Inc.,ec2-34-206-208-220.compute-1.amazonaws.com
 34.215.75.141,7443,,Mythic,Amazon Technologies Inc.,ec2-34-215-75-141.us-west-2.compute.amazonaws.com
-143.110.176.131,7443,,Mythic,DigitalOcean, LLC,
 149.56.109.219,7443,,Mythic,OVH Hosting, Inc.,219.ip-149-56-109.net
 95.164.22.13,7443,,Mythic,Netassist Limited,vm1614748.stark-industries.solutions
 172.245.205.13,7443,,Mythic,ColoCrossing,172-245-205-13-host.colocrossing.com
@@ -74,4 +75,3 @@
 192.248.153.47,7443,,Mythic,The Constant Company, LLC,192.248.153.47.vultrusercontent.com
 83.97.20.136,7443,,Mythic,OVO Systems Ltd.,136.20.97.83.ro.ovo.sc
 31.42.186.161,7443,,Mythic,Virtual Systems LLC,32delice.wheelchakra.com
-165.22.0.181,7443,,Mythic,DigitalOcean, LLC,
