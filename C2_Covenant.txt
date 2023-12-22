@@ -1,16 +1,16 @@
 130.61.124.23,7443,Covenant,Oracle Public Cloud,
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-162.0.237.99,7443,Covenant,Namecheap, Inc.,server1.loanlogistic.online
-45.139.10.69,7443,Covenant,Pars Parva System LTD,
-34.124.231.204,7443,Covenant,Google LLC,204.231.124.34.bc.googleusercontent.com
-193.168.145.73,7443,Covenant,SERVERD SAS,
-195.20.16.31,7443,Covenant,AREA SOFT LLC,
-216.238.111.147,7443,Covenant,Vultr Holdings, LLC,216.238.111.147.vultrusercontent.com
 35.177.215.200,7443,Covenant,Amazon Data Services UK,ec2-35-177-215-200.eu-west-2.compute.amazonaws.com
-34.124.138.144,7443,Covenant,Google LLC,144.138.124.34.bc.googleusercontent.com
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
+34.124.231.204,7443,Covenant,Google LLC,204.231.124.34.bc.googleusercontent.com
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+216.238.111.147,7443,Covenant,Vultr Holdings, LLC,216.238.111.147.vultrusercontent.com
+193.168.145.73,7443,Covenant,SERVERD SAS,
 74.207.149.114,7443,Covenant,SRT Communications, Inc.,114.149.207.74.srtnet.com
+34.124.138.144,7443,Covenant,Google LLC,144.138.124.34.bc.googleusercontent.com
+45.139.10.69,7443,Covenant,Pars Parva System LTD,
+162.0.237.99,7443,Covenant,Namecheap, Inc.,server1.loanlogistic.online
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+195.20.16.31,7443,Covenant,AREA SOFT LLC,
 35.233.57.111,443,Covenant,Google LLC,111.57.233.35.bc.googleusercontent.com
 51.77.173.201,7443,Covenant,Hashemi Majid,ip201.ip-51-77-173.eu
 34.140.146.194,443,Covenant,Google LLC,194.146.140.34.bc.googleusercontent.com
