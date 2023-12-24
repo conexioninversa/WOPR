@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     22
+- VPN     23
 - Proxy   0
-- Hosting 225
+- Hosting 226
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             15 (4.7%)
 
 Top Usage Types
-- Hosting   225 (70.5%)
+- Hosting   226 (70.8%)
 - Business  75 (23.5%)
-- ISP       18 (5.6%)
+- ISP       17 (5.3%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -40,8 +40,8 @@ Top Countries
 Top Cities
 - Hong Kong, Central and Western, HK 55 (17.2%)
 - Shanghai, Shanghai, CN             20 (6.3%)
-- Frankfurt am Main, Hesse, DE       13 (4.1%)
 - Ashburn, Virginia, US              13 (4.1%)
+- Frankfurt am Main, Hesse, DE       13 (4.1%)
 - Beijing, Beijing, CN               12 (3.8%)
 
 Top Regions
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 3 (0.9%)
-- TunnelBear  3 (0.9%)
-- SaferVPN    2 (0.6%)
+- SaferVPN    3 (0.9%)
+- TunnelBear  2 (0.6%)
 - Mullvad     1 (0.3%)
 - 1vpn        1 (0.3%)
 
