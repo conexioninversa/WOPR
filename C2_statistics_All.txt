@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     17
+- VPN     20
 - Proxy   0
 - Hosting 232
 - Tor     0
@@ -51,8 +51,8 @@ Top Regions
 - California, US          13 (4.1%)
 
 Top Privacy Services
+- TunnelBear    4 (1.2%)
 - VPN Satoshi   3 (0.9%)
-- TunnelBear    2 (0.6%)
 - HideIPVpn     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - SaferVPN      1 (0.3%)
