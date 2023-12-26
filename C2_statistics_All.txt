@@ -14,8 +14,8 @@ Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              39 (12.2%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 33 (10.3%)
 - AS14061 DigitalOcean, LLC                                 21 (6.6%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.6%)
 - AS16509 Amazon.com, Inc.                                  18 (5.6%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             18 (5.6%)
 
 Top Usage Types
 - Hosting  232 (72.5%)
@@ -53,12 +53,12 @@ Top Regions
 Top Privacy Services
 - TunnelBear    4 (1.2%)
 - VPN Satoshi   3 (0.9%)
+- HideIPVpn     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - SaferVPN      1 (0.3%)
-- HideIPVpn     1 (0.3%)
 
 Top Domains
 - contaboserver.net    11 (3.4%)
-- null                 9 (2.8%)
 - hwclouds-dns.com     9 (2.8%)
+- null                 9 (2.8%)
 - vultrusercontent.com 7 (2.2%)
