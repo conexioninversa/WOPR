@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 32 (10.0%)
 - 13.126.0.0/15 (AS16509)    4 (1.2%)
-- 134.122.64.0/20 (AS14061)  3 (0.9%)
 - 3.80.0.0/12 (AS14618)      3 (0.9%)
 - 101.43.64.0/18 (AS45090)   3 (0.9%)
+- 134.122.64.0/20 (AS14061)  3 (0.9%)
 
 Top Countries
 - China         69 (21.6%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi 3 (0.9%)
 - TunnelBear  2 (0.6%)
-- Mullvad     1 (0.3%)
 - ProtonVPN   1 (0.3%)
 - SaferVPN    1 (0.3%)
+- Mullvad     1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com     10 (3.1%)
