@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (9.3%)
 - 148.66.6.0/24 (AS45753)    4 (1.2%)
+- 3.64.0.0/12 (AS16509)      3 (0.9%)
 - 43.138.64.0/18 (AS45090)   3 (0.9%)
 - 101.43.64.0/18 (AS45090)   3 (0.9%)
-- 3.64.0.0/12 (AS16509)      3 (0.9%)
 
 Top Countries
 - China         65 (20.1%)
@@ -59,7 +59,7 @@ Top Privacy Services
 - Mullvad       1 (0.3%)
 
 Top Domains
-- contaboserver.net    9 (2.8%)
 - vultrusercontent.com 9 (2.8%)
 - null                 9 (2.8%)
+- contaboserver.net    9 (2.8%)
 - your-server.de       8 (2.5%)
