@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (11.8%)
-- 3.80.0.0/12 (AS14618)      3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 101.43.0.0/18 (AS45090)    3 (0.9%)
+- 3.80.0.0/12 (AS14618)      3 (0.9%)
 - 101.43.64.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
@@ -52,9 +52,9 @@ Top Regions
 - Guangdong, CN           13 (4.0%)
 
 Top Privacy Services
+- TunnelBear   3 (0.9%)
 - VPN Satoshi  3 (0.9%)
 - ProtonVPN    3 (0.9%)
-- TunnelBear   3 (0.9%)
 - Troywell VPN 2 (0.6%)
 - VPN Jantit   1 (0.3%)
 
