@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 37 (11.4%)
 - 8.130.0.0/16 (AS37963)     4 (1.2%)
 - 3.80.0.0/12 (AS14618)      3 (0.9%)
-- 124.222.128.0/18 (AS45090) 2 (0.6%)
 - 81.19.136.0/24 (AS209272)  2 (0.6%)
+- 124.222.128.0/18 (AS45090) 2 (0.6%)
 
 Top Countries
 - China         76 (23.4%)
@@ -51,11 +51,11 @@ Top Regions
 - Guangdong, CN           15 (4.6%)
 
 Top Privacy Services
-- TunnelBear    3 (0.9%)
 - VPN Satoshi   3 (0.9%)
+- TunnelBear    3 (0.9%)
+- VuzeVPN Proxy 1 (0.3%)
 - SaferVPN      1 (0.3%)
 - ProtonVPN     1 (0.3%)
-- VuzeVPN Proxy 1 (0.3%)
 
 Top Domains
 - null                  10 (3.1%)
