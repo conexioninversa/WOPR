@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     23
+- VPN     21
 - Proxy   0
 - Hosting 258
 - Tor     0
@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 39 (12.0%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              37 (11.4%)
-- AS14061 DigitalOcean, LLC                                 26 (8.0%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             26 (8.0%)
+- AS14061 DigitalOcean, LLC                                 26 (8.0%)
 - AS16509 Amazon.com, Inc.                                  17 (5.2%)
 
 Top Usage Types
@@ -32,7 +32,7 @@ Top Routes
 
 Top Countries
 - China         77 (23.7%)
-- United States 67 (20.6%)
+- United States 68 (20.9%)
 - Hong Kong     49 (15.1%)
 - Germany       21 (6.5%)
 - Russia        17 (5.2%)
@@ -42,7 +42,7 @@ Top Cities
 - Beijing, Beijing, CN               27 (8.3%)
 - Shanghai, Shanghai, CN             20 (6.2%)
 - Singapore, Singapore, SG           12 (3.7%)
-- Amsterdam, North Holland, NL       11 (3.4%)
+- Amsterdam, North Holland, NL       10 (3.1%)
 
 Top Regions
 - Central and Western, HK 45 (13.8%)
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi   4 (1.2%)
-- TunnelBear    3 (0.9%)
+- TunnelBear    2 (0.6%)
 - VuzeVPN Proxy 2 (0.6%)
-- ProtonVPN     1 (0.3%)
 - VPN Jantit    1 (0.3%)
+- ProtonVPN     1 (0.3%)
 
 Top Domains
 - contaboserver.net     13 (4.0%)
 - googleusercontent.com 8 (2.5%)
-- hwclouds-dns.com      7 (2.2%)
 - vultrusercontent.com  7 (2.2%)
+- hwclouds-dns.com      7 (2.2%)
