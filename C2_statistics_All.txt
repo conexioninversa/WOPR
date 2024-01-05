@@ -32,7 +32,7 @@ Top Routes
 
 Top Countries
 - China         83 (25.5%)
-- United States 58 (17.8%)
+- United States 57 (17.5%)
 - Hong Kong     51 (15.7%)
 - Germany       17 (5.2%)
 - Netherlands   16 (4.9%)
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi  4 (1.2%)
-- Troywell VPN 2 (0.6%)
 - TunnelBear   2 (0.6%)
+- Troywell VPN 2 (0.6%)
 - SaferVPN     1 (0.3%)
 - ProtonVPN    1 (0.3%)
 
 Top Domains
-- hwclouds-dns.com      10 (3.1%)
+- hwclouds-dns.com      11 (3.4%)
 - contaboserver.net     8 (2.5%)
 - colocrossing.com      8 (2.5%)
 - googleusercontent.com 7 (2.2%)
