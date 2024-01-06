@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     27
+- VPN     25
 - Proxy   0
-- Hosting 263
+- Hosting 267
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  18 (5.5%)
 
 Top Usage Types
-- Hosting  263 (80.9%)
-- Business 47 (14.5%)
+- Hosting  264 (81.2%)
+- Business 46 (14.2%)
 - ISP      15 (4.6%)
 
 Top Routes
@@ -41,7 +41,7 @@ Top Cities
 - Shanghai, Shanghai, CN             20 (6.2%)
 - Beijing, Beijing, CN               19 (5.8%)
 - Singapore, Singapore, SG           18 (5.5%)
-- Amsterdam, North Holland, NL       13 (4.0%)
+- Amsterdam, North Holland, NL       14 (4.3%)
 
 Top Regions
 - Central and Western, HK 49 (15.1%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi   3 (0.9%)
 - TunnelBear    2 (0.6%)
-- VuzeVPN Proxy 2 (0.6%)
-- VPNArea       1 (0.3%)
 - SaferVPN      1 (0.3%)
+- VuzeVPN Proxy 1 (0.3%)
+- Le-VPN        1 (0.3%)
 
 Top Domains
 - googleusercontent.com 10 (3.1%)
