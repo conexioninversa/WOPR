@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (10.8%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
-- 148.66.6.0/24 (AS45753)    2 (0.6%)
 - 47.243.0.0/16 (AS45102)    2 (0.6%)
 - 164.155.208.0/21 (AS54600) 2 (0.6%)
+- 148.66.6.0/24 (AS45753)    2 (0.6%)
 
 Top Countries
 - China         65 (20.0%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi   3 (0.9%)
 - TunnelBear    2 (0.6%)
+- Le-VPN        1 (0.3%)
 - SaferVPN      1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
-- Le-VPN        1 (0.3%)
 
 Top Domains
 - googleusercontent.com 10 (3.1%)
