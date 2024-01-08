@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.3%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 101.43.64.0/18 (AS45090)   3 (0.9%)
-- 101.43.0.0/18 (AS45090)    2 (0.6%)
 - 47.109.0.0/16 (AS37963)    2 (0.6%)
+- 101.43.0.0/18 (AS45090)    2 (0.6%)
 
 Top Countries
 - China         73 (22.5%)
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 3 (0.9%)
-- TunnelBear  2 (0.6%)
 - ProtonVPN   2 (0.6%)
+- TunnelBear  2 (0.6%)
 - CactusVPN   1 (0.3%)
 - TorGuard    1 (0.3%)
 
