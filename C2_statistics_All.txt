@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (10.8%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 35 (10.8%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              35 (10.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             28 (8.6%)
 - AS14061 DigitalOcean, LLC                                 25 (7.7%)
 - AS16509 Amazon.com, Inc.                                  22 (6.8%)
@@ -52,8 +52,8 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi 3 (0.9%)
-- TunnelBear  2 (0.6%)
 - SaferVPN    2 (0.6%)
+- TunnelBear  2 (0.6%)
 - ProtonVPN   1 (0.3%)
 - CactusVPN   1 (0.3%)
 
