@@ -25,16 +25,16 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 41 (12.6%)
 - 8.140.0.0/15 (AS37963)     4 (1.2%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.112.0.0/16 (AS37963)    3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.115.128.0/17 (AS37963)  2 (0.6%)
 
 Top Countries
 - China         85 (26.1%)
 - United States 60 (18.4%)
 - Hong Kong     53 (16.3%)
-- Germany       18 (5.5%)
 - Russia        18 (5.5%)
+- Germany       18 (5.5%)
 
 Top Cities
 - Hong Kong, Central and Western, HK 49 (15.0%)
@@ -51,8 +51,8 @@ Top Regions
 - Guangdong, CN           13 (4.0%)
 
 Top Privacy Services
-- VPN Satoshi 2 (0.6%)
 - TunnelBear  2 (0.6%)
+- VPN Satoshi 2 (0.6%)
 - Mullvad     1 (0.3%)
 - HideMyAss   1 (0.3%)
 - SaferVPN    1 (0.3%)
