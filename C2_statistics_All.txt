@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471)  43 (13.4%)
-- 101.43.128.0/18 (AS45090)   3 (0.9%)
 - 3.64.0.0/12 (AS16509)       3 (0.9%)
-- 43.138.0.0/18 (AS45090)     2 (0.6%)
+- 101.43.128.0/18 (AS45090)   3 (0.9%)
 - 209.146.124.0/22 (AS138997) 2 (0.6%)
+- 43.138.0.0/18 (AS45090)     2 (0.6%)
 
 Top Countries
 - China         61 (19.0%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi  3 (0.9%)
 - TunnelBear   2 (0.6%)
-- SaferVPN     1 (0.3%)
 - Vanished VPN 1 (0.3%)
 - TorGuard     1 (0.3%)
+- SaferVPN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 10 (3.1%)
