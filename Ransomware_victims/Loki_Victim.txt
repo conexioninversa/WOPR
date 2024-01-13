@@ -1,6 +1,5 @@
 82.223.135.205,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,arsys.es,205.135.223.82.arsystel.com
 203.234.214.25,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Korea Telecom,
-103.177.61.252,Windows (build 10.0.14393),3389,Remote Desktop Protocol,BUNDELKHAND CONNECT,
 93.45.109.213,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Fastweb SpA,93-45-109-213.ip102.fastwebnet.it
 89.19.25.50,Windows Server 2012 R2,3389,Remote Desktop Protocol,Erhan Balsak,ns1.nusellus.com.tr
 43.153.208.149,Windows Server 2012 R2,3389,Remote Desktop Protocol,Asia Pacific Network Information Center, Pty. Ltd.,
