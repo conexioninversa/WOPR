@@ -24,8 +24,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 38 (11.9%)
-- 150.158.0.0/18 (AS45090)   3 (0.9%)
 - 60.204.128.0/18 (AS55990)  3 (0.9%)
+- 150.158.0.0/18 (AS45090)   3 (0.9%)
 - 47.94.0.0/15 (AS37963)     2 (0.6%)
 - 20.64.0.0/10 (AS8075)      2 (0.6%)
 
@@ -58,7 +58,7 @@ Top Privacy Services
 - Vanished VPN 1 (0.3%)
 
 Top Domains
-- contaboserver.net    10 (3.1%)
 - hwclouds-dns.com     10 (3.1%)
+- contaboserver.net    10 (3.1%)
 - vultrusercontent.com 9 (2.8%)
 - null                 5 (1.6%)
