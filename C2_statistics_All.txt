@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 35 (11.0%)
-- 39.96.0.0/14 (AS37963)     3 (0.9%)
 - 124.221.128.0/18 (AS45090) 3 (0.9%)
 - 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
+- 39.96.0.0/14 (AS37963)     3 (0.9%)
 
 Top Countries
 - China         78 (24.5%)
@@ -54,12 +54,12 @@ Top Regions
 Top Privacy Services
 - TunnelBear   3 (0.9%)
 - VPN Satoshi  3 (0.9%)
-- ProtonVPN    2 (0.6%)
 - SaferVPN     2 (0.6%)
+- ProtonVPN    2 (0.6%)
 - Vanished VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com 10 (3.1%)
-- contaboserver.net    9 (2.8%)
 - hwclouds-dns.com     9 (2.8%)
+- contaboserver.net    9 (2.8%)
 - null                 5 (1.6%)
