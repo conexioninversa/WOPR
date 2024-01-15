@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     28
 - Proxy   0
-- Hosting 257
+- Hosting 260
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.3%)
 
 Top Usage Types
-- Hosting   255 (80.2%)
+- Hosting   257 (80.8%)
 - Business  49 (15.4%)
-- ISP       12 (3.8%)
+- ISP       10 (3.1%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -32,7 +32,7 @@ Top Routes
 
 Top Countries
 - China         78 (24.5%)
-- United States 56 (17.6%)
+- United States 57 (17.9%)
 - Hong Kong     48 (15.1%)
 - Germany       21 (6.6%)
 - Singapore     15 (4.7%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - vultrusercontent.com 10 (3.1%)
-- contaboserver.net    9 (2.8%)
 - hwclouds-dns.com     9 (2.8%)
+- contaboserver.net    9 (2.8%)
 - null                 5 (1.6%)
