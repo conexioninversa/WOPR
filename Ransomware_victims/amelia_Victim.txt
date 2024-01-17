@@ -5,5 +5,4 @@
 52.117.73.18,Windows Server 2012 R2,3389,Remote Desktop Protocol,SoftLayer Technologies Inc.,12.49.7534.ip4.static.sl-reverse.com
 164.68.123.25,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Contabo GmbH,vmd42846.contaboserver.net
 192.142.166.159,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,web53.gkg.net
-196.52.20.117,Windows Server 2012,3389,Remote Desktop Protocol,African Network Information Center - ( AfriNIC Ltd. ),
 52.39.178.77,Windows Server 2008 R2 Datacenter,3389,Remote Desktop Protocol,Amazon Technologies Inc.,ec2-52-39-178-77.us-west-2.compute.amazonaws.com

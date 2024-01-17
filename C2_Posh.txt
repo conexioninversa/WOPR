@@ -1,6 +1,6 @@
+94.198.53.143,443,PoshC2,SmartApe OU,s706251.srvape.com
 185.234.216.64,443,PoshC2,Chang Way Technologies Co. Limited,
 65.20.68.219,443,PoshC2,Vultr Holdings LLC,65.20.68.219.vultrusercontent.com
 35.80.38.180,443,PoshC2,Amazon.com, Inc.,ec2-35-80-38-180.us-west-2.compute.amazonaws.com
 35.80.38.180,8443,PoshC2,Amazon.com, Inc.,ec2-35-80-38-180.us-west-2.compute.amazonaws.com
 173.249.26.59,443,PoshC2,Contabo GmbH,vmi1549065.contaboserver.net
-94.198.53.143,443,PoshC2,SmartApe OU,s706251.srvape.com
