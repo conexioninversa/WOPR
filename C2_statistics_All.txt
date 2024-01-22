@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 39 (11.9%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
-- 8.218.128.0/17 (AS45102)   2 (0.6%)
 - 43.138.64.0/18 (AS45090)   2 (0.6%)
+- 8.218.128.0/17 (AS45102)   2 (0.6%)
 
 Top Countries
 - China         65 (19.8%)
@@ -47,8 +47,8 @@ Top Regions
 - Central and Western, HK 57 (17.3%)
 - Shanghai, CN            20 (6.1%)
 - Beijing, CN             19 (5.8%)
-- Singapore, SG           14 (4.3%)
 - North Holland, NL       14 (4.3%)
+- Singapore, SG           14 (4.3%)
 
 Top Privacy Services
 - TunnelBear    4 (1.2%)
