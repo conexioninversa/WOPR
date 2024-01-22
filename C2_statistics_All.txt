@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Central and Western, HK 57 (17.3%)
 - Shanghai, Shanghai, CN             20 (6.1%)
 - Beijing, Beijing, CN               19 (5.8%)
-- Singapore, Singapore, SG           14 (4.3%)
 - Amsterdam, North Holland, NL       14 (4.3%)
+- Singapore, Singapore, SG           14 (4.3%)
 
 Top Regions
 - Central and Western, HK 57 (17.3%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear    4 (1.2%)
-- TorGuard      1 (0.3%)
 - VPN Satoshi   1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - ProtonVPN     1 (0.3%)
+- TorGuard      1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (3.6%)
