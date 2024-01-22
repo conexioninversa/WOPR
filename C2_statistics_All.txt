@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     24
 - Proxy   0
-- Hosting 242
+- Hosting 243
 - Tor     0
 - Relay   0
 
@@ -18,16 +18,16 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  20 (6.1%)
 
 Top Usage Types
-- Hosting  241 (73.3%)
-- Business 74 (22.5%)
+- Hosting  242 (73.6%)
+- Business 73 (22.2%)
 - ISP      13 (4.0%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 39 (11.9%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
-- 43.138.64.0/18 (AS45090)   2 (0.6%)
 - 8.218.128.0/17 (AS45102)   2 (0.6%)
+- 43.138.64.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - China         65 (19.8%)
@@ -51,7 +51,7 @@ Top Regions
 - Singapore, SG           14 (4.3%)
 
 Top Privacy Services
-- TunnelBear    4 (1.2%)
+- TunnelBear    5 (1.5%)
 - VPN Satoshi   1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - ProtonVPN     1 (0.3%)
