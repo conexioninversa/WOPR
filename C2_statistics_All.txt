@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 41 (12.5%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 150.158.0.0/18 (AS45090)   3 (0.9%)
 - 20.48.0.0/12 (AS8075)      3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 124.221.128.0/18 (AS45090) 2 (0.6%)
 
 Top Countries
@@ -52,13 +52,13 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear   4 (1.2%)
-- Vanished VPN 1 (0.3%)
 - TorGuard     1 (0.3%)
 - SaferVPN     1 (0.3%)
 - 1vpn         1 (0.3%)
+- Vanished VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  9 (2.7%)
 - contaboserver.net     9 (2.7%)
-- googleusercontent.com 6 (1.8%)
 - null                  6 (1.8%)
+- googleusercontent.com 6 (1.8%)
