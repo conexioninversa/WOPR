@@ -14,8 +14,8 @@ Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              41 (12.5%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (12.2%)
 - AS14061 DigitalOcean, LLC                                 28 (8.5%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.2%)
 - AS16509 Amazon.com, Inc.                                  17 (5.2%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             17 (5.2%)
 
 Top Usage Types
 - Hosting  239 (72.9%)
@@ -47,8 +47,8 @@ Top Regions
 - Central and Western, HK 55 (16.8%)
 - Shanghai, CN            23 (7.0%)
 - Singapore, SG           17 (5.2%)
-- Beijing, CN             14 (4.3%)
 - California, US          14 (4.3%)
+- Beijing, CN             14 (4.3%)
 
 Top Privacy Services
 - TunnelBear   6 (1.8%)
