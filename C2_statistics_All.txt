@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     27
+- VPN     25
 - Proxy   0
-- Hosting 243
+- Hosting 242
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.2%)
 
 Top Usage Types
-- Hosting  239 (72.9%)
-- Business 75 (22.9%)
+- Hosting  238 (72.6%)
+- Business 76 (23.2%)
 - ISP      14 (4.3%)
 
 Top Routes
@@ -51,11 +51,11 @@ Top Regions
 - California, US          14 (4.3%)
 
 Top Privacy Services
-- TunnelBear   6 (1.8%)
-- 1vpn         1 (0.3%)
+- TunnelBear   4 (1.2%)
 - Vanished VPN 1 (0.3%)
 - TorGuard     1 (0.3%)
 - SaferVPN     1 (0.3%)
+- 1vpn         1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  9 (2.7%)
