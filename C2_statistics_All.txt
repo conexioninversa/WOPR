@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 50 (15.1%)
 - 5.196.0.0/16 (AS16276)     5 (1.5%)
-- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 20.48.0.0/12 (AS8075)      3 (0.9%)
 - 3.64.0.0/12 (AS16509)      3 (0.9%)
+- 148.66.6.0/24 (AS45753)    3 (0.9%)
 
 Top Countries
 - Hong Kong     70 (21.1%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear   4 (1.2%)
-- HideMyAss    1 (0.3%)
-- Vanished VPN 1 (0.3%)
 - WiTopia      1 (0.3%)
 - TorGuard     1 (0.3%)
+- HideMyAss    1 (0.3%)
+- Vanished VPN 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  11 (3.3%)
