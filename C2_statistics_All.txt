@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              50 (15.1%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 40 (12.0%)
-- AS14061 DigitalOcean, LLC                                 22 (6.6%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             22 (6.6%)
+- AS14061 DigitalOcean, LLC                                 22 (6.6%)
 - AS16509 Amazon.com, Inc.                                  17 (5.1%)
 
 Top Usage Types
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear    3 (0.9%)
+- VPN Satoshi   2 (0.6%)
 - VuzeVPN Proxy 2 (0.6%)
 - SaferVPN      2 (0.6%)
-- VPN Satoshi   2 (0.6%)
 - VPN Jantit    1 (0.3%)
 
 Top Domains
-- contaboserver.net     9 (2.7%)
 - vultrusercontent.com  9 (2.7%)
+- contaboserver.net     9 (2.7%)
 - googleusercontent.com 7 (2.1%)
 - colocrossing.com      5 (1.5%)
