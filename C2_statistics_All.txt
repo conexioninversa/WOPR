@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 30 (9.0%)
-- 101.43.192.0/18 (AS45090)  4 (1.2%)
 - 148.66.6.0/24 (AS45753)    4 (1.2%)
+- 101.43.192.0/18 (AS45090)  4 (1.2%)
 - 101.43.128.0/18 (AS45090)  3 (0.9%)
 - 82.157.64.0/18 (AS45090)   3 (0.9%)
 
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Central and Western, HK 50 (15.1%)
 - Beijing, CN             22 (6.6%)
-- Guangdong, CN           19 (5.7%)
 - California, US          19 (5.7%)
+- Guangdong, CN           19 (5.7%)
 - Singapore, SG           17 (5.1%)
 
 Top Carriers
