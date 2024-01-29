@@ -19,32 +19,33 @@ Top ASNs
 
 Top Usage Types
 - Hosting  258 (77.9%)
-- Business 64 (19.3%)
+- Business 63 (19.0%)
 - ISP      9 (2.7%)
+- Unknown  1 (0.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 53 (16.0%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
-- 81.70.0.0/18 (AS45090)     3 (0.9%)
 - 39.96.0.0/14 (AS37963)     3 (0.9%)
 - 124.223.192.0/18 (AS45090) 3 (0.9%)
+- 81.70.0.0/18 (AS45090)     3 (0.9%)
 
 Top Countries
-- China         74 (22.4%)
-- Hong Kong     69 (20.8%)
+- China         75 (22.7%)
+- Hong Kong     68 (20.5%)
 - United States 60 (18.1%)
 - Germany       19 (5.7%)
 - Singapore     16 (4.8%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 68 (20.5%)
+- Hong Kong, Central and Western, HK 67 (20.2%)
 - Shanghai, Shanghai, CN             30 (9.1%)
 - Beijing, Beijing, CN               19 (5.7%)
 - Singapore, Singapore, SG           16 (4.8%)
-- Shenzhen, Guangdong, CN            11 (3.3%)
+- Shenzhen, Guangdong, CN            12 (3.6%)
 
 Top Regions
-- Central and Western, HK 68 (20.5%)
+- Central and Western, HK 67 (20.2%)
 - Shanghai, CN            30 (9.1%)
 - Beijing, CN             19 (5.7%)
 - California, US          16 (4.8%)
@@ -52,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear    4 (1.2%)
+- Vanished VPN  1 (0.3%)
 - World VPN     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - SaferVPN      1 (0.3%)
-- Vanished VPN  1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  10 (3.0%)
