@@ -25,17 +25,17 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.0%)
-- 121.37.192.0/18 (AS55990)  2 (0.6%)
 - 150.158.0.0/18 (AS45090)   2 (0.6%)
 - 101.43.192.0/18 (AS45090)  2 (0.6%)
 - 43.138.64.0/18 (AS45090)   2 (0.6%)
+- 121.37.192.0/18 (AS55990)  2 (0.6%)
 
 Top Countries
 - United States 69 (20.7%)
 - China         63 (18.9%)
 - Hong Kong     54 (16.2%)
-- Russia        19 (5.7%)
 - Germany       19 (5.7%)
+- Russia        19 (5.7%)
 
 Top Cities
 - Hong Kong, Central and Western, HK 54 (16.2%)
