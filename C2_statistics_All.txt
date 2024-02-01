@@ -24,9 +24,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (10.8%)
+- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 148.66.6.0/24 (AS45753)    3 (0.9%)
-- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 31.41.244.0/24 (AS57678)   2 (0.6%)
 
 Top Countries
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear    3 (0.9%)
 - VPN Satoshi   2 (0.6%)
+- VuzeVPN Proxy 1 (0.3%)
 - World VPN     1 (0.3%)
 - ProtonVPN     1 (0.3%)
-- VuzeVPN Proxy 1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  9 (2.7%)
