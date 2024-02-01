@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.0%)
-- 43.138.64.0/18 (AS45090)   2 (0.6%)
 - 121.37.192.0/18 (AS55990)  2 (0.6%)
 - 150.158.0.0/18 (AS45090)   2 (0.6%)
 - 101.43.192.0/18 (AS45090)  2 (0.6%)
+- 43.138.64.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - United States 69 (20.7%)
@@ -47,14 +47,14 @@ Top Cities
 Top Regions
 - Central and Western, HK 54 (16.2%)
 - California, US          19 (5.7%)
+- Shanghai, CN            17 (5.1%)
 - Beijing, CN             17 (5.1%)
 - Guangdong, CN           17 (5.1%)
-- Shanghai, CN            17 (5.1%)
 
 Top Privacy Services
 - TunnelBear  7 (2.1%)
-- SaferVPN    2 (0.6%)
 - VPN Satoshi 2 (0.6%)
+- SaferVPN    2 (0.6%)
 - Surfshark   1 (0.3%)
 - 1vpn        1 (0.3%)
 
