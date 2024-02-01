@@ -4,29 +4,29 @@ Summary
 - Anycast 1
 - Bogon   0
 - Mobile  0
-- VPN     23
+- VPN     19
 - Proxy   0
-- Hosting 267
+- Hosting 266
 - Tor     0
 - Relay   0
 
 Top ASNs
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 36 (10.8%)
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              36 (10.8%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 36 (10.8%)
 - AS14061 DigitalOcean, LLC                                 28 (8.4%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             24 (7.2%)
 - AS16509 Amazon.com, Inc.                                  18 (5.4%)
 
 Top Usage Types
-- Hosting  264 (79.0%)
-- Business 55 (16.5%)
-- ISP      15 (4.5%)
+- Hosting  265 (79.3%)
+- Business 53 (15.9%)
+- ISP      16 (4.8%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (10.8%)
+- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 148.66.6.0/24 (AS45753)    3 (0.9%)
-- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 31.41.244.0/24 (AS57678)   2 (0.6%)
 
 Top Countries
@@ -51,7 +51,7 @@ Top Regions
 - Guangdong, CN           15 (4.5%)
 
 Top Privacy Services
-- TunnelBear    8 (2.4%)
+- TunnelBear    3 (0.9%)
 - VPN Satoshi   2 (0.6%)
 - ProtonVPN     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
