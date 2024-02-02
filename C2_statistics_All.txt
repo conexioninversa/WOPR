@@ -11,8 +11,8 @@ Summary
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              39 (11.8%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 39 (11.8%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              39 (11.8%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             29 (8.8%)
 - AS14061 DigitalOcean, LLC                                 27 (8.2%)
 - AS16509 Amazon.com, Inc.                                  16 (4.8%)
@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 39 (11.8%)
+- 47.92.0.0/15 (AS37963)     3 (0.9%)
 - 45.144.138.0/24 (AS139659) 3 (0.9%)
 - 172.96.166.0/24 (AS63018)  3 (0.9%)
 - 101.43.0.0/18 (AS45090)    3 (0.9%)
-- 47.92.0.0/15 (AS37963)     3 (0.9%)
 
 Top Countries
 - China         77 (23.3%)
@@ -54,8 +54,8 @@ Top Regions
 Top Privacy Services
 - TunnelBear    3 (0.9%)
 - SaferVPN      3 (0.9%)
-- VuzeVPN Proxy 2 (0.6%)
 - VPN Satoshi   2 (0.6%)
+- VuzeVPN Proxy 2 (0.6%)
 - Mullvad       1 (0.3%)
 
 Top Domains
