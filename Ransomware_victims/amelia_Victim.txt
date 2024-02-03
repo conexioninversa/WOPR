@@ -1,6 +1,5 @@
 52.117.73.18,Windows Server 2012 R2,3389,Remote Desktop Protocol,SoftLayer Technologies Inc.,12.49.7534.ip4.static.sl-reverse.com
 196.52.20.117,Windows Server 2012,3389,Remote Desktop Protocol,African Network Information Center - ( AfriNIC Ltd. ),
-192.142.162.20,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,web20.gkg.net;ns13.gkg.net;winmail.gkg.net
 100.2.41.91,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Verizon Business,static-100-2-41-91.nycmny.fios.verizon.net
 196.52.18.215,Windows Server 2012,3389,Remote Desktop Protocol,African Network Information Center - ( AfriNIC Ltd. ),
 192.142.166.159,Windows Server 2012,3389,Remote Desktop Protocol,LogicWeb Inc.,web53.gkg.net
