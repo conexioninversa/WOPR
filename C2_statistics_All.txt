@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     18
+- VPN     19
 - Proxy   0
-- Hosting 251
+- Hosting 227
 - Tor     0
 - Relay   0
 
@@ -18,17 +18,17 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  17 (5.2%)
 
 Top Usage Types
-- Hosting   250 (76.0%)
-- Business  68 (20.7%)
+- Hosting   222 (67.5%)
+- Business  96 (29.2%)
 - ISP       10 (3.0%)
 - Education 1 (0.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 52 (15.8%)
+- 148.66.6.0/24 (AS45753)    3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.115.128.0/17 (AS37963)  3 (0.9%)
 - 39.106.0.0/15 (AS37963)    3 (0.9%)
-- 148.66.6.0/24 (AS45753)    3 (0.9%)
 
 Top Countries
 - China         73 (22.2%)
@@ -38,28 +38,28 @@ Top Countries
 - Russia        14 (4.3%)
 
 Top Cities
-- Hong Kong, Central and Western, HK 64 (19.5%)
-- Shanghai, Shanghai, CN             21 (6.4%)
-- Beijing, Beijing, CN               18 (5.5%)
-- Singapore, Singapore, SG           13 (4.0%)
-- Shenzhen, Guangdong, CN            13 (4.0%)
+- Hong Kong, Hong Kong, HK 64 (19.5%)
+- Shanghai, Shanghai, CN   21 (6.4%)
+- Beijing, Beijing, CN     18 (5.5%)
+- Shenzhen, Guangdong, CN  13 (4.0%)
+- Singapore, Singapore, SG 13 (4.0%)
 
 Top Regions
-- Central and Western, HK 64 (19.5%)
-- Shanghai, CN            21 (6.4%)
-- Beijing, CN             18 (5.5%)
-- Guangdong, CN           18 (5.5%)
-- California, US          16 (4.9%)
+- Hong Kong, HK  64 (19.5%)
+- Shanghai, CN   21 (6.4%)
+- Beijing, CN    18 (5.5%)
+- Guangdong, CN  18 (5.5%)
+- California, US 16 (4.9%)
 
 Top Privacy Services
 - TunnelBear    3 (0.9%)
+- CactusVPN     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - ProtonVPN     1 (0.3%)
 - SaferVPN      1 (0.3%)
-- CactusVPN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  10 (3.0%)
-- googleusercontent.com 6 (1.8%)
 - contaboserver.net     6 (1.8%)
+- googleusercontent.com 6 (1.8%)
 - colocrossing.com      5 (1.5%)
