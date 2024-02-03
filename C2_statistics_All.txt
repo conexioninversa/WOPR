@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 52 (15.8%)
-- 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.115.128.0/17 (AS37963)  3 (0.9%)
 - 39.106.0.0/15 (AS37963)    3 (0.9%)
 - 148.66.6.0/24 (AS45753)    3 (0.9%)
+- 5.196.0.0/16 (AS16276)     3 (0.9%)
 
 Top Countries
 - China         73 (22.2%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear    3 (0.9%)
+- CactusVPN     1 (0.3%)
 - VuzeVPN Proxy 1 (0.3%)
 - ProtonVPN     1 (0.3%)
 - SaferVPN      1 (0.3%)
-- CactusVPN     1 (0.3%)
 
 Top Domains
 - vultrusercontent.com  10 (3.0%)
