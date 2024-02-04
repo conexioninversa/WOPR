@@ -4,9 +4,9 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     26
+- VPN     27
 - Proxy   0
-- Hosting 245
+- Hosting 246
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  18 (5.5%)
 
 Top Usage Types
-- Hosting   237 (72.7%)
-- Business  74 (22.7%)
+- Hosting   239 (73.3%)
+- Business  72 (22.1%)
 - ISP       13 (4.0%)
 - Education 2 (0.6%)
 
@@ -52,11 +52,11 @@ Top Regions
 - Shanghai, CN   16 (4.9%)
 
 Top Privacy Services
+- TunnelBear   4 (1.2%)
 - VPN Satoshi  3 (0.9%)
-- TunnelBear   3 (0.9%)
 - Troywell VPN 2 (0.6%)
-- Vanished VPN 1 (0.3%)
 - CactusVPN    1 (0.3%)
+- Vanished VPN 1 (0.3%)
 
 Top Domains
 - contaboserver.net     10 (3.1%)
