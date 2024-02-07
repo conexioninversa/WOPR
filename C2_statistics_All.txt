@@ -1,12 +1,12 @@
 Summary
 - Total   322
 - Unique  321
-- Anycast 1
+- Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     19
+- VPN     20
 - Proxy   0
-- Hosting 225
+- Hosting 234
 - Tor     0
 - Relay   0
 
@@ -18,23 +18,23 @@ Top ASNs
 - AS16276 OVH SAS                                           14 (4.3%)
 
 Top Usage Types
-- Hosting  218 (67.7%)
-- Business 89 (27.6%)
+- Hosting  228 (70.8%)
+- Business 79 (24.5%)
 - ISP      14 (4.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 41 (12.7%)
 - 5.196.0.0/16 (AS16276)     6 (1.9%)
 - 47.92.0.0/15 (AS37963)     4 (1.2%)
-- 101.43.0.0/18 (AS45090)    3 (0.9%)
 - 39.106.0.0/15 (AS37963)    3 (0.9%)
+- 101.43.0.0/18 (AS45090)    3 (0.9%)
 
 Top Countries
 - China         76 (23.6%)
 - United States 59 (18.3%)
 - Hong Kong     52 (16.1%)
 - Germany       18 (5.6%)
-- France        16 (5.0%)
+- Russia        17 (5.3%)
 
 Top Cities
 - Hong Kong, Hong Kong, HK 50 (15.5%)
