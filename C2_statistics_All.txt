@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (11.2%)
-- 39.106.0.0/15 (AS37963)    3 (0.9%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
+- 39.106.0.0/15 (AS37963)    3 (0.9%)
 - 81.68.192.0/18 (AS45090)   2 (0.6%)
 - 164.155.208.0/21 (AS54600) 2 (0.6%)
 
@@ -47,8 +47,8 @@ Top Cities
 Top Regions
 - Hong Kong, HK  44 (13.7%)
 - Shanghai, CN   22 (6.9%)
-- California, US 20 (6.2%)
 - Beijing, CN    20 (6.2%)
+- California, US 20 (6.2%)
 - Guangdong, CN  15 (4.7%)
 
 Top Privacy Services
