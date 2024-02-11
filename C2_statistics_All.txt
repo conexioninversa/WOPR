@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     21
+- VPN     22
 - Proxy   0
 - Hosting 239
 - Tor     0
@@ -37,23 +37,23 @@ Top Countries
 - Russia        19 (5.9%)
 
 Top Cities
-- Hong Kong, Hong Kong, HK 42 (13.0%)
+- Hong Kong, Hong Kong, HK 43 (13.3%)
 - Shanghai, Shanghai, CN   23 (7.1%)
 - Beijing, Beijing, CN     23 (7.1%)
-- Shenzhen, Guangdong, CN  11 (3.4%)
 - Moscow, Moscow, RU       11 (3.4%)
+- Shenzhen, Guangdong, CN  11 (3.4%)
 
 Top Regions
-- Hong Kong, HK  42 (13.0%)
+- Hong Kong, HK  43 (13.3%)
 - Shanghai, CN   23 (7.1%)
 - Beijing, CN    23 (7.1%)
 - Guangdong, CN  18 (5.6%)
 - California, US 15 (4.6%)
 
 Top Privacy Services
+- TunnelBear    3 (0.9%)
 - SaferVPN      3 (0.9%)
 - VPN Satoshi   2 (0.6%)
-- TunnelBear    2 (0.6%)
 - VuzeVPN Proxy 2 (0.6%)
 - VPN Jantit    1 (0.3%)
 
