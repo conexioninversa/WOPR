@@ -31,4 +31,3 @@
 121.29.1.98,Windows (build 10.0.17763),3389,Remote Desktop Protocol,China Unicom Hebei province network,
 47.181.78.13,Windows 7 Professional,3389,Remote Desktop Protocol,Frontier Communications of America, Inc.,static-47-181-78-13.lsan.ca.frontiernet.net
 113.160.142.35,Windows (build 10.0.17763),3389,Remote Desktop Protocol,Vietnam Posts and Telecommunications Group,static.vnpt.vn
-185.104.152.242,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Cubenode System SL,
