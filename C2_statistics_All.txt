@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 35 (10.8%)
 - 39.104.0.0/15 (AS37963)    3 (0.9%)
 - 117.72.8.0/21 (AS141679)   3 (0.9%)
-- 47.100.0.0/15 (AS37963)    2 (0.6%)
 - 101.43.0.0/18 (AS45090)    2 (0.6%)
+- 47.100.0.0/15 (AS37963)    2 (0.6%)
 
 Top Countries
 - China         83 (25.7%)
@@ -38,23 +38,23 @@ Top Countries
 
 Top Cities
 - Hong Kong, Hong Kong, HK 43 (13.3%)
-- Shanghai, Shanghai, CN   23 (7.1%)
 - Beijing, Beijing, CN     23 (7.1%)
+- Shanghai, Shanghai, CN   23 (7.1%)
 - Moscow, Moscow, RU       11 (3.4%)
 - Shenzhen, Guangdong, CN  11 (3.4%)
 
 Top Regions
 - Hong Kong, HK  43 (13.3%)
-- Shanghai, CN   23 (7.1%)
 - Beijing, CN    23 (7.1%)
+- Shanghai, CN   23 (7.1%)
 - Guangdong, CN  18 (5.6%)
 - California, US 15 (4.6%)
 
 Top Privacy Services
 - TunnelBear    3 (0.9%)
 - SaferVPN      3 (0.9%)
-- VPN Satoshi   2 (0.6%)
 - VuzeVPN Proxy 2 (0.6%)
+- VPN Satoshi   2 (0.6%)
 - VPN Jantit    1 (0.3%)
 
 Top Domains
