@@ -1,12 +1,12 @@
-104.155.74.148,443,Covenant,Google LLC,148.74.155.104.bc.googleusercontent.com
-167.99.206.136,7443,Covenant,DigitalOcean, LLC,
-193.168.145.73,7443,Covenant,SERVERD SAS,
 47.100.126.235,7443,Covenant,Aliyun Computing Co., LTD,
+167.99.206.136,7443,Covenant,DigitalOcean, LLC,
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
-34.125.64.58,7443,Covenant,Google LLC,58.64.125.34.bc.googleusercontent.com
 35.177.215.200,7443,Covenant,Amazon Data Services UK,ec2-35-177-215-200.eu-west-2.compute.amazonaws.com
-154.16.16.43,7443,Covenant,rack400.com - Netherlands Infrastructure,
+193.168.145.73,7443,Covenant,SERVERD SAS,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+34.125.64.58,7443,Covenant,Google LLC,58.64.125.34.bc.googleusercontent.com
+104.155.74.148,443,Covenant,Google LLC,148.74.155.104.bc.googleusercontent.com
+154.16.16.43,7443,Covenant,rack400.com - Netherlands Infrastructure,
 191.252.214.5,7443,Covenant,Locaweb Serviços de Internet S/A,nosferatu.vps-kinghost.net
 162.0.237.99,7443,Covenant,Namecheap, Inc.,server1.loanlogistic.online
 74.207.149.114,7443,Covenant,SRT Communications, Inc.,114.149.207.74.srtnet.com
