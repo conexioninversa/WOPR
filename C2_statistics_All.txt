@@ -26,8 +26,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 46 (14.3%)
 - 5.196.0.0/16 (AS16276)     3 (0.9%)
 - 47.92.0.0/15 (AS37963)     3 (0.9%)
-- 8.140.0.0/15 (AS37963)     2 (0.6%)
 - 101.35.0.0/18 (AS45090)    2 (0.6%)
+- 8.140.0.0/15 (AS37963)     2 (0.6%)
 
 Top Countries
 - China         76 (23.6%)
@@ -47,8 +47,8 @@ Top Regions
 - Hong Kong, HK  56 (17.4%)
 - Beijing, CN    21 (6.5%)
 - Shanghai, CN   19 (5.9%)
-- California, US 16 (5.0%)
 - Guangdong, CN  16 (5.0%)
+- California, US 16 (5.0%)
 
 Top Privacy Services
 - TunnelBear  3 (0.9%)
