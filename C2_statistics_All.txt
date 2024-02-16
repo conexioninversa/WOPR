@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 47 (14.7%)
-- 39.104.0.0/15 (AS37963)    4 (1.2%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
+- 39.104.0.0/15 (AS37963)    4 (1.2%)
 - 15.205.0.0/16 (AS8987)     2 (0.6%)
 - 101.34.64.0/18 (AS45090)   2 (0.6%)
 
@@ -34,8 +34,8 @@ Top Countries
 - China         83 (25.9%)
 - United States 64 (20.0%)
 - Hong Kong     56 (17.5%)
-- Russia        15 (4.7%)
 - Germany       15 (4.7%)
+- Russia        15 (4.7%)
 
 Top Cities
 - Hong Kong, Hong Kong, HK     55 (17.2%)
@@ -61,5 +61,5 @@ Top Privacy Services
 Top Domains
 - colocrossing.com      9 (2.8%)
 - contaboserver.net     8 (2.5%)
-- googleusercontent.com 4 (1.2%)
 - hwclouds-dns.com      4 (1.2%)
+- googleusercontent.com 4 (1.2%)
