@@ -25,10 +25,10 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 47 (14.7%)
-- 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 39.104.0.0/15 (AS37963)    4 (1.2%)
-- 101.34.64.0/18 (AS45090)   2 (0.6%)
+- 5.196.0.0/16 (AS16276)     4 (1.2%)
 - 15.205.0.0/16 (AS8987)     2 (0.6%)
+- 101.34.64.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - China         83 (25.9%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Hong Kong, HK     55 (17.2%)
 - Beijing, Beijing, CN         25 (7.8%)
 - Shanghai, Shanghai, CN       24 (7.5%)
-- Amsterdam, North Holland, NL 12 (3.8%)
 - Shenzhen, Guangdong, CN      12 (3.8%)
+- Amsterdam, North Holland, NL 12 (3.8%)
 
 Top Regions
 - Hong Kong, HK  55 (17.2%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi     2 (0.6%)
+- Mullvad         1 (0.3%)
 - Free VPN Planet 1 (0.3%)
 - HideIPVpn       1 (0.3%)
 - PureVPN         1 (0.3%)
-- Mullvad         1 (0.3%)
 
 Top Domains
 - colocrossing.com      9 (2.8%)
