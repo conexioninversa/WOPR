@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     15
 - Proxy   0
-- Hosting 227
+- Hosting 215
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  15 (4.7%)
 
 Top Usage Types
-- Hosting   221 (69.1%)
-- Business  84 (26.2%)
+- Hosting   209 (65.3%)
+- Business  96 (30.0%)
 - ISP       13 (4.1%)
 - Education 2 (0.6%)
 
@@ -34,15 +34,15 @@ Top Countries
 - China         83 (25.9%)
 - United States 64 (20.0%)
 - Hong Kong     56 (17.5%)
-- Germany       15 (4.7%)
 - Russia        15 (4.7%)
+- Germany       15 (4.7%)
 
 Top Cities
 - Hong Kong, Hong Kong, HK     55 (17.2%)
 - Beijing, Beijing, CN         25 (7.8%)
 - Shanghai, Shanghai, CN       24 (7.5%)
-- Amsterdam, North Holland, NL 12 (3.8%)
 - Shenzhen, Guangdong, CN      12 (3.8%)
+- Amsterdam, North Holland, NL 11 (3.4%)
 
 Top Regions
 - Hong Kong, HK  55 (17.2%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi     2 (0.6%)
-- PureVPN         1 (0.3%)
-- Mullvad         1 (0.3%)
 - Free VPN Planet 1 (0.3%)
 - HideIPVpn       1 (0.3%)
+- PureVPN         1 (0.3%)
+- Mullvad         1 (0.3%)
 
 Top Domains
 - colocrossing.com      9 (2.8%)
