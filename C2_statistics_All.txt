@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     15
 - Proxy   0
-- Hosting 214
+- Hosting 222
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  15 (4.7%)
 
 Top Usage Types
-- Hosting   209 (65.1%)
-- Business  97 (30.2%)
-- ISP       14 (4.4%)
+- Hosting   219 (68.2%)
+- Business  88 (27.4%)
+- ISP       13 (4.0%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi     2 (0.6%)
+- World VPN       1 (0.3%)
 - PureVPN         1 (0.3%)
 - Free VPN Planet 1 (0.3%)
 - ironsocket      1 (0.3%)
-- World VPN       1 (0.3%)
 
 Top Domains
 - colocrossing.com      7 (2.2%)
