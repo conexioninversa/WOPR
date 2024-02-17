@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 41 (12.8%)
 - 5.196.0.0/16 (AS16276)     4 (1.2%)
-- 162.14.64.0/18 (AS45090)   2 (0.6%)
 - 81.70.0.0/18 (AS45090)     2 (0.6%)
 - 124.223.192.0/18 (AS45090) 2 (0.6%)
+- 162.14.64.0/18 (AS45090)   2 (0.6%)
 
 Top Countries
 - China         83 (25.9%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi     2 (0.6%)
-- PureVPN         1 (0.3%)
-- Free VPN Planet 1 (0.3%)
 - ironsocket      1 (0.3%)
 - World VPN       1 (0.3%)
+- PureVPN         1 (0.3%)
+- Free VPN Planet 1 (0.3%)
 
 Top Domains
 - colocrossing.com      7 (2.2%)
