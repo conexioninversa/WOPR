@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     18
 - Proxy   0
-- Hosting 242
+- Hosting 238
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             10 (3.2%)
 
 Top Usage Types
-- Hosting  240 (75.9%)
-- Business 65 (20.6%)
-- ISP      10 (3.2%)
+- Hosting  236 (74.7%)
+- Business 68 (21.5%)
+- ISP      11 (3.5%)
 
 Top Routes
 - 68.183.96.0/20 (AS14061)   48 (15.2%)
@@ -38,24 +38,24 @@ Top Countries
 
 Top Cities
 - North Bergen, New Jersey, US 52 (16.5%)
-- Hong Kong, Hong Kong, HK     46 (14.6%)
+- Hong Kong, Hong Kong, HK     45 (14.2%)
 - Shanghai, Shanghai, CN       14 (4.4%)
 - Amsterdam, North Holland, NL 11 (3.5%)
 - Frankfurt am Main, Hesse, DE 10 (3.2%)
 
 Top Regions
 - New Jersey, US    57 (18.0%)
-- Hong Kong, HK     46 (14.6%)
+- Hong Kong, HK     45 (14.2%)
 - California, US    19 (6.0%)
 - Shanghai, CN      14 (4.4%)
 - North Holland, NL 11 (3.5%)
 
 Top Privacy Services
-- Best Proxy Switcher 1 (0.3%)
 - VPN Jantit          1 (0.3%)
 - SaferVPN            1 (0.3%)
 - BulletVPN           1 (0.3%)
 - CactusVPN           1 (0.3%)
+- Best Proxy Switcher 1 (0.3%)
 
 Top Domains
 - colocrossing.com  8 (2.5%)
