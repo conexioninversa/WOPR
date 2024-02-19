@@ -27,8 +27,8 @@ Top Routes
 - 68.183.96.0/20 (AS14061)   62 (19.7%)
 - 154.215.16.0/21 (AS139471) 35 (11.1%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
-- 47.115.128.0/17 (AS37963)  2 (0.6%)
 - 47.96.0.0/16 (AS37963)     2 (0.6%)
+- 47.115.128.0/17 (AS37963)  2 (0.6%)
 
 Top Countries
 - United States 122 (38.7%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - colocrossing.com      7 (2.2%)
-- hwclouds-dns.com      6 (1.9%)
 - contaboserver.net     6 (1.9%)
+- hwclouds-dns.com      6 (1.9%)
 - googleusercontent.com 5 (1.6%)
