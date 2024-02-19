@@ -27,8 +27,8 @@ Top Routes
 - 68.183.96.0/20 (AS14061)   62 (19.7%)
 - 154.215.16.0/21 (AS139471) 35 (11.1%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
-- 47.115.128.0/17 (AS37963)  2 (0.6%)
 - 47.96.0.0/16 (AS37963)     2 (0.6%)
+- 47.115.128.0/17 (AS37963)  2 (0.6%)
 
 Top Countries
 - United States 122 (38.7%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - VPN Satoshi     3 (1.0%)
 - VuzeVPN Proxy   2 (0.6%)
+- ironsocket      1 (0.3%)
 - Free VPN Planet 1 (0.3%)
 - Mullvad         1 (0.3%)
-- ironsocket      1 (0.3%)
 
 Top Domains
 - colocrossing.com      7 (2.2%)
