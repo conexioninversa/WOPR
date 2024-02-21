@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 68.183.96.0/20 (AS14061)   58 (18.6%)
 - 154.215.16.0/21 (AS139471) 44 (14.1%)
+- 124.223.192.0/18 (AS45090) 2 (0.6%)
 - 39.96.0.0/14 (AS37963)     2 (0.6%)
 - 114.132.192.0/18 (AS45090) 2 (0.6%)
-- 124.223.192.0/18 (AS45090) 2 (0.6%)
 
 Top Countries
 - United States 120 (38.6%)
@@ -53,10 +53,10 @@ Top Regions
 
 Top Privacy Services
 - VPN Satoshi  3 (1.0%)
-- Troywell VPN 2 (0.6%)
 - SaferVPN     2 (0.6%)
-- SwitchVPN    1 (0.3%)
+- Troywell VPN 2 (0.6%)
 - Mullvad      1 (0.3%)
+- SwitchVPN    1 (0.3%)
 
 Top Domains
 - contaboserver.net     9 (2.9%)
