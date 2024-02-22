@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 53 (16.9%)
 - 68.183.96.0/20 (AS14061)   34 (10.8%)
-- 164.155.208.0/21 (AS54600) 3 (1.0%)
 - 69.46.32.0/20 (AS19528)    3 (1.0%)
 - 5.196.0.0/16 (AS16276)     3 (1.0%)
+- 164.155.208.0/21 (AS54600) 3 (1.0%)
 
 Top Countries
 - United States 94 (29.9%)
@@ -48,8 +48,8 @@ Top Regions
 - Hong Kong, HK  58 (18.5%)
 - New Jersey, US 38 (12.1%)
 - California, US 19 (6.1%)
-- Shanghai, CN   16 (5.1%)
 - Beijing, CN    16 (5.1%)
+- Shanghai, CN   16 (5.1%)
 
 Top Privacy Services
 - SaferVPN   1 (0.3%)
