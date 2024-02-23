@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (4.1%)
 
 Top Usage Types
-- Hosting  220 (69.4%)
-- Business 86 (27.1%)
+- Hosting  229 (72.2%)
+- Business 77 (24.3%)
 - ISP      11 (3.5%)
 
 Top Routes
@@ -47,8 +47,8 @@ Top Regions
 - Hong Kong, HK  45 (14.2%)
 - New Jersey, US 31 (9.8%)
 - Beijing, CN    24 (7.6%)
-- California, US 16 (5.0%)
 - Shanghai, CN   16 (5.0%)
+- California, US 15 (4.7%)
 
 Top Privacy Services
 - TunnelBear    5 (1.6%)
@@ -59,6 +59,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net     6 (1.9%)
-- colocrossing.com      5 (1.6%)
 - googleusercontent.com 5 (1.6%)
 - hwclouds-dns.com      5 (1.6%)
+- colocrossing.com      5 (1.6%)
