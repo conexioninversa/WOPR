@@ -48,15 +48,15 @@ Top Regions
 - Hong Kong, HK  58 (18.5%)
 - New Jersey, US 38 (12.1%)
 - California, US 19 (6.1%)
-- Beijing, CN    16 (5.1%)
 - Shanghai, CN   16 (5.1%)
+- Beijing, CN    16 (5.1%)
 
 Top Privacy Services
 - TunnelBear 5 (1.6%)
-- PrivadoVPN 1 (0.3%)
-- HideIPVpn  1 (0.3%)
 - SaferVPN   1 (0.3%)
 - Mullvad    1 (0.3%)
+- PrivadoVPN 1 (0.3%)
+- HideIPVpn  1 (0.3%)
 
 Top Domains
 - contaboserver.net     6 (1.9%)
