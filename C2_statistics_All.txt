@@ -31,8 +31,8 @@ Top Routes
 - 8.218.128.0/17 (AS45102)   2 (0.6%)
 
 Top Countries
-- United States 70 (22.0%)
 - China         70 (22.0%)
+- United States 70 (22.0%)
 - Hong Kong     50 (15.7%)
 - Germany       21 (6.6%)
 - Russia        15 (4.7%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Hong Kong, HK 50 (15.7%)
 - Beijing, Beijing, CN     21 (6.6%)
 - Shanghai, Shanghai, CN   17 (5.3%)
-- Singapore, Singapore, SG 12 (3.8%)
 - Shenzhen, Guangdong, CN  12 (3.8%)
+- Singapore, Singapore, SG 12 (3.8%)
 
 Top Regions
 - Hong Kong, HK  50 (15.7%)
@@ -55,8 +55,8 @@ Top Privacy Services
 - TunnelBear      9 (2.8%)
 - PrivadoVPN      2 (0.6%)
 - Free VPN Planet 2 (0.6%)
-- TorGuard        1 (0.3%)
 - VPN Jantit      1 (0.3%)
+- TorGuard        1 (0.3%)
 
 Top Domains
 - contaboserver.net     11 (3.5%)
