@@ -27,4 +27,3 @@
 121.40.192.99,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,Aliyun Computing Co., LTD,
 101.227.57.116,Windows (build 10.0.14393),3389,Remote Desktop Protocol,CHINANET SHANGHAI PROVINCE NETWORK,
 192.227.123.170,,3389,Remote Desktop Protocol,Cloud South,192.227.123.170.hosted.at.cloudsouth.com
-154.53.45.68,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Contabo Inc,vmi1509016.contaboserver.net
