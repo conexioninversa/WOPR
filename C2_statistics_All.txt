@@ -25,8 +25,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 40 (12.5%)
-- 88.214.25.0/24 (AS29551)   4 (1.2%)
 - 69.46.32.0/20 (AS19528)    4 (1.2%)
+- 88.214.25.0/24 (AS29551)   4 (1.2%)
 - 43.139.128.0/18 (AS45090)  3 (0.9%)
 - 39.106.0.0/15 (AS37963)    3 (0.9%)
 
@@ -53,13 +53,13 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear   8 (2.5%)
-- SaferVPN     2 (0.6%)
 - Troywell VPN 2 (0.6%)
 - VPN Jantit   2 (0.6%)
 - VPN Satoshi  2 (0.6%)
+- SaferVPN     2 (0.6%)
 
 Top Domains
 - colocrossing.com      8 (2.5%)
 - contaboserver.net     6 (1.9%)
-- your-server.de        4 (1.2%)
 - googleusercontent.com 4 (1.2%)
+- your-server.de        4 (1.2%)
