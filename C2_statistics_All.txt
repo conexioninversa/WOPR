@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     22
 - Proxy   0
-- Hosting 219
+- Hosting 217
 - Tor     0
 - Relay   0
 
@@ -18,14 +18,14 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  13 (4.3%)
 
 Top Usage Types
-- Hosting  211 (70.3%)
-- Business 73 (24.3%)
-- ISP      15 (5.0%)
+- Hosting  210 (70.0%)
+- Business 75 (25.0%)
+- ISP      14 (4.7%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 34 (11.3%)
-- 164.155.208.0/21 (AS54600) 4 (1.3%)
 - 69.46.32.0/20 (AS19528)    4 (1.3%)
+- 164.155.208.0/21 (AS54600) 4 (1.3%)
 - 39.104.0.0/15 (AS37963)    3 (1.0%)
 - 39.106.0.0/15 (AS37963)    3 (1.0%)
 
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear      6 (2.0%)
 - Free VPN Planet 2 (0.7%)
-- CactusVPN       1 (0.3%)
-- VPN Satoshi     1 (0.3%)
+- ZoogVPN         1 (0.3%)
 - SaferVPN        1 (0.3%)
+- CactusVPN       1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com  10 (3.3%)
