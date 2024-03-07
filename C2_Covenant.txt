@@ -1,12 +1,13 @@
+35.233.38.208,443,Covenant,Google LLC,208.38.233.35.bc.googleusercontent.com
 5.188.86.214,7443,Covenant,pool for VPS and Cloud hosting,
-3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
-128.199.116.190,7443,,DigitalOcean, LLC,
-15.235.167.60,7443,Covenant,OVH Singapore PTE. LTD,vps-25a7112d.vps.ovh.ca
-34.125.64.58,7443,Covenant,Google LLC,58.64.125.34.bc.googleusercontent.com
-13.52.244.83,7443,Covenant,Amazon.com, Inc.,ec2-13-52-244-83.us-west-1.compute.amazonaws.com
-47.100.126.235,7443,Covenant,Aliyun Computing Co., LTD,
-104.155.74.148,443,Covenant,Google LLC,148.74.155.104.bc.googleusercontent.com
 150.136.90.238,7443,Covenant,Oracle Public Cloud,
+34.125.64.58,7443,Covenant,Google LLC,58.64.125.34.bc.googleusercontent.com
+3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+47.100.126.235,7443,Covenant,Aliyun Computing Co., LTD,
+15.235.167.60,7443,Covenant,OVH Singapore PTE. LTD,vps-25a7112d.vps.ovh.ca
+128.199.116.190,7443,,DigitalOcean, LLC,
+13.52.244.83,7443,Covenant,Amazon.com, Inc.,ec2-13-52-244-83.us-west-1.compute.amazonaws.com
+104.155.74.148,443,Covenant,Google LLC,148.74.155.104.bc.googleusercontent.com
 109.123.240.37,7443,Covenant,Contabo GmbH,vmi1503982.contaboserver.net
 193.168.145.73,7443,Covenant,SERVERD SAS,
 193.149.180.213,7443,Covenant,BL Networks GB,
