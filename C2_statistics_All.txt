@@ -24,8 +24,8 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 42 (13.3%)
-- 69.46.32.0/20 (AS19528)    4 (1.3%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
+- 69.46.32.0/20 (AS19528)    4 (1.3%)
 - 115.159.50.0/23 (AS45090)  2 (0.6%)
 - 83.97.20.0/24 (AS9009)     2 (0.6%)
 
@@ -47,8 +47,8 @@ Top Regions
 - Hong Kong, HK     47 (14.9%)
 - Shanghai, CN      25 (7.9%)
 - Beijing, CN       23 (7.3%)
-- North Holland, NL 13 (4.1%)
 - California, US    13 (4.1%)
+- North Holland, NL 13 (4.1%)
 
 Top Privacy Services
 - TunnelBear   9 (2.8%)
