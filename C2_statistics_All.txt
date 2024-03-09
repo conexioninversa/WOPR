@@ -24,10 +24,10 @@ Top Usage Types
 
 Top Routes
 - 69.46.32.0/20 (AS19528)   4 (1.9%)
+- 106.54.192.0/18 (AS45090) 2 (0.9%)
 - 159.89.176.0/20 (AS14061) 2 (0.9%)
 - 43.138.64.0/18 (AS45090)  2 (0.9%)
 - 20.64.0.0/10 (AS8075)     2 (0.9%)
-- 106.54.192.0/18 (AS45090) 2 (0.9%)
 
 Top Countries
 - China         63 (29.2%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear 9 (4.2%)
 - PrivadoVPN 2 (0.9%)
-- ZoogVPN    1 (0.5%)
 - HideIPVpn  1 (0.5%)
 - CactusVPN  1 (0.5%)
+- ZoogVPN    1 (0.5%)
 
 Top Domains
 - hwclouds-dns.com      7 (3.2%)
