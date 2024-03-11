@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 45 (14.4%)
 - 69.46.32.0/20 (AS19528)    4 (1.3%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
-- 124.223.192.0/18 (AS45090) 3 (1.0%)
 - 20.48.0.0/12 (AS8075)      3 (1.0%)
+- 124.223.192.0/18 (AS45090) 3 (1.0%)
 
 Top Countries
 - China         74 (23.6%)
@@ -54,9 +54,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear 7 (2.2%)
 - SaferVPN   2 (0.6%)
+- HideIPVpn  1 (0.3%)
 - PureVPN    1 (0.3%)
 - ZoogVPN    1 (0.3%)
-- HideIPVpn  1 (0.3%)
 
 Top Domains
 - contaboserver.net     9 (2.9%)
