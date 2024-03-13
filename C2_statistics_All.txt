@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 51 (16.2%)
+- 39.96.0.0/14 (AS37963)     4 (1.3%)
 - 69.46.32.0/20 (AS19528)    4 (1.3%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
-- 39.96.0.0/14 (AS37963)     4 (1.3%)
 - 47.94.0.0/15 (AS37963)     3 (1.0%)
 
 Top Countries
@@ -48,15 +48,15 @@ Top Regions
 - Hong Kong, HK     56 (17.8%)
 - Shanghai, CN      25 (8.0%)
 - Beijing, CN       22 (7.0%)
-- California, US    13 (4.1%)
 - North Holland, NL 13 (4.1%)
+- California, US    13 (4.1%)
 
 Top Privacy Services
 - TunnelBear 8 (2.5%)
-- CactusVPN  1 (0.3%)
-- teklan     1 (0.3%)
 - ZoogVPN    1 (0.3%)
 - SaferVPN   1 (0.3%)
+- CactusVPN  1 (0.3%)
+- teklan     1 (0.3%)
 
 Top Domains
 - contaboserver.net     8 (2.5%)
