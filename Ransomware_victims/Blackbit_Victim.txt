@@ -15,6 +15,3 @@
 74.91.116.59,Windows Server 2012,3389,Remote Desktop Protocol,Nuclearfallout Enterprises, Inc.,v-74-91-116-59.unman-vds.inap-nyc.nfoservers.com
 210.245.94.133,Windows Server 2012 R2,3389,Remote Desktop Protocol,FPT Telecom Company,webmail94-133.vmms.vn
 89.29.122.96,Windows Server 2012 R2,3389,Remote Desktop Protocol,PODA a.s.,ip96.net-wings.eu
-189.36.30.22,Windows Server 2012,3389,Remote Desktop Protocol,UOL DIVEO S.A.,
-74.50.72.166,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Host Department NJ, LLC,
-213.202.255.116,Windows (build 10.0.14393),3389,Remote Desktop Protocol,myLoc managed IT AG,vps1790516.dedi.server-hosting.expert
