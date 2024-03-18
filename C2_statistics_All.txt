@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 43 (14.1%)
 - 69.46.32.0/20 (AS19528)    4 (1.3%)
 - 124.223.192.0/18 (AS45090) 3 (1.0%)
-- 39.106.0.0/15 (AS37963)    2 (0.7%)
 - 1.14.64.0/18 (AS45090)     2 (0.7%)
+- 39.106.0.0/15 (AS37963)    2 (0.7%)
 
 Top Countries
 - China         73 (23.9%)
@@ -41,8 +41,8 @@ Top Cities
 - Hong Kong, Hong Kong, HK     50 (16.3%)
 - Shanghai, Shanghai, CN       25 (8.2%)
 - Beijing, Beijing, CN         18 (5.9%)
-- Singapore, Singapore, SG     13 (4.2%)
 - Amsterdam, North Holland, NL 13 (4.2%)
+- Singapore, Singapore, SG     13 (4.2%)
 
 Top Regions
 - Hong Kong, HK 50 (16.3%)
@@ -54,12 +54,12 @@ Top Regions
 Top Privacy Services
 - TunnelBear          6 (2.0%)
 - PrivadoVPN          2 (0.7%)
-- VuzeVPN Proxy       1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
 - CactusVPN           1 (0.3%)
+- VuzeVPN Proxy       1 (0.3%)
 
 Top Domains
+- contaboserver.net     6 (2.0%)
 - colocrossing.com      6 (2.0%)
 - googleusercontent.com 6 (2.0%)
-- contaboserver.net     6 (2.0%)
 - bytegrid.com          4 (1.3%)
