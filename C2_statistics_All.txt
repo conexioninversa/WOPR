@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     21
+- VPN     22
 - Proxy   0
 - Hosting 238
 - Tor     0
@@ -41,22 +41,22 @@ Top Cities
 - Hong Kong, Hong Kong, HK     50 (16.3%)
 - Shanghai, Shanghai, CN       25 (8.2%)
 - Beijing, Beijing, CN         18 (5.9%)
-- Amsterdam, North Holland, NL 13 (4.2%)
 - Singapore, Singapore, SG     13 (4.2%)
+- Amsterdam, North Holland, NL 13 (4.2%)
 
 Top Regions
 - Hong Kong, HK 50 (16.3%)
 - Shanghai, CN  25 (8.2%)
 - Beijing, CN   18 (5.9%)
-- Guangdong, CN 13 (4.2%)
 - Singapore, SG 13 (4.2%)
+- Guangdong, CN 13 (4.2%)
 
 Top Privacy Services
-- TunnelBear          6 (2.0%)
-- PrivadoVPN          2 (0.7%)
+- TunnelBear          7 (2.3%)
+- CactusVPN           1 (0.3%)
+- Mullvad             1 (0.3%)
 - VuzeVPN Proxy       1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
-- CactusVPN           1 (0.3%)
 
 Top Domains
 - googleusercontent.com 6 (2.0%)
