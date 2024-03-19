@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting   239 (75.4%)
-- Business  67 (21.1%)
-- ISP       8 (2.5%)
+- Business  66 (20.8%)
+- ISP       9 (2.8%)
 - Education 1 (0.3%)
 
 Top Routes
@@ -54,12 +54,12 @@ Top Regions
 Top Privacy Services
 - TunnelBear 6 (1.9%)
 - SaferVPN   3 (0.9%)
+- CactusVPN  1 (0.3%)
 - ZoogVPN    1 (0.3%)
 - ironsocket 1 (0.3%)
-- CactusVPN  1 (0.3%)
 
 Top Domains
-- colocrossing.com      8 (2.5%)
 - contaboserver.net     8 (2.5%)
 - your-server.de        8 (2.5%)
+- colocrossing.com      8 (2.5%)
 - googleusercontent.com 4 (1.3%)
