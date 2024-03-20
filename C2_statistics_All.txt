@@ -1,65 +1,65 @@
 Summary
-- Total   317
+- Total   315
 - Unique  312
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     23
+- VPN     21
 - Proxy   0
-- Hosting 241
+- Hosting 244
 - Tor     0
 - Relay   0
 
 Top ASNs
-- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              48 (15.1%)
-- AS45090 Shenzhen Tencent Computer Systems Company Limited 38 (12.0%)
-- AS14061 DigitalOcean, LLC                                 30 (9.5%)
-- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             30 (9.5%)
-- AS16509 Amazon.com, Inc.                                  11 (3.5%)
+- AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (12.1%)
+- AS45090 Shenzhen Tencent Computer Systems Company Limited 31 (9.8%)
+- AS14061 DigitalOcean, LLC                                 29 (9.2%)
+- AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             25 (7.9%)
+- AS45102 Alibaba (US) Technology Co., Ltd.                 10 (3.2%)
 
 Top Usage Types
-- Hosting   239 (75.4%)
-- Business  66 (20.8%)
-- ISP       9 (2.8%)
-- Education 1 (0.3%)
+- Hosting   242 (76.8%)
+- Business  58 (18.4%)
+- ISP       13 (4.1%)
+- Education 2 (0.6%)
 
 Top Routes
-- 154.215.16.0/21 (AS139471) 48 (15.1%)
+- 154.215.16.0/21 (AS139471) 38 (12.1%)
+- 5.196.0.0/16 (AS16276)     5 (1.6%)
 - 69.46.32.0/20 (AS19528)    4 (1.3%)
-- 38.0.0.0/8 (AS174)         3 (0.9%)
-- 65.109.0.0/16 (AS24940)    3 (0.9%)
-- 20.48.0.0/12 (AS8075)      3 (0.9%)
+- 20.64.0.0/10 (AS8075)      3 (1.0%)
+- 8.212.0.0/18 (AS45102)     3 (1.0%)
 
 Top Countries
-- China         75 (23.7%)
-- Hong Kong     59 (18.6%)
-- United States 51 (16.1%)
-- Germany       22 (6.9%)
-- Netherlands   16 (5.0%)
+- China         66 (21.0%)
+- United States 54 (17.1%)
+- Hong Kong     52 (16.5%)
+- Germany       24 (7.6%)
+- Russia        18 (5.7%)
 
 Top Cities
-- Hong Kong, Hong Kong, HK     56 (17.7%)
-- Beijing, Beijing, CN         27 (8.5%)
-- Shanghai, Shanghai, CN       19 (6.0%)
-- Amsterdam, North Holland, NL 16 (5.0%)
-- Shenzhen, Guangdong, CN      10 (3.2%)
+- Hong Kong, Hong Kong, HK     48 (15.2%)
+- Beijing, Beijing, CN         23 (7.3%)
+- Shanghai, Shanghai, CN       18 (5.7%)
+- Amsterdam, North Holland, NL 15 (4.8%)
+- Singapore, Singapore, SG     13 (4.1%)
 
 Top Regions
-- Hong Kong, HK     56 (17.7%)
-- Beijing, CN       27 (8.5%)
-- Shanghai, CN      19 (6.0%)
-- North Holland, NL 16 (5.0%)
-- Guangdong, CN     13 (4.1%)
+- Hong Kong, HK     48 (15.2%)
+- Beijing, CN       23 (7.3%)
+- Shanghai, CN      18 (5.7%)
+- North Holland, NL 15 (4.8%)
+- Hesse, DE         14 (4.4%)
 
 Top Privacy Services
-- TunnelBear 6 (1.9%)
-- SaferVPN   3 (0.9%)
-- ZoogVPN    1 (0.3%)
-- ironsocket 1 (0.3%)
-- CactusVPN  1 (0.3%)
+- TunnelBear          6 (1.9%)
+- VuzeVPN Proxy       1 (0.3%)
+- SaferVPN            1 (0.3%)
+- Mullvad             1 (0.3%)
+- Best Proxy Switcher 1 (0.3%)
 
 Top Domains
-- contaboserver.net     8 (2.5%)
-- your-server.de        8 (2.5%)
-- colocrossing.com      8 (2.5%)
-- googleusercontent.com 4 (1.3%)
+- contaboserver.net    9 (2.9%)
+- colocrossing.com     5 (1.6%)
+- your-server.de       5 (1.6%)
+- vultrusercontent.com 4 (1.3%)
