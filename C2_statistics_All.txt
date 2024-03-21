@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     24
 - Proxy   0
-- Hosting 230
+- Hosting 250
 - Tor     0
 - Relay   0
 
@@ -40,26 +40,26 @@ Top Countries
 Top Cities
 - Hong Kong, Hong Kong, HK     47 (14.8%)
 - Shanghai, Shanghai, CN       26 (8.2%)
-- Beijing, Beijing, CN         20 (6.3%)
-- Amsterdam, North Holland, NL 18 (5.7%)
-- Shenzhen, Guangdong, CN      12 (3.8%)
+- Beijing, Beijing, CN         21 (6.6%)
+- Amsterdam, North Holland, NL 17 (5.3%)
+- Shenzhen, Guangdong, CN      13 (4.1%)
 
 Top Regions
 - Hong Kong, HK     47 (14.8%)
 - Shanghai, CN      26 (8.2%)
-- Beijing, CN       20 (6.3%)
-- North Holland, NL 18 (5.7%)
+- Beijing, CN       21 (6.6%)
+- North Holland, NL 17 (5.3%)
 - Guangdong, CN     14 (4.4%)
 
 Top Privacy Services
 - TunnelBear          5 (1.6%)
 - SaferVPN            2 (0.6%)
-- VPN Jantit          1 (0.3%)
 - CactusVPN           1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
+- VPN Jantit          1 (0.3%)
 
 Top Domains
 - contaboserver.net     7 (2.2%)
+- your-server.de        5 (1.6%)
 - colocrossing.com      5 (1.6%)
 - googleusercontent.com 5 (1.6%)
-- your-server.de        5 (1.6%)
