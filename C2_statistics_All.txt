@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     22
+- VPN     21
 - Proxy   0
 - Hosting 243
 - Tor     0
@@ -40,18 +40,18 @@ Top Cities
 - Hong Kong, Hong Kong, HK     50 (15.9%)
 - Beijing, Beijing, CN         21 (6.7%)
 - Shanghai, Shanghai, CN       17 (5.4%)
-- Frankfurt am Main, Hesse, DE 14 (4.4%)
+- Frankfurt am Main, Hesse, DE 15 (4.8%)
 - Amsterdam, North Holland, NL 14 (4.4%)
 
 Top Regions
 - Hong Kong, HK     50 (15.9%)
 - Beijing, CN       21 (6.7%)
-- Shanghai, CN      17 (5.4%)
 - Hesse, DE         17 (5.4%)
+- Shanghai, CN      17 (5.4%)
 - North Holland, NL 14 (4.4%)
 
 Top Privacy Services
-- TunnelBear          7 (2.2%)
+- TunnelBear          6 (1.9%)
 - VPN Jantit          1 (0.3%)
 - vpnasia             1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
