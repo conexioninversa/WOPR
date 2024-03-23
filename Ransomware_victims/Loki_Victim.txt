@@ -1,5 +1,4 @@
 82.223.135.205,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,arsys.es,205.135.223.82.arsystel.com
-2.58.82.215,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Contabo GmbH,vmi1083264.contaboserver.net
 191.34.75.151,Windows (build 10.0.19041),3389,Remote Desktop Protocol,TELEFÔNICA BRASIL S.A,191.34.75.151.static.gvt.net.br
 216.48.190.220,Windows (build 10.0.14393),3389,Remote Desktop Protocol,E2E Networks Private Limited,e2e-107-220.ssdcloudindia.net
 187.86.56.236,Windows (build 10.0.19041),3389,Remote Desktop Protocol,Opcao Telecom,236.56.86.187.dynamic.opcaonet.com.br
