@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (4.1%)
 
 Top Usage Types
-- Hosting  213 (67.8%)
-- Business 92 (29.3%)
+- Hosting  244 (77.7%)
+- Business 61 (19.4%)
 - ISP      8 (2.5%)
 
 Top Routes
@@ -38,8 +38,8 @@ Top Countries
 
 Top Cities
 - Hong Kong, Hong Kong, HK     52 (16.6%)
-- Shanghai, Shanghai, CN       17 (5.4%)
 - Beijing, Beijing, CN         17 (5.4%)
+- Shanghai, Shanghai, CN       17 (5.4%)
 - Amsterdam, North Holland, NL 16 (5.1%)
 - Moscow, Moscow, RU           13 (4.1%)
 
@@ -51,11 +51,11 @@ Top Regions
 - Hesse, DE         13 (4.1%)
 
 Top Privacy Services
-- TunnelBear  5 (1.6%)
-- teklan      1 (0.3%)
-- Getflix VPN 1 (0.3%)
-- ZoogVPN     1 (0.3%)
-- SaferVPN    1 (0.3%)
+- TunnelBear      5 (1.6%)
+- SaferVPN        1 (0.3%)
+- teklan          1 (0.3%)
+- Smart DNS Proxy 1 (0.3%)
+- ZoogVPN         1 (0.3%)
 
 Top Domains
 - colocrossing.com      8 (2.5%)
