@@ -12,8 +12,8 @@ Summary
 
 Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              38 (12.3%)
-- AS14061 DigitalOcean, LLC                                 29 (9.4%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 29 (9.4%)
+- AS14061 DigitalOcean, LLC                                 29 (9.4%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             27 (8.7%)
 - AS55990 Huawei Cloud Service data center                  11 (3.6%)
 
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear      5 (1.6%)
-- SaferVPN        2 (0.6%)
 - PrivadoVPN      2 (0.6%)
+- SaferVPN        2 (0.6%)
 - Free VPN Planet 1 (0.3%)
 - TorGuard        1 (0.3%)
 
