@@ -27,8 +27,8 @@ Top Routes
 - 154.215.16.0/21 (AS139471) 38 (12.3%)
 - 5.196.0.0/16 (AS16276)     4 (1.3%)
 - 38.0.0.0/8 (AS174)         3 (1.0%)
-- 121.40.0.0/15 (AS37963)    2 (0.6%)
 - 39.96.0.0/14 (AS37963)     2 (0.6%)
+- 121.40.0.0/15 (AS37963)    2 (0.6%)
 
 Top Countries
 - China         71 (23.0%)
@@ -53,8 +53,8 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear      5 (1.6%)
-- PrivadoVPN      2 (0.6%)
 - SaferVPN        2 (0.6%)
+- PrivadoVPN      2 (0.6%)
 - Free VPN Planet 1 (0.3%)
 - TorGuard        1 (0.3%)
 
