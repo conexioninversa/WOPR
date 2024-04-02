@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 48 (15.9%)
 - 38.0.0.0/8 (AS174)         4 (1.3%)
+- 47.100.0.0/15 (AS37963)    3 (1.0%)
 - 124.223.192.0/18 (AS45090) 3 (1.0%)
 - 39.106.0.0/15 (AS37963)    3 (1.0%)
-- 47.100.0.0/15 (AS37963)    3 (1.0%)
 
 Top Countries
 - China         70 (23.3%)
@@ -54,8 +54,8 @@ Top Privacy Services
 - TunnelBear   2 (0.7%)
 - PrivadoVPN   2 (0.7%)
 - Troywell VPN 2 (0.7%)
-- TorGuard     1 (0.3%)
 - SaferVPN     1 (0.3%)
+- TorGuard     1 (0.3%)
 
 Top Domains
 - contaboserver.net     7 (2.3%)
