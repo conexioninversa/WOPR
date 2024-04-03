@@ -1,11 +1,11 @@
-150.136.90.238,7443,Covenant,Oracle Public Cloud,
 88.119.174.117,7443,Covenant,Informacines sistemos ir technologijos, UAB,21562-37208.bacloud.info
-47.116.25.208,7443,Covenant,Aliyun Computing Co., LTD,
-35.233.38.208,443,Covenant,Google LLC,208.38.233.35.bc.googleusercontent.com
-5.188.86.214,7443,Covenant,pool for VPS and Cloud hosting,
-15.235.167.60,7443,Covenant,OVH Singapore PTE. LTD,vps-25a7112d.vps.ovh.ca
 47.100.126.235,7443,Covenant,Aliyun Computing Co., LTD,
 3.67.204.148,7443,Covenant,A100 ROW GmbH,ec2-3-67-204-148.eu-central-1.compute.amazonaws.com
+150.136.90.238,7443,Covenant,Oracle Public Cloud,
+5.188.86.214,7443,Covenant,pool for VPS and Cloud hosting,
+47.116.25.208,7443,Covenant,Aliyun Computing Co., LTD,
+15.235.167.60,7443,Covenant,OVH Singapore PTE. LTD,vps-25a7112d.vps.ovh.ca
+35.233.38.208,443,Covenant,Google LLC,208.38.233.35.bc.googleusercontent.com
 13.52.244.83,7443,Covenant,Amazon.com, Inc.,ec2-13-52-244-83.us-west-1.compute.amazonaws.com
 5.206.224.58,7443,Covenant,Dotsi, Unipessoal Lda.,lovemoneycrew
 128.199.116.190,7443,,DigitalOcean, LLC,
