@@ -4,7 +4,7 @@ Summary
 - Anycast 0
 - Bogon   0
 - Mobile  0
-- VPN     17
+- VPN     19
 - Proxy   0
 - Hosting 224
 - Tor     0
@@ -18,17 +18,17 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (4.7%)
 
 Top Usage Types
-- Hosting   223 (74.1%)
-- Business  68 (22.6%)
+- Hosting   224 (74.4%)
+- Business  67 (22.3%)
 - ISP       8 (2.7%)
 - Education 1 (0.3%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 50 (16.6%)
 - 47.96.0.0/16 (AS37963)     3 (1.0%)
+- 111.229.128.0/18 (AS45090) 2 (0.7%)
 - 47.105.0.0/16 (AS37963)    2 (0.7%)
 - 164.155.128.0/19 (AS54600) 2 (0.7%)
-- 111.229.128.0/18 (AS45090) 2 (0.7%)
 
 Top Countries
 - China         69 (22.9%)
@@ -52,11 +52,11 @@ Top Regions
 - North Holland, NL 13 (4.3%)
 
 Top Privacy Services
-- TunnelBear          2 (0.7%)
-- ironsocket          1 (0.3%)
+- TunnelBear          4 (1.3%)
 - Best Proxy Switcher 1 (0.3%)
 - TorGuard            1 (0.3%)
 - CactusVPN           1 (0.3%)
+- ironsocket          1 (0.3%)
 
 Top Domains
 - contaboserver.net     10 (3.3%)
