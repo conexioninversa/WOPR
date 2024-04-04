@@ -5,4 +5,3 @@
 147.102.178.161,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,National Technical University of Athens,
 185.241.208.110,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,1337 Services GmbH,
 193.169.245.69,Windows Server 2012,3389,Remote Desktop Protocol,Zemlyaniy Dmitro Leonidovich,193.169.245.69.deltahost-ptr
-193.26.115.232,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,1337 Services GmbH,193.26.115.232.powered.by.rdp.sh
