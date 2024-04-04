@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     20
 - Proxy   0
-- Hosting 224
+- Hosting 220
 - Tor     0
 - Relay   0
 
@@ -18,8 +18,8 @@ Top ASNs
 - AS16276 OVH SAS                                           13 (4.3%)
 
 Top Usage Types
-- Hosting   224 (73.7%)
-- Business  63 (20.7%)
+- Hosting   219 (72.0%)
+- Business  68 (22.4%)
 - ISP       15 (4.9%)
 - Education 1 (0.3%)
 
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net     10 (3.3%)
-- hwclouds-dns.com      6 (2.0%)
 - googleusercontent.com 6 (2.0%)
+- hwclouds-dns.com      6 (2.0%)
 - your-server.de        5 (1.6%)
