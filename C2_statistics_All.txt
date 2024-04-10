@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     23
 - Proxy   0
-- Hosting 245
+- Hosting 244
 - Tor     0
 - Relay   0
 
@@ -19,8 +19,8 @@ Top ASNs
 
 Top Usage Types
 - Hosting  244 (80.3%)
-- Business 50 (16.4%)
-- ISP      10 (3.3%)
+- Business 51 (16.8%)
+- ISP      9 (3.0%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 36 (11.8%)
@@ -51,11 +51,11 @@ Top Regions
 - North Holland, NL 16 (5.3%)
 
 Top Privacy Services
-- TunnelBear   7 (2.3%)
-- Troywell VPN 2 (0.7%)
-- ZoogVPN      2 (0.7%)
-- World VPN    2 (0.7%)
-- VPNArea      1 (0.3%)
+- TunnelBear      7 (2.3%)
+- World VPN       2 (0.7%)
+- Troywell VPN    2 (0.7%)
+- Free VPN Planet 1 (0.3%)
+- VPNArea         1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com      12 (3.9%)
