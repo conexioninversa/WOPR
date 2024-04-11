@@ -3,4 +3,3 @@
 100.2.41.91,,3389,Remote Desktop Protocol,Verizon Business,static-100-2-41-91.nycmny.fios.verizon.net
 164.68.123.25,Windows (build 10.0.14393),3389,Remote Desktop Protocol,Contabo GmbH,vmd42846.contaboserver.net
 196.52.16.215,Windows Server 2012,3389,Remote Desktop Protocol,African Network Information Center - ( AfriNIC Ltd. ),
-196.52.18.20,Windows Server 2012,3389,Remote Desktop Protocol,African Network Information Center - ( AfriNIC Ltd. ),
