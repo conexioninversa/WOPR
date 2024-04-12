@@ -13,8 +13,8 @@ Summary
 Top ASNs
 - AS139471 HWA CENT TELECOMMUNICATIONS LIMITED              48 (16.6%)
 - AS45090 Shenzhen Tencent Computer Systems Company Limited 29 (10.0%)
-- AS14061 DigitalOcean, LLC                                 23 (8.0%)
 - AS37963 Hangzhou Alibaba Advertising Co.,Ltd.             23 (8.0%)
+- AS14061 DigitalOcean, LLC                                 23 (8.0%)
 - AS16509 Amazon.com, Inc.                                  13 (4.5%)
 
 Top Usage Types
@@ -55,10 +55,10 @@ Top Carriers
 
 Top Privacy Services
 - TunnelBear 5 (1.7%)
-- CactusVPN  1 (0.3%)
-- TorGuard   1 (0.3%)
 - ZoogVPN    1 (0.3%)
 - World VPN  1 (0.3%)
+- CactusVPN  1 (0.3%)
+- TorGuard   1 (0.3%)
 
 Top Domains
 - hwclouds-dns.com  8 (2.8%)
