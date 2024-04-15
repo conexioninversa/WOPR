@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     17
 - Proxy   0
-- Hosting 214
+- Hosting 213
 - Tor     0
 - Relay   0
 
@@ -18,9 +18,9 @@ Top ASNs
 - AS16509 Amazon.com, Inc.                                  14 (4.8%)
 
 Top Usage Types
-- Hosting  211 (73.0%)
-- Business 63 (21.8%)
-- ISP      14 (4.8%)
+- Hosting  210 (72.7%)
+- Business 65 (22.5%)
+- ISP      13 (4.5%)
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 44 (15.2%)
@@ -53,9 +53,9 @@ Top Regions
 Top Privacy Services
 - TunnelBear          4 (1.4%)
 - VPN Jantit          2 (0.7%)
+- Mullvad             1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
 - ZoogVPN             1 (0.3%)
-- Mullvad             1 (0.3%)
 
 Top Domains
 - contaboserver.net     8 (2.8%)
