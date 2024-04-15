@@ -26,9 +26,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 49 (17.0%)
 - 47.100.0.0/15 (AS37963)    3 (1.0%)
+- 115.159.50.0/23 (AS45090)  2 (0.7%)
 - 20.64.0.0/10 (AS8075)      2 (0.7%)
 - 175.27.160.0/19 (AS45090)  2 (0.7%)
-- 115.159.50.0/23 (AS45090)  2 (0.7%)
 
 Top Countries
 - China         64 (22.1%)
@@ -60,6 +60,6 @@ Top Privacy Services
 
 Top Domains
 - contaboserver.net 7 (2.4%)
-- your-server.de    6 (2.1%)
 - hwclouds-dns.com  6 (2.1%)
+- your-server.de    6 (2.1%)
 - colocrossing.com  5 (1.7%)
