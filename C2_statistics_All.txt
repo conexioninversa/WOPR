@@ -25,9 +25,9 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 47 (16.2%)
 - 119.45.160.0/20 (AS45090)  3 (1.0%)
+- 5.42.64.0/22 (AS210352)    2 (0.7%)
 - 47.98.0.0/15 (AS37963)     2 (0.7%)
 - 81.19.136.0/24 (AS209272)  2 (0.7%)
-- 5.42.64.0/22 (AS210352)    2 (0.7%)
 
 Top Countries
 - Hong Kong     66 (22.8%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear          4 (1.4%)
-- TorGuard            1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
 - Mullvad             1 (0.3%)
 - SaferVPN            1 (0.3%)
+- TorGuard            1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (4.1%)
