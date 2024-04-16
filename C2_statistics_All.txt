@@ -6,7 +6,7 @@ Summary
 - Mobile  0
 - VPN     20
 - Proxy   0
-- Hosting 214
+- Hosting 215
 - Tor     0
 - Relay   0
 
@@ -25,37 +25,37 @@ Top Usage Types
 Top Routes
 - 154.215.16.0/21 (AS139471) 47 (16.2%)
 - 119.45.160.0/20 (AS45090)  3 (1.0%)
+- 5.42.64.0/22 (AS210352)    2 (0.7%)
 - 47.98.0.0/15 (AS37963)     2 (0.7%)
 - 81.19.136.0/24 (AS209272)  2 (0.7%)
-- 5.42.64.0/22 (AS210352)    2 (0.7%)
 
 Top Countries
 - Hong Kong     66 (22.8%)
 - China         64 (22.1%)
-- United States 49 (16.9%)
+- United States 52 (17.9%)
 - Germany       23 (7.9%)
-- Netherlands   17 (5.9%)
+- Netherlands   16 (5.5%)
 
 Top Cities
-- Hong Kong, Hong Kong, HK     64 (22.1%)
+- Hong Kong, Hong Kong, HK     63 (21.7%)
 - Shanghai, Shanghai, CN       20 (6.9%)
-- Amsterdam, North Holland, NL 15 (5.2%)
-- Beijing, Beijing, CN         12 (4.1%)
+- Amsterdam, North Holland, NL 16 (5.5%)
 - Frankfurt am Main, Hesse, DE 12 (4.1%)
+- Beijing, Beijing, CN         10 (3.4%)
 
 Top Regions
-- Hong Kong, HK     64 (22.1%)
+- Hong Kong, HK     63 (21.7%)
 - Shanghai, CN      20 (6.9%)
-- North Holland, NL 15 (5.2%)
+- North Holland, NL 16 (5.5%)
 - Hesse, DE         13 (4.5%)
 - Guangdong, CN     12 (4.1%)
 
 Top Privacy Services
 - TunnelBear          4 (1.4%)
+- SaferVPN            1 (0.3%)
+- TorGuard            1 (0.3%)
 - Best Proxy Switcher 1 (0.3%)
 - Mullvad             1 (0.3%)
-- vpnasia             1 (0.3%)
-- TorGuard            1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (4.1%)
