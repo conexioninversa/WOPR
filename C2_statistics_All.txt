@@ -40,8 +40,8 @@ Top Cities
 - Hong Kong, Hong Kong, HK     64 (22.1%)
 - Shanghai, Shanghai, CN       20 (6.9%)
 - Amsterdam, North Holland, NL 15 (5.2%)
-- Beijing, Beijing, CN         12 (4.1%)
 - Frankfurt am Main, Hesse, DE 12 (4.1%)
+- Beijing, Beijing, CN         12 (4.1%)
 
 Top Regions
 - Hong Kong, HK     64 (22.1%)
@@ -52,10 +52,10 @@ Top Regions
 
 Top Privacy Services
 - TunnelBear          4 (1.4%)
-- Best Proxy Switcher 1 (0.3%)
 - Mullvad             1 (0.3%)
 - vpnasia             1 (0.3%)
 - TorGuard            1 (0.3%)
+- Best Proxy Switcher 1 (0.3%)
 
 Top Domains
 - contaboserver.net     12 (4.1%)
