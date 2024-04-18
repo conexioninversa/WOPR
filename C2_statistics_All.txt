@@ -25,9 +25,9 @@ Top Usage Types
 
 Top Routes
 - 154.215.16.0/21 (AS139471) 48 (16.8%)
+- 5.188.86.0/24 (AS49453)    3 (1.0%)
 - 172.96.166.0/24 (AS63018)  3 (1.0%)
 - 43.138.64.0/18 (AS45090)   3 (1.0%)
-- 5.188.86.0/24 (AS49453)    3 (1.0%)
 - 83.97.73.0/24 (AS208312)   2 (0.7%)
 
 Top Countries
@@ -52,8 +52,8 @@ Top Regions
 - Beijing, CN    15 (5.2%)
 
 Top Privacy Services
-- TunnelBear          3 (1.0%)
 - World VPN           3 (1.0%)
+- TunnelBear          3 (1.0%)
 - Best Proxy Switcher 2 (0.7%)
 - VuzeVPN Proxy       1 (0.3%)
 - ProtonVPN           1 (0.3%)
@@ -61,5 +61,5 @@ Top Privacy Services
 Top Domains
 - contaboserver.net     9 (3.1%)
 - your-server.de        6 (2.1%)
-- vultrusercontent.com  4 (1.4%)
 - googleusercontent.com 4 (1.4%)
+- vultrusercontent.com  4 (1.4%)
