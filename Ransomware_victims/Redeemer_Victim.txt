@@ -2,7 +2,6 @@
 78.29.122.181,Windows 7 Ultimate,3389,Remote Desktop Protocol,Network of Saratov branch of OJSC Volgatelecom,PPPoE-78-29-122-181.san.ru
 213.230.67.56,Windows 7 Ultimate,3389,Remote Desktop Protocol,Uzbektelekom Joint Stock Company,mail.iad.gov.uz
 193.26.115.59,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,1337 Services GmbH,193.26.115.59.powered.by.rdp.sh
-45.88.186.62,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,1337 Services GmbH,
 193.26.115.72,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,1337 Services GmbH,193.26.115.72.powered.by.rdp.sh
 43.133.62.214,Windows Server 2022 (build 10.0.20348),3389,Remote Desktop Protocol,Asia Pacific Network Information Center, Pty. Ltd.,
 147.102.178.161,Windows Server 2008 R2 Standard,3389,Remote Desktop Protocol,National Technical University of Athens,
